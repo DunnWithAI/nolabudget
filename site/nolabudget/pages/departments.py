@@ -99,6 +99,7 @@ def build_dept(site, b, d, py, fy):
     pos_fig = None
     pos_years = [y for y in years if any(b.positions(dept, y, bs) is not None for bs in ("adopted", "proposed"))]
     pos_notes = []
+    pos_now = b.positions(dept, py, "proposed")
     if pos_years:
         span = list(range(min(pos_years), py + 1))
         series = [
@@ -111,11 +112,11 @@ def build_dept(site, b, d, py, fy):
             b, "positions", d["name"], "Budgeted positions (full-time equivalents)", span, series,
             tick=lambda v: fmt.number(v), cellf=lambda v: fmt.number(v, 2 if v != int(v) else 0),
             tipf=lambda v: fmt.number(v, 1 if v != int(v) else 0) + " positions")
-        pos_notes.append("Position counts are the least reliable figures on this site: books count them differently from year to year, and a budgeted position may be empty.")
+        pos_notes.append("Books count positions differently from year to year, and a budgeted position may be empty.")
         if 2018 in span:
-            pos_notes.append("The 2018 book printed the same position counts in every column, so its figures for 2017 and 2018 may not show the change between those years.")
+            pos_notes.append("The 2018 book printed the same counts in every column, so 2017 to 2018 may not show a real change.")
         if d["group"] == "Enterprise bodies":
-            pos_notes.append("Position counts for enterprise bodies such as this one are unreliable: some books count their staff and some do not.")
+            pos_notes.append("Some books count the staff of enterprise bodies such as this one and some do not.")
 
     # What the money is spent on. Each table also gets a split bar of its largest rows.
     bd = detail.breakdowns(b, dept)
@@ -262,7 +263,7 @@ def build_dept(site, b, d, py, fy):
               fig=fig, share_fig=share_fig, pos_fig=pos_fig, pos_notes=pos_notes, bd=bd, tables=tables,
               page_notes=page_notes, numbered=numbered, sections=sections, see=see, last_year=last_year,
               nordc=nordc, py=py, fy=fy, gf_new=gf_new, gf_old=gf_old, gf_share=gf_share, fund_split=fund_split,
-              inside=inside, staff=staff, cmp=cmp,
+              inside=inside, staff=staff, cmp=cmp, pos_now=pos_now,
               change=fmt.change(gf_new, gf_old) if gf_new is not None and gf_old is not None else "")
 
 
