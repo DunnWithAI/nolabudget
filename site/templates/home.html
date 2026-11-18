@@ -1,0 +1,201 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}The Mayor's proposed {{ py }} budget for the City of New Orleans spends {{ head.gf_new|money }} from the General Fund. Where the money comes from and where it goes, in plain words.{% endblock %}
+{% block structured_data %}
+{% set author = {"@type": "Person", "name": site.author, "url": site.author_url} %}
+{{ m.ld({"@context": "https://schema.org", "@type": "WebSite", "name": site.name, "url": site.base_url ~ "/",
+         "description": site.tagline, "inLanguage": "en-US", "author": author, "publisher": author}) }}
+{% endblock %}
+{% block content %}
+<header class="lede">
+  <div class="hero-grid">
+    <div class="hero-copy">
+      <h1>The City of New Orleans budget</h1>
+      <p class="hero-label">The Mayor's proposed budget for {{ py }}</p>
+      <p class="hero" data-count="{{ head.all_new }}">{{ head.all_new|money_hero }}</p>
+      <p class="lead">The <strong>General Fund</strong>, the part the Mayor and City Council decide how to spend, is {{ head.gf_new|money }}. That is {{ head.gf_diff|abs|money }} {{ 'less' if head.gf_diff < 0 else 'more' }} than the {{ head.gf_now|money }} in force for {{ fy }}.</p>
+      <div class="stat-row">
+        {{ m.resident_stat(head.gf_new, py, "General Fund spending per resident in " ~ py) }}
+      </div>
+      {{ m.resident_note(py) }}
+    </div>
+    <aside class="receipt" aria-labelledby="receipt-h" data-receipt>
+      <p class="receipt-top">City of New Orleans · {{ py }} proposal</p>
+      <h2 id="receipt-h" class="receipt-h">Where every $100 of the General Fund goes</h2>
+      <ol class="receipt-lines">
+      {% for r in receipt %}
+        <li style="--i: {{ loop.index0 }}"><a href="{{ r.url }}"><span class="receipt-name">{{ r.name }}</span><span class="receipt-dots" aria-hidden="true"></span><span class="receipt-amt">${{ r.per100 }}</span></a></li>
+      {% endfor %}
+      </ol>
+      <p class="receipt-total" style="--i: {{ receipt|length }}"><span>Total</span><span class="receipt-dots" aria-hidden="true"></span><span>$100</span></p>
+      <p class="receipt-foot">Rounded to whole dollars. <a href="/departments/">See every department</a></p>
+    </aside>
+  </div>
+  {{ m.split_bar(fund_split, "The proposed " ~ py ~ " budget, " ~ head.all_new|money, unit="share") }}
+  <p>Other funds are grants and money that can only go to one purpose. <a href="#general-fund">Why this site starts with the General Fund</a>.</p>
+  {{ m.source(fund_cites) }}
+</header>
+
+<section class="block" aria-labelledby="comes-from">
+  <h2 id="comes-from">{{ income_split[0].name }} and {{ income_split[1].name|lower }} bring in the most General Fund money</h2>
+  {{ m.split_bar(income_split, "General Fund income in the " ~ py ~ " proposal") }}
+  <details class="more">
+    <summary>Show all {{ income|length }} kinds of income</summary>
+  <ol class="ledger">
+  {% for i in income %}
+    <li>
+      <div class="ledger-row">
+        <a class="ledger-name" href="{{ i.url }}">{{ i.name }}</a>
+        <span class="ledger-amt">{{ i.amount|money }}</span>
+        <span class="ledger-pct">{{ i.share|share }}</span>
+      </div>
+      {{ m.bar(i.share) }}
+      <p class="ledger-text">{{ i.text }}</p>
+    </li>
+  {% endfor %}
+  </ol>
+  <p class="ledger-total"><span>Total income</span><span class="ledger-amt">{{ rev_total|money }}</span></p>
+  </details>
+  {{ m.source([rev_cite]) }}
+</section>
+
+<section class="block" aria-labelledby="different">
+  <h2 id="different">The largest increases and decreases in {{ py }}</h2>
+  <p>A change can be new spending, a cut or work moved between departments. The budget book does not always say which.</p>
+  <figure class="diverge" data-animate>
+    <figcaption class="vh">The five largest General Fund increases and decreases, {{ fy }} to {{ py }}</figcaption>
+    <div class="diverge-head" aria-hidden="true"><span></span><span>Less money</span><span>More money</span></div>
+    <ul>
+    {% for r in change_bars %}
+      <li class="diverge-row {{ 'up' if r.diff > 0 else 'down' }}" style="--i: {{ loop.index0 }}">
+        <a class="diverge-name" href="{{ r.dept.url }}">{{ r.dept.name }}</a>
+        <span class="diverge-track"><span class="diverge-bar" style="width: {{ '%.1f'|format(r.width * 100) }}%"></span></span>
+        <span class="diverge-amt">{{ 'up' if r.diff > 0 else 'down' }} {{ r.diff|abs|money }}<span class="diverge-to">, to {{ r.new|money }}</span></span>
+      </li>
+    {% endfor %}
+    </ul>
+  </figure>
+  {{ m.source([table_cites[1]] + spend_cites, note="Changes are calculated from these.") }}
+  <p><a href="/changes/">See the change for every department</a></p>
+</section>
+
+<section class="block" aria-labelledby="steps">
+  <h2 id="steps">The Mayor proposes, the City Council decides</h2>
+  <p class="sub">Today ({{ site.as_of }}), the {{ py }} budget is at step {{ stage_num }} of 4.</p>
+  <ol class="steps" data-animate>
+  {% for st in steps %}
+    <li style="--i: {{ loop.index0 }}" class="step step-{{ st.state }}"{% if st.state == "now" %} aria-current="step"{% endif %}>
+      <span class="step-num" aria-hidden="true">{{ loop.index }}</span>
+      <p class="step-when">{{ st.when }}{% if st.state == "now" %} <strong class="here">We are here</strong>{% elif st.state == "done" %} <span class="vh">(done)</span>{% endif %}</p>
+      <h3>{{ st.title }}</h3>
+    </li>
+  {% endfor %}
+  </ol>
+  <p><a href="/budgets/{{ fy }}/">See the {{ fy }} budget now in force</a></p>
+</section>
+
+<section class="block" aria-labelledby="over-time">
+  <h2 id="over-time">Every budget since {{ site.first_year }}</h2>
+  <p class="sub">What the Council adopted each year, and what was actually spent.</p>
+  {{ m.figure(fig) }}
+  {{ m.source_ref("each year's figures, with the book and page they come from, are on", "/budgets/", "that year's page") }}
+  <details class="more" id="budgets">
+    <summary>Show each year since {{ rows[0].year }} in a table</summary>
+  <p class="phone-note">On a phone this table leaves out the change from year to year. A wider screen shows it.</p>
+  <div class="table-scroll">
+  <table class="data years brief">
+    <caption class="vh">City of New Orleans budgets since {{ rows[0].year }}, in millions of dollars</caption>
+    <thead>
+      <tr>
+        <th scope="col">Year</th>
+        <th scope="col" class="num">General Fund</th>
+        <th scope="col" class="num">All funds</th>
+        <th scope="col" class="num">Change in General Fund</th>
+        <th scope="col" class="num">Actually spent, General Fund</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for r in rows|reverse %}
+      <tr{% if r.year in (py, fy) %} class="current"{% endif %}>
+        <th scope="row"><a href="/budgets/{{ r.year }}/">{{ r.label }}</a>{{ m.refs(r.notes, numbered) }}</th>
+        {{ m.num(r.gf|millions) }}
+        {{ m.num(r.all|millions) }}
+        {% if r.change is none %}{{ m.num(none) }}{% else %}<td class="num">{{ 'up' if r.change > 0 else 'down' }} {{ r.change|abs|pct }}</td>{% endif %}
+        {{ m.num(r.actual|millions) }}
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p class="table-note">Budgets as adopted by the City Council ({{ py }}: as proposed by the Mayor), in millions of dollars, not adjusted for inflation. Change compares each General Fund budget with the one before it. Actual spending is printed two years later, so the latest year with actual figures is {{ rows|selectattr('actual')|map(attribute='year')|max }}. A dash means the figure is not printed.</p>
+  {{ m.footnotes(page_notes) }}
+  {{ m.source(table_cites, "Sources for the latest two years") }}
+  <p class="source">Each year's page lists its own sources.</p>
+  </details>
+</section>
+
+<section class="block" aria-labelledby="general-fund">
+  <h2 id="general-fund">Why this site starts with the General Fund</h2>
+  <p>The General Fund is the money the Mayor and City Council decide how to spend. Other funds are budgeted at the most the city might receive, and much less is usually spent.</p>
+  {{ m.per100_stat(explain.other_spent / explain.other_budgeted, "of every $100 budgeted from other funds in " ~ explain.year ~ " was spent: " ~ explain.other_spent|money ~ " of " ~ explain.other_budgeted|money ~ ".") }}
+  {{ m.source(explain.cites|select|list, note="The share is calculated from these.") }}
+</section>
+
+<section class="block" aria-labelledby="find">
+  <h2 id="find">Find a department</h2>
+  <div class="finder" data-finder hidden>
+    <label for="finder-input">Search departments</label>
+    <input id="finder-input" type="search" autocomplete="off" placeholder="For example: police, trash, library">
+  </div>
+  <div class="dept-groups">
+  {% for g in groups %}
+    <div class="dept-group">
+      <h3>{{ g.name }}</h3>
+      <ul>
+      {% for d in g.depts %}<li data-search="{{ (d.name ~ ' ' ~ d.short)|lower }}"><a href="{{ d.url }}">{{ d.name }}</a></li>{% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+  </div>
+  <p class="finder-empty" hidden>No department matches. Try a shorter word, or <a href="/departments/">see the full list</a>.</p>
+</section>
+
+<section class="block src-exempt" aria-labelledby="words">
+  <h2 id="words">Words the budget uses</h2>
+  <details class="more">
+    <summary>Show {{ glossary|length }} terms</summary>
+  <dl class="glossary">
+  {% for g in glossary %}
+    <div id="term-{{ g.id }}"><dt>{{ g.term }}</dt><dd>{{ g.text }}</dd></div>
+  {% endfor %}
+  </dl>
+  </details>
+</section>
+
+<section class="block" aria-labelledby="questions">
+  <h2 id="questions">Common questions</h2>
+  {# Each answer is written once and used twice: on the page and in the FAQPage data
+     below, so the two always match (checks.py compares them). #}
+  {% set a1 %}The Mayor's proposal for {{ py }} spends {{ head.gf_new|money }} from the General Fund, or {{ head.all_new|money }} counting all funds. The {{ fy }} budget now in force is {{ head.gf_now|money }} from the General Fund and {{ head.all_now|money }} in all. Spread across the {{ budget.population(py)|number }} people who lived in Orleans Parish in {{ budget.last_pop_year }}, the proposed General Fund is about {{ (head.gf_new / budget.population(py))|money }} per resident.{% endset %}
+  {% set a2 %}In the {{ py }} proposal, {{ income[0].share|pct(0) }} of General Fund income comes from {{ income[0].name|lower }}, {{ income[1].share|pct(0) }} from {{ income[1].name|lower }} and {{ income[2].share|pct(0) }} from {{ income[2].name|lower }}. The rest comes from licenses and permits, other taxes, state aid, fines and other income. <a href="/revenue/">See all income</a>.{% endset %}
+  {% set a3 %}The Mayor proposes a budget each fall. The City Council adopts it, and must do so by December 1 for the year that starts in January. The Mayor's {{ py }} proposal is now before the Council. Until a new budget is adopted, the {{ fy }} budget is the one in force.{% endset %}
+  {% set a4 %}Grants and restricted money are budgeted at the most the city might receive. In {{ explain.year }}, {{ explain.other_budgeted|money }} was budgeted from those funds and {{ explain.other_spent|money }} was spent. That is why this site leads with the General Fund. <a href="#general-fund">More on this</a>.{% endset %}
+  {% set a5 %}From the city's own budget books, {{ site.first_year }} to {{ py }}. Each page shows the book and page its figures come from. <a href="/about/">How the data was read, and its limits</a>.{% endset %}
+  {% set questions = [
+    ("How big is the city's budget?", a1),
+    ("Where does the money come from?", a2),
+    ("Who decides, and when?", a3),
+    ("Why is \"all funds\" so much bigger than what gets spent?", a4),
+    ("Where do these numbers come from?", a5)] %}
+  <div class="qa">
+  {% for q, a in questions %}
+    <details class="more">
+      <summary>{{ q }}</summary>
+      <p>{{ a }}</p>
+    </details>
+  {% endfor %}
+  </div>
+  <p class="source">Sources: the figures in these answers are the ones shown, with their sources, in the sections above.</p>
+</section>
+{{ m.ld({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": faq_ld(questions)}) }}
+{% endblock %}

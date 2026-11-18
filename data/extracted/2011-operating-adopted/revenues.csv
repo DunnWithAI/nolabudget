@@ -1,0 +1,464 @@
+book_id,fiscal_year,basis,fund_group,fund_name,category,line_name,amount,page
+2011-operating-adopted,2004,actual,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CURRENT,27336711,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CURRENT,29461654,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CURRENT,31091650,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CURRENT,24254517,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CURRENT,27072422,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CURRENT,27495845,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CURRENT,26606233,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CURRENT,39478948,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CITY SVCS,300,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,PROPERTY TAXES,REAL/PERSONAL PROPERTY-CITY SVCS,2133403,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,PROPERTY TAXES,PRIOR YEAR PROPERTY,1484587,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,PROPERTY TAXES,PRIOR YEAR PROPERTY,2756802,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,PROPERTY TAXES,PRIOR YEAR PROPERTY,5626129,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,PROPERTY TAXES,PRIOR YEAR PROPERTY,7404038,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,PROPERTY TAXES,PRIOR YEAR PROPERTY,3192284,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,PROPERTY TAXES,POLICE / FIRE DEDICATED MILLS,37186540,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,PROPERTY TAXES,POLICE / FIRE DEDICATED MILLS,38157461,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,PROPERTY TAXES,POLICE / FIRE DEDICATED MILLS,27733069,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,PROPERTY TAXES,POLICE / FIRE DEDICATED MILLS,29577769,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,PROPERTY TAXES,POLICE / FIRE DEDICATED MILLS,30768573,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,PROPERTY TAXES,POLICE / FIRE DEDICATED MILLS,31697222,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,PROPERTY TAXES,POLICE / FIRE DEDICATED MILLS,38688171,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,PROPERTY TAXES,POLICE / FIRE DEDICATED MILLS,47257317,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,PROPERTY TAXES,NORD DEDICATED 1.5 MILLS,2756039,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,PROPERTY TAXES,NORD DEDICATED 1.5 MILLS,2917576,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,PROPERTY TAXES,NORD DEDICATED 1.5 MILLS,1784093,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,PROPERTY TAXES,NORD DEDICATED 1.5 MILLS,2805938,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,PROPERTY TAXES,NORD DEDICATED 1.5 MILLS,2195029,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,PROPERTY TAXES,NORD DEDICATED 1.5 MILLS,2444120,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,PROPERTY TAXES,NORD DEDICATED 1.5 MILLS,2672885,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,PROPERTY TAXES,NORD DEDICATED 1.5 MILLS,3740666,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,PROPERTY TAXES,PARKWAY DEDICATED 1.5 MILLS,2756039,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,PROPERTY TAXES,PARKWAY DEDICATED 1.5 MILLS,2917576,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,PROPERTY TAXES,PARKWAY DEDICATED 1.5 MILLS,1780406,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,PROPERTY TAXES,PARKWAY DEDICATED 1.5 MILLS,2805938,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,PROPERTY TAXES,PARKWAY DEDICATED 1.5 MILLS,2195029,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,PROPERTY TAXES,PARKWAY DEDICATED 1.5 MILLS,2444120,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,PROPERTY TAXES,PARKWAY DEDICATED 1.5 MILLS,2672885,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,PROPERTY TAXES,PARKWAY DEDICATED 1.5 MILLS,3740666,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,PROPERTY TAXES,STREETS DEDICATED 1.9 MILLS,3490786,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,PROPERTY TAXES,STREETS DEDICATED 1.9 MILLS,3696599,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,PROPERTY TAXES,STREETS DEDICATED 1.9 MILLS,2251454,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,PROPERTY TAXES,STREETS DEDICATED 1.9 MILLS,3583339,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,PROPERTY TAXES,STREETS DEDICATED 1.9 MILLS,2779140,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,PROPERTY TAXES,STREETS DEDICATED 1.9 MILLS,3094403,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,PROPERTY TAXES,STREETS DEDICATED 1.9 MILLS,3384018,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,PROPERTY TAXES,STREETS DEDICATED 1.9 MILLS,4735908,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,PROPERTY TAXES,INTEREST & PENALTIES,5092069,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,PROPERTY TAXES,INTEREST & PENALTIES,5947292,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,PROPERTY TAXES,INTEREST & PENALTIES,3856437,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,PROPERTY TAXES,INTEREST & PENALTIES,13138669,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,PROPERTY TAXES,INTEREST & PENALTIES,5923603,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,PROPERTY TAXES,INTEREST & PENALTIES,11993534,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,PROPERTY TAXES,INTEREST & PENALTIES,6169402,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,PROPERTY TAXES,INTEREST & PENALTIES,6329402,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,Other Taxes,SALES TAX,150694273,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,Other Taxes,SALES TAX,116127910,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,Other Taxes,SALES TAX,124137028,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,Other Taxes,SALES TAX,135611237,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,Other Taxes,SALES TAX,137580626,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,Other Taxes,SALES TAX,133867940,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,Other Taxes,SALES TAX,148612151,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,Other Taxes,SALES TAX,145046603,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,Other Taxes,BEER & WINE TAX,600400,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,Other Taxes,BEER & WINE TAX,432449,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,Other Taxes,BEER & WINE TAX,229488,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,Other Taxes,BEER & WINE TAX,596786,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,Other Taxes,BEER & WINE TAX,329036,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,Other Taxes,BEER & WINE TAX,558809,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,Other Taxes,BEER & WINE TAX,450000,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,Other Taxes,BEER & WINE TAX,601563,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,Other Taxes,PARKING TAX,3517055,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,Other Taxes,PARKING TAX,2175086,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,Other Taxes,PARKING TAX,2309159,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,Other Taxes,PARKING TAX,2325756,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,Other Taxes,PARKING TAX,2490377,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,Other Taxes,PARKING TAX,2990215,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,Other Taxes,PARKING TAX,3511378,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,Other Taxes,PARKING TAX,3759046,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,Other Taxes,DOCUMENT. TRANSACTION TAX,7298365,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,Other Taxes,DOCUMENT. TRANSACTION TAX,4682996,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,Other Taxes,DOCUMENT. TRANSACTION TAX,4606512,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,Other Taxes,DOCUMENT. TRANSACTION TAX,6233783,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,Other Taxes,DOCUMENT. TRANSACTION TAX,5852978,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,Other Taxes,DOCUMENT. TRANSACTION TAX,4315598,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,Other Taxes,DOCUMENT. TRANSACTION TAX,4000000,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,Other Taxes,DOCUMENT. TRANSACTION TAX,4401058,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,Other Taxes,CHAIN STORE TAX,194181,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,Other Taxes,CHAIN STORE TAX,211126,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,Other Taxes,CHAIN STORE TAX,92404,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,Other Taxes,CHAIN STORE TAX,114211,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,Other Taxes,CHAIN STORE TAX,194332,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,Other Taxes,CHAIN STORE TAX,103265,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,Other Taxes,CHAIN STORE TAX,100000,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,Other Taxes,CHAIN STORE TAX,115384,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,Other Taxes,AMUSEMENT TAX,-31534,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,Other Taxes,AMUSEMENT TAX,435,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,Other Taxes,AMUSEMENT TAX,24955,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,Other Taxes,OFF TRACK BETTING/RACING TAX,1139852,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,Other Taxes,OFF TRACK BETTING/RACING TAX,323134,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,Other Taxes,OFF TRACK BETTING/RACING TAX,78633,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,Other Taxes,OFF TRACK BETTING/RACING TAX,445949,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,Other Taxes,OFF TRACK BETTING/RACING TAX,402274,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,Other Taxes,OFF TRACK BETTING/RACING TAX,406833,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,Other Taxes,OFF TRACK BETTING/RACING TAX,450000,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,Other Taxes,OFF TRACK BETTING/RACING TAX,450000,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,Other Taxes,UTILITY TAX,10817870,59
+2011-operating-adopted,2005,actual,general_fund,General Fund,Other Taxes,UTILITY TAX,8326329,59
+2011-operating-adopted,2006,actual,general_fund,General Fund,Other Taxes,UTILITY TAX,7053144,59
+2011-operating-adopted,2007,actual,general_fund,General Fund,Other Taxes,UTILITY TAX,9076685,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,Other Taxes,UTILITY TAX,10058791,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,Other Taxes,UTILITY TAX,9358212,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,Other Taxes,UTILITY TAX,11254372,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,Other Taxes,UTILITY TAX,11186691,59
+2011-operating-adopted,2008,actual,general_fund,General Fund,Other Taxes,FAIRGROUND SLOT MACHINE 4% TAX,999739,59
+2011-operating-adopted,2009,actual,general_fund,General Fund,Other Taxes,FAIRGROUND SLOT MACHINE 4% TAX,1473254,59
+2011-operating-adopted,2010,adopted,general_fund,General Fund,Other Taxes,FAIRGROUND SLOT MACHINE 4% TAX,1654552,59
+2011-operating-adopted,2011,adopted,general_fund,General Fund,Other Taxes,FAIRGROUND SLOT MACHINE 4% TAX,1467418,59
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,ALCOHOLIC BEVERAGE,1868832,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,ALCOHOLIC BEVERAGE,1288971,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,ALCOHOLIC BEVERAGE,1315035,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,ALCOHOLIC BEVERAGE,1280630,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,ALCOHOLIC BEVERAGE,1410135,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,ALCOHOLIC BEVERAGE,1451389,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,ALCOHOLIC BEVERAGE,1533363,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,ALCOHOLIC BEVERAGE,1493446,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,CABLE TV FRANCHISE,3911107,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,CABLE TV FRANCHISE,2744253,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,CABLE TV FRANCHISE,1778518,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,CABLE TV FRANCHISE,2369872,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,CABLE TV FRANCHISE,2790658,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,CABLE TV FRANCHISE,3373280,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,CABLE TV FRANCHISE,3425677,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,CABLE TV FRANCHISE,4145393,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,ENTERGY FRANCHISE,31119932,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,ENTERGY FRANCHISE,24051802,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,ENTERGY FRANCHISE,26512703,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,ENTERGY FRANCHISE,28665997,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,ENTERGY FRANCHISE,32687519,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,ENTERGY FRANCHISE,28061447,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,ENTERGY FRANCHISE,35165426,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,ENTERGY FRANCHISE,34986169,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,TELEPHONE FRANCHISE,6255554,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,TELEPHONE FRANCHISE,5869457,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,TELEPHONE FRANCHISE,6289813,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,TELEPHONE FRANCHISE,744095,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,TELEPHONE FRANCHISE,911754,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,TELEPHONE FRANCHISE,744095,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,TELEPHONE FRANCHISE,2750845,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,TELEPHONE FRANCHISE,744095,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,MISCELLANEOUS FRANCHISE,545311,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,MISCELLANEOUS FRANCHISE,291628,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,MISCELLANEOUS FRANCHISE,170000,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,MISCELLANEOUS FRANCHISE,305235,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,OCCUPATIONAL LICENSES,10717244,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,OCCUPATIONAL LICENSES,9663115,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,OCCUPATIONAL LICENSES,7113948,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,OCCUPATIONAL LICENSES,5996938,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,OCCUPATIONAL LICENSES,8590697,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,OCCUPATIONAL LICENSES,8553561,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,OCCUPATIONAL LICENSES,9816817,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,OCCUPATIONAL LICENSES,9025546,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,SAFETY/ELECTRIC/MECHANICAL,1757549,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,SAFETY/ELECTRIC/MECHANICAL,2055544,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,SAFETY/ELECTRIC/MECHANICAL,3310700,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,SAFETY/ELECTRIC/MECHANICAL,4818516,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,SAFETY/ELECTRIC/MECHANICAL,4333474,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,SAFETY/ELECTRIC/MECHANICAL,3197927,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,SAFETY/ELECTRIC/MECHANICAL,3689562,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,SAFETY/ELECTRIC/MECHANICAL,3664000,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,TAXI/TOUR GUIDE LICENSES,711055,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,TAXI/TOUR GUIDE LICENSES,511595,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,TAXI/TOUR GUIDE LICENSES,439299,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,TAXI/TOUR GUIDE LICENSES,504406,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,TAXI/TOUR GUIDE LICENSES,538998,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,TAXI/TOUR GUIDE LICENSES,660512,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,TAXI/TOUR GUIDE LICENSES,539750,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,TAXI/TOUR GUIDE LICENSES,568500,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,BUILDING PERMITS,3074770,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,BUILDING PERMITS,3915220,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,BUILDING PERMITS,6315508,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,BUILDING PERMITS,8561730,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,BUILDING PERMITS,6636958,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,BUILDING PERMITS,5296358,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,BUILDING PERMITS,4691379,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,BUILDING PERMITS,5160000,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,MOTOR VEHICLE PERMITS,2818851,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,MOTOR VEHICLE PERMITS,2068548,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,MOTOR VEHICLE PERMITS,1540041,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,MOTOR VEHICLE PERMITS,1692670,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,MOTOR VEHICLE PERMITS,1674710,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,MOTOR VEHICLE PERMITS,1877191,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,MOTOR VEHICLE PERMITS,3922998,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,MOTOR VEHICLE PERMITS,2500000,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,STREETS & CURBS,992039,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,STREETS & CURBS,511648,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,STREETS & CURBS,482766,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,STREETS & CURBS,192641,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,STREETS & CURBS,237467,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,STREETS & CURBS,229234,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,STREETS & CURBS,263358,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,STREETS & CURBS,311250,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,MAYORALTY PERMITS,341598,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,MAYORALTY PERMITS,198718,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,MAYORALTY PERMITS,203180,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,MAYORALTY PERMITS,117641,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,MAYORALTY PERMITS,198485,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,MAYORALTY PERMITS,240366,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,MAYORALTY PERMITS,200000,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,MAYORALTY PERMITS,240000,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,LICENSES & PERMITS,OTHER,621950,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,LICENSES & PERMITS,OTHER,346992,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,LICENSES & PERMITS,OTHER,170850,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,LICENSES & PERMITS,OTHER,93224,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,LICENSES & PERMITS,OTHER,230379,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,LICENSES & PERMITS,OTHER,159503,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,LICENSES & PERMITS,OTHER,456172,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,LICENSES & PERMITS,OTHER,289900,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,FEDERAL AID - MEDICARE/OTHER,54444,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,FEDERAL AID - MEDICARE/OTHER,32013,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,FEDERAL AID - MEDICARE/OTHER,211,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,FEDERAL AID - MEDICARE/OTHER,13500,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,FEDERAL AID - MEDICARE/OTHER,22500,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,EMERGENCY MANAGEMENT,184270,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,EMERGENCY MANAGEMENT,40401,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - VIDEO POKER,4628929,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - VIDEO POKER,5384189,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - VIDEO POKER,2700260,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - VIDEO POKER,3742846,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - VIDEO POKER,2948856,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - VIDEO POKER,3335502,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - VIDEO POKER,3325142,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE DEPT. OF CORRECTIONS,340066,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE DEPT. OF CORRECTIONS,221474,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE DEPT. OF CORRECTIONS,81387,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE DEPT. OF CORRECTIONS,171005,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE DEPT. OF CORRECTIONS,120000,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE DEPT. OF CORRECTIONS,80000,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - MEDICAID,859007,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - MEDICAID,579814,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - MEDICAID,404874,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - MEDICAID,121658,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - MEDICAID,283644,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - MEDICAID,306703,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - MEDICAID,410000,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID - MEDICAID,385000,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE REVENUE SHARING,2567326,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE REVENUE SHARING,2187187,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE REVENUE SHARING,1662020,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE REVENUE SHARING,3628857,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE REVENUE SHARING,885795,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE REVENUE SHARING,1432023,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE REVENUE SHARING,491913,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE REVENUE SHARING,1086797,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID OTHER,629849,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID OTHER,190943,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID OTHER,22532,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID OTHER,6751743,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID OTHER,14070752,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID OTHER,11148775,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID OTHER,390000,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,STATE AID OTHER,16500,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: ROADS,1991768,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: ROADS,2056552,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: ROADS,2206303,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: ROADS,2284096,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: ROADS,2540498,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: ROADS,2348222,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: ROADS,2507503,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: ROADS,2507503,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: TRANSIT,1828040,60
+2011-operating-adopted,2005,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: TRANSIT,1992355,60
+2011-operating-adopted,2006,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: TRANSIT,1594564,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: TRANSIT,1636883,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: TRANSIT,2044654,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: TRANSIT,923209,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: TRANSIT,1850000,60
+2011-operating-adopted,2011,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,PARISH TRANSP FUND: TRANSIT,1850000,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,TOBACCO TAX,698921,60
+2011-operating-adopted,2007,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,ORLEANS PARISH COMM. DIST.,495167,60
+2011-operating-adopted,2008,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,ORLEANS PARISH COMM. DIST.,299770,60
+2011-operating-adopted,2009,actual,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,ORLEANS PARISH COMM. DIST.,100000,60
+2011-operating-adopted,2010,adopted,general_fund,General Fund,INTERGOVERNMENTAL REVENUE,ORLEANS PARISH COMM. DIST.,500000,60
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,GENERAL GOVERNMENT,10230224,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,SERVICE CHARGES,GENERAL GOVERNMENT,5952754,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,SERVICE CHARGES,GENERAL GOVERNMENT,9149256,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,SERVICE CHARGES,GENERAL GOVERNMENT,10182715,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,SERVICE CHARGES,GENERAL GOVERNMENT,10704860,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,SERVICE CHARGES,GENERAL GOVERNMENT,11179819,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,SERVICE CHARGES,GENERAL GOVERNMENT,17561054,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,SERVICE CHARGES,GENERAL GOVERNMENT,11335731,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,PUBLIC SAFETY,10845520,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,SERVICE CHARGES,PUBLIC SAFETY,7734845,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,SERVICE CHARGES,PUBLIC SAFETY,6961618,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,SERVICE CHARGES,PUBLIC SAFETY,7544814,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,SERVICE CHARGES,PUBLIC SAFETY,9807265,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,SERVICE CHARGES,PUBLIC SAFETY,11506711,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,SERVICE CHARGES,PUBLIC SAFETY,14221121,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,SERVICE CHARGES,PUBLIC SAFETY,13487112,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,STREETS PARKING METERS,3437856,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,SERVICE CHARGES,STREETS PARKING METERS,2045601,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,SERVICE CHARGES,STREETS PARKING METERS,1034762,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,SERVICE CHARGES,STREETS PARKING METERS,3013825,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,SERVICE CHARGES,STREETS PARKING METERS,2969141,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,SERVICE CHARGES,STREETS PARKING METERS,3180670,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,SERVICE CHARGES,STREETS PARKING METERS,8329391,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,SERVICE CHARGES,STREETS PARKING METERS,4100000,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,STREETS OTHER,1549815,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,SERVICE CHARGES,STREETS OTHER,921542,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,SERVICE CHARGES,STREETS OTHER,1067192,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,SERVICE CHARGES,STREETS OTHER,1452871,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,SERVICE CHARGES,STREETS OTHER,1434300,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,SERVICE CHARGES,STREETS OTHER,1248668,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,SERVICE CHARGES,STREETS OTHER,1602220,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,SERVICE CHARGES,STREETS OTHER,1679920,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,SANITATION,24149183,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,SERVICE CHARGES,SANITATION,17351080,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,SERVICE CHARGES,SANITATION,11745610,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,SERVICE CHARGES,SANITATION,10168989,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,SERVICE CHARGES,SANITATION,16669937,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,SERVICE CHARGES,SANITATION,17824931,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,SERVICE CHARGES,SANITATION,16712750,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,SERVICE CHARGES,SANITATION,29175086,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,CULTURAL & RECREATION,10127,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,PARKS AND PARKWAYS,576273,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,SERVICE CHARGES,PARKS AND PARKWAYS,233633,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,SERVICE CHARGES,PARKS AND PARKWAYS,294351,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,SERVICE CHARGES,PARKS AND PARKWAYS,321385,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,SERVICE CHARGES,PARKS AND PARKWAYS,307083,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,SERVICE CHARGES,PARKS AND PARKWAYS,189455,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,SERVICE CHARGES,PARKS AND PARKWAYS,100000,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,SERVICE CHARGES,PARKS AND PARKWAYS,369500,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,INDIRECT COSTS,1548623,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,SERVICE CHARGES,INDIRECT COSTS,2111246,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,SERVICE CHARGES,INDIRECT COSTS,1772379,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,SERVICE CHARGES,INDIRECT COSTS,2822222,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,SERVICE CHARGES,INDIRECT COSTS,2185010,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,SERVICE CHARGES,INDIRECT COSTS,3034253,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,SERVICE CHARGES,INDIRECT COSTS,4600000,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,SERVICE CHARGES,INDIRECT COSTS,3600000,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,ORLEANS PARISH COMM. DIST.,960000,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,SERVICE CHARGES,ORLEANS PARISH COMM. DIST.,430372,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,SERVICE CHARGES,OTHER,28976,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,SERVICE CHARGES,OTHER,17038,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,SERVICE CHARGES,OTHER,23820,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,SERVICE CHARGES,OTHER,37175,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,SERVICE CHARGES,OTHER,41855,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,SERVICE CHARGES,OTHER,23835,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,SERVICE CHARGES,OTHER,44500,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,SERVICE CHARGES,OTHER,26300,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,FINES & FORFEITS,TRAFFIC FINES & VIOLATIONS,4778846,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,FINES & FORFEITS,TRAFFIC FINES & VIOLATIONS,12384947,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,FINES & FORFEITS,TRAFFIC FINES & VIOLATIONS,7102671,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,FINES & FORFEITS,TRAFFIC FINES & VIOLATIONS,3471018,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,FINES & FORFEITS,TRAFFIC FINES & VIOLATIONS,12554531,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,FINES & FORFEITS,TRAFFIC FINES & VIOLATIONS,4257397,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,FINES & FORFEITS,TRAFFIC FINES & VIOLATIONS,9974700,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,FINES & FORFEITS,TRAFFIC FINES & VIOLATIONS,4800000,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,FINES & FORFEITS,RED SIGNAL LIGHT/CAMERA ENFRCMNT,3467782,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,FINES & FORFEITS,RED SIGNAL LIGHT/CAMERA ENFRCMNT,8993445,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,FINES & FORFEITS,RED SIGNAL LIGHT/CAMERA ENFRCMNT,14343567,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,FINES & FORFEITS,RED SIGNAL LIGHT/CAMERA ENFRCMNT,18000000,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,FINES & FORFEITS,PARKING TICKET COLLECTIONS,11207489,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,FINES & FORFEITS,PARKING TICKET COLLECTIONS,8168963,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,FINES & FORFEITS,PARKING TICKET COLLECTIONS,11080016,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,FINES & FORFEITS,PARKING TICKET COLLECTIONS,11000000,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,FINES & FORFEITS,PARKING TICKET COLLECTIONS,13532870,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,FINES & FORFEITS,ADMIN. ADJUDICATON FEES,11061,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,FINES & FORFEITS,ADMIN. ADJUDICATON FEES,16861,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,FINES & FORFEITS,ADMIN. ADJUDICATON FEES,1851,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,FINES & FORFEITS,ADMIN. ADJUDICATON FEES,19626,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,FINES & FORFEITS,ADMIN. ADJUDICATON FEES,60776,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,FINES & FORFEITS,ADMIN. ADJUDICATON FEES,100000,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,FINES & FORFEITS,ADMIN. ADJUDICATON FEES,100000,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,FINES & FORFEITS,MUNICIPAL COURT FINES & COSTS,88841,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,FINES & FORFEITS,MUNICIPAL COURT FINES & COSTS,44190,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,FINES & FORFEITS,MUNICIPAL COURT FINES & COSTS,56510,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,FINES & FORFEITS,IMPOUNDED/ABANDONED VEHICLE,99167,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,FINES & FORFEITS,IMPOUNDED/ABANDONED VEHICLE,58130,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,FINES & FORFEITS,IMPOUNDED/ABANDONED VEHICLE,59365,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,FINES & FORFEITS,IMPOUNDED/ABANDONED VEHICLE,50485,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,FINES & FORFEITS,IMPOUNDED/ABANDONED VEHICLE,70000,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,FINES & FORFEITS,IMPOUNDED/ABANDONED VEHICLE,97000,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,FINES & FORFEITS,HEALTH CODE VIOLATIONS,450000,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,INTEREST - OPERATING & CAPITAL,3452360,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,INTEREST - OPERATING & CAPITAL,7980828,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,INTEREST - OPERATING & CAPITAL,12933171,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,INTEREST - OPERATING & CAPITAL,14016523,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,INTEREST - OPERATING & CAPITAL,8384904,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,INTEREST - OPERATING & CAPITAL,2071852,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,MISCELLANEOUS REVENUE,INTEREST - OPERATING & CAPITAL,3142682,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,MISCELLANEOUS REVENUE,INTEREST - OPERATING & CAPITAL,2412757,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,SETTLEMENT & JUDGMENT FUND,19705668,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,RENTS & ROYALTIES,1024590,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,RENTS & ROYALTIES,727151,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,RENTS & ROYALTIES,746582,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,RENTS & ROYALTIES,1025073,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,RENTS & ROYALTIES,810463,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,RENTS & ROYALTIES,863413,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,MISCELLANEOUS REVENUE,RENTS & ROYALTIES,1260080,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,MISCELLANEOUS REVENUE,RENTS & ROYALTIES,1421819,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,CONTRIBUTIONS & OTHER,13790870,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,CONTRIBUTIONS & OTHER,2862104,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,CONTRIBUTIONS & OTHER,2314163,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,CONTRIBUTIONS & OTHER,5531922,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,CONTRIBUTIONS & OTHER,5162342,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,CONTRIBUTIONS & OTHER,5513619,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,MISCELLANEOUS REVENUE,CONTRIBUTIONS & OTHER,4761370,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,MISCELLANEOUS REVENUE,CONTRIBUTIONS & OTHER,4163175,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,RIVERBOAT GAMING FEE,3287042,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,RIVERBOAT GAMING FEE,2106661,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,RIVERBOAT GAMING FEE,193264,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,FEMA ADMIN FEES,36972,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,MISCELLANEOUS REIMBURSEMENT,8137025,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,MISCELLANEOUS REIMBURSEMENT,7841874,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,MISCELLANEOUS REIMBURSEMENT,6059210,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,MISCELLANEOUS REIMBURSEMENT,7370324,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,MISCELLANEOUS REIMBURSEMENT,4389417,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,MISCELLANEOUS REVENUE,MISCELLANEOUS REIMBURSEMENT,7181505,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,MISCELLANEOUS REVENUE,MISCELLANEOUS REIMBURSEMENT,3195500,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,MISCELLANEOUS REVENUE,MISCELLANEOUS REIMBURSEMENT,3276950,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,OTHER FINANCING SOURCES,UDAG/HUD 108 LOAN,1400000,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,OTHER FINANCING SOURCES,UDAG/HUD 108 LOAN,1400000,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,OTHER FINANCING SOURCES,UDAG/HUD 108 LOAN,3902890,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,OTHER FINANCING SOURCES,UDAG/HUD 108 LOAN,550000,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,OTHER FINANCING SOURCES,UDAG/HUD 108 LOAN,550000,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,OTHER FINANCING SOURCES,TRANSFER FROM OTHER FUNDS,13902349,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,OTHER FINANCING SOURCES,TRANSFER FROM OTHER FUNDS,27375373,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,OTHER FINANCING SOURCES,TRANSFER FROM OTHER FUNDS,12700000,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,OTHER FINANCING SOURCES,TRANSFER FROM OTHER FUNDS,12100000,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,OTHER FINANCING SOURCES,TRANSFER FROM OTHER FUNDS,13937537,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,OTHER FINANCING SOURCES,TRANSFER FROM OTHER FUNDS,24648524,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,OTHER FINANCING SOURCES,TRANSFER FROM OTHER FUNDS,17709969,61
+2011-operating-adopted,2011,adopted,general_fund,General Fund,OTHER FINANCING SOURCES,TRANSFER FROM OTHER FUNDS,22257199,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,OTHER FINANCING SOURCES,OTHER ADJUSTMENTS,25108127,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,OTHER FINANCING SOURCES,GULF OUTLET ZONE PAYMENT,10120474,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,OTHER FINANCING SOURCES,GULF OUTLET ZONE PAYMENT,21345239,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,OTHER FINANCING SOURCES,GULF OUTLET ZONE PAYMENT,12437642,61
+2011-operating-adopted,2009,actual,general_fund,General Fund,OTHER FINANCING SOURCES,GULF OUTLET ZONE PAYMENT,15792098,61
+2011-operating-adopted,2005,actual,general_fund,General Fund,OTHER FINANCING SOURCES,FEMA LOAN,61396116,61
+2011-operating-adopted,2006,actual,general_fund,General Fund,OTHER FINANCING SOURCES,FEMA LOAN,76200000,61
+2011-operating-adopted,2004,actual,general_fund,General Fund,OTHER FINANCING SOURCES,FUND BALANCE,8550000,61
+2011-operating-adopted,2007,actual,general_fund,General Fund,OTHER FINANCING SOURCES,FUND BALANCE,37022832,61
+2011-operating-adopted,2008,actual,general_fund,General Fund,OTHER FINANCING SOURCES,FUND BALANCE,70237920,61
+2011-operating-adopted,2010,adopted,general_fund,General Fund,OTHER FINANCING SOURCES,FUND BALANCE,991947,61
+2011-operating-adopted,2010,adopted,other_funds,Self-Generated,,Self-Generated,1000000,46
+2011-operating-adopted,2011,adopted,other_funds,Self-Generated,,Self-Generated,1075000,46
+2011-operating-adopted,2010,adopted,other_funds,Housing & Urban Dev.,,Housing & Urban Dev.,56712607,46
+2011-operating-adopted,2011,adopted,other_funds,Housing & Urban Dev.,,Housing & Urban Dev.,55622795,46
+2011-operating-adopted,2010,adopted,other_funds,Mayoral Fellows,,Mayoral Fellows,342683,46
+2011-operating-adopted,2011,adopted,other_funds,Mayoral Fellows,,Mayoral Fellows,256775,46
+2011-operating-adopted,2010,adopted,other_funds,Library Funds,,Library Funds,10367711,46
+2011-operating-adopted,2011,adopted,other_funds,Library Funds,,Library Funds,8380299,46
+2011-operating-adopted,2010,adopted,other_funds,Local Law Enf. Grants,,Local Law Enf. Grants,2320990,46
+2011-operating-adopted,2011,adopted,other_funds,Local Law Enf. Grants,,Local Law Enf. Grants,1741780,46
+2011-operating-adopted,2010,adopted,other_funds,Other Federal Grants,,Other Federal Grants,159878490,46
+2011-operating-adopted,2011,adopted,other_funds,Other Federal Grants,,Other Federal Grants,114927214,46
+2011-operating-adopted,2010,adopted,other_funds,Other State Grants,,Other State Grants,118733782,46
+2011-operating-adopted,2011,adopted,other_funds,Other State Grants,,Other State Grants,54366274,46
+2011-operating-adopted,2010,adopted,other_funds,"Grants, Contr., & Fnd Transf.",,"Grants, Contr., & Fnd Transf.",62827684,46
+2011-operating-adopted,2011,adopted,other_funds,"Grants, Contr., & Fnd Transf.",,"Grants, Contr., & Fnd Transf.",60693712,46
+2011-operating-adopted,2010,adopted,other_funds,Special Revenue Funds,,Special Revenue Funds,16531229,46
+2011-operating-adopted,2011,adopted,other_funds,Special Revenue Funds,,Special Revenue Funds,20441794,46

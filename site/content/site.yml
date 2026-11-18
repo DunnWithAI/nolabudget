@@ -1,0 +1,29 @@
+# Site-wide settings. Change these when the budget calendar moves on.
+name: NOLA Budget
+tagline: The City of New Orleans budget, explained
+base_url: https://nolabudget.dunn.us
+noindex: false
+
+# The moment the site describes (mid-November 2026).
+# proposal_year: the Mayor's proposal now before the City Council.
+# in_force_year: the adopted budget currently being spent.
+proposal_year: 2027
+in_force_year: 2026
+adoption_deadline: December 1, 2026
+# Which step of the yearly cycle the home page marks "We are here":
+# proposed | council | spending | actual. In November the proposal is before the Council.
+stage: council
+as_of: November 2026
+
+# Inflation and per-resident views.
+# Dollars are expressed in real_base_year dollars using cpi_south from data/combined/context.csv.
+real_base_year: 2025
+first_year: 2004
+table_first_year: 2007
+
+author: Andrew Dunn
+author_url: https://dunn.us
+
+# Visit counts (Umami, self-hosted at umami.dunn.us; no cookies). Leave blank to turn off.
+umami_url: https://umami.dunn.us/script.js
+umami_website_id: 2570a92a-9631-4267-90f3-27ed142d15e6

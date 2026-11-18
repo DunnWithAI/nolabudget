@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}Where the figures on NOLA Budget come from, how they were read, and their limits.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/about/", "About the data")] %}
+{% block structured_data %}{% if dataset %}{{ m.ld(dataset) }}{% endif %}{% endblock %}
+{% block content %}
+<header class="lede">
+  <h1>About the data</h1>
+  <p class="lead">This site explains the City of New Orleans budget in plain words. Its figures come from the budget books the city published, and each page shows where its figures come from. The city comparisons use Census Bureau data.</p>
+</header>
+
+<section class="block prose" aria-labelledby="what">
+  <h2 id="what">What this is</h2>
+  <p>Each fall the Mayor proposes a budget for the next year, and the City Council adopts one by December 1. The budget books are long PDF files, and the figures that matter to most people are spread across hundreds of pages. This site gathers them in one place: what each department is given, where the money comes from, and how both have changed since {{ site.first_year }}.</p>
+  <p>It is an independent project. It is not affiliated with or endorsed by the City of New Orleans. It was built with Claude Code, an AI coding tool; <a href="/how/">how this site was built</a> shows every prompt.</p>
+  {% if site.umami_website_id %}<p>The site counts visits with Umami, which uses no cookies and does not collect personal information.</p>{% endif %}
+</section>
+
+<section class="block prose" aria-labelledby="sources">
+  <h2 id="sources">Where the data comes from</h2>
+  <p>The figures come from {{ n_books }} budget books, for the years {{ books[0].year }} to {{ books[-1].year }}. Each book prints several years side by side: actual spending for earlier years, the budget in force, and the budget for the year ahead. That is how this site has actual spending back to {{ site.first_year }}.</p>
+  <p>A script read every table in every book. Its results were checked against the totals each book prints, and against the same figures reprinted in other books. <a href="/method/">How the numbers were made</a> gives the counts. Where a year is printed in more than one book, the site uses:</p>
+  <ul>
+    <li>for a budget, the year's own book (proposed from the proposed book, adopted from the adopted book);</li>
+    <li>for actual spending, the latest book that prints it, since later books include corrections;</li>
+    <li>for "revised", the adopted figure as reprinted in the next year's book.</li>
+  </ul>
+  <p>A figure marked "computed from" was not printed as such. It was worked out from other printed figures, such as all funds as the General Fund plus other funds.</p>
+  <p>Inflation adjustments use the Consumer Price Index for the South region from the U.S. Bureau of Labor Statistics. Figures per resident use Census Bureau population estimates for Orleans Parish.</p>
+  <h3>The budget books</h3>
+  <ul class="sources">
+  {% for bk in books %}<li>{% if bk.url %}<a href="{{ bk.url }}">{{ bk.label|capitalize }}</a>{% else %}{{ bk.label|capitalize }}{% endif %}{% if bk.year in (2008, 2009) %} (from an archived copy of the city's old website){% endif %}</li>{% endfor %}
+  </ul>
+  <p>The 2025 to 2027 books are published through the city's online budget viewer; their figures are cited by the name of the page they appear on rather than a page number.</p>
+</section>
+
+<section class="block prose" aria-labelledby="limits">
+  <h2 id="limits">The limits of the data</h2>
+  <p>The books change how they count things from year to year. These are the breaks that matter most:</p>
+  <ol class="limits">
+  {% for n in notes %}<li id="note-{{ n.id }}">{{ n.html }}</li>{% endfor %}
+    <li>Recreation stops being its own line after 2012. Its successor, the New Orleans Recreation Development Commission (NORDC), is budgeted inside <a href="/departments/miscellaneous/">Miscellaneous</a>.</li>
+    <li>"General Services" in the older books is the <a href="/departments/inspector-general/">Office of Inspector General</a>, and is counted there.</li>
+    <li>The <a href="/departments/health/">Health Department</a> includes Emergency Medical Services in the citywide tables.</li>
+    <li>When a department is missing in a year, it was not printed as its own line that year. That does not mean it spent nothing; its spending may be counted in another line.</li>
+    <li>Enterprise bodies, such as the Aviation Board that runs the airport, pay their own way and are mostly not counted in the citywide totals.</li>
+    <li>Budgeted positions are the least reliable figures here. Books count them differently, the 2018 book printed the same counts in every column, and counts for enterprise bodies are unreliable.</li>
+    <li>Actual spending is printed about two years after the fact, so the latest actual figures are for 2024.</li>
+  </ol>
+  <p class="source">Sources: each of these breaks appears as a note beside the figures it affects on the <a href="/budgets/">year</a> and <a href="/departments/">department</a> pages, which give the book and page.</p>
+</section>
+
+<section class="block prose" aria-labelledby="unexplained">
+  <h2 id="unexplained">What the documents don't explain</h2>
+  <p>The books print the numbers but often not the reasons for them. In particular:</p>
+  <ul>
+    <li>When a department's budget rises or falls sharply, the book seldom says whether that is new spending, a cut, or work moved from another department.</li>
+    <li>What is counted in Miscellaneous changes from year to year, and the books do not list every change.</li>
+    <li>Some books' own tables do not add up to their printed totals. Where that happens, the site says so in a note beside the figure.</li>
+    <li>A few small bodies appear in some books with their own section and no explanation of what they do.</li>
+  </ul>
+  <p>The cases are listed, with the figures and the pages, on <a href="/not-explained/">what the budget books don't explain</a>.</p>
+</section>
+
+<section class="block prose" aria-labelledby="downloads">
+  <h2 id="downloads">Download the data</h2>
+  <p>The combined data behind this site, as CSV files. Amounts are whole dollars. Spending and income rows say which book and page they came from.</p>
+  <ul class="downloads">
+  {% for f in files %}<li><a href="{{ f.href }}" download>{{ f.name }}</a> <span class="size">({{ '%.1f'|format(f.size / 1048576) if f.size >= 1048576 else '%d'|format((f.size / 1024)|round|int) }} {{ 'MB' if f.size >= 1048576 else 'KB' }})</span>{% if f.text %}<br>{{ f.text }}{% endif %}</li>{% endfor %}
+  </ul>
+</section>
+
+{% endblock %}

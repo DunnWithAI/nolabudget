@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "nolabudget",
+      "runtimeExecutable": "/Users/andrewdunn/Dropbox/dev/nolabudget/.venv/bin/python",
+      "runtimeArgs": ["-m", "http.server", "4321", "--directory", "/Users/andrewdunn/Dropbox/dev/nolabudget/dist"],
+      "port": 4321
+    },
+    {
+      "name": "nolabudget-attach",
+      "url": "http://localhost:4321"
+    }
+  ]
+}

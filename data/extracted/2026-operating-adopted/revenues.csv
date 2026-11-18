@@ -1,0 +1,682 @@
+book_id,fiscal_year,basis,fund_group,fund_name,category,line_name,amount,page
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,ABO Fines,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,ABO Fines,36880,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,ABO Fines,36880,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,Admin Adjudication Fees,6668,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,Admin Adjudication Fees,46632,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,Admin Adjudication Fees,46632,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,Demolition Lien Interest,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,Demolition Lien Interest,18932,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,Demolition Lien Interest,18932,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,Demolition Lien Penalty,11747,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,Demolition Lien Penalty,5774,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,Demolition Lien Penalty,5774,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,Fine - Penalty,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,Fine - Penalty,7878,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,Fine - Penalty,7878,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,Fines Health Code Violati,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,Fines Health Code Violati,11324,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,Fines Health Code Violati,11324,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,Municipal Court Fines,930054,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,Municipal Court Fines,1226752,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,Municipal Court Fines,1226752,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,Red Light and Camera Enforcement,14743691,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,Red Light and Camera Enforcement,5594178,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,Red Light and Camera Enforcement,5594178,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,Storage Fees and Parking Management,70121,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,Storage Fees and Parking Management,70646,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,Storage Fees and Parking Management,70646,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Fines & Forfeits,Traffic Fines,4784239,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Fines & Forfeits,Traffic Fines,4820121,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Fines & Forfeits,Traffic Fines,4820121,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,Harrah's Rent,11801096,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,Harrah's Rent,13500000,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,Harrah's Rent,13500000,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,Parish Transportation - Roads,2269017,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,Parish Transportation - Roads,2077186,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,Parish Transportation - Roads,2077186,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,Parish Transportation - Transit,2003884,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,Parish Transportation - Transit,1925917,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,Parish Transportation - Transit,1925917,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,Revenue Sharing Dedicated To Fire,247924,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,Revenue Sharing Dedicated To Fire,276023,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,Revenue Sharing Dedicated To Fire,276023,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,Revenue Sharing Dedicated To Police,247924,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,Revenue Sharing Dedicated To Police,276023,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,Revenue Sharing Dedicated To Police,276023,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,Severance Tax Equalization,388,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,Severance Tax Equalization,348,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,Severance Tax Equalization,348,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,State Aid - Medicaid Reimbursement,11000000,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,State Aid - Medicaid Reimbursement,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,State Aid - Medicaid Reimbursement,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,State Aid - Video Poker,1690368,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,State Aid - Video Poker,1844229,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,State Aid - Video Poker,1844229,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,State Revenue Sharing,1177183,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,State Revenue Sharing,1454882,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,State Revenue Sharing,1454882,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Intergovernmental Revenue,State Supplemental Pay,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Intergovernmental Revenue,State Supplemental Pay,3113311,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Intergovernmental Revenue,State Supplemental Pay,3113311,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Air Conditioning Energy License,48376,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Air Conditioning Energy License,48642,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Air Conditioning Energy License,48642,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Issuance Fees,17465,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Issuance Fees,16029,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Issuance Fees,16029,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Managers Permits,25798,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Managers Permits,37229,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Managers Permits,37229,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Permits,674746,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Permits,948913,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Permits,948913,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Processing Fees,469019,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Processing Fees,32231,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Alcohol and Beverage Processing Fees,32231,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Ambulance Permits,12728,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Ambulance Permits,22048,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Ambulance Permits,22048,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Annual Cpnc Renewal,166019,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Annual Cpnc Renewal,351117,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Annual Cpnc Renewal,351117,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Annual Insp Rev-Insurance,10489,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Annual Insp Rev-Insurance,6916,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Annual Insp Rev-Insurance,6916,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Annual Insp Rev-Mech Insp,28355,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Annual Insp Rev-Mech Insp,34317,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Annual Insp Rev-Mech Insp,34317,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Building Permit,6698512,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Building Permit,7066308,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Building Permit,7066308,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Cable Tv Franchise,2327228,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Cable Tv Franchise,3825103,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Cable Tv Franchise,3825103,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Demolition Permit,95628,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Demolition Permit,102739,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Demolition Permit,102739,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Driver's Delinquent Fee,1978,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Driver's Delinquent Fee,3040,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Driver's Delinquent Fee,3040,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Driveway Cut Permits,12783,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Driveway Cut Permits,15598,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Driveway Cut Permits,15598,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Dumpster Permit,39069,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Dumpster Permit,47672,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Dumpster Permit,47672,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Duplicate Tag,4304,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Duplicate Tag,4289,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Duplicate Tag,4289,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Electrical and Mechanical Licenses,113333,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Electrical and Mechanical Licenses,111239,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Electrical and Mechanical Licenses,111239,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Electrical Permit Application,636479,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Electrical Permit Application,626994,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Electrical Permit Application,626994,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Entergy New Orleans Franchise,34206453,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Entergy New Orleans Franchise,31434000,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Entergy New Orleans Franchise,31434000,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,First Taxi Cpnc Transfer,82610,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,First Taxi Cpnc Transfer,148843,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,First Taxi Cpnc Transfer,148843,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Food Truck Application Fee,691,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Food Truck Application Fee,1097,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Food Truck Application Fee,1097,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Gas Fitters License,43745,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Gas Fitters License,42716,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Gas Fitters License,42716,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Hdlc Permits and Surcharge Fees,646925,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Hdlc Permits and Surcharge Fees,609691,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Hdlc Permits and Surcharge Fees,609691,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Initial Taxi Drivers' Permit,32746,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Initial Taxi Drivers' Permit,36299,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Initial Taxi Drivers' Permit,36299,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Initial Tour Guide Fee,6776,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Initial Tour Guide Fee,8893,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Initial Tour Guide Fee,8893,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Inspection Delinquency,156353,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Inspection Delinquency,161951,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Inspection Delinquency,161951,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Insurance Premium Tax,3044031,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Insurance Premium Tax,3123021,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Insurance Premium Tax,3123021,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Mardi Gras Parade Permit,28708,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Mardi Gras Parade Permit,87664,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Mardi Gras Parade Permit,87664,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Master Film Permit Fees,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Master Film Permit Fees,697,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Master Film Permit Fees,697,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Mayoralty Permits,397592,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Mayoralty Permits,426426,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Mayoralty Permits,426426,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Mechanical Permit Application,479846,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Mechanical Permit Application,457970,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Mechanical Permit Application,457970,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Miscellaneous Wireless Franchise Fees,1433571,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Miscellaneous Wireless Franchise Fees,1444322,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Miscellaneous Wireless Franchise Fees,1444322,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Motor Vehicle Delinquent Fee,148,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Motor Vehicle Delinquent Fee,36,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Motor Vehicle Delinquent Fee,36,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Motor Vehicle Inspections - Brake Tags,1475665,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Motor Vehicle Inspections - Brake Tags,1253392,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Motor Vehicle Inspections - Brake Tags,1253392,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Neighborhood Parking,82036,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Neighborhood Parking,100102,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Neighborhood Parking,100102,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,NSTR Special Exception Application,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,NSTR Special Exception Application,146900,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,NSTR Special Exception Application,146900,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Occupational Licenses,8117399,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Occupational Licenses,7789871,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Occupational Licenses,7789871,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Other ID Charges,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Other ID Charges,5900,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Other ID Charges,5900,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Oversized Truck Permit,17499,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Oversized Truck Permit,21352,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Oversized Truck Permit,21352,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Plumbing Permit,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Plumbing Permit,-49,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Plumbing Permit,-49,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Sewerage and Water Board,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Sewerage and Water Board,9845,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Sewerage and Water Board,9845,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Short Term Rentals,5281403,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Short Term Rentals,8427270,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Short Term Rentals,8427270,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Sign Inspections & Permit Fee,33657,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Sign Inspections & Permit Fee,28650,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Sign Inspections & Permit Fee,28650,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Sign Registration Fee,60574,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Sign Registration Fee,99658,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Sign Registration Fee,99658,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Sign Zoning Fee,458,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Sign Zoning Fee,469,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Sign Zoning Fee,469,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Special Charter License,5128,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Special Charter License,5528,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Special Charter License,5528,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Special Electrical Inspection,90113,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Special Electrical Inspection,111776,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Special Electrical Inspection,111776,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Special Mechanical Inspection,9610,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Special Mechanical Inspection,44891,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Special Mechanical Inspection,44891,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Stationary Engineer License,51444,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Stationary Engineer License,50582,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Stationary Engineer License,50582,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Street Closure Permit,127499,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Street Closure Permit,155576,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Street Closure Permit,155576,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Street Cut Permit,178744,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Street Cut Permit,218106,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Street Cut Permit,218106,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Taxi Cpnc Transfer Processing,8974,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Taxi Cpnc Transfer Processing,18349,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Taxi Cpnc Transfer Processing,18349,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Taxi Drivers' Permit,27288,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Taxi Drivers' Permit,25126,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Taxi Drivers' Permit,25126,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Taxi Inspections,118907,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Taxi Inspections,149349,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Taxi Inspections,149349,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Taxicab Ads,492,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Taxicab Ads,750,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Taxicab Ads,750,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Tour Guide License,5494,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Tour Guide License,4213,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Tour Guide License,4213,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Tour Planner License,29303,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Tour Planner License,28119,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Tour Planner License,28119,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Transportation Network Fees,4924574,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Transportation Network Fees,5271163,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Transportation Network Fees,5271163,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Use & Occupancy Certificate,128575,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Use & Occupancy Certificate,176847,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Use & Occupancy Certificate,176847,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Licenses & Permits,Vcc Permits,96077,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Licenses & Permits,Vcc Permits,233991,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Licenses & Permits,Vcc Permits,233991,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,2013 Interest,67142,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,2013 Interest,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,2013 Interest,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Asset Sales,237913,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Asset Sales,402844,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Asset Sales,402844,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Building and Grounds Rents,1506265,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Building and Grounds Rents,1526353,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Building and Grounds Rents,1526353,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Building and Use,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Building and Use,277317,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Building and Use,277317,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Cash Overage,-7621,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Cash Overage,24276,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Cash Overage,24276,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Contract Settlement,-106696,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Contract Settlement,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Contract Settlement,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Federal Stimulus Payments,5542,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Federal Stimulus Payments,55630,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Federal Stimulus Payments,55630,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Insurance Proceeds,240804,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Insurance Proceeds,612496,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Insurance Proceeds,612496,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest 1987 Bonds,10286,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest 1987 Bonds,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest 1987 Bonds,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest 1988 Bonds,4288,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest 1988 Bonds,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest 1988 Bonds,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest 1995 Bonds,2826,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest 1995 Bonds,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest 1995 Bonds,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest PI 2019 Bonds,816394,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest PI 2019 Bonds,103903,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest PI 2019 Bonds,103903,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest PI 2021A Bond,4494040,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest PI 2021A Bond,2236182,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest PI 2021A Bond,2236182,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,INTEREST PI 2024A Bond,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,INTEREST PI 2024A Bond,4494504,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,INTEREST PI 2024A Bond,4494504,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,INTEREST PI 2024B Bond,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,INTEREST PI 2024B Bond,443327,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,INTEREST PI 2024B Bond,443327,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest TAXPI 2021B Bond,166358,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest TAXPI 2021B Bond,99761,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest TAXPI 2021B Bond,99761,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-1992 Bonds,3923,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-1992 Bonds,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-1992 Bonds,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-2002 Bonds,17331,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-2002 Bonds,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-2002 Bonds,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-2007A,27657,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-2007A,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-2007A,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-B96A,4541,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-B96A,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-B96A,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-B98A,9332,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-B98A,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-B98A,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fd 2003,17325,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fd 2003,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fd 2003,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fund 2004,40437,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fund 2004,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fund 2004,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fund 2005-B,107301,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fund 2005-B,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fund 2005-B,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fund 2014,154958,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fund 2014,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Bond Fund 2014,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Operating Funds,3698524,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-Operating Funds,3675232,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Operating Funds,3675232,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Pi2016,85251,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest-Pi2016,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest-Pi2016,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Lamp Interest Revenue,5242085,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Lamp Interest Revenue,2057190,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Lamp Interest Revenue,2057190,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Landfill Royalties,42262,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Landfill Royalties,48702,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Landfill Royalties,48702,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Low Barrier Homeless Shelter,487765,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Low Barrier Homeless Shelter,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Low Barrier Homeless Shelter,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Miscellaneous,2038295,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Miscellaneous,1404637,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Miscellaneous,1404637,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,NSF Fee Collection,2942,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,NSF Fee Collection,2348,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,NSF Fee Collection,2348,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Parking Royalties,70918,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Parking Royalties,34569,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Parking Royalties,34569,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Reimbursement For Fringes,29712,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Reimbursement For Fringes,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Reimbursement For Fringes,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Reimbursement For Special Activity,6164671,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Reimbursement For Special Activity,4273057,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Reimbursement For Special Activity,4273057,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Reimbursement For Utilities,2046,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Reimbursement For Utilities,932,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Reimbursement For Utilities,932,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Repayment For Losses,9812,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Repayment For Losses,185,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Repayment For Losses,185,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Restitution Payments,25510,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Restitution Payments,-706,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Restitution Payments,-706,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Sundry (General Revenue),322365,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Sundry (General Revenue),669421,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Sundry (General Revenue),669421,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Transfer From Rta,570361,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Transfer From Rta,438152,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Transfer From Rta,438152,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,United Gas Reimbursement,166805,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,United Gas Reimbursement,158261,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,United Gas Reimbursement,158261,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Miscellaneous Revenue,Workers Comp Subrogation,941904,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Miscellaneous Revenue,Workers Comp Subrogation,881977,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Miscellaneous Revenue,Workers Comp Subrogation,881977,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Financing Sources,Tax Improv Bds 2015A,78128,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Financing Sources,Tax Improv Bds 2015A,78129,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Financing Sources,Tax Improv Bds 2015A,78129,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Financing Sources,Transfer From Other Funds,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Financing Sources,Transfer From Other Funds,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Financing Sources,Transfer From Other Funds,74183436,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Airport Tax,1517900,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Airport Tax,1475223,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Airport Tax,1475223,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Audit Cost,25388,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Audit Cost,3616,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Audit Cost,3616,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Beer and Wine Tax,415389,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Beer and Wine Tax,346907,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Beer and Wine Tax,346907,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Chain Store Tax,155900,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Chain Store Tax,159549,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Chain Store Tax,159549,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Direct Marketer-Consumer Use Tax - City,21616013,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Direct Marketer-Consumer Use Tax - City,25917749,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Direct Marketer-Consumer Use Tax - City,25917749,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Documents Transaction Tax,2851217,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Documents Transaction Tax,3352757,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Documents Transaction Tax,3352757,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Fairground Slot Machine 4% Tax,1420328,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Fairground Slot Machine 4% Tax,1322319,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Fairground Slot Machine 4% Tax,1322319,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Food and Prescribed Drug Sales Tax,40548327,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Food and Prescribed Drug Sales Tax,35360727,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Food and Prescribed Drug Sales Tax,35360727,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Gallon-age Tax,-60254,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Gallon-age Tax,20765,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Gallon-age Tax,20765,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,General Sales and Use Tax,199465913,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,General Sales and Use Tax,173768295,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,General Sales and Use Tax,173768295,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Hotel and Motel Tax,33267132,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Hotel and Motel Tax,25568286,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Hotel and Motel Tax,25568286,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Live Racing,81465,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Live Racing,61791,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Live Racing,61791,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Motor Vehicle Tax,16671810,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Motor Vehicle Tax,15203710,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Motor Vehicle Tax,15203710,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Off Track Betting,61173,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Off Track Betting,45444,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Off Track Betting,45444,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Parking Tax,4988694,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Parking Tax,4827156,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Parking Tax,4827156,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Sewerage & Water Board Tax,2476674,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Sewerage & Water Board Tax,2387498,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Sewerage & Water Board Tax,2387498,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Sports Wagering,629642,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Sports Wagering,492424,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Sports Wagering,492424,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Tax Sales Cost,8503,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Tax Sales Cost,602,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Tax Sales Cost,602,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Other Taxes,Utility Tax Entergy New Orleans,15861101,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Other Taxes,Utility Tax Entergy New Orleans,15769802,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Other Taxes,Utility Tax Entergy New Orleans,15769802,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Dedicated Fire - 1 Millage Personal,1599067,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Dedicated Fire - 1 Millage Personal,1358713,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Dedicated Fire - 1 Millage Personal,1358713,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Dedicated Fire - 1 Millage Real,8577035,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Dedicated Fire - 1 Millage Real,8423154,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Dedicated Fire - 1 Millage Real,8423154,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Dedicated Fire - 1/2 Millage Personal,797664,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Dedicated Fire - 1/2 Millage Personal,677523,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Dedicated Fire - 1/2 Millage Personal,677523,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Dedicated Fire - 1/2 Millage Real,4247378,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Dedicated Fire - 1/2 Millage Real,4230688,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Dedicated Fire - 1/2 Millage Real,4230688,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Dedicated Police - 1 Millage Personal,1599056,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Dedicated Police - 1 Millage Personal,1358702,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Dedicated Police - 1 Millage Personal,1358702,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Dedicated Police - 1 Millage Real,8015679,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Dedicated Police - 1 Millage Real,7818583,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Dedicated Police - 1 Millage Real,7818583,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Dedicated Police - 1/2 Millage Personal,828300,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Dedicated Police - 1/2 Millage Personal,677512,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Dedicated Police - 1/2 Millage Personal,677512,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Dedicated Police - 1/2 Millage Real,3987090,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Dedicated Police - 1/2 Millage Real,3898819,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Dedicated Police - 1/2 Millage Real,3898819,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Fire - 5 Millage Real Property - Prior,23161,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Fire - 5 Millage Real Property - Prior,10161,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Fire - 5 Millage Real Property - Prior,10161,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Fire - 5 Millage Real Property- Prior,230812,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Fire - 5 Millage Real Property- Prior,57130,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Fire - 5 Millage Real Property- Prior,57130,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Fire 2.5 Millage Real Estate,34372174,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Fire 2.5 Millage Real Estate,33649267,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Fire 2.5 Millage Real Estate,33649267,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Interest - Delinquent Personal Property,564196,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Interest - Delinquent Personal Property,284421,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Interest - Delinquent Personal Property,284421,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Interest - Delinquent Real Property,3556455,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Interest - Delinquent Real Property,3215578,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Interest - Delinquent Real Property,3215578,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,New Orleans Rec Devel Comm (NORDC),9149980,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,New Orleans Rec Devel Comm (NORDC),8855193,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,New Orleans Rec Devel Comm (NORDC),8855193,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Nord - 1.5 Millage Real Property - Current,7056,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Nord - 1.5 Millage Real Property - Current,1763,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Nord - 1.5 Millage Real Property - Current,1763,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Nord - 1.5 Millage Real Property - Prior,52286,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Nord - 1.5 Millage Real Property - Prior,40407,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Nord - 1.5 Millage Real Property - Prior,40407,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Nord -1.5 Millage Real Property - Current,39530,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Nord -1.5 Millage Real Property - Current,1520,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Nord -1.5 Millage Real Property - Current,1520,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Parks and Parkways (NODPP),8672977,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Parks and Parkways (NODPP),8433298,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Parks and Parkways (NODPP),8433298,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Parkway - 1.5 Millage Real Property - Current,-220967,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Parkway - 1.5 Millage Real Property - Current,-196469,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Parkway - 1.5 Millage Real Property - Current,-196469,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Parkway - 1.5 Millage Real Property - Prior,51350,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Parkway - 1.5 Millage Real Property - Prior,40363,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Parkway - 1.5 Millage Real Property - Prior,40363,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Personal Prop - Prior,67274,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Personal Prop - Prior,35663,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Personal Prop - Prior,35663,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Personal Property - Current,11531299,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Personal Property - Current,10172476,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Personal Property - Current,10172476,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property - Current,4016864,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property - Current,3457382,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property - Current,3457382,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property - Prior,16558,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property - Prior,7067,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property - Prior,7067,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property- Current,23484839,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property- Current,23056695,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property- Current,23056695,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property- Prior,181456,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property- Prior,49178,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Police - 5 Millage Real Property- Prior,49178,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Property Tax - Current,59077491,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Property Tax - Current,55123201,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Property Tax - Current,55123201,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Property Tax - Prior,718246,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Property Tax - Prior,551349,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Property Tax - Prior,551349,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Rfire - 5 Millage Real Property - Current,5887961,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Rfire - 5 Millage Real Property - Current,5186073,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Rfire - 5 Millage Real Property - Current,5186073,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Special Real Property 1979,16830,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Special Real Property 1979,145338,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Special Real Property 1979,145338,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Special Real Property 1980,323,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Special Real Property 1980,-12,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Special Real Property 1980,-12,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Property Taxes,Streets - 1.9 Millage Real Property - Prior,67687,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Property Taxes,Streets - 1.9 Millage Real Property - Prior,52213,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Property Taxes,Streets - 1.9 Millage Real Property - Prior,52213,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,1% District Tax Collection Fee,56859,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,1% District Tax Collection Fee,65761,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,1% District Tax Collection Fee,65761,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,2% District Tax Collection Fee,9597983,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,2% District Tax Collection Fee,10753320,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,2% District Tax Collection Fee,10753320,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Airport Fire Suppression,6010181,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Airport Fire Suppression,4900000,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Airport Fire Suppression,4900000,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Appeals Bd Building Standards,52381,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Appeals Bd Building Standards,29722,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Appeals Bd Building Standards,29722,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Appeals Bd Zoning Ads,23140,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Appeals Bd Zoning Ads,20784,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Appeals Bd Zoning Ads,20784,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Avt Collection Fee,84313,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Avt Collection Fee,18607,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Avt Collection Fee,18607,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Bad Check Processing Fee,8894,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Bad Check Processing Fee,20333,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Bad Check Processing Fee,20333,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Coroner Emergency Certificate,41089,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Coroner Emergency Certificate,132442,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Coroner Emergency Certificate,132442,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Credit Card Processing Fee,1267,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Credit Card Processing Fee,1845,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Credit Card Processing Fee,1845,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Department of Public Safety,34505,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Department of Public Safety,32180,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Department of Public Safety,32180,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Ems Collections,12563345,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Ems Collections,25000000,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Ems Collections,25000000,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Ems Stand by Fee,637267,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Ems Stand by Fee,483844,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Ems Stand by Fee,483844,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,False Alarm Fines,125876,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,False Alarm Fines,62346,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,False Alarm Fines,62346,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Filming Fees and Charges,197361,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Filming Fees and Charges,14964,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Filming Fees and Charges,14964,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Fire Prevention Inspection,139508,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Fire Prevention Inspection,111382,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Fire Prevention Inspection,111382,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Harrah's City Support,5952374,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Harrah's City Support,6181200,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Harrah's City Support,6181200,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Hazardous Material Fee,44476,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Hazardous Material Fee,83706,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Hazardous Material Fee,83706,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Id Charges,214,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Id Charges,41,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Id Charges,41,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Indirect Costs,3039278,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Indirect Costs,1473739,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Indirect Costs,1473739,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Map Change Reg Fee,143135,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Map Change Reg Fee,152496,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Map Change Reg Fee,152496,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Maps and Document Fee,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Maps and Document Fee,171,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Maps and Document Fee,171,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Moratorium Appeals Fee,3968,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Moratorium Appeals Fee,2598,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Moratorium Appeals Fee,2598,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Non-Conforming Use Application Fee,5159,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Non-Conforming Use Application Fee,13510,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Non-Conforming Use Application Fee,13510,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Parking Meters,5269373,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Parking Meters,5088398,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Parking Meters,5088398,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Plan Processing Fees,1471231,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Plan Processing Fees,1091534,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Plan Processing Fees,1091534,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Police Record Reports,448806,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Police Record Reports,328179,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Police Record Reports,328179,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Private Ambulance Services,17311,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Private Ambulance Services,45943,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Private Ambulance Services,45943,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Redemption Cost,32926,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Redemption Cost,12896,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Redemption Cost,12896,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,"Sales Maps,Documents",0,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,"Sales Maps,Documents",317582,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,"Sales Maps,Documents",317582,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Sales Tax Collection Services Sales - Rta,1527723,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Sales Tax Collection Services Sales - Rta,1559250,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Sales Tax Collection Services Sales - Rta,1559250,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Sanitation Service Charge,37352276,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Sanitation Service Charge,37675205,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Sanitation Service Charge,37675205,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Shelter Rentals,4167,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Shelter Rentals,4004,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Shelter Rentals,4004,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,State Highway Maintence,245982,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,State Highway Maintence,183691,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,State Highway Maintence,183691,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Subdivision Fee,53160,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Subdivision Fee,33021,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Subdivision Fee,33021,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Tax Collection Services Fee,2644350,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Tax Collection Services Fee,2659530,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Tax Collection Services Fee,2659530,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Temporary Parking Meters,481173,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Temporary Parking Meters,608773,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Temporary Parking Meters,608773,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Towing Charges,579192,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Towing Charges,1160169,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Towing Charges,1160169,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Utility Regulatory Fees,1684263,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Utility Regulatory Fees,1745832,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Utility Regulatory Fees,1745832,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Vehicle Immobilization,709738,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Vehicle Immobilization,339952,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Vehicle Immobilization,339952,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Zoning Site Review,8482,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Zoning Site Review,9586,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Zoning Site Review,9586,Statement of Revenues
+2026-operating-adopted,2025,adopted,general_fund,General Fund,Service Charges,Zoning Verification,6349,Statement of Revenues
+2026-operating-adopted,2026,proposed,general_fund,General Fund,Service Charges,Zoning Verification,21927,Statement of Revenues
+2026-operating-adopted,2026,adopted,general_fund,General Fund,Service Charges,Zoning Verification,21927,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,Economic Development Fund,,Economic Development Fund,201309,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,Economic Development Fund,,Economic Development Fund,106090,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,Economic Development Fund,,Economic Development Fund,106090,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,Exclude from Budget,,Exclude from Budget,11956645,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,Exclude from Budget,,Exclude from Budget,0,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,Exclude from Budget,,Exclude from Budget,0,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,Federal Grants,,Federal Grants,337566271,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,Federal Grants,,Federal Grants,270540426,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,Federal Grants,,Federal Grants,270540426,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,"Grants, Contrib., & Fund Transfers",,"Grants, Contrib., & Fund Transfers",229226238,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,"Grants, Contrib., & Fund Transfers",,"Grants, Contrib., & Fund Transfers",274000000,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,"Grants, Contrib., & Fund Transfers",,"Grants, Contrib., & Fund Transfers",199816564,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,Housing and Urban Development,,Housing and Urban Development,72911332,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,Housing and Urban Development,,Housing and Urban Development,89038364,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,Housing and Urban Development,,Housing and Urban Development,89038364,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,Housing Improvement Fund,,Housing Improvement Fund,925745,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,Housing Improvement Fund,,Housing Improvement Fund,1208863,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,Housing Improvement Fund,,Housing Improvement Fund,1208863,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,Library,,Library,37419400,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,Library,,Library,34200000,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,Library,,Library,34200000,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,Local Law Enforcement Grants,,Local Law Enforcement Grants,158010,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,Local Law Enforcement Grants,,Local Law Enforcement Grants,141293,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,Local Law Enforcement Grants,,Local Law Enforcement Grants,141293,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,"Self Generated, Spc Rev, Trust Funds",,"Self Generated, Spc Rev, Trust Funds",152524570,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,"Self Generated, Spc Rev, Trust Funds",,"Self Generated, Spc Rev, Trust Funds",139014130,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,"Self Generated, Spc Rev, Trust Funds",,"Self Generated, Spc Rev, Trust Funds",139014130,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,State & Local Foundations Grants,,State & Local Foundations Grants,61528325,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,State & Local Foundations Grants,,State & Local Foundations Grants,58474900,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,State & Local Foundations Grants,,State & Local Foundations Grants,58474900,Statement of Revenues
+2026-operating-adopted,2025,adopted,other_funds,Wisner Fund,,Wisner Fund,0,Statement of Revenues
+2026-operating-adopted,2026,proposed,other_funds,Wisner Fund,,Wisner Fund,126606,Statement of Revenues
+2026-operating-adopted,2026,adopted,other_funds,Wisner Fund,,Wisner Fund,126606,Statement of Revenues

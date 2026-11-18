@@ -1,0 +1,137 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% macro dept_cell(r) -%}
+<th scope="row"><a href="{{ r.dept.url }}">{{ r.dept.name }}</a>{% if r.dept.id in moved %} <a class="fn" href="#moves" aria-label="Work may have moved in or out of this department. See the note on known moves.">moved?</a>{% endif %}</th>
+{%- endmacro %}
+{# A "Source:" line from (label, cite) pairs, for the page opener and the moves box. #}
+{% macro source_line(pairs) -%}
+<p class="source">Sources: {% for label, c in pairs %}{{ label }}, {{ m.cite(c) }}{% if not loop.last %}; {% endif %}{% endfor %}.</p>
+{%- endmacro %}
+{% macro sources(cites) -%}
+<ul class="sources">{% for label, c in cites %}<li>{{ label }}: {{ m.cite(c) }}</li>{% endfor %}</ul>
+{%- endmacro %}
+{% macro change_table(rows, caption) -%}
+<div class="table-scroll">
+<p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
+<table class="data index cmp">
+  <caption class="vh">{{ caption }}</caption>
+  <thead><tr><th scope="col">Department</th><th scope="col" class="num">{{ old_short }}</th><th scope="col" class="num">{{ new_short }}</th><th scope="col" class="num">Change</th><th scope="col" class="num">Percent</th></tr></thead>
+  <tbody>
+  {% for r in rows %}
+    <tr>{{ dept_cell(r) }}{{ m.num(r.old|full if r.old is not none else none) }}{{ m.num(r.new|full if r.new is not none else none) }}{% if r.diff is not none %}<td class="num">{{ r.diff|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}{% if r.pct is not none %}<td class="num">{{ r.pct|signed_pct }}</td>{% else %}<td class="num na"><span aria-hidden="true">–</span><span class="vh">{{ "no percent, as nothing was budgeted before" if r.diff is not none else "not printed" }}</span></td>{% endif %}</tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{%- endmacro %}
+{% block description %}How each department's budget changes from {{ oy }} to {{ ny }}: {{ new_name }} against {{ old_name }}.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/changes/", "Changes")] + ([] if main else [("/changes/%d/"|format(ny), ny|string)]) %}
+{% block content %}
+<header class="lede">
+  <h1>Changes from {{ oy }} to {{ ny }}</h1>
+  <p class="lead">{{ lead|join(' ') }}</p>
+  <p>{{ all_line }}</p>
+  {% for s in sections %}{{ source_line(s.cites) }}{% endfor %}
+  <p><strong>Read changes with care.</strong> A change can be new spending, a cut, or work moved from one department to another. The budget book does not always say which.</p>
+  <p class="actions">
+    <a class="button" href="#c-general_fund">General Fund</a>
+    <a class="button" href="#c-all_funds">All funds</a>
+    <a class="button" href="#income">Income</a>
+    <a class="button" href="#positions">Jobs</a>
+  </p>
+</header>
+
+{% if moves %}
+<section class="block callout" id="moves" aria-labelledby="moves-h">
+  <h2 id="moves-h">Known moves between departments</h2>
+  {% for mv in moves %}
+  <p id="move-{{ mv.id }}">{{ mv.text }}</p>
+  <ul class="changes">
+  {% for d in mv.depts %}<li><a href="{{ d.dept.url }}">{{ d.dept.name }}</a>{% if d.sentence %}: General Fund {{ d.sentence }}{% endif %}.</li>{% endfor %}
+  </ul>
+  {% endfor %}
+  {{ source_line(sections[0].cites) }}
+</section>
+{% endif %}
+
+{% for s in sections %}
+<section class="block" aria-labelledby="c-{{ s.fund }}" id="c-{{ s.fund }}">
+  <h2>Spending: {% if s.fund == 'general_fund' %}<a href="/#general-fund">General Fund</a>{% else %}all funds{% endif %}</h2>
+  <p class="sub">{{ old_short }} {{ s.old|money }}; {{ new_short }} {{ s.new|money }}; {{ fmt.change(s.new, s.old) }}. In dollars, largest change first.</p>
+
+  <h3>Increases ({{ s.ups|length }})</h3>
+  {% if s.ups %}{{ change_table(s.ups, FUND_LABEL[s.fund] ~ ': departments that go up, in dollars') }}{% else %}<p>No department goes up.</p>{% endif %}
+
+  <h3>Decreases ({{ s.downs|length }})</h3>
+  {% if s.downs %}{{ change_table(s.downs, FUND_LABEL[s.fund] ~ ': departments that go down, in dollars') }}{% else %}<p>No department goes down.</p>{% endif %}
+
+  {% if s.one %}
+  <h3>Printed in only one of the two books ({{ s.one|length }})</h3>
+  <p class="sub">A dash means the department is not printed as its own line in that book. That can mean it was merged, split or renamed, not that its money went to zero.</p>
+  {{ change_table(s.one, FUND_LABEL[s.fund] ~ ': departments printed in only one book, in dollars') }}
+  {% endif %}
+
+  {% if s.same %}
+  <h3>No change ({{ s.same|length }})</h3>
+  <p>{% for r in s.same %}<a href="{{ r.dept.url }}">{{ r.dept.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+  {% endif %}
+
+  <p class="table-note">Total, {{ old_short }}: {{ s.old|full }}. Total, {{ new_short }}: {{ s.new|full }}. Change: {{ (s.new - s.old)|signed_full }} ({{ ((s.new - s.old) / s.old)|signed_pct }}).</p>
+  {{ sources(s.cites) }}
+</section>
+{% endfor %}
+
+<section class="block" id="income" aria-labelledby="income-h">
+  <h2 id="income-h">Income: General Fund</h2>
+  <p class="sub">{{ old_short }} {{ rev_to|money }}; {{ new_short }} {{ rev_tn|money }}; {{ fmt.change(rev_tn, rev_to) }}. In dollars, largest change first. <a href="/revenue/">More on the city's income</a>.</p>
+  {% if rev_rows %}
+  <div class="table-scroll">
+  <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
+<table class="data index cmp">
+    <caption class="vh">General Fund income by category: {{ old_short }} and {{ new_short }}, in dollars</caption>
+    <thead><tr><th scope="col">Kind of income</th><th scope="col" class="num">{{ old_short }}</th><th scope="col" class="num">{{ new_short }}</th><th scope="col" class="num">Change</th><th scope="col" class="num">Percent</th></tr></thead>
+    <tbody>
+    {% for r in rev_rows %}
+      <tr><th scope="row">{{ r.name }}</th>{{ m.num(r.old|full if r.old is not none else none) }}{{ m.num(r.new|full if r.new is not none else none) }}<td class="num">{{ r.diff|signed_full }}</td>{% if r.pct is not none %}<td class="num">{{ r.pct|signed_pct }}</td>{% else %}<td class="num na"><span aria-hidden="true">–</span><span class="vh">{{ "no percent, as nothing was budgeted before" if r.diff is not none else "not printed" }}</span></td>{% endif %}</tr>
+    {% endfor %}
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">Total income</th><td class="num">{{ rev_to|full }}</td><td class="num">{{ rev_tn|full }}</td><td class="num">{{ (rev_tn - rev_to)|signed_full }}</td><td class="num">{{ ((rev_tn - rev_to) / rev_to)|signed_pct }}</td></tr></tfoot>
+  </table>
+  </div>
+  {{ sources(rev_cites) }}
+  {% else %}
+  <p>The books we have do not print income for both years.</p>
+  {% endif %}
+</section>
+
+<section class="block" id="positions" aria-labelledby="positions-h">
+  <h2 id="positions-h">Jobs: budgeted positions</h2>
+  {% if pos_rows %}
+  <p class="sub">{% if main %}The books for {{ ny }} print only the Mayor's proposed positions. To compare like with like, this table sets the {{ pos_new_label }} count against the {{ pos_old_label }} count, both from the Mayor's budget proposals. The {{ pos_ref_label }} count is shown for reference. {% else %}Adopted positions in {{ ny }} against adopted positions in {{ oy }}. {% endif %}Full-time positions, largest change first. A budgeted position may be empty, and books count positions differently from year to year, so treat these as a rough guide.</p>
+  <p>In all: {{ pos_f.old }} positions in {{ pos_old_label }}, {{ pos_f.new }} in {{ pos_new_label }}, {{ fmt.change(pos_tn, pos_to, 'count') }}.</p>
+  <div class="table-scroll">
+  <table class="data index">
+    <caption class="vh">Budgeted positions by department: {{ pos_old_label }} and {{ pos_new_label }}</caption>
+    <thead><tr><th scope="col">Department</th>{% if main %}<th scope="col" class="num">{{ pos_ref_label }}</th>{% endif %}<th scope="col" class="num">{{ pos_old_label }}</th><th scope="col" class="num">{{ pos_new_label }}</th><th scope="col" class="num">Change</th></tr></thead>
+    <tbody>
+    {% for r in pos_rows %}
+      <tr>{{ dept_cell(r) }}{% if main %}{{ m.num(r.f_ref) }}{% endif %}{{ m.num(r.f_old) }}{{ m.num(r.f_new) }}{{ m.num(r.f_diff) }}</tr>
+    {% endfor %}
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">All departments</th>{% if main %}<td class="num">{{ pos_f.ref }}</td>{% endif %}<td class="num">{{ pos_f.old }}</td><td class="num">{{ pos_f.new }}</td><td class="num">{{ pos_f.diff }}</td></tr></tfoot>
+  </table>
+  </div>
+  {{ sources(pos_cites) }}
+  {% else %}
+  <p>The books we have do not print position counts for both years.</p>
+  {% endif %}
+</section>
+
+{{ m.footnotes(notes) }}
+
+<section class="block" aria-labelledby="more">
+  <h2 id="more">See the whole budgets</h2>
+  <p><a href="/budgets/{{ oy }}/">The {{ oy }} budget</a> · <a href="/budgets/{{ ny }}/">The {{ ny }} budget</a>{% if not main %} · <a href="/changes/">Changes from {{ fy }} to {{ py }}</a>{% else %} · <a href="/budgets/">All years</a>{% endif %}</p>
+  <p>Earlier years: {% for y in years_list|reverse %}<a href="/changes/{{ y }}/">{{ y }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+</section>
+{% endblock %}

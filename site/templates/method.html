@@ -1,0 +1,109 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}How the figures on NOLA Budget were made: where the books came from, how the tables were read, the three checks, how one figure is chosen when books disagree, and what is not covered.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/about/", "About the data"), ("/method/", "How the numbers were made")] %}
+
+{% macro stats(rows, what) -%}
+<div class="table-scroll">
+<table class="data">
+  <caption class="vh">{{ what }} that appear in more than one book, and how many are identical</caption>
+  <thead><tr><th scope="col">Kind of figure</th><th scope="col" class="num">In more than one book</th><th scope="col" class="num">Identical in every book</th><th scope="col" class="num">Share identical</th></tr></thead>
+  <tbody>
+  {% for r in rows %}
+    <tr><th scope="row">{{ r.basis|capitalize }}</th><td class="num">{{ r.multi|number }}</td><td class="num">{{ r.same|number }}</td><td class="num">{{ r.share }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{%- endmacro %}
+
+{% block content %}
+<header class="lede">
+  <h1>How the numbers were made</h1>
+  <p class="lead">Every budget figure on this site was read from a budget book by a script, never typed in, and then checked three ways. This page says how, with the real counts, and what the site does not cover. Where the books disagree with themselves, <a href="/not-explained/">what the books don't explain</a> lists the cases.</p>
+  <nav aria-label="On this page">
+    <ul>
+      <li><a href="#books">Where the books came from</a></li>
+      <li><a href="#reading">How the tables were read</a></li>
+      <li><a href="#checks">The three checks</a></li>
+      <li><a href="#choosing">Choosing one figure when books disagree</a></li>
+      <li><a href="#departments">Matching departments across years</a></li>
+      <li><a href="#corrections">What was corrected, and why</a></li>
+      <li><a href="#not-covered">What is not covered</a></li>
+    </ul>
+  </nav>
+</header>
+
+<section class="block prose" id="books" aria-labelledby="h-books">
+  <h2 id="h-books">Where the books came from</h2>
+  <p>The site uses the city's operating budget books: {{ n_books }} of them, for {{ first }} to {{ last }}. {{ n_adopted }} are adopted budgets and {{ n_proposed }} are the Mayor's proposals. The books are the ones the city published: {{ n_nola }} PDF files from nola.gov, {{ n_archive }} ({{ archive_years|join(" and ") }}) from an archived copy of the city's old website, and {{ n_openbook }} (from {{ first_open }}) from the city's online budget viewer, which publishes each book as a PDF and as web pages. For those {{ n_openbook }}, the tables were read from the web pages. The full list, with links, is on the <a href="/about/#sources">About page</a>.</p>
+  <p>No adopted book is in the set for {{ gap_years }}; the <a href="/not-explained/#missing">missing items</a> say what the site did instead.</p>
+</section>
+
+<section class="block prose" id="reading" aria-labelledby="h-reading">
+  <h2 id="h-reading">How the tables were read</h2>
+  <p>Each book has its own script. The script finds a table by its printed title, reads the position of every word on the page, and puts each number in the column whose year and heading sit above it. It does not go by the order of the text, which scrambles columns. A name is kept exactly as the book prints it, and a figure the book leaves blank is left out, never turned into a zero. No figure in the extraction scripts or in what they wrote was typed by hand.</p>
+  <p>The scripts read the tables for spending by department and fund, income by source, each department's own pages (by type of expense, by source of money and by program) and positions. Together that is {{ n_spending_rows }} printings of spending figures, {{ n_revenue_rows }} of income figures, {{ n_detail_rows }} lines of department detail and {{ n_position_rows }} lines of positions.</p>
+  <p>Two books needed more care. {% if ocr_pages %}In the 2008 book, {{ ocr_pages }} pages are scanned images, and their figures were read by text recognition, with any figure that could not be read left out rather than guessed. {% endif %}In the 2020 proposed book, the numbers on some pages are stored in a way that ordinary text tools cannot read; they were decoded where possible and the rest is listed under <a href="/not-explained/#missing">what is missing</a>.</p>
+</section>
+
+<section class="block prose" id="checks" aria-labelledby="h-checks">
+  <h2 id="h-checks">The three checks</h2>
+  <h3>1. Each printed total against the rows beneath it</h3>
+  <p>A book prints a total under most tables. For each one, the script adds the rows it read and compares the sum with the printed total. Across all {{ n_books }} books, {{ printed.total }} printed totals were checked. {{ printed.exact }} matched exactly, {{ printed.within_1 }} were within a dollar, and {{ printed.mismatch }} differed{% if printed_other %}; {{ printed_other }} could not be checked this way{% endif %}. When a total did not match, the script was not changed to make it match: the difference stayed in the record and is listed on <a href="/not-explained/">the not-explained page</a> if it is large.</p>
+  <h3>2. Tables against each other</h3>
+  <p>The same money is printed more than once in a book: General Fund plus other funds should equal all funds; a department's own pages should match its line in the citywide table; an overview page should match the statements. The script made {{ cross.total }} comparisons of this kind. {{ cross.exact }} matched exactly, {{ cross.within_1 }} were within a dollar, and {{ cross.mismatch }} differed{% if cross_other %}; {{ cross_other }} could not be compared{% endif %}. Some of the differences are small and some are large. The large ones are on <a href="/not-explained/#add-up">the not-explained page</a>.</p>
+  <h3>3. The same year in different books</h3>
+  <p>Each book also prints earlier years, so most years are printed in several books. A figure here is one department (or one income line), one fiscal year and one fund group. The table shows how many of them are printed in more than one book, and how many of those are identical to the dollar in every book.</p>
+  <h4>Spending</h4>
+  {{ stats(spend_stats, "Spending figures") }}
+  <h4>Income</h4>
+  {{ stats(rev_stats, "Income figures") }}
+  <p class="table-note">{% if spend_stats[0].diff == 0 %}Actual spending is identical to the dollar wherever a later book reprints it. The differences are in budgets and in income actuals, which the <a href="/not-explained/#reprinted">reprinted figures</a> section shows.{% else %}The differences are listed in the <a href="/not-explained/#reprinted">reprinted figures</a> section.{% endif %} Every printing of every figure is in the downloads (<a href="/about/#downloads">spending_observations.csv and revenue_observations.csv</a>).</p>
+  {% if sampled != "0" %}<p>Beyond these checks, for the books where spot checks were recorded, {{ sampled }} cells were chosen at random and looked up on the page by a second program using a different method. {{ found }} were found as read.</p>{% endif %}
+</section>
+
+<section class="block prose" id="choosing" aria-labelledby="h-choosing">
+  <h2 id="h-choosing">Choosing one figure when books disagree</h2>
+  <p>Where a year is printed in more than one book, the site shows one figure and keeps the others in the downloads. The choice is made for a whole column at a time (one fund, one year, one kind of figure), never cell by cell, so no column mixes figures from two books. The rules are:</p>
+  <ul>
+    <li><strong>Actual spending or income:</strong> the latest book that prints it, because later books are the ones that could include corrections. A later book that reprints only part of a column (fewer than nine in ten of the lines) is ignored for this.</li>
+    <li><strong>Adopted:</strong> the year's own adopted book. If there is none, the earliest later book that reprints it:{% for f in fallbacks %} the {{ f.later }} book for {{ f.year }}{% if not loop.last %}, and{% endif %}{% endfor %}.</li>
+    <li><strong>Proposed:</strong> the year's own proposed book, where the site has it ({{ proposed_years }}). Otherwise the proposed column of that year's adopted book. The 2026 adopted book's "proposed" column differs from the proposed book itself (see <a href="/not-explained/#reprinted-totals">reprinted figures</a>), which is why the proposed book is preferred.</li>
+    <li><strong>Revised:</strong> not printed as such. It is the adopted figure as printed again in the next year's book, shown only where that book's figure differs.</li>
+  </ul>
+  <p>Before any of this, the label corrections listed below are applied. A column marked "computed from" was not printed as a single figure and was worked out from others, such as all funds as the General Fund plus other funds.</p>
+</section>
+
+<section class="block prose" id="departments" aria-labelledby="h-departments">
+  <h2 id="h-departments">Matching departments across years</h2>
+  <p>Departments are renamed, merged and split. The books print {{ n_names }} different names for what this site treats as {{ n_depts }} lines. A table, written once and kept with the data, lists every name printed in every book and says which department it is. A script checks that every printed name is matched exactly once, that the total for each year is the same before and after matching, and lists names whose amounts equal another name's amounts in another book, as evidence that they are the same line. Three examples:</p>
+  <ul>
+  {% for e in examples %}
+    <li><a href="{{ e.url }}">{{ e.dept }}</a> is printed as {% for n in e.names %}"{{ n.name }}" ({{ n['from'] }}{% if n.to != n['from'] %} to {{ n.to }}{% endif %}){% if not loop.last %}{% if loop.revindex == 2 %}, then {% else %}, then {% endif %}{% endif %}{% endfor %}.{% if e.dept == "Municipal and Traffic Court" %} Until the 2021 book, the Municipal Court and the Traffic Court had separate lines, and the site adds them together.{% endif %}</li>
+  {% endfor %}
+  </ul>
+  <p>Where a department's contents change, so that the same name does not mean the same thing every year, the department page says so. Recreation, for example, stops being a separate line and is carried inside <a href="/departments/miscellaneous/">Miscellaneous</a>, so the two cannot be compared across that change.</p>
+</section>
+
+<section class="block prose" id="corrections" aria-labelledby="h-corrections">
+  <h2 id="h-corrections">What was corrected, and why</h2>
+  <p>Some labels in the books are wrong in ways that can be shown from the books themselves. The site corrects them before combining figures: {{ n_corr_rows }} rules, covering {{ n_problems }} problems, which relabel {{ spend_corrected }} printings of spending, {{ rev_corrected }} of income and the affected personnel pages. Each rule carries its reason with the data. The cases are:</p>
+  <ul>
+    <li>a column that the 2018 book headed "Adopted" but that holds actual spending;</li>
+    <li>personnel pages in the 2008 and 2011 books that carry column headings from an older template.</li>
+  </ul>
+  <p>The corrections change the label on a figure, never the figure. Other label problems (a line printed under another department's name, for instance) are handled by the department matching above. All are described, with pages, in <a href="/not-explained/#labels">what the books don't explain</a>. Figures the books print wrongly, such as a total that does not match its rows, are not corrected: the site shows what the book prints.</p>
+</section>
+
+<section class="block prose" id="not-covered" aria-labelledby="h-not-covered">
+  <h2 id="h-not-covered">What is not covered</h2>
+  <ul>
+    <li><strong>Capital budgets.</strong> The books also have capital improvement plans for building and repair work. They are not read here.</li>
+    <li><strong>Debt.</strong> Debt service appears where an operating book prints it inside a department's spending. Borrowing, bond sales and what the city owes are not covered.</li>
+    <li><strong>Narrative and performance measures.</strong> The books explain programs and set targets in words and charts. The site does not read that text, so an explanation that exists only in the narrative is not on this site. That is why the not-explained page says what the <em>tables</em> leave unsaid.</li>
+    <li><strong>Audited accounts.</strong> "Actual" spending is what a later budget book prints for a past year. It is not taken from the city's annual financial report.</li>
+    <li><strong>Bodies with their own budgets.</strong> Bodies that set their own budgets are not included.{% if own_budget_named|length == 0 %} No citywide spending table in any of the {{ n_books }} books has a line for the Sewerage and Water Board, the school board or the regional transit authority; the Sewerage and Water Board appears only in the income tables, in lines named for it.{% endif %} Enterprise bodies that pay their own way, such as the airport, appear in some books with their own pages and are mostly not part of the citywide totals.</li>
+  </ul>
+</section>
+{% endblock %}

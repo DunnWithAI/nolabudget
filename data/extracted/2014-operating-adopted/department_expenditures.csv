@@ -1,0 +1,937 @@
+book_id,fiscal_year,basis,fund_group,dept_code,dept_name,amount,page
+2014-operating-adopted,2004,actual,general_fund,,Council,10492207,23
+2014-operating-adopted,2005,actual,general_fund,,Council,6400808,23
+2014-operating-adopted,2006,actual,general_fund,,Council,4567955,23
+2014-operating-adopted,2004,actual,general_fund,,Mayor,4345149,23
+2014-operating-adopted,2005,actual,general_fund,,Mayor,5350194,23
+2014-operating-adopted,2006,actual,general_fund,,Mayor,4150812,23
+2014-operating-adopted,2004,actual,general_fund,,CAO,51966454,23
+2014-operating-adopted,2005,actual,general_fund,,CAO,41878919,23
+2014-operating-adopted,2006,actual,general_fund,,CAO,44631550,23
+2014-operating-adopted,2004,actual,general_fund,,Law,9848543,23
+2014-operating-adopted,2005,actual,general_fund,,Law,18899563,23
+2014-operating-adopted,2006,actual,general_fund,,Law,6360494,23
+2014-operating-adopted,2004,actual,general_fund,,Fire,54090472,23
+2014-operating-adopted,2005,actual,general_fund,,Fire,57435860,23
+2014-operating-adopted,2006,actual,general_fund,,Fire,45668116,23
+2014-operating-adopted,2004,actual,general_fund,,Safety & Permits,3467141,23
+2014-operating-adopted,2005,actual,general_fund,,Safety & Permits,3171523,23
+2014-operating-adopted,2006,actual,general_fund,,Safety & Permits,2650845,23
+2014-operating-adopted,2004,actual,general_fund,,Police,122041295,23
+2014-operating-adopted,2005,actual,general_fund,,Police,145349043,23
+2014-operating-adopted,2006,actual,general_fund,,Police,94989624,23
+2014-operating-adopted,2004,actual,general_fund,,Sanitation,36920308,23
+2014-operating-adopted,2005,actual,general_fund,,Sanitation,24627632,23
+2014-operating-adopted,2006,actual,general_fund,,Sanitation,17615709,23
+2014-operating-adopted,2004,actual,general_fund,,Health,11145660,23
+2014-operating-adopted,2005,actual,general_fund,,Health,10975910,23
+2014-operating-adopted,2006,actual,general_fund,,Health,7480265,23
+2014-operating-adopted,2004,actual,general_fund,,Human Services,2514239,23
+2014-operating-adopted,2005,actual,general_fund,,Human Services,1942566,23
+2014-operating-adopted,2006,actual,general_fund,,Human Services,860001,23
+2014-operating-adopted,2004,actual,general_fund,,Finance,45239925,23
+2014-operating-adopted,2005,actual,general_fund,,Finance,46189413,23
+2014-operating-adopted,2006,actual,general_fund,,Finance,35100784,23
+2014-operating-adopted,2004,actual,general_fund,,Property Management,10641548,23
+2014-operating-adopted,2005,actual,general_fund,,Property Management,8786639,23
+2014-operating-adopted,2006,actual,general_fund,,Property Management,5693620,23
+2014-operating-adopted,2004,actual,general_fund,,Civil Service,2219640,23
+2014-operating-adopted,2005,actual,general_fund,,Civil Service,1721772,23
+2014-operating-adopted,2006,actual,general_fund,,Civil Service,1020584,23
+2014-operating-adopted,2004,actual,general_fund,,Public Works,17181051,23
+2014-operating-adopted,2005,actual,general_fund,,Public Works,13616635,23
+2014-operating-adopted,2006,actual,general_fund,,Public Works,7265799,23
+2014-operating-adopted,2004,actual,general_fund,,Recreation,6345064,23
+2014-operating-adopted,2005,actual,general_fund,,Recreation,4677252,23
+2014-operating-adopted,2006,actual,general_fund,,Recreation,923632,23
+2014-operating-adopted,2004,actual,general_fund,,Parks & Parkways,7515710,23
+2014-operating-adopted,2005,actual,general_fund,,Parks & Parkways,6251796,23
+2014-operating-adopted,2006,actual,general_fund,,Parks & Parkways,3827744,23
+2014-operating-adopted,2004,actual,general_fund,,HDLC,440870,23
+2014-operating-adopted,2005,actual,general_fund,,HDLC,342368,23
+2014-operating-adopted,2006,actual,general_fund,,HDLC,246600,23
+2014-operating-adopted,2004,actual,general_fund,,VCC,402269,23
+2014-operating-adopted,2005,actual,general_fund,,VCC,343982,23
+2014-operating-adopted,2006,actual,general_fund,,VCC,138370,23
+2014-operating-adopted,2005,actual,general_fund,,Alcoholic Bvg Ctrl. Bd.,50,23
+2014-operating-adopted,2006,actual,general_fund,,Alcoholic Bvg Ctrl. Bd.,50,23
+2014-operating-adopted,2004,actual,general_fund,,City Planning Comm.,1450308,23
+2014-operating-adopted,2005,actual,general_fund,,City Planning Comm.,1312450,23
+2014-operating-adopted,2006,actual,general_fund,,City Planning Comm.,877483,23
+2014-operating-adopted,2004,actual,general_fund,,Mosquito Control Bd.,1835467,23
+2014-operating-adopted,2005,actual,general_fund,,Mosquito Control Bd.,2088268,23
+2014-operating-adopted,2006,actual,general_fund,,Mosquito Control Bd.,2030717,23
+2014-operating-adopted,2004,actual,general_fund,,Museum of Art,225000,23
+2014-operating-adopted,2005,actual,general_fund,,Museum of Art,164483,23
+2014-operating-adopted,2006,actual,general_fund,,Museum of Art,104360,23
+2014-operating-adopted,2004,actual,general_fund,,Miscellaneous,4366574,23
+2014-operating-adopted,2005,actual,general_fund,,Miscellaneous,6349748,23
+2014-operating-adopted,2006,actual,general_fund,,Miscellaneous,32851980,23
+2014-operating-adopted,2004,actual,general_fund,,District Attorney,3371616,23
+2014-operating-adopted,2005,actual,general_fund,,District Attorney,2528712,23
+2014-operating-adopted,2006,actual,general_fund,,District Attorney,2360131,23
+2014-operating-adopted,2004,actual,general_fund,,Coroner's Office,1905826,23
+2014-operating-adopted,2005,actual,general_fund,,Coroner's Office,1614332,23
+2014-operating-adopted,2006,actual,general_fund,,Coroner's Office,1047555,23
+2014-operating-adopted,2004,actual,general_fund,,Juvenile Court,2077834,23
+2014-operating-adopted,2005,actual,general_fund,,Juvenile Court,1753530,23
+2014-operating-adopted,2006,actual,general_fund,,Juvenile Court,1206577,23
+2014-operating-adopted,2004,actual,general_fund,,Municipal Court,1473377,23
+2014-operating-adopted,2005,actual,general_fund,,Municipal Court,285566,23
+2014-operating-adopted,2006,actual,general_fund,,Municipal Court,969330,23
+2014-operating-adopted,2004,actual,general_fund,,Traffic Court,1422242,23
+2014-operating-adopted,2005,actual,general_fund,,Traffic Court,1000039,23
+2014-operating-adopted,2006,actual,general_fund,,Traffic Court,886405,23
+2014-operating-adopted,2004,actual,general_fund,,Criminal District Court,1996102,23
+2014-operating-adopted,2005,actual,general_fund,,Criminal District Court,1770186,23
+2014-operating-adopted,2006,actual,general_fund,,Criminal District Court,1177199,23
+2014-operating-adopted,2004,actual,general_fund,,Criminal Sheriff,35101469,23
+2014-operating-adopted,2005,actual,general_fund,,Criminal Sheriff,29807567,23
+2014-operating-adopted,2006,actual,general_fund,,Criminal Sheriff,36527942,23
+2014-operating-adopted,2004,actual,general_fund,,Clrk of Crim. Dist. Crt,2959287,23
+2014-operating-adopted,2005,actual,general_fund,,Clrk of Crim. Dist. Crt,2463463,23
+2014-operating-adopted,2006,actual,general_fund,,Clrk of Crim. Dist. Crt,1780723,23
+2014-operating-adopted,2004,actual,general_fund,,Registrar of Voters,262239,23
+2014-operating-adopted,2005,actual,general_fund,,Registrar of Voters,261588,23
+2014-operating-adopted,2006,actual,general_fund,,Registrar of Voters,249892,23
+2014-operating-adopted,2004,actual,general_fund,,Judicial Retirement,151924,23
+2014-operating-adopted,2005,actual,general_fund,,Judicial Retirement,145148,23
+2014-operating-adopted,2006,actual,general_fund,,Judicial Retirement,162197,23
+2014-operating-adopted,2006,actual,other_funds,,Council,1398832,24
+2014-operating-adopted,2004,actual,other_funds,,Mayor,17510570,24
+2014-operating-adopted,2005,actual,other_funds,,Mayor,11875142,24
+2014-operating-adopted,2006,actual,other_funds,,Mayor,23164615,24
+2014-operating-adopted,2004,actual,other_funds,,CAO,298436,24
+2014-operating-adopted,2005,actual,other_funds,,CAO,428807,24
+2014-operating-adopted,2006,actual,other_funds,,CAO,1279983,24
+2014-operating-adopted,2004,actual,other_funds,,Law,725847,24
+2014-operating-adopted,2005,actual,other_funds,,Law,594564,24
+2014-operating-adopted,2006,actual,other_funds,,Law,169279,24
+2014-operating-adopted,2004,actual,other_funds,,Fire,348650,24
+2014-operating-adopted,2005,actual,other_funds,,Fire,297564,24
+2014-operating-adopted,2006,actual,other_funds,,Fire,858978,24
+2014-operating-adopted,2004,actual,other_funds,,Safety & Permits,831211,24
+2014-operating-adopted,2005,actual,other_funds,,Safety & Permits,826407,24
+2014-operating-adopted,2006,actual,other_funds,,Safety & Permits,2694853,24
+2014-operating-adopted,2004,actual,other_funds,,Police,4176076,24
+2014-operating-adopted,2005,actual,other_funds,,Police,4140607,24
+2014-operating-adopted,2006,actual,other_funds,,Police,4805450,24
+2014-operating-adopted,2004,actual,other_funds,,Sanitation,482572,24
+2014-operating-adopted,2005,actual,other_funds,,Sanitation,444970,24
+2014-operating-adopted,2006,actual,other_funds,,Sanitation,1420508,24
+2014-operating-adopted,2004,actual,other_funds,,Health,5148464,24
+2014-operating-adopted,2005,actual,other_funds,,Health,4173945,24
+2014-operating-adopted,2006,actual,other_funds,,Health,4440618,24
+2014-operating-adopted,2004,actual,other_funds,,Human Services,4043,24
+2014-operating-adopted,2005,actual,other_funds,,Human Services,60049,24
+2014-operating-adopted,2006,actual,other_funds,,Human Services,9555,24
+2014-operating-adopted,2006,actual,other_funds,,Finance,28565,24
+2014-operating-adopted,2004,actual,other_funds,,Public Works,1004114,24
+2014-operating-adopted,2005,actual,other_funds,,Public Works,509907,24
+2014-operating-adopted,2006,actual,other_funds,,Public Works,24336478,24
+2014-operating-adopted,2004,actual,other_funds,,Recreation,702434,24
+2014-operating-adopted,2005,actual,other_funds,,Recreation,576538,24
+2014-operating-adopted,2004,actual,other_funds,,Parks & Parkways,7929,24
+2014-operating-adopted,2004,actual,other_funds,,Library,7774471,24
+2014-operating-adopted,2005,actual,other_funds,,Library,6005815,24
+2014-operating-adopted,2006,actual,other_funds,,Library,2451054,24
+2014-operating-adopted,2004,actual,other_funds,,Mosquito Control Bd.,153599,24
+2014-operating-adopted,2005,actual,other_funds,,Mosquito Control Bd.,186453,24
+2014-operating-adopted,2006,actual,other_funds,,Mosquito Control Bd.,550498,24
+2014-operating-adopted,2004,actual,other_funds,,Office of Training Div.,6394,24
+2014-operating-adopted,2004,actual,other_funds,,Office of Comm. Dev.,13348239,24
+2014-operating-adopted,2005,actual,other_funds,,Office of Comm. Dev.,9323819,24
+2014-operating-adopted,2006,actual,other_funds,,Office of Comm. Dev.,5377429,24
+2014-operating-adopted,2004,actual,other_funds,,N’hood Hsg Imprv. Fnd,3858881,24
+2014-operating-adopted,2005,actual,other_funds,,N’hood Hsg Imprv. Fnd,1592742,24
+2014-operating-adopted,2006,actual,other_funds,,N’hood Hsg Imprv. Fnd,-86126,24
+2014-operating-adopted,2004,actual,other_funds,,Workforce Invst. Act,3917000,24
+2014-operating-adopted,2005,actual,other_funds,,Workforce Invst. Act,4990961,24
+2014-operating-adopted,2006,actual,other_funds,,Workforce Invst. Act,7025605,24
+2014-operating-adopted,2004,actual,other_funds,,Economic Dev. Fund,1689238,24
+2014-operating-adopted,2005,actual,other_funds,,Economic Dev. Fund,3462083,24
+2014-operating-adopted,2006,actual,other_funds,,Economic Dev. Fund,4211,24
+2014-operating-adopted,2004,actual,other_funds,,District Attorney,27901,24
+2014-operating-adopted,2005,actual,other_funds,,District Attorney,60298,24
+2014-operating-adopted,2006,actual,other_funds,,District Attorney,55000,24
+2014-operating-adopted,2006,actual,other_funds,,Coroner's Office,239270,24
+2014-operating-adopted,2004,actual,other_funds,,Juvenile Court,245879,24
+2014-operating-adopted,2005,actual,other_funds,,Juvenile Court,146588,24
+2014-operating-adopted,2006,actual,other_funds,,Juvenile Court,108000,24
+2014-operating-adopted,2006,actual,other_funds,,Clrk of Crim. Dist. Crt,317137,24
+2014-operating-adopted,2004,actual,all_funds,,Council,10492207,25
+2014-operating-adopted,2005,actual,all_funds,,Council,6400808,25
+2014-operating-adopted,2006,actual,all_funds,,Council,5966787,25
+2014-operating-adopted,2004,actual,all_funds,,Mayor,21855719,25
+2014-operating-adopted,2005,actual,all_funds,,Mayor,17225336,25
+2014-operating-adopted,2006,actual,all_funds,,Mayor,27315427,25
+2014-operating-adopted,2004,actual,all_funds,,CAO,52264890,25
+2014-operating-adopted,2005,actual,all_funds,,CAO,42307726,25
+2014-operating-adopted,2006,actual,all_funds,,CAO,45911533,25
+2014-operating-adopted,2004,actual,all_funds,,Law,10574390,25
+2014-operating-adopted,2005,actual,all_funds,,Law,19494127,25
+2014-operating-adopted,2006,actual,all_funds,,Law,6529773,25
+2014-operating-adopted,2004,actual,all_funds,,Fire,54439122,25
+2014-operating-adopted,2005,actual,all_funds,,Fire,57733424,25
+2014-operating-adopted,2006,actual,all_funds,,Fire,46527094,25
+2014-operating-adopted,2004,actual,all_funds,,Safety & Permits,4298352,25
+2014-operating-adopted,2005,actual,all_funds,,Safety & Permits,3997930,25
+2014-operating-adopted,2006,actual,all_funds,,Safety & Permits,5345698,25
+2014-operating-adopted,2004,actual,all_funds,,Police,126217371,25
+2014-operating-adopted,2005,actual,all_funds,,Police,149489650,25
+2014-operating-adopted,2006,actual,all_funds,,Police,99795074,25
+2014-operating-adopted,2004,actual,all_funds,,Sanitation,37402880,25
+2014-operating-adopted,2005,actual,all_funds,,Sanitation,25072602,25
+2014-operating-adopted,2006,actual,all_funds,,Sanitation,19036217,25
+2014-operating-adopted,2004,actual,all_funds,,Health,16294124,25
+2014-operating-adopted,2005,actual,all_funds,,Health,15149855,25
+2014-operating-adopted,2006,actual,all_funds,,Health,11920883,25
+2014-operating-adopted,2004,actual,all_funds,,Human Services,2518282,25
+2014-operating-adopted,2005,actual,all_funds,,Human Services,2002615,25
+2014-operating-adopted,2006,actual,all_funds,,Human Services,869556,25
+2014-operating-adopted,2004,actual,all_funds,,Finance,45239925,25
+2014-operating-adopted,2005,actual,all_funds,,Finance,46189413,25
+2014-operating-adopted,2006,actual,all_funds,,Finance,35129349,25
+2014-operating-adopted,2004,actual,all_funds,,Property Management,10641548,25
+2014-operating-adopted,2005,actual,all_funds,,Property Management,8786639,25
+2014-operating-adopted,2006,actual,all_funds,,Property Management,5693620,25
+2014-operating-adopted,2004,actual,all_funds,,Civil Service,2219640,25
+2014-operating-adopted,2005,actual,all_funds,,Civil Service,1721772,25
+2014-operating-adopted,2006,actual,all_funds,,Civil Service,1020584,25
+2014-operating-adopted,2004,actual,all_funds,,Public Works,18185165,25
+2014-operating-adopted,2005,actual,all_funds,,Public Works,14126542,25
+2014-operating-adopted,2006,actual,all_funds,,Public Works,31602277,25
+2014-operating-adopted,2004,actual,all_funds,,Recreation,7047498,25
+2014-operating-adopted,2005,actual,all_funds,,Recreation,5253790,25
+2014-operating-adopted,2006,actual,all_funds,,Recreation,923632,25
+2014-operating-adopted,2004,actual,all_funds,,Parks & Parkways,7523639,25
+2014-operating-adopted,2005,actual,all_funds,,Parks & Parkways,6251796,25
+2014-operating-adopted,2006,actual,all_funds,,Parks & Parkways,3827744,25
+2014-operating-adopted,2004,actual,all_funds,,Library,7774471,25
+2014-operating-adopted,2005,actual,all_funds,,Library,6005815,25
+2014-operating-adopted,2006,actual,all_funds,,Library,2451054,25
+2014-operating-adopted,2004,actual,all_funds,,HDLC,440870,25
+2014-operating-adopted,2005,actual,all_funds,,HDLC,342368,25
+2014-operating-adopted,2006,actual,all_funds,,HDLC,246600,25
+2014-operating-adopted,2004,actual,all_funds,,VCC,402269,25
+2014-operating-adopted,2005,actual,all_funds,,VCC,343982,25
+2014-operating-adopted,2006,actual,all_funds,,VCC,138370,25
+2014-operating-adopted,2005,actual,all_funds,,Alcoholic Bvg Ctrl. Bd.,50,25
+2014-operating-adopted,2006,actual,all_funds,,Alcoholic Bvg Ctrl. Bd.,50,25
+2014-operating-adopted,2004,actual,all_funds,,City Planning Comm.,1450308,25
+2014-operating-adopted,2005,actual,all_funds,,City Planning Comm.,1312450,25
+2014-operating-adopted,2006,actual,all_funds,,City Planning Comm.,877483,25
+2014-operating-adopted,2004,actual,all_funds,,Mosquito Control Bd.,1989066,25
+2014-operating-adopted,2005,actual,all_funds,,Mosquito Control Bd.,2274721,25
+2014-operating-adopted,2006,actual,all_funds,,Mosquito Control Bd.,2581215,25
+2014-operating-adopted,2004,actual,all_funds,,Museum of Art,225000,25
+2014-operating-adopted,2005,actual,all_funds,,Museum of Art,164483,25
+2014-operating-adopted,2006,actual,all_funds,,Museum of Art,104360,25
+2014-operating-adopted,2004,actual,all_funds,,Miscellaneous,4366574,25
+2014-operating-adopted,2005,actual,all_funds,,Miscellaneous,6349748,25
+2014-operating-adopted,2006,actual,all_funds,,Miscellaneous,32851980,25
+2014-operating-adopted,2004,actual,all_funds,,Office of Training Div.,6394,25
+2014-operating-adopted,2004,actual,all_funds,,Office of Comm. Dev.,13348239,25
+2014-operating-adopted,2005,actual,all_funds,,Office of Comm. Dev.,9323819,25
+2014-operating-adopted,2006,actual,all_funds,,Office of Comm. Dev.,5377429,25
+2014-operating-adopted,2004,actual,all_funds,,N’hood Hsg Imprv. Fnd,3858881,25
+2014-operating-adopted,2005,actual,all_funds,,N’hood Hsg Imprv. Fnd,1592742,25
+2014-operating-adopted,2006,actual,all_funds,,N’hood Hsg Imprv. Fnd,-86126,25
+2014-operating-adopted,2004,actual,all_funds,,Workforce Invst. Act,3917000,25
+2014-operating-adopted,2005,actual,all_funds,,Workforce Invst. Act,4990961,25
+2014-operating-adopted,2006,actual,all_funds,,Workforce Invst. Act,7025605,25
+2014-operating-adopted,2004,actual,all_funds,,Economic Dev. Fund,1689238,25
+2014-operating-adopted,2005,actual,all_funds,,Economic Dev. Fund,3462083,25
+2014-operating-adopted,2006,actual,all_funds,,Economic Dev. Fund,4211,25
+2014-operating-adopted,2004,actual,all_funds,,District Attorney,3399517,25
+2014-operating-adopted,2005,actual,all_funds,,District Attorney,2589010,25
+2014-operating-adopted,2006,actual,all_funds,,District Attorney,2415131,25
+2014-operating-adopted,2004,actual,all_funds,,Coroner's Office,1905826,25
+2014-operating-adopted,2005,actual,all_funds,,Coroner's Office,1614332,25
+2014-operating-adopted,2006,actual,all_funds,,Coroner's Office,1286825,25
+2014-operating-adopted,2004,actual,all_funds,,Juvenile Court,2323713,25
+2014-operating-adopted,2005,actual,all_funds,,Juvenile Court,1900118,25
+2014-operating-adopted,2006,actual,all_funds,,Juvenile Court,1314577,25
+2014-operating-adopted,2004,actual,all_funds,,Municipal Court,1473377,25
+2014-operating-adopted,2005,actual,all_funds,,Municipal Court,285566,25
+2014-operating-adopted,2006,actual,all_funds,,Municipal Court,969330,25
+2014-operating-adopted,2004,actual,all_funds,,Traffic Court,1422242,25
+2014-operating-adopted,2005,actual,all_funds,,Traffic Court,1000039,25
+2014-operating-adopted,2006,actual,all_funds,,Traffic Court,886405,25
+2014-operating-adopted,2004,actual,all_funds,,Criminal District Court,1996102,25
+2014-operating-adopted,2005,actual,all_funds,,Criminal District Court,1770186,25
+2014-operating-adopted,2006,actual,all_funds,,Criminal District Court,1177199,25
+2014-operating-adopted,2004,actual,all_funds,,Criminal Sheriff,35101469,25
+2014-operating-adopted,2005,actual,all_funds,,Criminal Sheriff,29807567,25
+2014-operating-adopted,2006,actual,all_funds,,Criminal Sheriff,36527942,25
+2014-operating-adopted,2004,actual,all_funds,,Clrk of Crim. Dist. Crt,2959287,25
+2014-operating-adopted,2005,actual,all_funds,,Clrk of Crim. Dist. Crt,2463463,25
+2014-operating-adopted,2006,actual,all_funds,,Clrk of Crim. Dist. Crt,2097860,25
+2014-operating-adopted,2004,actual,all_funds,,Registrar of Voters,262239,25
+2014-operating-adopted,2005,actual,all_funds,,Registrar of Voters,261588,25
+2014-operating-adopted,2006,actual,all_funds,,Registrar of Voters,249892,25
+2014-operating-adopted,2004,actual,all_funds,,Judicial Retirement,151924,25
+2014-operating-adopted,2005,actual,all_funds,,Judicial Retirement,145148,25
+2014-operating-adopted,2006,actual,all_funds,,Judicial Retirement,162197,25
+2014-operating-adopted,2008,actual,general_fund,,Council,6240167,83
+2014-operating-adopted,2009,actual,general_fund,,Council,6804023,83
+2014-operating-adopted,2010,actual,general_fund,,Council,7004335,83
+2014-operating-adopted,2011,actual,general_fund,,Council,8123993,83
+2014-operating-adopted,2012,actual,general_fund,,Council,8112190,83
+2014-operating-adopted,2013,adopted,general_fund,,Council,9820916,83
+2014-operating-adopted,2014,adopted,general_fund,,Council,9719766,83
+2014-operating-adopted,2008,actual,general_fund,,Mayor,11546593,83
+2014-operating-adopted,2009,actual,general_fund,,Mayor,8790190,83
+2014-operating-adopted,2010,actual,general_fund,,Mayor,6207483,83
+2014-operating-adopted,2011,actual,general_fund,,Mayor,8957021,83
+2014-operating-adopted,2012,actual,general_fund,,Mayor,9303947,83
+2014-operating-adopted,2013,adopted,general_fund,,Mayor,10116694,83
+2014-operating-adopted,2014,adopted,general_fund,,Mayor,10660555,83
+2014-operating-adopted,2008,actual,general_fund,,CAO,55371986,83
+2014-operating-adopted,2009,actual,general_fund,,CAO,49600996,83
+2014-operating-adopted,2010,actual,general_fund,,CAO,42696947,83
+2014-operating-adopted,2011,actual,general_fund,,CAO,41504762,83
+2014-operating-adopted,2012,actual,general_fund,,CAO,45452075,83
+2014-operating-adopted,2013,adopted,general_fund,,CAO,44391183,83
+2014-operating-adopted,2014,adopted,general_fund,,CAO,43551623,83
+2014-operating-adopted,2008,actual,general_fund,,Law,9870665,83
+2014-operating-adopted,2009,actual,general_fund,,Law,10719459,83
+2014-operating-adopted,2010,actual,general_fund,,Law,8878685,83
+2014-operating-adopted,2011,actual,general_fund,,Law,10000900,83
+2014-operating-adopted,2012,actual,general_fund,,Law,9872102,83
+2014-operating-adopted,2013,adopted,general_fund,,Law,6368617,83
+2014-operating-adopted,2014,adopted,general_fund,,Law,5946682,83
+2014-operating-adopted,2008,actual,general_fund,,Fire,46468974,83
+2014-operating-adopted,2009,actual,general_fund,,Fire,52429136,83
+2014-operating-adopted,2010,actual,general_fund,,Fire,87018322,83
+2014-operating-adopted,2011,actual,general_fund,,Fire,89206608,83
+2014-operating-adopted,2012,actual,general_fund,,Fire,87491599,83
+2014-operating-adopted,2013,adopted,general_fund,,Fire,84915565,83
+2014-operating-adopted,2014,adopted,general_fund,,Fire,86248045,83
+2014-operating-adopted,2008,actual,general_fund,,Safety & Permits,5101982,83
+2014-operating-adopted,2009,actual,general_fund,,Safety & Permits,5414013,83
+2014-operating-adopted,2010,actual,general_fund,,Safety & Permits,5065477,83
+2014-operating-adopted,2011,actual,general_fund,,Safety & Permits,5368272,83
+2014-operating-adopted,2012,actual,general_fund,,Safety & Permits,4777472,83
+2014-operating-adopted,2013,adopted,general_fund,,Safety & Permits,4714227,83
+2014-operating-adopted,2014,adopted,general_fund,,Safety & Permits,4339431,83
+2014-operating-adopted,2008,actual,general_fund,,Police,113098644,83
+2014-operating-adopted,2009,actual,general_fund,,Police,119332022,83
+2014-operating-adopted,2010,actual,general_fund,,Police,127883538,83
+2014-operating-adopted,2011,actual,general_fund,,Police,130272813,83
+2014-operating-adopted,2012,actual,general_fund,,Police,128606454,83
+2014-operating-adopted,2013,adopted,general_fund,,Police,126784896,83
+2014-operating-adopted,2014,adopted,general_fund,,Police,128600368,83
+2014-operating-adopted,2008,actual,general_fund,,Sanitation,47717765,83
+2014-operating-adopted,2009,actual,general_fund,,Sanitation,47757912,83
+2014-operating-adopted,2010,actual,general_fund,,Sanitation,40251462,83
+2014-operating-adopted,2011,actual,general_fund,,Sanitation,36830118,83
+2014-operating-adopted,2012,actual,general_fund,,Sanitation,39138066,83
+2014-operating-adopted,2013,adopted,general_fund,,Sanitation,37209066,83
+2014-operating-adopted,2014,adopted,general_fund,,Sanitation,39230804,83
+2014-operating-adopted,2008,actual,general_fund,,Health,11721086,83
+2014-operating-adopted,2009,actual,general_fund,,Health,12779489,83
+2014-operating-adopted,2010,actual,general_fund,,Health,11600898,83
+2014-operating-adopted,2011,actual,general_fund,,Health,15139604,83
+2014-operating-adopted,2012,actual,general_fund,,Health,13365581,83
+2014-operating-adopted,2013,adopted,general_fund,,Health,13427567,83
+2014-operating-adopted,2014,adopted,general_fund,,Health,13525461,83
+2014-operating-adopted,2008,actual,general_fund,,Human Services,1767783,83
+2014-operating-adopted,2009,actual,general_fund,,Human Services,1971913,83
+2014-operating-adopted,2010,actual,general_fund,,Human Services,2124432,83
+2014-operating-adopted,2011,actual,general_fund,,Human Services,2745554,83
+2014-operating-adopted,2012,actual,general_fund,,Human Services,2539271,83
+2014-operating-adopted,2013,adopted,general_fund,,Human Services,2379078,83
+2014-operating-adopted,2014,adopted,general_fund,,Human Services,2379078,83
+2014-operating-adopted,2008,actual,general_fund,,Finance,54962915,83
+2014-operating-adopted,2009,actual,general_fund,,Finance,53475575,83
+2014-operating-adopted,2010,actual,general_fund,,Finance,58976160,83
+2014-operating-adopted,2011,actual,general_fund,,Finance,45211223,83
+2014-operating-adopted,2012,actual,general_fund,,Finance,219891723,83
+2014-operating-adopted,2013,adopted,general_fund,,Finance,46098615,83
+2014-operating-adopted,2014,adopted,general_fund,,Finance,43962542,83
+2014-operating-adopted,2008,actual,general_fund,,Property Management,7339680,83
+2014-operating-adopted,2009,actual,general_fund,,Property Management,7325178,83
+2014-operating-adopted,2010,actual,general_fund,,Property Management,7379446,83
+2014-operating-adopted,2011,actual,general_fund,,Property Management,7780248,83
+2014-operating-adopted,2012,actual,general_fund,,Property Management,6783461,83
+2014-operating-adopted,2013,adopted,general_fund,,Property Management,6656823,83
+2014-operating-adopted,2014,adopted,general_fund,,Property Management,6249880,83
+2014-operating-adopted,2008,actual,general_fund,,Civil Service,1434045,83
+2014-operating-adopted,2009,actual,general_fund,,Civil Service,1718570,83
+2014-operating-adopted,2010,actual,general_fund,,Civil Service,1691709,83
+2014-operating-adopted,2011,actual,general_fund,,Civil Service,1750767,83
+2014-operating-adopted,2012,actual,general_fund,,Civil Service,1589878,83
+2014-operating-adopted,2013,adopted,general_fund,,Civil Service,1469643,83
+2014-operating-adopted,2014,adopted,general_fund,,Civil Service,1552076,83
+2014-operating-adopted,2008,actual,general_fund,,Public Works,17196492,83
+2014-operating-adopted,2009,actual,general_fund,,Public Works,18155202,83
+2014-operating-adopted,2010,actual,general_fund,,Public Works,16489163,83
+2014-operating-adopted,2011,actual,general_fund,,Public Works,20494346,83
+2014-operating-adopted,2012,actual,general_fund,,Public Works,22933120,83
+2014-operating-adopted,2013,adopted,general_fund,,Public Works,15242280,83
+2014-operating-adopted,2014,adopted,general_fund,,Public Works,15624570,83
+2014-operating-adopted,2008,actual,general_fund,,Recreation,3199459,83
+2014-operating-adopted,2009,actual,general_fund,,Recreation,4270511,83
+2014-operating-adopted,2010,actual,general_fund,,Recreation,4728828,83
+2014-operating-adopted,2011,actual,general_fund,,Recreation,216105,83
+2014-operating-adopted,2012,actual,general_fund,,Recreation,4021,83
+2014-operating-adopted,2008,actual,general_fund,,Parks & Parkways,6674138,83
+2014-operating-adopted,2009,actual,general_fund,,Parks & Parkways,7248611,83
+2014-operating-adopted,2010,actual,general_fund,,Parks & Parkways,6314645,83
+2014-operating-adopted,2011,actual,general_fund,,Parks & Parkways,6790738,83
+2014-operating-adopted,2012,actual,general_fund,,Parks & Parkways,6968979,83
+2014-operating-adopted,2013,adopted,general_fund,,Parks & Parkways,6737667,83
+2014-operating-adopted,2014,adopted,general_fund,,Parks & Parkways,7071248,83
+2014-operating-adopted,2008,actual,general_fund,,Library,243718,83
+2014-operating-adopted,2009,actual,general_fund,,Library,501202,83
+2014-operating-adopted,2011,actual,general_fund,,Library,32494,83
+2014-operating-adopted,2012,actual,general_fund,,Library,90,83
+2014-operating-adopted,2008,actual,general_fund,,HDLC,606704,83
+2014-operating-adopted,2009,actual,general_fund,,HDLC,689707,83
+2014-operating-adopted,2010,actual,general_fund,,HDLC,664514,83
+2014-operating-adopted,2011,actual,general_fund,,HDLC,666769,83
+2014-operating-adopted,2012,actual,general_fund,,HDLC,585203,83
+2014-operating-adopted,2013,adopted,general_fund,,HDLC,638095,83
+2014-operating-adopted,2014,adopted,general_fund,,HDLC,533981,83
+2014-operating-adopted,2008,actual,general_fund,,VCC,336927,83
+2014-operating-adopted,2009,actual,general_fund,,VCC,331765,83
+2014-operating-adopted,2010,actual,general_fund,,VCC,312747,83
+2014-operating-adopted,2011,actual,general_fund,,VCC,384449,83
+2014-operating-adopted,2012,actual,general_fund,,VCC,375171,83
+2014-operating-adopted,2013,adopted,general_fund,,VCC,344831,83
+2014-operating-adopted,2014,adopted,general_fund,,VCC,413231,83
+2014-operating-adopted,2008,actual,general_fund,,Alcoholic Bvg Ctrl. Bd.,1401,83
+2014-operating-adopted,2009,actual,general_fund,,Alcoholic Bvg Ctrl. Bd.,526,83
+2014-operating-adopted,2010,actual,general_fund,,Alcoholic Bvg Ctrl. Bd.,34,83
+2014-operating-adopted,2011,actual,general_fund,,Alcoholic Bvg Ctrl. Bd.,14,83
+2014-operating-adopted,2013,adopted,general_fund,,Alcoholic Bvg Ctrl. Bd.,1500,83
+2014-operating-adopted,2014,adopted,general_fund,,Alcoholic Bvg Ctrl. Bd.,1500,83
+2014-operating-adopted,2008,actual,general_fund,,City Planning Comm.,1149491,83
+2014-operating-adopted,2009,actual,general_fund,,City Planning Comm.,1321729,83
+2014-operating-adopted,2010,actual,general_fund,,City Planning Comm.,1269541,83
+2014-operating-adopted,2011,actual,general_fund,,City Planning Comm.,1513945,83
+2014-operating-adopted,2012,actual,general_fund,,City Planning Comm.,1568087,83
+2014-operating-adopted,2013,adopted,general_fund,,City Planning Comm.,1594134,83
+2014-operating-adopted,2014,adopted,general_fund,,City Planning Comm.,997838,83
+2014-operating-adopted,2008,actual,general_fund,,Mosquito Control Bd.,2174392,83
+2014-operating-adopted,2009,actual,general_fund,,Mosquito Control Bd.,2293307,83
+2014-operating-adopted,2010,actual,general_fund,,Mosquito Control Bd.,2266744,83
+2014-operating-adopted,2011,actual,general_fund,,Mosquito Control Bd.,2180692,83
+2014-operating-adopted,2012,actual,general_fund,,Mosquito Control Bd.,2237800,83
+2014-operating-adopted,2013,adopted,general_fund,,Mosquito Control Bd.,2078509,83
+2014-operating-adopted,2014,adopted,general_fund,,Mosquito Control Bd.,2078507,83
+2014-operating-adopted,2008,actual,general_fund,,Museum of Art,252090,83
+2014-operating-adopted,2009,actual,general_fund,,Museum of Art,242499,83
+2014-operating-adopted,2010,actual,general_fund,,Museum of Art,196425,83
+2014-operating-adopted,2011,actual,general_fund,,Museum of Art,176400,83
+2014-operating-adopted,2012,actual,general_fund,,Museum of Art,164417,83
+2014-operating-adopted,2013,adopted,general_fund,,Museum of Art,151683,83
+2014-operating-adopted,2014,adopted,general_fund,,Museum of Art,128931,83
+2014-operating-adopted,2008,actual,general_fund,,Miscellaneous,22553319,83
+2014-operating-adopted,2009,actual,general_fund,,Miscellaneous,25220591,83
+2014-operating-adopted,2010,actual,general_fund,,Miscellaneous,23490664,83
+2014-operating-adopted,2011,actual,general_fund,,Miscellaneous,15839608,83
+2014-operating-adopted,2012,actual,general_fund,,Miscellaneous,21640893,83
+2014-operating-adopted,2013,adopted,general_fund,,Miscellaneous,29525494,83
+2014-operating-adopted,2014,adopted,general_fund,,Miscellaneous,34224149,83
+2014-operating-adopted,2008,actual,general_fund,,General Services,1680518,83
+2014-operating-adopted,2009,actual,general_fund,,General Services,2811940,83
+2014-operating-adopted,2010,actual,general_fund,,General Services,2731230,83
+2014-operating-adopted,2011,actual,general_fund,,General Services,3447258,83
+2014-operating-adopted,2012,actual,general_fund,,General Services,3558645,83
+2014-operating-adopted,2013,adopted,general_fund,,General Services,3685336,83
+2014-operating-adopted,2014,adopted,general_fund,,General Services,4217021,83
+2014-operating-adopted,2008,actual,general_fund,,Office of Comm. Dev.,353,83
+2014-operating-adopted,2009,actual,general_fund,,Office of Comm. Dev.,2012977,83
+2014-operating-adopted,2010,actual,general_fund,,Office of Comm. Dev.,10182,83
+2014-operating-adopted,2008,actual,general_fund,,District Attorney,3616131,83
+2014-operating-adopted,2009,actual,general_fund,,District Attorney,5916841,83
+2014-operating-adopted,2010,actual,general_fund,,District Attorney,5889509,83
+2014-operating-adopted,2011,actual,general_fund,,District Attorney,6166265,83
+2014-operating-adopted,2012,actual,general_fund,,District Attorney,6412946,83
+2014-operating-adopted,2013,adopted,general_fund,,District Attorney,6271671,83
+2014-operating-adopted,2014,adopted,general_fund,,District Attorney,6271671,83
+2014-operating-adopted,2008,actual,general_fund,,Coroner's Office,1454871,83
+2014-operating-adopted,2009,actual,general_fund,,Coroner's Office,1736211,83
+2014-operating-adopted,2010,actual,general_fund,,Coroner's Office,1601222,83
+2014-operating-adopted,2011,actual,general_fund,,Coroner's Office,1837234,83
+2014-operating-adopted,2012,actual,general_fund,,Coroner's Office,1741489,83
+2014-operating-adopted,2013,adopted,general_fund,,Coroner's Office,1669099,83
+2014-operating-adopted,2014,adopted,general_fund,,Coroner's Office,1781605,83
+2014-operating-adopted,2008,actual,general_fund,,Juvenile Court,2919119,83
+2014-operating-adopted,2009,actual,general_fund,,Juvenile Court,3622808,83
+2014-operating-adopted,2010,actual,general_fund,,Juvenile Court,3646989,83
+2014-operating-adopted,2011,actual,general_fund,,Juvenile Court,3826663,83
+2014-operating-adopted,2012,actual,general_fund,,Juvenile Court,3594456,83
+2014-operating-adopted,2013,adopted,general_fund,,Juvenile Court,3615283,83
+2014-operating-adopted,2014,adopted,general_fund,,Juvenile Court,3025203,83
+2014-operating-adopted,2013,adopted,general_fund,,First City Court,6000,83
+2014-operating-adopted,2014,adopted,general_fund,,First City Court,6000,83
+2014-operating-adopted,2013,adopted,general_fund,,Civil Court,14400,83
+2014-operating-adopted,2014,adopted,general_fund,,Civil Court,14400,83
+2014-operating-adopted,2008,actual,general_fund,,Municipal Court,1121520,83
+2014-operating-adopted,2009,actual,general_fund,,Municipal Court,1916463,83
+2014-operating-adopted,2010,actual,general_fund,,Municipal Court,1762726,83
+2014-operating-adopted,2011,actual,general_fund,,Municipal Court,2724884,83
+2014-operating-adopted,2012,actual,general_fund,,Municipal Court,2254143,83
+2014-operating-adopted,2013,adopted,general_fund,,Municipal Court,1867343,83
+2014-operating-adopted,2014,adopted,general_fund,,Municipal Court,2045894,83
+2014-operating-adopted,2008,actual,general_fund,,Traffic Court,925238,83
+2014-operating-adopted,2009,actual,general_fund,,Traffic Court,976629,83
+2014-operating-adopted,2010,actual,general_fund,,Traffic Court,924435,83
+2014-operating-adopted,2011,actual,general_fund,,Traffic Court,587529,83
+2014-operating-adopted,2012,actual,general_fund,,Traffic Court,362976,83
+2014-operating-adopted,2013,adopted,general_fund,,Traffic Court,389640,83
+2014-operating-adopted,2014,adopted,general_fund,,Traffic Court,437587,83
+2014-operating-adopted,2008,actual,general_fund,,Criminal District Court,2634662,83
+2014-operating-adopted,2009,actual,general_fund,,Criminal District Court,2844662,83
+2014-operating-adopted,2010,actual,general_fund,,Criminal District Court,3033901,83
+2014-operating-adopted,2011,actual,general_fund,,Criminal District Court,2860195,83
+2014-operating-adopted,2012,actual,general_fund,,Criminal District Court,2149668,83
+2014-operating-adopted,2013,adopted,general_fund,,Criminal District Court,1526597,83
+2014-operating-adopted,2014,adopted,general_fund,,Criminal District Court,1526597,83
+2014-operating-adopted,2008,actual,general_fund,,Criminal Sheriff,25327988,83
+2014-operating-adopted,2009,actual,general_fund,,Criminal Sheriff,26665058,83
+2014-operating-adopted,2010,actual,general_fund,,Criminal Sheriff,23013071,83
+2014-operating-adopted,2011,actual,general_fund,,Criminal Sheriff,22543846,83
+2014-operating-adopted,2012,actual,general_fund,,Criminal Sheriff,21608813,83
+2014-operating-adopted,2013,adopted,general_fund,,Criminal Sheriff,22134338,83
+2014-operating-adopted,2014,adopted,general_fund,,Criminal Sheriff,24184338,83
+2014-operating-adopted,2008,actual,general_fund,,Clrk of Crim. Dist. Crt,2447641,83
+2014-operating-adopted,2009,actual,general_fund,,Clrk of Crim. Dist. Crt,4067699,83
+2014-operating-adopted,2010,actual,general_fund,,Clrk of Crim. Dist. Crt,3752310,83
+2014-operating-adopted,2011,actual,general_fund,,Clrk of Crim. Dist. Crt,4027575,83
+2014-operating-adopted,2012,actual,general_fund,,Clrk of Crim. Dist. Crt,4096351,83
+2014-operating-adopted,2013,adopted,general_fund,,Clrk of Crim. Dist. Crt,3726330,83
+2014-operating-adopted,2014,adopted,general_fund,,Clrk of Crim. Dist. Crt,3726330,83
+2014-operating-adopted,2008,actual,general_fund,,Registrar of Voters,361410,83
+2014-operating-adopted,2009,actual,general_fund,,Registrar of Voters,390732,83
+2014-operating-adopted,2010,actual,general_fund,,Registrar of Voters,337297,83
+2014-operating-adopted,2011,actual,general_fund,,Registrar of Voters,531229,83
+2014-operating-adopted,2012,actual,general_fund,,Registrar of Voters,392566,83
+2014-operating-adopted,2013,adopted,general_fund,,Registrar of Voters,383416,83
+2014-operating-adopted,2014,adopted,general_fund,,Registrar of Voters,371945,83
+2014-operating-adopted,2008,actual,general_fund,,Judicial Retirement,225783,83
+2014-operating-adopted,2009,actual,general_fund,,Judicial Retirement,213679,83
+2014-operating-adopted,2010,actual,general_fund,,Judicial Retirement,164228,83
+2014-operating-adopted,2011,actual,general_fund,,Judicial Retirement,232443,83
+2014-operating-adopted,2012,actual,general_fund,,Judicial Retirement,309048,83
+2014-operating-adopted,2013,adopted,general_fund,,Judicial Retirement,263238,83
+2014-operating-adopted,2014,adopted,general_fund,,Judicial Retirement,287233,83
+2014-operating-adopted,2012,actual,other_funds,,Council,4632,84
+2014-operating-adopted,2014,adopted,other_funds,,Council,6905000,84
+2014-operating-adopted,2008,actual,other_funds,,Mayor,14729901,84
+2014-operating-adopted,2009,actual,other_funds,,Mayor,28961924,84
+2014-operating-adopted,2010,actual,other_funds,,Mayor,33603930,84
+2014-operating-adopted,2011,actual,other_funds,,Mayor,21851339,84
+2014-operating-adopted,2012,actual,other_funds,,Mayor,26975559,84
+2014-operating-adopted,2013,adopted,other_funds,,Mayor,146236302,84
+2014-operating-adopted,2014,adopted,other_funds,,Mayor,132751263,84
+2014-operating-adopted,2008,actual,other_funds,,CAO,26910629,84
+2014-operating-adopted,2009,actual,other_funds,,CAO,11877701,84
+2014-operating-adopted,2010,actual,other_funds,,CAO,2594855,84
+2014-operating-adopted,2011,actual,other_funds,,CAO,5982109,84
+2014-operating-adopted,2012,actual,other_funds,,CAO,11395693,84
+2014-operating-adopted,2013,adopted,other_funds,,CAO,3385158,84
+2014-operating-adopted,2014,adopted,other_funds,,CAO,2224116,84
+2014-operating-adopted,2008,actual,other_funds,,Law,251886,84
+2014-operating-adopted,2009,actual,other_funds,,Law,307674,84
+2014-operating-adopted,2010,actual,other_funds,,Law,191741,84
+2014-operating-adopted,2011,actual,other_funds,,Law,554074,84
+2014-operating-adopted,2012,actual,other_funds,,Law,554862,84
+2014-operating-adopted,2013,adopted,other_funds,,Law,540686,84
+2014-operating-adopted,2014,adopted,other_funds,,Law,514844,84
+2014-operating-adopted,2008,actual,other_funds,,Fire,20104764,84
+2014-operating-adopted,2009,actual,other_funds,,Fire,24894417,84
+2014-operating-adopted,2010,actual,other_funds,,Fire,457789,84
+2014-operating-adopted,2011,actual,other_funds,,Fire,4443174,84
+2014-operating-adopted,2012,actual,other_funds,,Fire,4555388,84
+2014-operating-adopted,2013,adopted,other_funds,,Fire,532000,84
+2014-operating-adopted,2014,adopted,other_funds,,Fire,674048,84
+2014-operating-adopted,2009,actual,other_funds,,Safety & Permits,182732,84
+2014-operating-adopted,2010,actual,other_funds,,Safety & Permits,383739,84
+2014-operating-adopted,2012,actual,other_funds,,Safety & Permits,2670067,84
+2014-operating-adopted,2014,adopted,other_funds,,Safety & Permits,924187,84
+2014-operating-adopted,2008,actual,other_funds,,Police,21872031,84
+2014-operating-adopted,2009,actual,other_funds,,Police,26891956,84
+2014-operating-adopted,2010,actual,other_funds,,Police,1886076,84
+2014-operating-adopted,2011,actual,other_funds,,Police,138757,84
+2014-operating-adopted,2012,actual,other_funds,,Police,10400731,84
+2014-operating-adopted,2013,adopted,other_funds,,Police,7763791,84
+2014-operating-adopted,2014,adopted,other_funds,,Police,6718885,84
+2014-operating-adopted,2008,actual,other_funds,,Sanitation,9437,84
+2014-operating-adopted,2009,actual,other_funds,,Sanitation,176170,84
+2014-operating-adopted,2012,actual,other_funds,,Sanitation,5157985,84
+2014-operating-adopted,2008,actual,other_funds,,Health,4191682,84
+2014-operating-adopted,2009,actual,other_funds,,Health,5922541,84
+2014-operating-adopted,2010,actual,other_funds,,Health,4998170,84
+2014-operating-adopted,2011,actual,other_funds,,Health,3327385,84
+2014-operating-adopted,2012,actual,other_funds,,Health,11371485,84
+2014-operating-adopted,2013,adopted,other_funds,,Health,18010077,84
+2014-operating-adopted,2014,adopted,other_funds,,Health,17890505,84
+2014-operating-adopted,2008,actual,other_funds,,Human Services,62512,84
+2014-operating-adopted,2009,actual,other_funds,,Human Services,59011,84
+2014-operating-adopted,2010,actual,other_funds,,Human Services,3008,84
+2014-operating-adopted,2011,actual,other_funds,,Human Services,49963,84
+2014-operating-adopted,2012,actual,other_funds,,Human Services,3703143,84
+2014-operating-adopted,2013,adopted,other_funds,,Human Services,562469,84
+2014-operating-adopted,2014,adopted,other_funds,,Human Services,559454,84
+2014-operating-adopted,2009,actual,other_funds,,Finance,44594,84
+2014-operating-adopted,2008,actual,other_funds,,Property Management,2072325,84
+2014-operating-adopted,2009,actual,other_funds,,Property Management,2078449,84
+2014-operating-adopted,2010,actual,other_funds,,Property Management,914540,84
+2014-operating-adopted,2011,actual,other_funds,,Property Management,954967,84
+2014-operating-adopted,2012,actual,other_funds,,Property Management,12680742,84
+2014-operating-adopted,2013,adopted,other_funds,,Property Management,484637,84
+2014-operating-adopted,2014,adopted,other_funds,,Property Management,580144,84
+2014-operating-adopted,2008,actual,other_funds,,Public Works,3951335,84
+2014-operating-adopted,2009,actual,other_funds,,Public Works,2327253,84
+2014-operating-adopted,2010,actual,other_funds,,Public Works,1814165,84
+2014-operating-adopted,2012,actual,other_funds,,Public Works,53691119,84
+2014-operating-adopted,2013,adopted,other_funds,,Public Works,1300000,84
+2014-operating-adopted,2014,adopted,other_funds,,Public Works,1300000,84
+2014-operating-adopted,2009,actual,other_funds,,Recreation,262901,84
+2014-operating-adopted,2012,actual,other_funds,,Recreation,22821392,84
+2014-operating-adopted,2008,actual,other_funds,,Parks & Parkways,28364,84
+2014-operating-adopted,2009,actual,other_funds,,Parks & Parkways,183138,84
+2014-operating-adopted,2012,actual,other_funds,,Parks & Parkways,9402528,84
+2014-operating-adopted,2013,adopted,other_funds,,Parks & Parkways,300000,84
+2014-operating-adopted,2014,adopted,other_funds,,Parks & Parkways,900000,84
+2014-operating-adopted,2008,actual,other_funds,,Library,6118791,84
+2014-operating-adopted,2009,actual,other_funds,,Library,6757518,84
+2014-operating-adopted,2010,actual,other_funds,,Library,7623511,84
+2014-operating-adopted,2011,actual,other_funds,,Library,8595405,84
+2014-operating-adopted,2012,actual,other_funds,,Library,22095320,84
+2014-operating-adopted,2013,adopted,other_funds,,Library,12112000,84
+2014-operating-adopted,2014,adopted,other_funds,,Library,12974861,84
+2014-operating-adopted,2009,actual,other_funds,,HDLC,47063,84
+2014-operating-adopted,2010,actual,other_funds,,HDLC,20480,84
+2014-operating-adopted,2014,adopted,other_funds,,City Planning Comm.,477519,84
+2014-operating-adopted,2008,actual,other_funds,,Mosquito Control Bd.,290541,84
+2014-operating-adopted,2009,actual,other_funds,,Mosquito Control Bd.,781131,84
+2014-operating-adopted,2010,actual,other_funds,,Mosquito Control Bd.,217082,84
+2014-operating-adopted,2011,actual,other_funds,,Mosquito Control Bd.,197001,84
+2014-operating-adopted,2012,actual,other_funds,,Mosquito Control Bd.,594262,84
+2014-operating-adopted,2013,adopted,other_funds,,Mosquito Control Bd.,665072,84
+2014-operating-adopted,2014,adopted,other_funds,,Mosquito Control Bd.,791584,84
+2014-operating-adopted,2012,actual,other_funds,,Museum of Art,72591,84
+2014-operating-adopted,2011,actual,other_funds,,Miscellaneous,1515238,84
+2014-operating-adopted,2012,actual,other_funds,,Miscellaneous,1833885,84
+2014-operating-adopted,2013,adopted,other_funds,,Miscellaneous,3482832,84
+2014-operating-adopted,2014,adopted,other_funds,,Miscellaneous,4366424,84
+2014-operating-adopted,2012,actual,other_funds,,General Services,174524,84
+2014-operating-adopted,2013,adopted,other_funds,,General Services,1048000,84
+2014-operating-adopted,2008,actual,other_funds,,Office of Comm. Dev.,33871852,84
+2014-operating-adopted,2009,actual,other_funds,,Office of Comm. Dev.,29777848,84
+2014-operating-adopted,2010,actual,other_funds,,Office of Comm. Dev.,27758067,84
+2014-operating-adopted,2011,actual,other_funds,,Office of Comm. Dev.,19196473,84
+2014-operating-adopted,2012,actual,other_funds,,Office of Comm. Dev.,22831898,84
+2014-operating-adopted,2013,adopted,other_funds,,Office of Comm. Dev.,48722157,84
+2014-operating-adopted,2014,adopted,other_funds,,Office of Comm. Dev.,53955535,84
+2014-operating-adopted,2009,actual,other_funds,,N’hood Hsg Imprv. Fnd,1388188,84
+2014-operating-adopted,2010,actual,other_funds,,N’hood Hsg Imprv. Fnd,663577,84
+2014-operating-adopted,2011,actual,other_funds,,N’hood Hsg Imprv. Fnd,670362,84
+2014-operating-adopted,2012,actual,other_funds,,N’hood Hsg Imprv. Fnd,938021,84
+2014-operating-adopted,2013,adopted,other_funds,,N’hood Hsg Imprv. Fnd,11332700,84
+2014-operating-adopted,2014,adopted,other_funds,,N’hood Hsg Imprv. Fnd,2197259,84
+2014-operating-adopted,2008,actual,other_funds,,Workforce Invst. Act,7523533,84
+2014-operating-adopted,2009,actual,other_funds,,Workforce Invst. Act,4860737,84
+2014-operating-adopted,2010,actual,other_funds,,Workforce Invst. Act,2130746,84
+2014-operating-adopted,2011,actual,other_funds,,Workforce Invst. Act,1951484,84
+2014-operating-adopted,2012,actual,other_funds,,Workforce Invst. Act,2798115,84
+2014-operating-adopted,2013,adopted,other_funds,,Workforce Invst. Act,6405064,84
+2014-operating-adopted,2014,adopted,other_funds,,Workforce Invst. Act,5748952,84
+2014-operating-adopted,2008,actual,other_funds,,Economic Dev. Fund,3334870,84
+2014-operating-adopted,2009,actual,other_funds,,Economic Dev. Fund,4708895,84
+2014-operating-adopted,2010,actual,other_funds,,Economic Dev. Fund,1860207,84
+2014-operating-adopted,2011,actual,other_funds,,Economic Dev. Fund,2347974,84
+2014-operating-adopted,2012,actual,other_funds,,Economic Dev. Fund,1750754,84
+2014-operating-adopted,2013,adopted,other_funds,,Economic Dev. Fund,1753245,84
+2014-operating-adopted,2014,adopted,other_funds,,Economic Dev. Fund,1982385,84
+2014-operating-adopted,2013,adopted,other_funds,,Intergovernmental,74352367,84
+2014-operating-adopted,2014,adopted,other_funds,,Intergovernmental,100000000,84
+2014-operating-adopted,2008,actual,other_funds,,Coroner's Office,421491,84
+2014-operating-adopted,2009,actual,other_funds,,Coroner's Office,216864,84
+2014-operating-adopted,2010,actual,other_funds,,Coroner's Office,58810,84
+2014-operating-adopted,2011,actual,other_funds,,Coroner's Office,50000,84
+2014-operating-adopted,2012,actual,other_funds,,Coroner's Office,17105,84
+2014-operating-adopted,2009,actual,other_funds,,Civil Court,7124,84
+2014-operating-adopted,2009,actual,other_funds,,Criminal District Court,23915,84
+2014-operating-adopted,2008,actual,other_funds,,Clrk of Crim. Dist. Crt,1008269,84
+2014-operating-adopted,2008,actual,all_funds,,Council,6240167,85
+2014-operating-adopted,2009,actual,all_funds,,Council,6804023,85
+2014-operating-adopted,2010,actual,all_funds,,Council,7004335,85
+2014-operating-adopted,2011,actual,all_funds,,Council,8123993,85
+2014-operating-adopted,2012,actual,all_funds,,Council,8116822,85
+2014-operating-adopted,2013,adopted,all_funds,,Council,9820916,85
+2014-operating-adopted,2014,adopted,all_funds,,Council,16624766,85
+2014-operating-adopted,2008,actual,all_funds,,Mayor,26276494,85
+2014-operating-adopted,2009,actual,all_funds,,Mayor,37752114,85
+2014-operating-adopted,2010,actual,all_funds,,Mayor,39811413,85
+2014-operating-adopted,2011,actual,all_funds,,Mayor,30808360,85
+2014-operating-adopted,2012,actual,all_funds,,Mayor,36279506,85
+2014-operating-adopted,2013,adopted,all_funds,,Mayor,156352996,85
+2014-operating-adopted,2014,adopted,all_funds,,Mayor,143411818,85
+2014-operating-adopted,2008,actual,all_funds,,CAO,82282615,85
+2014-operating-adopted,2009,actual,all_funds,,CAO,61478697,85
+2014-operating-adopted,2010,actual,all_funds,,CAO,45291802,85
+2014-operating-adopted,2011,actual,all_funds,,CAO,47486871,85
+2014-operating-adopted,2012,actual,all_funds,,CAO,56847768,85
+2014-operating-adopted,2013,adopted,all_funds,,CAO,47776341,85
+2014-operating-adopted,2014,adopted,all_funds,,CAO,45775739,85
+2014-operating-adopted,2008,actual,all_funds,,Law,10122551,85
+2014-operating-adopted,2009,actual,all_funds,,Law,11027133,85
+2014-operating-adopted,2010,actual,all_funds,,Law,9070426,85
+2014-operating-adopted,2011,actual,all_funds,,Law,10554974,85
+2014-operating-adopted,2012,actual,all_funds,,Law,10426964,85
+2014-operating-adopted,2013,adopted,all_funds,,Law,6909303,85
+2014-operating-adopted,2014,adopted,all_funds,,Law,6461526,85
+2014-operating-adopted,2008,actual,all_funds,,Fire,66573738,85
+2014-operating-adopted,2009,actual,all_funds,,Fire,77323553,85
+2014-operating-adopted,2010,actual,all_funds,,Fire,87476111,85
+2014-operating-adopted,2011,actual,all_funds,,Fire,93649782,85
+2014-operating-adopted,2012,actual,all_funds,,Fire,92046987,85
+2014-operating-adopted,2013,adopted,all_funds,,Fire,85447565,85
+2014-operating-adopted,2014,adopted,all_funds,,Fire,86922093,85
+2014-operating-adopted,2008,actual,all_funds,,Safety & Permits,5101982,85
+2014-operating-adopted,2009,actual,all_funds,,Safety & Permits,5596745,85
+2014-operating-adopted,2010,actual,all_funds,,Safety & Permits,5449216,85
+2014-operating-adopted,2011,actual,all_funds,,Safety & Permits,5368272,85
+2014-operating-adopted,2012,actual,all_funds,,Safety & Permits,7447539,85
+2014-operating-adopted,2013,adopted,all_funds,,Safety & Permits,4714227,85
+2014-operating-adopted,2014,adopted,all_funds,,Safety & Permits,5263618,85
+2014-operating-adopted,2008,actual,all_funds,,Police,134970675,85
+2014-operating-adopted,2009,actual,all_funds,,Police,146223978,85
+2014-operating-adopted,2010,actual,all_funds,,Police,129769614,85
+2014-operating-adopted,2011,actual,all_funds,,Police,130411570,85
+2014-operating-adopted,2012,actual,all_funds,,Police,139007185,85
+2014-operating-adopted,2013,adopted,all_funds,,Police,134548687,85
+2014-operating-adopted,2014,adopted,all_funds,,Police,135319253,85
+2014-operating-adopted,2008,actual,all_funds,,Sanitation,47727202,85
+2014-operating-adopted,2009,actual,all_funds,,Sanitation,47934082,85
+2014-operating-adopted,2010,actual,all_funds,,Sanitation,40251462,85
+2014-operating-adopted,2011,actual,all_funds,,Sanitation,36830118,85
+2014-operating-adopted,2012,actual,all_funds,,Sanitation,44296051,85
+2014-operating-adopted,2013,adopted,all_funds,,Sanitation,37209066,85
+2014-operating-adopted,2014,adopted,all_funds,,Sanitation,39230804,85
+2014-operating-adopted,2008,actual,all_funds,,Health,15912768,85
+2014-operating-adopted,2009,actual,all_funds,,Health,18702030,85
+2014-operating-adopted,2010,actual,all_funds,,Health,16599068,85
+2014-operating-adopted,2011,actual,all_funds,,Health,18466989,85
+2014-operating-adopted,2012,actual,all_funds,,Health,24737066,85
+2014-operating-adopted,2013,adopted,all_funds,,Health,31437644,85
+2014-operating-adopted,2014,adopted,all_funds,,Health,31415966,85
+2014-operating-adopted,2008,actual,all_funds,,Human Services,1830295,85
+2014-operating-adopted,2009,actual,all_funds,,Human Services,2030924,85
+2014-operating-adopted,2010,actual,all_funds,,Human Services,2127440,85
+2014-operating-adopted,2011,actual,all_funds,,Human Services,2795517,85
+2014-operating-adopted,2012,actual,all_funds,,Human Services,6242414,85
+2014-operating-adopted,2013,adopted,all_funds,,Human Services,2941547,85
+2014-operating-adopted,2014,adopted,all_funds,,Human Services,2938532,85
+2014-operating-adopted,2008,actual,all_funds,,Finance,54962915,85
+2014-operating-adopted,2009,actual,all_funds,,Finance,53520169,85
+2014-operating-adopted,2010,actual,all_funds,,Finance,58976160,85
+2014-operating-adopted,2011,actual,all_funds,,Finance,45211223,85
+2014-operating-adopted,2012,actual,all_funds,,Finance,219891723,85
+2014-operating-adopted,2013,adopted,all_funds,,Finance,46098615,85
+2014-operating-adopted,2014,adopted,all_funds,,Finance,43962542,85
+2014-operating-adopted,2008,actual,all_funds,,Property Management,9412005,85
+2014-operating-adopted,2009,actual,all_funds,,Property Management,9403627,85
+2014-operating-adopted,2010,actual,all_funds,,Property Management,8293986,85
+2014-operating-adopted,2011,actual,all_funds,,Property Management,8735215,85
+2014-operating-adopted,2012,actual,all_funds,,Property Management,19464203,85
+2014-operating-adopted,2013,adopted,all_funds,,Property Management,7141460,85
+2014-operating-adopted,2014,adopted,all_funds,,Property Management,6830024,85
+2014-operating-adopted,2008,actual,all_funds,,Civil Service,1434045,85
+2014-operating-adopted,2009,actual,all_funds,,Civil Service,1718570,85
+2014-operating-adopted,2010,actual,all_funds,,Civil Service,1691709,85
+2014-operating-adopted,2011,actual,all_funds,,Civil Service,1750767,85
+2014-operating-adopted,2012,actual,all_funds,,Civil Service,1589878,85
+2014-operating-adopted,2013,adopted,all_funds,,Civil Service,1469643,85
+2014-operating-adopted,2014,adopted,all_funds,,Civil Service,1552076,85
+2014-operating-adopted,2008,actual,all_funds,,Public Works,21147827,85
+2014-operating-adopted,2009,actual,all_funds,,Public Works,20482455,85
+2014-operating-adopted,2010,actual,all_funds,,Public Works,18303328,85
+2014-operating-adopted,2011,actual,all_funds,,Public Works,20494346,85
+2014-operating-adopted,2012,actual,all_funds,,Public Works,76624239,85
+2014-operating-adopted,2013,adopted,all_funds,,Public Works,16542280,85
+2014-operating-adopted,2014,adopted,all_funds,,Public Works,16924570,85
+2014-operating-adopted,2008,actual,all_funds,,Recreation,3199459,85
+2014-operating-adopted,2009,actual,all_funds,,Recreation,4533412,85
+2014-operating-adopted,2010,actual,all_funds,,Recreation,4728828,85
+2014-operating-adopted,2011,actual,all_funds,,Recreation,216105,85
+2014-operating-adopted,2012,actual,all_funds,,Recreation,22825413,85
+2014-operating-adopted,2008,actual,all_funds,,Parks & Parkways,6702502,85
+2014-operating-adopted,2009,actual,all_funds,,Parks & Parkways,7431749,85
+2014-operating-adopted,2010,actual,all_funds,,Parks & Parkways,6314645,85
+2014-operating-adopted,2011,actual,all_funds,,Parks & Parkways,6790738,85
+2014-operating-adopted,2012,actual,all_funds,,Parks & Parkways,16371507,85
+2014-operating-adopted,2013,adopted,all_funds,,Parks & Parkways,7037667,85
+2014-operating-adopted,2014,adopted,all_funds,,Parks & Parkways,7971248,85
+2014-operating-adopted,2008,actual,all_funds,,Library,6362509,85
+2014-operating-adopted,2009,actual,all_funds,,Library,7258720,85
+2014-operating-adopted,2010,actual,all_funds,,Library,7623511,85
+2014-operating-adopted,2011,actual,all_funds,,Library,8627899,85
+2014-operating-adopted,2012,actual,all_funds,,Library,22095410,85
+2014-operating-adopted,2013,adopted,all_funds,,Library,12112000,85
+2014-operating-adopted,2014,adopted,all_funds,,Library,12974861,85
+2014-operating-adopted,2008,actual,all_funds,,HDLC,606704,85
+2014-operating-adopted,2009,actual,all_funds,,HDLC,736770,85
+2014-operating-adopted,2010,actual,all_funds,,HDLC,684994,85
+2014-operating-adopted,2011,actual,all_funds,,HDLC,666769,85
+2014-operating-adopted,2012,actual,all_funds,,HDLC,585203,85
+2014-operating-adopted,2013,adopted,all_funds,,HDLC,638095,85
+2014-operating-adopted,2014,adopted,all_funds,,HDLC,533981,85
+2014-operating-adopted,2008,actual,all_funds,,VCC,336927,85
+2014-operating-adopted,2009,actual,all_funds,,VCC,331765,85
+2014-operating-adopted,2010,actual,all_funds,,VCC,312747,85
+2014-operating-adopted,2011,actual,all_funds,,VCC,384449,85
+2014-operating-adopted,2012,actual,all_funds,,VCC,375171,85
+2014-operating-adopted,2013,adopted,all_funds,,VCC,344831,85
+2014-operating-adopted,2014,adopted,all_funds,,VCC,413231,85
+2014-operating-adopted,2008,actual,all_funds,,Alcoholic Bvg Ctrl. Bd.,1401,85
+2014-operating-adopted,2009,actual,all_funds,,Alcoholic Bvg Ctrl. Bd.,526,85
+2014-operating-adopted,2010,actual,all_funds,,Alcoholic Bvg Ctrl. Bd.,34,85
+2014-operating-adopted,2011,actual,all_funds,,Alcoholic Bvg Ctrl. Bd.,14,85
+2014-operating-adopted,2013,adopted,all_funds,,Alcoholic Bvg Ctrl. Bd.,1500,85
+2014-operating-adopted,2014,adopted,all_funds,,Alcoholic Bvg Ctrl. Bd.,1500,85
+2014-operating-adopted,2008,actual,all_funds,,City Planning Comm.,1149491,85
+2014-operating-adopted,2009,actual,all_funds,,City Planning Comm.,1321729,85
+2014-operating-adopted,2010,actual,all_funds,,City Planning Comm.,1269541,85
+2014-operating-adopted,2011,actual,all_funds,,City Planning Comm.,1513945,85
+2014-operating-adopted,2012,actual,all_funds,,City Planning Comm.,1568087,85
+2014-operating-adopted,2013,adopted,all_funds,,City Planning Comm.,1594134,85
+2014-operating-adopted,2014,adopted,all_funds,,City Planning Comm.,1475357,85
+2014-operating-adopted,2008,actual,all_funds,,Mosquito Control Bd.,2464933,85
+2014-operating-adopted,2009,actual,all_funds,,Mosquito Control Bd.,3074438,85
+2014-operating-adopted,2010,actual,all_funds,,Mosquito Control Bd.,2483826,85
+2014-operating-adopted,2011,actual,all_funds,,Mosquito Control Bd.,2377693,85
+2014-operating-adopted,2012,actual,all_funds,,Mosquito Control Bd.,2832062,85
+2014-operating-adopted,2013,adopted,all_funds,,Mosquito Control Bd.,2743581,85
+2014-operating-adopted,2014,adopted,all_funds,,Mosquito Control Bd.,2870091,85
+2014-operating-adopted,2008,actual,all_funds,,Museum of Art,252090,85
+2014-operating-adopted,2009,actual,all_funds,,Museum of Art,242499,85
+2014-operating-adopted,2010,actual,all_funds,,Museum of Art,196425,85
+2014-operating-adopted,2011,actual,all_funds,,Museum of Art,176400,85
+2014-operating-adopted,2012,actual,all_funds,,Museum of Art,237008,85
+2014-operating-adopted,2013,adopted,all_funds,,Museum of Art,151683,85
+2014-operating-adopted,2014,adopted,all_funds,,Museum of Art,128931,85
+2014-operating-adopted,2008,actual,all_funds,,Miscellaneous,22553319,85
+2014-operating-adopted,2009,actual,all_funds,,Miscellaneous,25220591,85
+2014-operating-adopted,2010,actual,all_funds,,Miscellaneous,23490664,85
+2014-operating-adopted,2011,actual,all_funds,,Miscellaneous,17354846,85
+2014-operating-adopted,2012,actual,all_funds,,Miscellaneous,23474778,85
+2014-operating-adopted,2013,adopted,all_funds,,Miscellaneous,33008326,85
+2014-operating-adopted,2014,adopted,all_funds,,Miscellaneous,38590573,85
+2014-operating-adopted,2008,actual,all_funds,,General Services,1680518,85
+2014-operating-adopted,2009,actual,all_funds,,General Services,2811940,85
+2014-operating-adopted,2010,actual,all_funds,,General Services,2731230,85
+2014-operating-adopted,2011,actual,all_funds,,General Services,3447258,85
+2014-operating-adopted,2012,actual,all_funds,,General Services,3733169,85
+2014-operating-adopted,2013,adopted,all_funds,,General Services,4733336,85
+2014-operating-adopted,2014,adopted,all_funds,,General Services,4217021,85
+2014-operating-adopted,2008,actual,all_funds,,Office of Comm. Dev.,33872205,85
+2014-operating-adopted,2009,actual,all_funds,,Office of Comm. Dev.,31790825,85
+2014-operating-adopted,2010,actual,all_funds,,Office of Comm. Dev.,27768249,85
+2014-operating-adopted,2011,actual,all_funds,,Office of Comm. Dev.,19196473,85
+2014-operating-adopted,2012,actual,all_funds,,Office of Comm. Dev.,22831898,85
+2014-operating-adopted,2013,adopted,all_funds,,Office of Comm. Dev.,48722157,85
+2014-operating-adopted,2014,adopted,all_funds,,Office of Comm. Dev.,53955535,85
+2014-operating-adopted,2009,actual,all_funds,,N’hood Hsg Imprv. Fnd,1388188,85
+2014-operating-adopted,2010,actual,all_funds,,N’hood Hsg Imprv. Fnd,663577,85
+2014-operating-adopted,2011,actual,all_funds,,N’hood Hsg Imprv. Fnd,670362,85
+2014-operating-adopted,2012,actual,all_funds,,N’hood Hsg Imprv. Fnd,938021,85
+2014-operating-adopted,2013,adopted,all_funds,,N’hood Hsg Imprv. Fnd,11332700,85
+2014-operating-adopted,2014,adopted,all_funds,,N’hood Hsg Imprv. Fnd,2197259,85
+2014-operating-adopted,2008,actual,all_funds,,Workforce Invst. Act,7523533,85
+2014-operating-adopted,2009,actual,all_funds,,Workforce Invst. Act,4860737,85
+2014-operating-adopted,2010,actual,all_funds,,Workforce Invst. Act,2130746,85
+2014-operating-adopted,2011,actual,all_funds,,Workforce Invst. Act,1951484,85
+2014-operating-adopted,2012,actual,all_funds,,Workforce Invst. Act,2798115,85
+2014-operating-adopted,2013,adopted,all_funds,,Workforce Invst. Act,6405064,85
+2014-operating-adopted,2014,adopted,all_funds,,Workforce Invst. Act,5748952,85
+2014-operating-adopted,2008,actual,all_funds,,Economic Dev. Fund,3334870,85
+2014-operating-adopted,2009,actual,all_funds,,Economic Dev. Fund,4708895,85
+2014-operating-adopted,2010,actual,all_funds,,Economic Dev. Fund,1860207,85
+2014-operating-adopted,2011,actual,all_funds,,Economic Dev. Fund,2347974,85
+2014-operating-adopted,2012,actual,all_funds,,Economic Dev. Fund,1750754,85
+2014-operating-adopted,2013,adopted,all_funds,,Economic Dev. Fund,1753245,85
+2014-operating-adopted,2014,adopted,all_funds,,Economic Dev. Fund,1982385,85
+2014-operating-adopted,2013,adopted,all_funds,,Intergovernmental,74352367,85
+2014-operating-adopted,2014,adopted,all_funds,,Intergovernmental,100000000,85
+2014-operating-adopted,2008,actual,all_funds,,District Attorney,3616131,85
+2014-operating-adopted,2009,actual,all_funds,,District Attorney,5916841,85
+2014-operating-adopted,2010,actual,all_funds,,District Attorney,5889509,85
+2014-operating-adopted,2011,actual,all_funds,,District Attorney,6166265,85
+2014-operating-adopted,2012,actual,all_funds,,District Attorney,6412946,85
+2014-operating-adopted,2013,adopted,all_funds,,District Attorney,6271671,85
+2014-operating-adopted,2014,adopted,all_funds,,District Attorney,6271671,85
+2014-operating-adopted,2008,actual,all_funds,,Coroner's Office,1876362,85
+2014-operating-adopted,2009,actual,all_funds,,Coroner's Office,1953075,85
+2014-operating-adopted,2010,actual,all_funds,,Coroner's Office,1660032,85
+2014-operating-adopted,2011,actual,all_funds,,Coroner's Office,1887234,85
+2014-operating-adopted,2012,actual,all_funds,,Coroner's Office,1758594,85
+2014-operating-adopted,2013,adopted,all_funds,,Coroner's Office,1669099,85
+2014-operating-adopted,2014,adopted,all_funds,,Coroner's Office,1781605,85
+2014-operating-adopted,2008,actual,all_funds,,Juvenile Court,2919119,85
+2014-operating-adopted,2009,actual,all_funds,,Juvenile Court,3622808,85
+2014-operating-adopted,2010,actual,all_funds,,Juvenile Court,3646989,85
+2014-operating-adopted,2011,actual,all_funds,,Juvenile Court,3826663,85
+2014-operating-adopted,2012,actual,all_funds,,Juvenile Court,3594456,85
+2014-operating-adopted,2013,adopted,all_funds,,Juvenile Court,3615283,85
+2014-operating-adopted,2014,adopted,all_funds,,Juvenile Court,3025203,85
+2014-operating-adopted,2013,adopted,all_funds,,First City Court,6000,85
+2014-operating-adopted,2014,adopted,all_funds,,First City Court,6000,85
+2014-operating-adopted,2009,actual,all_funds,,Civil Court,7124,85
+2014-operating-adopted,2013,adopted,all_funds,,Civil Court,14400,85
+2014-operating-adopted,2014,adopted,all_funds,,Civil Court,14400,85
+2014-operating-adopted,2008,actual,all_funds,,Municipal Court,1121520,85
+2014-operating-adopted,2009,actual,all_funds,,Municipal Court,1916463,85
+2014-operating-adopted,2010,actual,all_funds,,Municipal Court,1762726,85
+2014-operating-adopted,2011,actual,all_funds,,Municipal Court,2724884,85
+2014-operating-adopted,2012,actual,all_funds,,Municipal Court,2254143,85
+2014-operating-adopted,2013,adopted,all_funds,,Municipal Court,1867343,85
+2014-operating-adopted,2014,adopted,all_funds,,Municipal Court,2045894,85
+2014-operating-adopted,2008,actual,all_funds,,Traffic Court,925238,85
+2014-operating-adopted,2009,actual,all_funds,,Traffic Court,976629,85
+2014-operating-adopted,2010,actual,all_funds,,Traffic Court,924435,85
+2014-operating-adopted,2011,actual,all_funds,,Traffic Court,587529,85
+2014-operating-adopted,2012,actual,all_funds,,Traffic Court,362976,85
+2014-operating-adopted,2013,adopted,all_funds,,Traffic Court,389640,85
+2014-operating-adopted,2014,adopted,all_funds,,Traffic Court,437587,85
+2014-operating-adopted,2008,actual,all_funds,,Criminal District Court,2634662,85
+2014-operating-adopted,2009,actual,all_funds,,Criminal District Court,2868577,85
+2014-operating-adopted,2010,actual,all_funds,,Criminal District Court,3033901,85
+2014-operating-adopted,2011,actual,all_funds,,Criminal District Court,2860195,85
+2014-operating-adopted,2012,actual,all_funds,,Criminal District Court,2149668,85
+2014-operating-adopted,2013,adopted,all_funds,,Criminal District Court,1526597,85
+2014-operating-adopted,2014,adopted,all_funds,,Criminal District Court,1526597,85
+2014-operating-adopted,2008,actual,all_funds,,Criminal Sheriff,25327988,85
+2014-operating-adopted,2009,actual,all_funds,,Criminal Sheriff,26665058,85
+2014-operating-adopted,2010,actual,all_funds,,Criminal Sheriff,23013071,85
+2014-operating-adopted,2011,actual,all_funds,,Criminal Sheriff,22543846,85
+2014-operating-adopted,2012,actual,all_funds,,Criminal Sheriff,21608813,85
+2014-operating-adopted,2013,adopted,all_funds,,Criminal Sheriff,22134338,85
+2014-operating-adopted,2014,adopted,all_funds,,Criminal Sheriff,24184338,85
+2014-operating-adopted,2008,actual,all_funds,,Clrk of Crim. Dist. Crt,3455910,85
+2014-operating-adopted,2009,actual,all_funds,,Clrk of Crim. Dist. Crt,4067699,85
+2014-operating-adopted,2010,actual,all_funds,,Clrk of Crim. Dist. Crt,3752310,85
+2014-operating-adopted,2011,actual,all_funds,,Clrk of Crim. Dist. Crt,4027575,85
+2014-operating-adopted,2012,actual,all_funds,,Clrk of Crim. Dist. Crt,4096351,85
+2014-operating-adopted,2013,adopted,all_funds,,Clrk of Crim. Dist. Crt,3726330,85
+2014-operating-adopted,2014,adopted,all_funds,,Clrk of Crim. Dist. Crt,3726330,85
+2014-operating-adopted,2008,actual,all_funds,,Registrar of Voters,361410,85
+2014-operating-adopted,2009,actual,all_funds,,Registrar of Voters,390732,85
+2014-operating-adopted,2010,actual,all_funds,,Registrar of Voters,337297,85
+2014-operating-adopted,2011,actual,all_funds,,Registrar of Voters,531229,85
+2014-operating-adopted,2012,actual,all_funds,,Registrar of Voters,392566,85
+2014-operating-adopted,2013,adopted,all_funds,,Registrar of Voters,383416,85
+2014-operating-adopted,2014,adopted,all_funds,,Registrar of Voters,371945,85
+2014-operating-adopted,2008,actual,all_funds,,Judicial Retirement,225783,85
+2014-operating-adopted,2009,actual,all_funds,,Judicial Retirement,213679,85
+2014-operating-adopted,2010,actual,all_funds,,Judicial Retirement,164228,85
+2014-operating-adopted,2011,actual,all_funds,,Judicial Retirement,232443,85
+2014-operating-adopted,2012,actual,all_funds,,Judicial Retirement,309048,85
+2014-operating-adopted,2013,adopted,all_funds,,Judicial Retirement,263238,85
+2014-operating-adopted,2014,adopted,all_funds,,Judicial Retirement,287233,85

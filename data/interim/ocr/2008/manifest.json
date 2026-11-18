@@ -1,0 +1,3042 @@
+{
+"1": {
+"how": "no text layer: best of 0/90",
+"lines": 8,
+"rotate": 0
+},
+"10": {
+"how": "no text layer: best of 0/90",
+"lines": 0,
+"rotate": 0
+},
+"100": {
+"how": "text layer says 0",
+"lines": 31,
+"rotate": 0
+},
+"101": {
+"how": "text layer says 0",
+"lines": 4,
+"rotate": 0
+},
+"102": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"103": {
+"how": "text layer says 90",
+"lines": 52,
+"rotate": 90
+},
+"104": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"105": {
+"how": "text layer says 90",
+"lines": 81,
+"rotate": 90
+},
+"106": {
+"how": "text layer says 90",
+"lines": 105,
+"rotate": 90
+},
+"107": {
+"how": "text layer says 90",
+"lines": 109,
+"rotate": 90
+},
+"108": {
+"how": "text layer says 90",
+"lines": 128,
+"rotate": 90
+},
+"109": {
+"how": "text layer says 90",
+"lines": 119,
+"rotate": 90
+},
+"11": {
+"how": "text layer says 90",
+"lines": 62,
+"rotate": 90
+},
+"110": {
+"how": "text layer says 90",
+"lines": 4,
+"rotate": 90
+},
+"111": {
+"how": "text layer says 0",
+"lines": 6,
+"rotate": 0
+},
+"112": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"113": {
+"how": "text layer says 0",
+"lines": 71,
+"rotate": 0
+},
+"114": {
+"how": "text layer says 0",
+"lines": 32,
+"rotate": 0
+},
+"115": {
+"how": "text layer says 0",
+"lines": 9,
+"rotate": 0
+},
+"116": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"117": {
+"how": "text layer says 0",
+"lines": 17,
+"rotate": 0
+},
+"118": {
+"how": "text layer says 0",
+"lines": 101,
+"rotate": 0
+},
+"119": {
+"how": "text layer says 0",
+"lines": 52,
+"rotate": 0
+},
+"12": {
+"how": "no text layer: best of 0/90",
+"lines": 0,
+"rotate": 0
+},
+"120": {
+"how": "text layer says 0",
+"lines": 23,
+"rotate": 0
+},
+"121": {
+"how": "text layer says 0",
+"lines": 15,
+"rotate": 0
+},
+"122": {
+"how": "text layer says 0",
+"lines": 7,
+"rotate": 0
+},
+"123": {
+"how": "text layer says 0",
+"lines": 50,
+"rotate": 0
+},
+"124": {
+"how": "text layer says 0",
+"lines": 13,
+"rotate": 0
+},
+"125": {
+"how": "text layer says 90",
+"lines": 77,
+"rotate": 90
+},
+"126": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"127": {
+"how": "text layer says 90",
+"lines": 101,
+"rotate": 90
+},
+"128": {
+"how": "text layer says 90",
+"lines": 57,
+"rotate": 90
+},
+"129": {
+"how": "text layer says 90",
+"lines": 68,
+"rotate": 90
+},
+"13": {
+"how": "text layer says 90",
+"lines": 21,
+"rotate": 90
+},
+"130": {
+"how": "text layer says 90",
+"lines": 59,
+"rotate": 90
+},
+"131": {
+"how": "text layer says 90",
+"lines": 65,
+"rotate": 90
+},
+"132": {
+"how": "text layer says 90",
+"lines": 27,
+"rotate": 90
+},
+"133": {
+"how": "text layer says 90",
+"lines": 130,
+"rotate": 90
+},
+"134": {
+"how": "text layer says 90",
+"lines": 67,
+"rotate": 90
+},
+"135": {
+"how": "text layer says 90",
+"lines": 78,
+"rotate": 90
+},
+"136": {
+"how": "text layer says 90",
+"lines": 57,
+"rotate": 90
+},
+"137": {
+"how": "text layer says 90",
+"lines": 71,
+"rotate": 90
+},
+"138": {
+"how": "text layer says 90",
+"lines": 81,
+"rotate": 90
+},
+"139": {
+"how": "text layer says 90",
+"lines": 119,
+"rotate": 90
+},
+"14": {
+"how": "no text layer: best of 0/90",
+"lines": 0,
+"rotate": 0
+},
+"140": {
+"how": "text layer says 90",
+"lines": 111,
+"rotate": 90
+},
+"141": {
+"how": "text layer says 90",
+"lines": 75,
+"rotate": 90
+},
+"142": {
+"how": "text layer says 90",
+"lines": 100,
+"rotate": 90
+},
+"143": {
+"how": "text layer says 90",
+"lines": 61,
+"rotate": 90
+},
+"144": {
+"how": "text layer says 90",
+"lines": 113,
+"rotate": 90
+},
+"145": {
+"how": "text layer says 90",
+"lines": 79,
+"rotate": 90
+},
+"146": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"147": {
+"how": "text layer says 0",
+"lines": 5,
+"rotate": 0
+},
+"148": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"149": {
+"how": "text layer says 0",
+"lines": 69,
+"rotate": 0
+},
+"15": {
+"how": "text layer says 0",
+"lines": 75,
+"rotate": 0
+},
+"150": {
+"how": "text layer says 0",
+"lines": 49,
+"rotate": 0
+},
+"151": {
+"how": "text layer says 0",
+"lines": 24,
+"rotate": 0
+},
+"152": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"153": {
+"how": "text layer says 0",
+"lines": 43,
+"rotate": 0
+},
+"154": {
+"how": "text layer says 0",
+"lines": 11,
+"rotate": 0
+},
+"155": {
+"how": "text layer says 0",
+"lines": 10,
+"rotate": 0
+},
+"156": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"157": {
+"how": "text layer says 90",
+"lines": 62,
+"rotate": 90
+},
+"158": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"159": {
+"how": "text layer says 90",
+"lines": 93,
+"rotate": 90
+},
+"16": {
+"how": "text layer says 0",
+"lines": 84,
+"rotate": 0
+},
+"160": {
+"how": "text layer says 90",
+"lines": 43,
+"rotate": 90
+},
+"161": {
+"how": "text layer says 90",
+"lines": 115,
+"rotate": 90
+},
+"162": {
+"how": "text layer says 90",
+"lines": 66,
+"rotate": 90
+},
+"163": {
+"how": "text layer says 90",
+"lines": 124,
+"rotate": 90
+},
+"164": {
+"how": "text layer says 90",
+"lines": 109,
+"rotate": 90
+},
+"165": {
+"how": "text layer says 90",
+"lines": 114,
+"rotate": 90
+},
+"166": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"167": {
+"how": "no text layer: best of 0/90",
+"lines": 3,
+"rotate": 0
+},
+"168": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"169": {
+"how": "text layer says 0",
+"lines": 77,
+"rotate": 0
+},
+"17": {
+"how": "text layer says 0",
+"lines": 22,
+"rotate": 0
+},
+"170": {
+"how": "text layer says 0",
+"lines": 25,
+"rotate": 0
+},
+"171": {
+"how": "text layer says 0",
+"lines": 13,
+"rotate": 0
+},
+"172": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"173": {
+"how": "text layer says 90",
+"lines": 62,
+"rotate": 90
+},
+"174": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"175": {
+"how": "text layer says 90",
+"lines": 54,
+"rotate": 90
+},
+"176": {
+"how": "text layer says 90",
+"lines": 77,
+"rotate": 90
+},
+"177": {
+"how": "text layer says 90",
+"lines": 128,
+"rotate": 90
+},
+"178": {
+"how": "text layer says 90",
+"lines": 111,
+"rotate": 90
+},
+"179": {
+"how": "text layer says 90",
+"lines": 40,
+"rotate": 90
+},
+"18": {
+"how": "text layer says 0",
+"lines": 5,
+"rotate": 0
+},
+"180": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"181": {
+"how": "no text layer: best of 0/90",
+"lines": 3,
+"rotate": 0
+},
+"182": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"183": {
+"how": "text layer says 0",
+"lines": 90,
+"rotate": 0
+},
+"184": {
+"how": "text layer says 0",
+"lines": 57,
+"rotate": 0
+},
+"185": {
+"how": "text layer says 0",
+"lines": 22,
+"rotate": 0
+},
+"186": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"187": {
+"how": "text layer says 90",
+"lines": 60,
+"rotate": 90
+},
+"188": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"189": {
+"how": "text layer says 90",
+"lines": 77,
+"rotate": 90
+},
+"19": {
+"how": "text layer says 0",
+"lines": 66,
+"rotate": 0
+},
+"190": {
+"how": "text layer says 90",
+"lines": 104,
+"rotate": 90
+},
+"191": {
+"how": "text layer says 90",
+"lines": 20,
+"rotate": 90
+},
+"192": {
+"how": "text layer says 90",
+"lines": 124,
+"rotate": 90
+},
+"193": {
+"how": "text layer says 90",
+"lines": 127,
+"rotate": 90
+},
+"194": {
+"how": "text layer says 90",
+"lines": 82,
+"rotate": 90
+},
+"195": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"196": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"197": {
+"how": "text layer says 0",
+"lines": 73,
+"rotate": 0
+},
+"198": {
+"how": "text layer says 0",
+"lines": 55,
+"rotate": 0
+},
+"199": {
+"how": "text layer says 0",
+"lines": 10,
+"rotate": 0
+},
+"2": {
+"how": "no text layer: best of 0/90",
+"lines": 0,
+"rotate": 0
+},
+"20": {
+"how": "text layer says 0",
+"lines": 100,
+"rotate": 0
+},
+"200": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"201": {
+"how": "text layer says 90",
+"lines": 58,
+"rotate": 90
+},
+"202": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"203": {
+"how": "text layer says 90",
+"lines": 76,
+"rotate": 90
+},
+"204": {
+"how": "text layer says 90",
+"lines": 97,
+"rotate": 90
+},
+"205": {
+"how": "text layer says 90",
+"lines": 124,
+"rotate": 90
+},
+"206": {
+"how": "text layer says 90",
+"lines": 131,
+"rotate": 90
+},
+"207": {
+"how": "text layer says 90",
+"lines": 108,
+"rotate": 90
+},
+"208": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"209": {
+"how": "no text layer: best of 0/90",
+"lines": 3,
+"rotate": 0
+},
+"21": {
+"how": "text layer says 90",
+"lines": 68,
+"rotate": 90
+},
+"210": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"211": {
+"how": "text layer says 0",
+"lines": 39,
+"rotate": 0
+},
+"212": {
+"how": "text layer says 0",
+"lines": 83,
+"rotate": 0
+},
+"213": {
+"how": "text layer says 0",
+"lines": 15,
+"rotate": 0
+},
+"214": {
+"how": "text layer says 0",
+"lines": 16,
+"rotate": 0
+},
+"215": {
+"how": "text layer says 90",
+"lines": 74,
+"rotate": 90
+},
+"216": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"217": {
+"how": "text layer says 90",
+"lines": 103,
+"rotate": 90
+},
+"218": {
+"how": "text layer says 90",
+"lines": 58,
+"rotate": 90
+},
+"219": {
+"how": "text layer says 90",
+"lines": 92,
+"rotate": 90
+},
+"22": {
+"how": "text layer says 0",
+"lines": 153,
+"rotate": 0
+},
+"220": {
+"how": "text layer says 90",
+"lines": 21,
+"rotate": 90
+},
+"221": {
+"how": "text layer says 90",
+"lines": 162,
+"rotate": 90
+},
+"222": {
+"how": "text layer says 90",
+"lines": 73,
+"rotate": 90
+},
+"223": {
+"how": "text layer says 90",
+"lines": 102,
+"rotate": 90
+},
+"224": {
+"how": "text layer says 90",
+"lines": 64,
+"rotate": 90
+},
+"225": {
+"how": "text layer says 90",
+"lines": 131,
+"rotate": 90
+},
+"226": {
+"how": "text layer says 90",
+"lines": 142,
+"rotate": 90
+},
+"227": {
+"how": "text layer says 90",
+"lines": 142,
+"rotate": 90
+},
+"228": {
+"how": "text layer says 90",
+"lines": 133,
+"rotate": 90
+},
+"229": {
+"how": "text layer says 90",
+"lines": 137,
+"rotate": 90
+},
+"23": {
+"how": "text layer says 0",
+"lines": 19,
+"rotate": 0
+},
+"230": {
+"how": "text layer says 90",
+"lines": 182,
+"rotate": 90
+},
+"231": {
+"how": "text layer says 90",
+"lines": 148,
+"rotate": 90
+},
+"232": {
+"how": "text layer says 90",
+"lines": 163,
+"rotate": 90
+},
+"233": {
+"how": "text layer says 90",
+"lines": 145,
+"rotate": 90
+},
+"234": {
+"how": "text layer says 90",
+"lines": 105,
+"rotate": 90
+},
+"235": {
+"how": "text layer says 90",
+"lines": 20,
+"rotate": 90
+},
+"236": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"237": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"238": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"239": {
+"how": "text layer says 0",
+"lines": 69,
+"rotate": 0
+},
+"24": {
+"how": "text layer says 0",
+"lines": 25,
+"rotate": 0
+},
+"240": {
+"how": "text layer says 0",
+"lines": 46,
+"rotate": 0
+},
+"241": {
+"how": "text layer says 0",
+"lines": 2,
+"rotate": 0
+},
+"242": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"243": {
+"how": "text layer says 90",
+"lines": 64,
+"rotate": 90
+},
+"244": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"245": {
+"how": "text layer says 90",
+"lines": 63,
+"rotate": 90
+},
+"246": {
+"how": "text layer says 90",
+"lines": 89,
+"rotate": 90
+},
+"247": {
+"how": "text layer says 90",
+"lines": 107,
+"rotate": 90
+},
+"248": {
+"how": "text layer says 90",
+"lines": 54,
+"rotate": 90
+},
+"249": {
+"how": "text layer says 0",
+"lines": 5,
+"rotate": 0
+},
+"25": {
+"how": "text layer says 0",
+"lines": 51,
+"rotate": 0
+},
+"250": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"251": {
+"how": "text layer says 0",
+"lines": 32,
+"rotate": 0
+},
+"252": {
+"how": "text layer says 0",
+"lines": 72,
+"rotate": 0
+},
+"253": {
+"how": "text layer says 0",
+"lines": 14,
+"rotate": 0
+},
+"254": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"255": {
+"how": "text layer says 0",
+"lines": 53,
+"rotate": 0
+},
+"256": {
+"how": "text layer says 0",
+"lines": 17,
+"rotate": 0
+},
+"257": {
+"how": "text layer says 0",
+"lines": 12,
+"rotate": 0
+},
+"258": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"259": {
+"how": "text layer says 90",
+"lines": 69,
+"rotate": 90
+},
+"26": {
+"how": "text layer says 0",
+"lines": 27,
+"rotate": 0
+},
+"260": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"261": {
+"how": "text layer says 90",
+"lines": 78,
+"rotate": 90
+},
+"262": {
+"how": "text layer says 90",
+"lines": 112,
+"rotate": 90
+},
+"263": {
+"how": "text layer says 90",
+"lines": 100,
+"rotate": 90
+},
+"264": {
+"how": "text layer says 90",
+"lines": 23,
+"rotate": 90
+},
+"265": {
+"how": "text layer says 90",
+"lines": 119,
+"rotate": 90
+},
+"266": {
+"how": "text layer says 90",
+"lines": 111,
+"rotate": 90
+},
+"267": {
+"how": "text layer says 90",
+"lines": 112,
+"rotate": 90
+},
+"268": {
+"how": "text layer says 90",
+"lines": 97,
+"rotate": 90
+},
+"269": {
+"how": "text layer says 90",
+"lines": 104,
+"rotate": 90
+},
+"27": {
+"how": "text layer says 0",
+"lines": 26,
+"rotate": 0
+},
+"270": {
+"how": "text layer says 90",
+"lines": 25,
+"rotate": 90
+},
+"271": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"272": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"273": {
+"how": "text layer says 0",
+"lines": 100,
+"rotate": 0
+},
+"274": {
+"how": "text layer says 0",
+"lines": 17,
+"rotate": 0
+},
+"275": {
+"how": "text layer says 90",
+"lines": 64,
+"rotate": 90
+},
+"276": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"277": {
+"how": "text layer says 90",
+"lines": 54,
+"rotate": 90
+},
+"278": {
+"how": "text layer says 90",
+"lines": 86,
+"rotate": 90
+},
+"279": {
+"how": "text layer says 90",
+"lines": 100,
+"rotate": 90
+},
+"28": {
+"how": "text layer says 0",
+"lines": 11,
+"rotate": 0
+},
+"280": {
+"how": "text layer says 90",
+"lines": 50,
+"rotate": 90
+},
+"281": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"282": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"283": {
+"how": "text layer says 0",
+"lines": 82,
+"rotate": 0
+},
+"284": {
+"how": "text layer says 0",
+"lines": 35,
+"rotate": 0
+},
+"285": {
+"how": "text layer says 0",
+"lines": 8,
+"rotate": 0
+},
+"286": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"287": {
+"how": "text layer says 90",
+"lines": 69,
+"rotate": 90
+},
+"288": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"289": {
+"how": "text layer says 90",
+"lines": 105,
+"rotate": 90
+},
+"29": {
+"how": "text layer says 90",
+"lines": 32,
+"rotate": 90
+},
+"290": {
+"how": "text layer says 90",
+"lines": 20,
+"rotate": 90
+},
+"291": {
+"how": "text layer says 90",
+"lines": 146,
+"rotate": 90
+},
+"292": {
+"how": "text layer says 90",
+"lines": 23,
+"rotate": 90
+},
+"293": {
+"how": "text layer says 90",
+"lines": 116,
+"rotate": 90
+},
+"294": {
+"how": "text layer says 90",
+"lines": 130,
+"rotate": 90
+},
+"295": {
+"how": "text layer says 90",
+"lines": 131,
+"rotate": 90
+},
+"296": {
+"how": "text layer says 90",
+"lines": 131,
+"rotate": 90
+},
+"297": {
+"how": "text layer says 90",
+"lines": 25,
+"rotate": 90
+},
+"298": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"299": {
+"how": "text layer says 0",
+"lines": 4,
+"rotate": 0
+},
+"3": {
+"how": "text layer says 0",
+"lines": 21,
+"rotate": 0
+},
+"30": {
+"how": "text layer says 90",
+"lines": 36,
+"rotate": 90
+},
+"300": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"301": {
+"how": "text layer says 0",
+"lines": 82,
+"rotate": 0
+},
+"302": {
+"how": "text layer says 0",
+"lines": 54,
+"rotate": 0
+},
+"303": {
+"how": "text layer says 90",
+"lines": 65,
+"rotate": 90
+},
+"304": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"305": {
+"how": "text layer says 90",
+"lines": 54,
+"rotate": 90
+},
+"306": {
+"how": "text layer says 90",
+"lines": 72,
+"rotate": 90
+},
+"307": {
+"how": "text layer says 90",
+"lines": 134,
+"rotate": 90
+},
+"308": {
+"how": "text layer says 90",
+"lines": 128,
+"rotate": 90
+},
+"309": {
+"how": "text layer says 90",
+"lines": 62,
+"rotate": 90
+},
+"31": {
+"how": "text layer says 90",
+"lines": 19,
+"rotate": 90
+},
+"310": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"311": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"312": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"313": {
+"how": "text layer says 0",
+"lines": 78,
+"rotate": 0
+},
+"314": {
+"how": "text layer says 0",
+"lines": 52,
+"rotate": 0
+},
+"315": {
+"how": "text layer says 0",
+"lines": 6,
+"rotate": 0
+},
+"316": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"317": {
+"how": "text layer says 90",
+"lines": 52,
+"rotate": 90
+},
+"318": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"319": {
+"how": "text layer says 90",
+"lines": 28,
+"rotate": 90
+},
+"32": {
+"how": "text layer says 90",
+"lines": 31,
+"rotate": 90
+},
+"320": {
+"how": "text layer says 90",
+"lines": 30,
+"rotate": 90
+},
+"321": {
+"how": "text layer says 90",
+"lines": 86,
+"rotate": 90
+},
+"322": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"323": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"324": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"325": {
+"how": "text layer says 0",
+"lines": 76,
+"rotate": 0
+},
+"326": {
+"how": "text layer says 0",
+"lines": 43,
+"rotate": 0
+},
+"327": {
+"how": "text layer says 0",
+"lines": 22,
+"rotate": 0
+},
+"328": {
+"how": "text layer says 0",
+"lines": 25,
+"rotate": 0
+},
+"329": {
+"how": "text layer says 90",
+"lines": 57,
+"rotate": 90
+},
+"33": {
+"how": "text layer says 0",
+"lines": 9,
+"rotate": 0
+},
+"330": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"331": {
+"how": "text layer says 90",
+"lines": 83,
+"rotate": 90
+},
+"332": {
+"how": "text layer says 90",
+"lines": 120,
+"rotate": 90
+},
+"333": {
+"how": "text layer says 90",
+"lines": 23,
+"rotate": 90
+},
+"334": {
+"how": "text layer says 90",
+"lines": 117,
+"rotate": 90
+},
+"335": {
+"how": "text layer says 90",
+"lines": 115,
+"rotate": 90
+},
+"336": {
+"how": "text layer says 90",
+"lines": 112,
+"rotate": 90
+},
+"337": {
+"how": "text layer says 90",
+"lines": 98,
+"rotate": 90
+},
+"338": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"339": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"34": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"340": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"341": {
+"how": "text layer says 0",
+"lines": 66,
+"rotate": 0
+},
+"342": {
+"how": "text layer says 0",
+"lines": 33,
+"rotate": 0
+},
+"343": {
+"how": "text layer says 90",
+"lines": 60,
+"rotate": 90
+},
+"344": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"345": {
+"how": "text layer says 90",
+"lines": 66,
+"rotate": 90
+},
+"346": {
+"how": "text layer says 90",
+"lines": 93,
+"rotate": 90
+},
+"347": {
+"how": "text layer says 90",
+"lines": 99,
+"rotate": 90
+},
+"348": {
+"how": "text layer says 90",
+"lines": 131,
+"rotate": 90
+},
+"349": {
+"how": "text layer says 90",
+"lines": 35,
+"rotate": 90
+},
+"35": {
+"how": "text layer says 0",
+"lines": 41,
+"rotate": 0
+},
+"350": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"351": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"352": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"353": {
+"how": "text layer says 0",
+"lines": 95,
+"rotate": 0
+},
+"354": {
+"how": "text layer says 0",
+"lines": 14,
+"rotate": 0
+},
+"355": {
+"how": "text layer says 0",
+"lines": 7,
+"rotate": 0
+},
+"356": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"357": {
+"how": "text layer says 90",
+"lines": 61,
+"rotate": 90
+},
+"358": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"359": {
+"how": "text layer says 90",
+"lines": 91,
+"rotate": 90
+},
+"36": {
+"how": "text layer says 0",
+"lines": 26,
+"rotate": 0
+},
+"360": {
+"how": "text layer says 90",
+"lines": 115,
+"rotate": 90
+},
+"361": {
+"how": "text layer says 90",
+"lines": 106,
+"rotate": 90
+},
+"362": {
+"how": "text layer says 90",
+"lines": 140,
+"rotate": 90
+},
+"363": {
+"how": "text layer says 90",
+"lines": 110,
+"rotate": 90
+},
+"364": {
+"how": "text layer says 90",
+"lines": 45,
+"rotate": 90
+},
+"365": {
+"how": "text layer says 0",
+"lines": 12,
+"rotate": 0
+},
+"366": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"367": {
+"how": "text layer says 0",
+"lines": 77,
+"rotate": 0
+},
+"368": {
+"how": "text layer says 0",
+"lines": 14,
+"rotate": 0
+},
+"369": {
+"how": "text layer says 90",
+"lines": 65,
+"rotate": 90
+},
+"37": {
+"how": "text layer says 0",
+"lines": 16,
+"rotate": 0
+},
+"370": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"371": {
+"how": "text layer says 90",
+"lines": 51,
+"rotate": 90
+},
+"372": {
+"how": "text layer says 90",
+"lines": 59,
+"rotate": 90
+},
+"373": {
+"how": "text layer says 90",
+"lines": 143,
+"rotate": 90
+},
+"374": {
+"how": "text layer says 90",
+"lines": 59,
+"rotate": 90
+},
+"375": {
+"how": "text layer says 0",
+"lines": 86,
+"rotate": 0
+},
+"376": {
+"how": "text layer says 0",
+"lines": 14,
+"rotate": 0
+},
+"377": {
+"how": "text layer says 90",
+"lines": 58,
+"rotate": 90
+},
+"378": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"379": {
+"how": "text layer says 90",
+"lines": 41,
+"rotate": 90
+},
+"38": {
+"how": "text layer says 0",
+"lines": 21,
+"rotate": 0
+},
+"380": {
+"how": "text layer says 90",
+"lines": 44,
+"rotate": 90
+},
+"381": {
+"how": "text layer says 90",
+"lines": 56,
+"rotate": 90
+},
+"382": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"383": {
+"how": "text layer says 0",
+"lines": 84,
+"rotate": 0
+},
+"384": {
+"how": "text layer says 0",
+"lines": 6,
+"rotate": 0
+},
+"385": {
+"how": "text layer says 90",
+"lines": 55,
+"rotate": 90
+},
+"386": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"387": {
+"how": "text layer says 90",
+"lines": 26,
+"rotate": 90
+},
+"388": {
+"how": "text layer says 90",
+"lines": 31,
+"rotate": 90
+},
+"389": {
+"how": "text layer says 90",
+"lines": 52,
+"rotate": 90
+},
+"39": {
+"how": "text layer says 0",
+"lines": 16,
+"rotate": 0
+},
+"390": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"391": {
+"how": "text layer says 0",
+"lines": 77,
+"rotate": 0
+},
+"392": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"393": {
+"how": "text layer says 90",
+"lines": 49,
+"rotate": 90
+},
+"394": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"395": {
+"how": "text layer says 90",
+"lines": 24,
+"rotate": 90
+},
+"396": {
+"how": "text layer says 90",
+"lines": 28,
+"rotate": 90
+},
+"397": {
+"how": "text layer says 0",
+"lines": 83,
+"rotate": 0
+},
+"398": {
+"how": "text layer says 0",
+"lines": 19,
+"rotate": 0
+},
+"399": {
+"how": "text layer says 90",
+"lines": 54,
+"rotate": 90
+},
+"4": {
+"how": "no text layer: best of 0/90",
+"lines": 0,
+"rotate": 0
+},
+"40": {
+"how": "text layer says 0",
+"lines": 15,
+"rotate": 0
+},
+"400": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"401": {
+"how": "text layer says 90",
+"lines": 36,
+"rotate": 90
+},
+"402": {
+"how": "text layer says 90",
+"lines": 49,
+"rotate": 90
+},
+"403": {
+"how": "text layer says 90",
+"lines": 113,
+"rotate": 90
+},
+"404": {
+"how": "text layer says 90",
+"lines": 21,
+"rotate": 90
+},
+"405": {
+"how": "text layer says 0",
+"lines": 45,
+"rotate": 0
+},
+"406": {
+"how": "text layer says 0",
+"lines": 81,
+"rotate": 0
+},
+"407": {
+"how": "text layer says 0",
+"lines": 18,
+"rotate": 0
+},
+"408": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"409": {
+"how": "text layer says 90",
+"lines": 59,
+"rotate": 90
+},
+"41": {
+"how": "text layer says 0",
+"lines": 14,
+"rotate": 0
+},
+"410": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"411": {
+"how": "text layer says 90",
+"lines": 56,
+"rotate": 90
+},
+"412": {
+"how": "text layer says 90",
+"lines": 68,
+"rotate": 90
+},
+"413": {
+"how": "text layer says 90",
+"lines": 134,
+"rotate": 90
+},
+"414": {
+"how": "text layer says 90",
+"lines": 64,
+"rotate": 90
+},
+"415": {
+"how": "text layer says 0",
+"lines": 72,
+"rotate": 0
+},
+"416": {
+"how": "text layer says 0",
+"lines": 24,
+"rotate": 0
+},
+"417": {
+"how": "text layer says 90",
+"lines": 51,
+"rotate": 90
+},
+"418": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"419": {
+"how": "text layer says 90",
+"lines": 24,
+"rotate": 90
+},
+"42": {
+"how": "text layer says 0",
+"lines": 12,
+"rotate": 0
+},
+"420": {
+"how": "text layer says 90",
+"lines": 29,
+"rotate": 90
+},
+"421": {
+"how": "text layer says 0",
+"lines": 62,
+"rotate": 0
+},
+"422": {
+"how": "text layer says 0",
+"lines": 65,
+"rotate": 0
+},
+"423": {
+"how": "text layer says 0",
+"lines": 54,
+"rotate": 0
+},
+"424": {
+"how": "text layer says 0",
+"lines": 41,
+"rotate": 0
+},
+"425": {
+"how": "text layer says 90",
+"lines": 53,
+"rotate": 90
+},
+"426": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"427": {
+"how": "text layer says 90",
+"lines": 42,
+"rotate": 90
+},
+"428": {
+"how": "text layer says 90",
+"lines": 60,
+"rotate": 90
+},
+"429": {
+"how": "text layer says 0",
+"lines": 57,
+"rotate": 0
+},
+"43": {
+"how": "text layer says 0",
+"lines": 37,
+"rotate": 0
+},
+"430": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"431": {
+"how": "text layer says 90",
+"lines": 50,
+"rotate": 90
+},
+"432": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"433": {
+"how": "text layer says 90",
+"lines": 28,
+"rotate": 90
+},
+"434": {
+"how": "text layer says 90",
+"lines": 28,
+"rotate": 90
+},
+"435": {
+"how": "text layer says 90",
+"lines": 31,
+"rotate": 90
+},
+"436": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"437": {
+"how": "text layer says 0",
+"lines": 89,
+"rotate": 0
+},
+"438": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"439": {
+"how": "text layer says 90",
+"lines": 64,
+"rotate": 90
+},
+"44": {
+"how": "text layer says 0",
+"lines": 45,
+"rotate": 0
+},
+"440": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"441": {
+"how": "text layer says 90",
+"lines": 101,
+"rotate": 90
+},
+"442": {
+"how": "text layer says 90",
+"lines": 60,
+"rotate": 90
+},
+"443": {
+"how": "text layer says 90",
+"lines": 92,
+"rotate": 90
+},
+"444": {
+"how": "text layer says 90",
+"lines": 106,
+"rotate": 90
+},
+"445": {
+"how": "text layer says 90",
+"lines": 5,
+"rotate": 90
+},
+"446": {
+"how": "text layer says 90",
+"lines": 108,
+"rotate": 90
+},
+"447": {
+"how": "text layer says 90",
+"lines": 121,
+"rotate": 90
+},
+"448": {
+"how": "text layer says 90",
+"lines": 129,
+"rotate": 90
+},
+"449": {
+"how": "text layer says 0",
+"lines": 90,
+"rotate": 0
+},
+"45": {
+"how": "text layer says 0",
+"lines": 36,
+"rotate": 0
+},
+"450": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"451": {
+"how": "no text layer: best of 0/90/270 by horizontal-text + vocabulary score",
+"lines": 62,
+"rotate": 90
+},
+"452": {
+"how": "no text layer: best of 0/90/270 by horizontal-text + vocabulary score",
+"lines": 1,
+"rotate": 0
+},
+"453": {
+"how": "no text layer: best of 0/90/270 by horizontal-text + vocabulary score",
+"lines": 43,
+"rotate": 90
+},
+"454": {
+"how": "no text layer: best of 0/90/270 by horizontal-text + vocabulary score",
+"lines": 52,
+"rotate": 90
+},
+"455": {
+"how": "no text layer: best of 0/90/270 by horizontal-text + vocabulary score",
+"lines": 57,
+"rotate": 90
+},
+"456": {
+"how": "no text layer: best of 0/90/270 by horizontal-text + vocabulary score",
+"lines": 1,
+"rotate": 0
+},
+"457": {
+"how": "text layer says 0",
+"lines": 82,
+"rotate": 0
+},
+"458": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"459": {
+"how": "text layer says 90",
+"lines": 54,
+"rotate": 90
+},
+"46": {
+"how": "text layer says 0",
+"lines": 10,
+"rotate": 0
+},
+"460": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"461": {
+"how": "text layer says 90",
+"lines": 40,
+"rotate": 90
+},
+"462": {
+"how": "text layer says 90",
+"lines": 53,
+"rotate": 90
+},
+"463": {
+"how": "text layer says 90",
+"lines": 51,
+"rotate": 90
+},
+"464": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"465": {
+"how": "text layer says 0",
+"lines": 84,
+"rotate": 0
+},
+"466": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"467": {
+"how": "text layer says 90",
+"lines": 56,
+"rotate": 90
+},
+"468": {
+"how": "text layer says 90",
+"lines": 25,
+"rotate": 90
+},
+"469": {
+"how": "text layer says 90",
+"lines": 28,
+"rotate": 90
+},
+"47": {
+"how": "text layer says 0",
+"lines": 16,
+"rotate": 0
+},
+"470": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"471": {
+"how": "text layer says 0",
+"lines": 70,
+"rotate": 0
+},
+"472": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"473": {
+"how": "text layer says 90",
+"lines": 46,
+"rotate": 90
+},
+"474": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"475": {
+"how": "text layer says 90",
+"lines": 24,
+"rotate": 90
+},
+"476": {
+"how": "text layer says 90",
+"lines": 27,
+"rotate": 90
+},
+"477": {
+"how": "text layer says 0",
+"lines": 17,
+"rotate": 0
+},
+"478": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"479": {
+"how": "text layer says 0",
+"lines": 57,
+"rotate": 0
+},
+"48": {
+"how": "text layer says 0",
+"lines": 7,
+"rotate": 0
+},
+"480": {
+"how": "text layer says 0",
+"lines": 84,
+"rotate": 0
+},
+"481": {
+"how": "text layer says 0",
+"lines": 11,
+"rotate": 0
+},
+"482": {
+"how": "text layer says 0",
+"lines": 0,
+"rotate": 0
+},
+"483": {
+"how": "text layer says 90",
+"lines": 54,
+"rotate": 90
+},
+"484": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"485": {
+"how": "text layer says 90",
+"lines": 30,
+"rotate": 90
+},
+"486": {
+"how": "text layer says 90",
+"lines": 42,
+"rotate": 90
+},
+"487": {
+"how": "text layer says 0",
+"lines": 91,
+"rotate": 0
+},
+"488": {
+"how": "text layer says 0",
+"lines": 7,
+"rotate": 0
+},
+"489": {
+"how": "text layer says 90",
+"lines": 58,
+"rotate": 90
+},
+"49": {
+"how": "text layer says 0",
+"lines": 20,
+"rotate": 0
+},
+"490": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"491": {
+"how": "text layer says 90",
+"lines": 35,
+"rotate": 90
+},
+"492": {
+"how": "text layer says 90",
+"lines": 44,
+"rotate": 90
+},
+"493": {
+"how": "text layer says 90",
+"lines": 78,
+"rotate": 90
+},
+"494": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"495": {
+"how": "text layer says 0",
+"lines": 53,
+"rotate": 0
+},
+"496": {
+"how": "text layer says 0",
+"lines": 81,
+"rotate": 0
+},
+"497": {
+"how": "text layer says 0",
+"lines": 14,
+"rotate": 0
+},
+"498": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"499": {
+"how": "text layer says 90",
+"lines": 54,
+"rotate": 90
+},
+"5": {
+"how": "text layer says 0",
+"lines": 17,
+"rotate": 0
+},
+"50": {
+"how": "text layer says 90",
+"lines": 169,
+"rotate": 90
+},
+"500": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"501": {
+"how": "text layer says 90",
+"lines": 30,
+"rotate": 90
+},
+"502": {
+"how": "text layer says 90",
+"lines": 43,
+"rotate": 90
+},
+"503": {
+"how": "text layer says 90",
+"lines": 112,
+"rotate": 90
+},
+"504": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"505": {
+"how": "text layer says 0",
+"lines": 44,
+"rotate": 0
+},
+"506": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"507": {
+"how": "text layer says 90",
+"lines": 46,
+"rotate": 90
+},
+"508": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"509": {
+"how": "text layer says 90",
+"lines": 24,
+"rotate": 90
+},
+"51": {
+"how": "text layer says 0",
+"lines": 93,
+"rotate": 0
+},
+"510": {
+"how": "text layer says 90",
+"lines": 27,
+"rotate": 90
+},
+"511": {
+"how": "text layer says 0",
+"lines": 69,
+"rotate": 0
+},
+"512": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"513": {
+"how": "text layer says 90",
+"lines": 51,
+"rotate": 90
+},
+"514": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"515": {
+"how": "text layer says 90",
+"lines": 30,
+"rotate": 90
+},
+"516": {
+"how": "text layer says 90",
+"lines": 35,
+"rotate": 90
+},
+"517": {
+"how": "text layer says 0",
+"lines": 89,
+"rotate": 0
+},
+"518": {
+"how": "text layer says 0",
+"lines": 7,
+"rotate": 0
+},
+"519": {
+"how": "text layer says 90",
+"lines": 52,
+"rotate": 90
+},
+"52": {
+"how": "text layer says 90",
+"lines": 228,
+"rotate": 90
+},
+"520": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"521": {
+"how": "text layer says 90",
+"lines": 26,
+"rotate": 90
+},
+"522": {
+"how": "text layer says 90",
+"lines": 33,
+"rotate": 90
+},
+"523": {
+"how": "text layer says 90",
+"lines": 117,
+"rotate": 90
+},
+"524": {
+"how": "text layer says 90",
+"lines": 25,
+"rotate": 90
+},
+"525": {
+"how": "text layer says 0",
+"lines": 80,
+"rotate": 0
+},
+"526": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"527": {
+"how": "text layer says 90",
+"lines": 54,
+"rotate": 90
+},
+"528": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"529": {
+"how": "text layer says 90",
+"lines": 26,
+"rotate": 90
+},
+"53": {
+"how": "text layer says 0",
+"lines": 38,
+"rotate": 0
+},
+"530": {
+"how": "text layer says 90",
+"lines": 29,
+"rotate": 90
+},
+"531": {
+"how": "text layer says 90",
+"lines": 121,
+"rotate": 90
+},
+"532": {
+"how": "text layer says 90",
+"lines": 25,
+"rotate": 90
+},
+"533": {
+"how": "text layer says 0",
+"lines": 86,
+"rotate": 0
+},
+"534": {
+"how": "text layer says 0",
+"lines": 11,
+"rotate": 0
+},
+"535": {
+"how": "text layer says 90",
+"lines": 58,
+"rotate": 90
+},
+"536": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"537": {
+"how": "text layer says 90",
+"lines": 34,
+"rotate": 90
+},
+"538": {
+"how": "text layer says 90",
+"lines": 42,
+"rotate": 90
+},
+"539": {
+"how": "text layer says 90",
+"lines": 31,
+"rotate": 90
+},
+"54": {
+"how": "text layer says 0",
+"lines": 71,
+"rotate": 0
+},
+"540": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"541": {
+"how": "text layer says 0",
+"lines": 79,
+"rotate": 0
+},
+"542": {
+"how": "text layer says 0",
+"lines": 9,
+"rotate": 0
+},
+"543": {
+"how": "text layer says 90",
+"lines": 53,
+"rotate": 90
+},
+"544": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"545": {
+"how": "text layer says 90",
+"lines": 33,
+"rotate": 90
+},
+"546": {
+"how": "text layer says 90",
+"lines": 42,
+"rotate": 90
+},
+"547": {
+"how": "text layer says 0",
+"lines": 80,
+"rotate": 0
+},
+"548": {
+"how": "text layer says 0",
+"lines": 51,
+"rotate": 0
+},
+"549": {
+"how": "text layer says 90",
+"lines": 57,
+"rotate": 90
+},
+"55": {
+"how": "text layer says 0",
+"lines": 74,
+"rotate": 0
+},
+"550": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"551": {
+"how": "text layer says 90",
+"lines": 51,
+"rotate": 90
+},
+"552": {
+"how": "text layer says 90",
+"lines": 67,
+"rotate": 90
+},
+"553": {
+"how": "text layer says 90",
+"lines": 130,
+"rotate": 90
+},
+"554": {
+"how": "text layer says 90",
+"lines": 115,
+"rotate": 90
+},
+"555": {
+"how": "text layer says 90",
+"lines": 108,
+"rotate": 90
+},
+"556": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"557": {
+"how": "text layer says 0",
+"lines": 81,
+"rotate": 0
+},
+"558": {
+"how": "text layer says 0",
+"lines": 46,
+"rotate": 0
+},
+"559": {
+"how": "text layer says 0",
+"lines": 6,
+"rotate": 0
+},
+"56": {
+"how": "text layer says 0",
+"lines": 49,
+"rotate": 0
+},
+"560": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"561": {
+"how": "text layer says 90",
+"lines": 49,
+"rotate": 90
+},
+"562": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"563": {
+"how": "text layer says 90",
+"lines": 24,
+"rotate": 90
+},
+"564": {
+"how": "text layer says 90",
+"lines": 29,
+"rotate": 90
+},
+"565": {
+"how": "text layer says 0",
+"lines": 83,
+"rotate": 0
+},
+"566": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"567": {
+"how": "text layer says 90",
+"lines": 51,
+"rotate": 90
+},
+"568": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"569": {
+"how": "text layer says 90",
+"lines": 26,
+"rotate": 90
+},
+"57": {
+"how": "text layer says 0",
+"lines": 65,
+"rotate": 0
+},
+"570": {
+"how": "text layer says 90",
+"lines": 33,
+"rotate": 90
+},
+"571": {
+"how": "text layer says 0",
+"lines": 14,
+"rotate": 0
+},
+"572": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"573": {
+"how": "text layer says 90",
+"lines": 58,
+"rotate": 90
+},
+"574": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"575": {
+"how": "text layer says 90",
+"lines": 143,
+"rotate": 90
+},
+"576": {
+"how": "text layer says 90",
+"lines": 39,
+"rotate": 90
+},
+"577": {
+"how": "text layer says 90",
+"lines": 49,
+"rotate": 90
+},
+"578": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"579": {
+"how": "text layer says 90",
+"lines": 55,
+"rotate": 90
+},
+"58": {
+"how": "text layer says 0",
+"lines": 60,
+"rotate": 0
+},
+"580": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"581": {
+"how": "text layer says 90",
+"lines": 115,
+"rotate": 90
+},
+"582": {
+"how": "text layer says 90",
+"lines": 24,
+"rotate": 90
+},
+"583": {
+"how": "text layer says 90",
+"lines": 56,
+"rotate": 90
+},
+"584": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"585": {
+"how": "text layer says 90",
+"lines": 56,
+"rotate": 90
+},
+"586": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"587": {
+"how": "text layer says 90",
+"lines": 43,
+"rotate": 90
+},
+"588": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"589": {
+"how": "text layer says 90",
+"lines": 51,
+"rotate": 90
+},
+"59": {
+"how": "text layer says 0",
+"lines": 24,
+"rotate": 0
+},
+"590": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"591": {
+"how": "text layer says 90",
+"lines": 51,
+"rotate": 90
+},
+"592": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"593": {
+"how": "text layer says 90",
+"lines": 56,
+"rotate": 90
+},
+"594": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"595": {
+"how": "text layer says 90",
+"lines": 36,
+"rotate": 90
+},
+"596": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"597": {
+"how": "text layer says 90",
+"lines": 56,
+"rotate": 90
+},
+"598": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"599": {
+"how": "text layer says 90",
+"lines": 31,
+"rotate": 90
+},
+"6": {
+"how": "no text layer: best of 0/90",
+"lines": 0,
+"rotate": 0
+},
+"60": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"600": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"601": {
+"how": "text layer says 90",
+"lines": 51,
+"rotate": 90
+},
+"602": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"603": {
+"how": "text layer says 0",
+"lines": 17,
+"rotate": 0
+},
+"604": {
+"how": "text layer says 0",
+"lines": 18,
+"rotate": 0
+},
+"605": {
+"how": "text layer says 0",
+"lines": 21,
+"rotate": 0
+},
+"606": {
+"how": "text layer says 0",
+"lines": 7,
+"rotate": 0
+},
+"607": {
+"how": "no text layer: best of 0/90",
+"lines": 0,
+"rotate": 0
+},
+"608": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"61": {
+"how": "text layer says 0",
+"lines": 41,
+"rotate": 0
+},
+"62": {
+"how": "text layer says 0",
+"lines": 47,
+"rotate": 0
+},
+"63": {
+"how": "text layer says 0",
+"lines": 26,
+"rotate": 0
+},
+"64": {
+"how": "text layer says 0",
+"lines": 171,
+"rotate": 0
+},
+"65": {
+"how": "text layer says 0",
+"lines": 88,
+"rotate": 0
+},
+"66": {
+"how": "text layer says 0",
+"lines": 33,
+"rotate": 0
+},
+"67": {
+"how": "text layer says 0",
+"lines": 45,
+"rotate": 0
+},
+"68": {
+"how": "text layer says 90",
+"lines": 131,
+"rotate": 90
+},
+"69": {
+"how": "text layer says 90",
+"lines": 169,
+"rotate": 90
+},
+"7": {
+"how": "text layer says 0",
+"lines": 7,
+"rotate": 0
+},
+"70": {
+"how": "text layer says 90",
+"lines": 173,
+"rotate": 90
+},
+"71": {
+"how": "text layer says 90",
+"lines": 56,
+"rotate": 90
+},
+"72": {
+"how": "text layer says 90",
+"lines": 149,
+"rotate": 90
+},
+"73": {
+"how": "text layer says 0",
+"lines": 20,
+"rotate": 0
+},
+"74": {
+"how": "text layer says 0",
+"lines": 11,
+"rotate": 0
+},
+"75": {
+"how": "text layer says 0",
+"lines": 57,
+"rotate": 0
+},
+"76": {
+"how": "text layer says 0",
+"lines": 32,
+"rotate": 0
+},
+"77": {
+"how": "text layer says 0",
+"lines": 44,
+"rotate": 0
+},
+"78": {
+"how": "text layer says 0",
+"lines": 60,
+"rotate": 0
+},
+"79": {
+"how": "text layer says 0",
+"lines": 21,
+"rotate": 0
+},
+"8": {
+"how": "no text layer: best of 0/90",
+"lines": 0,
+"rotate": 0
+},
+"80": {
+"how": "text layer says 0",
+"lines": 138,
+"rotate": 0
+},
+"81": {
+"how": "text layer says 0",
+"lines": 142,
+"rotate": 0
+},
+"82": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"83": {
+"how": "text layer says 90",
+"lines": 101,
+"rotate": 90
+},
+"84": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"85": {
+"how": "text layer says 90",
+"lines": 296,
+"rotate": 90
+},
+"86": {
+"how": "text layer says 90",
+"lines": 53,
+"rotate": 90
+},
+"87": {
+"how": "text layer says 90",
+"lines": 236,
+"rotate": 90
+},
+"88": {
+"how": "text layer says 90",
+"lines": 230,
+"rotate": 90
+},
+"89": {
+"how": "text layer says 90",
+"lines": 225,
+"rotate": 90
+},
+"9": {
+"how": "text layer says 0",
+"lines": 19,
+"rotate": 0
+},
+"90": {
+"how": "text layer says 90",
+"lines": 223,
+"rotate": 90
+},
+"91": {
+"how": "text layer says 90",
+"lines": 228,
+"rotate": 90
+},
+"92": {
+"how": "text layer says 90",
+"lines": 212,
+"rotate": 90
+},
+"93": {
+"how": "text layer says 90",
+"lines": 219,
+"rotate": 90
+},
+"94": {
+"how": "text layer says 90",
+"lines": 202,
+"rotate": 90
+},
+"95": {
+"how": "text layer says 90",
+"lines": 182,
+"rotate": 90
+},
+"96": {
+"how": "text layer says 90",
+"lines": 94,
+"rotate": 90
+},
+"97": {
+"how": "text layer says 0",
+"lines": 3,
+"rotate": 0
+},
+"98": {
+"how": "no text layer: best of 0/90",
+"lines": 1,
+"rotate": 0
+},
+"99": {
+"how": "text layer says 0",
+"lines": 66,
+"rotate": 0
+}
+}

@@ -1,0 +1,15 @@
+rollup_id,rev_id,reason
+sales-and-related-taxes,sales-tax-general,"FY2004-2007 in every book, and FY2008-2011 in the 2011-2013 books, print hotel/motel and motor vehicle tax inside Sales Tax; the 2014+ books split them for FY2008 on (FY2008: 119.8+9.3+8.5 = 137.6M)."
+sales-and-related-taxes,sales-tax-motor-vehicle,"FY2004-2007 in every book, and FY2008-2011 in the 2011-2013 books, print hotel/motel and motor vehicle tax inside Sales Tax; the 2014+ books split them for FY2008 on (FY2008: 119.8+9.3+8.5 = 137.6M)."
+sales-and-related-taxes,hotel-motel-tax,"FY2004-2007 in every book, and FY2008-2011 in the 2011-2013 books, print hotel/motel and motor vehicle tax inside Sales Tax; the 2014+ books split them for FY2008 on (FY2008: 119.8+9.3+8.5 = 137.6M)."
+state-aid-lines-2011-book,intergovernmental-other,The 2011 book's FY2008 column puts video poker inside State Aid Other; later books show it separately.
+state-aid-lines-2011-book,state-aid-video-poker,The 2011 book's FY2008 column puts video poker inside State Aid Other; later books show it separately.
+state-aid-lines-2011-book,state-supplemental-pay,The 2011 book's FY2008 column puts video poker inside State Aid Other; later books show it separately.
+transfers-and-fund-balance-2009-book,fund-balance-use,The 2009 book's FY2005 column reclassifies $21.2M from Transfers to Fund Balance; all other books keep it in Transfers.
+transfers-and-fund-balance-2009-book,transfers-in,The 2009 book's FY2005 column reclassifies $21.2M from Transfers to Fund Balance; all other books keep it in Transfers.
+public-safety-incl-ems,public-safety-charges,Books before 2025 print ambulance fees inside Public Safety; the 2025+ books split them (FY2024: 18.74M = 6.59M + 12.14M).
+public-safety-incl-ems,emergency-medical-fees,Books before 2025 print ambulance fees inside Public Safety; the 2025+ books split them (FY2024: 18.74M = 6.59M + 12.14M).
+general-government-incl-harrahs-support,general-government-charges,Books before 2025 print Harrah's city support inside General Government; the 2025+ books split it (FY2024: 23.61M = 17.61M + 6.0M).
+general-government-incl-harrahs-support,harrahs-city-support,Books before 2025 print Harrah's city support inside General Government; the 2025+ books split it (FY2024: 23.61M = 17.61M + 6.0M).
+licenses-other-incl-short-term-rentals,licenses-permits-other,Books before 2025 print short-term rental permits inside Other Licenses and Permits (FY2024: 8.35M = 1.54M + 6.81M).
+licenses-other-incl-short-term-rentals,short-term-rental-permits,Books before 2025 print short-term rental permits inside Other Licenses and Permits (FY2024: 8.35M = 1.54M + 6.81M).

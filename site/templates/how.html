@@ -1,0 +1,66 @@
+{# ABOUTME: /how/ : the story of how this site was built with Claude Code, prompt by prompt.
+   ABOUTME: Words come from content/how.yml; no budget figures on this page. #}
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}How NOLA Budget was built with Claude Code: every prompt, in order, what each one led to, and what to copy if you want to build something like it for your city.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/about/", "About the data"), ("/how/", "How this site was built")] %}
+{% block content %}
+<header class="lede">
+  <h1>How this site was built</h1>
+  <p class="lead">{{ text.lead }}</p>
+  <div class="stat-row">
+    {{ m.stat(n_prompts, "prompts, shown below") }}
+    {{ m.stat(text.parts|length, "working sessions") }}
+    {{ m.stat(n_books, "budget books read") }}
+  </div>
+</header>
+
+<section class="block prose" aria-labelledby="h-short">
+  <h2 id="h-short">The short version</h2>
+  <ul>
+  {% for s in text.short %}<li>{{ s|safe }}</li>
+  {% endfor %}
+  </ul>
+  <p class="how-note">{{ text.quote_note }}</p>
+</section>
+
+{% set ns = namespace(n=0) %}
+{% for part in text.parts %}
+<section class="block src-exempt" id="{{ part.id }}" aria-labelledby="h-{{ part.id }}">
+  <h2 id="h-{{ part.id }}">{{ part.title }}</h2>
+  <p class="how-intro">{{ part.intro }}</p>
+  <ol class="build-log">
+  {% for s in part.steps %}{% set ns.n = ns.n + 1 %}
+    <li class="log-step">
+      <span class="log-num" aria-hidden="true">{{ ns.n }}</span>
+      <h3><span class="vh">Prompt {{ ns.n }}: </span>{{ s.title }}</h3>
+      {% if s.get("when") %}<p class="log-when">{{ s.when }}</p>{% endif %}
+      <blockquote class="log-prompt">{{ s.prompt }}</blockquote>
+      {% if s.get("did") %}<ul class="log-did">
+        {% for d in s.did %}<li>{{ d }}</li>
+        {% endfor %}
+      </ul>{% endif %}
+      {% if s.get("why") %}<p class="log-why"><b>Why it worked:</b> {{ s.why }}</p>{% endif %}
+    </li>
+  {% endfor %}
+  </ol>
+</section>
+{% endfor %}
+
+<section class="block prose src-exempt" aria-labelledby="h-lessons">
+  <h2 id="h-lessons">What to copy</h2>
+  <ol>
+  {% for l in text.lessons %}<li>{{ l|safe }}</li>
+  {% endfor %}
+  </ol>
+</section>
+
+<section class="block prose" aria-labelledby="h-wrong">
+  <h2 id="h-wrong">What went wrong, and what caught it</h2>
+  <ul>
+  {% for w in text.went_wrong %}<li>{{ w }}</li>
+  {% endfor %}
+  </ul>
+  <p>For how the figures themselves were read and checked, see <a href="/method/">how the numbers were made</a>.</p>
+</section>
+{% endblock %}

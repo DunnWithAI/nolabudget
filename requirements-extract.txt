@@ -1,0 +1,4 @@
+# Re-running the data pipeline (scripts/). Not needed to build the site.
+-r requirements.txt
+pymupdf      # imported as fitz; every extractor
+pdfplumber   # spot checks in the 2008-2021 and 2023 extractors

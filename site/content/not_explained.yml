@@ -1,0 +1,332 @@
+# /not-explained/ : the sentences. The figures are not here.
+#
+# Every item's table and every number is computed by nolabudget/pages/not_explained.py from
+# the extraction evidence. These strings are Jinja templates over the computed facts `f`
+# (money already formatted: "$55.1 million"). Do not type a dollar figure or a number with a
+# thousands comma into this file: checks.py fails the build if it finds one.
+#
+# Tone: say what the book prints and where, and stop. Budget books are large documents put
+# together under deadline, and two tables in one can disagree for many ordinary reasons.
+# Nothing here says why, and nothing implies anyone did anything wrong.
+
+intro: >-
+  The budget books are long documents, put together under deadline, and they print the same
+  money in many tables. This page lists the places where the {{ f.n_books }} books read for
+  this site do not explain themselves: tables that disagree with each other, labels that do
+  not match what is under them, large amounts with no description, and pages that are
+  missing. Each item gives the figures, the book and the page, and says what that means if
+  you are reading the books. It does not say why. The books do not, and a difference between
+  two tables is not evidence that anyone did anything wrong. Items are grouped by kind, and
+  the groups with the largest amounts come first. The last section says how to report a
+  mistake in this page.
+
+sections:
+  add-up:
+    title: Tables that do not add up to each other
+    intro: >-
+      A book prints the money for a year in several tables: by fund, by department, and
+      again on summary pages. Where two of them should agree and do not, the figures are
+      shown here side by side. A column headed "minus" gives the first figure less the
+      second, so a plus sign means the first is larger.
+  spent:
+    title: Budgeted money that is not spent
+    intro: >-
+      The books print a budget and, years later, what was spent. For one part of the
+      budget the two are far apart in nearly every year.
+  no-section:
+    title: Large amounts with no department behind them
+    intro: >-
+      Most lines in the citywide tables have a department section further on, with its own
+      programs and figures. These two do not.
+  reprinted:
+    title: Figures that change when a later book reprints them
+    intro: >-
+      Each book prints the year before as well as its own. Where a later book reprints a
+      figure that an earlier book printed, the two are usually identical. These are the
+      cases where they are not.
+  revenue-lines:
+    title: Income lines that do not add to the printed total
+    intro: >-
+      The statement of revenues lists each source of General Fund income and prints a total.
+  labels:
+    title: Labels that do not match what is under them
+    intro: >-
+      These are headings and names in the books that point to the wrong year, the wrong
+      department or the wrong kind of figure. The site corrects each one, and the reason for
+      each correction is kept with the data.
+  positions:
+    title: Budgeted positions
+    intro: >-
+      Positions are counted in full-time equivalents. They are the least reliable figures in
+      the books.
+  missing:
+    title: What is missing
+    intro: ""
+
+items:
+  all-funds-parts:
+    title: All funds does not equal the General Fund plus other funds
+    says: >-
+      In the {{ f.ex_book }} book, the General Fund and other-funds tables add to
+      {{ f.ex_parts }} for {{ f.ex_col }}. Its all-funds table prints {{ f.ex_all }}, which
+      is {{ f.ex_gap }} more. {{ f.ex_dept }} accounts for {{ f.ex_dept_gap }} of that:
+      its all-funds line is larger than its General Fund and other-funds lines combined.
+      The same kind of gap appears in {{ f.n_rows }} columns in all, listed below. The book
+      does not say which of the three tables is the one to use, so for these columns they
+      cannot all be relied on at once.
+    note: >-
+      {% if f.no_af %}In the {{ f.no_af_book }} book's {{ f.no_af_col }} column,
+      {{ f.no_af_dept }} has an other-funds figure but no all-funds line, which accounts for
+      the whole difference. {% endif %}Where two books print the same figures for a column,
+      both are cited in one row.
+
+  total-vs-rows:
+    title: A printed total does not equal the rows under it
+    says: >-
+      In {{ f.n_rows }} columns, the total printed at the foot of a citywide spending table
+      is not the sum of the lines above it. In the {{ f.ex_book }} book's {{ f.ex_col }}
+      column, for example, the all-funds total is printed as {{ f.ex_printed }}, and the
+      lines above it add to {{ f.ex_rows }}. {{ f.ex_dept }} is printed at
+      {{ f.ex_dept_all }} in the all-funds table, and at {{ f.ex_dept_gf }} and
+      {{ f.ex_dept_of }} in the General Fund and other-funds tables. Anyone adding up a
+      column of one of these tables will not arrive at the total the book prints.
+    note: >-
+      {% if f.rev_eq %}In the {{ f.rev_book }} book, the revenue statement prints a General Fund
+      total for {{ f.rev_col }} of {{ f.rev_total }}. That equals the sum of the expenditure
+      rows ({{ f.rev_rows }}), and not the expenditure total printed on the expenditure page
+      ({{ f.rev_printed }}). {% endif %}A plus sign means the printed total is larger than the
+      rows.
+
+  overview-total:
+    title: The overview page and the department tables give different totals
+    says: >-
+      The {{ f.books }} books print {{ f.overview }} for {{ f.col }} on their overview page.
+      Their department tables add to {{ f.tables }}, which is {{ f.gap }} more.
+      {% if f.has_other %}The difference equals the "{{ f.other_label }}" fund line
+      ({{ f.other_amount }}) that the {{ f.other_book }} book prints on its own overview page
+      for the same column, and that the later books do not list.{% endif %}
+      The books do not say which of the two figures is the total for that year.
+    note: >-
+      {% if f.has_other %}The {{ f.other_label }} line is cited from the
+      {{ f.other_book }} book's overview page.{% endif %}
+
+  own-page:
+    title: A body's own page and its line in the citywide table disagree
+    says: >-
+      In the {{ f.book }} book, the citywide table and the body's own page print different
+      totals for {{ f.names|join(" and ") }}. Both are shown below. The book does not say
+      which figure is meant, or whether part of the money on the body's own page is outside
+      the city's budget. A reader who takes the citywide table at its word would miss what
+      the own page shows.
+
+  other-funds-spent:
+    title: Other funds are budgeted far above what is spent
+    says: >-
+      "Other funds" means every fund other than the General Fund. In {{ f.n_below }} of the
+      {{ f.n_years }} years from {{ f.first }} to {{ f.last }} for which both figures are
+      printed, other-funds spending was below the adopted budget. In a typical year it was
+      about {{ f.median }} of it; in {{ f.low_year }} it was {{ f.low_pct }}. General Fund
+      spending is close to its budget in most of the same years (right-hand column). The
+      exception is {{ f.above_text }}, when other-funds spending was above the budget. The
+      tables do not explain the gap. All-funds budgets include these amounts, so an
+      all-funds budget is not a good guide to what is actually spent. The home page's
+      <a href="/#term-all-funds">glossary</a> offers one reading.
+    note: >-
+      A figure marked "computed from" is not printed itself: it is worked out from other
+      printed figures, such as all funds less the General Fund.
+
+  intergovernmental:
+    title: "Intergovernmental: a large line with no department section"
+    says: >-
+      The citywide spending table in each book from {{ f.first }} to {{ f.last }} prints a
+      line called Intergovernmental. The amount is as small as {{ f.low }} ({{ f.low_year }})
+      and as large as {{ f.high }} ({{ f.high_year }}); in {{ f.n_100 }} of the years it is
+      exactly {{ f.hundred }}. No book in this range has a department section for it, as the
+      other lines have, and the tables give no breakdown. {% if f.gf_zero %}The money is in
+      the other-funds column; the General Fund column is zero. {% endif %}The site has not
+      read the books' narrative text, so an explanation there would not show on this page.
+      {% if f.had_before %}Earlier books did print a section for it.{% endif %}
+
+  transfers-in:
+    title: A General Fund transfer from other funds, with no breakdown
+    says: >-
+      The {{ f.book }} book lists a General Fund income line, "Transfer From Other Funds", of
+      {{ f.amount }} for {{ f.year }}. That is {{ f.share }} of the General Fund total of
+      {{ f.gf_total }}. In the same book the line is zero for {{ f.prev }} and zero in the
+      {{ f.year }} "proposed" column. The statement does not say which funds the money comes
+      from.{% if f.again %} The next book repeats the line.{% endif %} For a reader, about
+      {{ f.share }} of that year's General Fund income is a transfer whose source the table
+      does not show.
+
+  reprinted-totals:
+    title: Adopted budgets that change when the next book reprints them
+    says: >-
+      In {{ f.n }} columns, the reprint differs from the earlier printing by a million dollars
+      or more, in at least one of the General Fund, other funds or all funds. For example,
+      the {{ f.ex_a }} book prints a General Fund of {{ f.ex_gf_a }} for {{ f.ex_col }}, and
+      the {{ f.ex_c }} book reprints it as {{ f.ex_gf_c }}.
+      {% if f.ex_af_same %}All funds is {{ f.ex_af_a }} in both.{% else %}All funds goes from
+      {{ f.ex_af_a }} to {{ f.ex_af_c }}.{% endif %}
+      In {{ f.n_gf_only }} columns ({{ f.gf_only_years }}) the all-funds figure does not
+      change while the General Fund moves by the same amount as other funds, in the opposite
+      direction. {% if f.has_prop %}The {{ f.prop_c }} book is a different case, because the reprint is in the same year: its
+      "proposed" column for {{ f.prop_col }} shows a General Fund of {{ f.prop_gf_c }} and
+      all funds of {{ f.prop_af_c }}, and the proposed book itself printed
+      {{ f.prop_gf_a }} and {{ f.prop_af_a }}. {% endif %}The books do not say whether these
+      are amendments, corrections or a different way of counting.
+    note: >-
+      Changes are the later book minus the earlier one. The site chooses one book for each
+      year by the rules on the <a href="/method/#choosing">method page</a>.
+
+  reprinted-depts:
+    title: Department amounts that change between books
+    says: >-
+      Under the totals, individual departments' amounts also differ between the book that
+      first prints a year's budget and the next book. The table lists the {{ f.n }} changes of
+      {{ f.threshold }} or more in the General Fund or other funds.
+      {% if f.n_swaps %}In {{ f.n_swaps }} of those columns, two departments' changes are nearly
+      equal and opposite, which looks like an amount moved from one line to the other:{% endif %}
+    after: >-
+      {% if f.prop_col is defined %}For the {{ f.prop_col }} column, the General Fund differs by
+      {{ f.prop_total_gap }} between the {{ f.prop_a }} and {{ f.prop_c }} books;
+      {% if f.prop_all %}all of it is in {{ f.prop_dept }}{% else %}{{ f.prop_dept_gap }} of it is in
+      {{ f.prop_dept }}{% endif %}.{% endif %} The large other-funds reductions in the 2024 and
+      2025 columns are the same difference as in the first section: the later books' other-funds
+      tables are smaller, while their all-funds totals are almost unchanged. The books do not say
+      what moved or why.
+    note: >-
+      Changes are the later book minus the earlier one. Intergovernmental, which is dealt with
+      above, is not repeated here.
+
+  restated-revenue:
+    title: Income for 2006 printed differently in later books
+    says: >-
+      Actual income for a year should not change once it is printed. {{ f.n_changed }} of
+      the {{ f.n_both }} General Fund income lines for 2006 that appear in more than one book
+      are printed with different amounts in the {{ f.a }} and {{ f.c }} books, the first two
+      books that differ. The table shows the {{ f.n_shown }} largest changes. The tables carry
+      no note saying that these figures were restated. For actual figures the site uses the
+      latest book that prints them.
+
+  revenue-lines:
+    title: General Fund income lines that do not add to the printed total
+    says: >-
+      In {{ f.n }} columns, the General Fund total printed on a statement of revenues is not
+      the sum of the lines beneath it. The largest is {{ f.big_gap }}, in the {{ f.big_col }}
+      column of the {{ f.big_book }} books. {{ f.n_small }} of the {{ f.n }} are under
+      {{ f.small_limit }}. The last column names the category headings whose own printed
+      totals differ from their lines, which is where the gap sits. For a reader, it means
+      that the income lines in these columns cannot be added to reach the total the book
+      prints.
+
+  label-2018:
+    title: A column headed "Adopted" that holds actual spending
+    says: >-
+      The {{ f.book }} book heads its {{ f.fy }} column "Adopted" in the citywide statements.
+      The figures under it are actual spending: the all-funds total is {{ f.held }}, against
+      {{ f.a16 }} adopted for {{ f.fy }} in the {{ f.fy }} book and {{ f.a17 }} in the next
+      one, and the book's own department summaries label the same figures "Actual". The site
+      treats the column as actual spending.
+
+  label-stale:
+    title: Column headings left over from an older template
+    says: >-
+      {% for r in f.rows %}In the {{ r.book }} book, {{ r.stale }} personnel pages are headed
+      with years that start at {{ r.sy }}, while the other {{ r.other }} pages of the same
+      tables carry the right years. {% endfor %}The headings do not match the book's own
+      year, so the figures under them would be read as the wrong year. The site reads each
+      such column as the year the rest of its book's pages use.
+
+  label-secondary:
+    title: Miscellaneous printed under another name
+    says: >-
+      In the {{ f.books_text }} books, a line in the citywide tables is labelled "Office
+      of Police Secondary Employment", but its figures are those of the Miscellaneous line in the
+      books on either side of it. The office is part of Miscellaneous in these books, and prints
+      a line of its own in only one table, in a later book. A reader looking up the office by
+      name would find the whole of Miscellaneous. The site files these figures under
+      <a href="/departments/miscellaneous/">Miscellaneous</a>.
+
+  label-general-services:
+    title: The Inspector General printed as "General Services"
+    says: >-
+      In {{ f.n }} books, from the {{ f.first }} book to the {{ f.last }} book, the citywide
+      tables label the line for the
+      <a href="/departments/inspector-general/">Office of Inspector General</a> "General
+      Services". No General Services department appears in these tables. The line's figures
+      match the Inspector General's own pages. Anyone searching these books for General
+      Services will arrive at the Inspector General's line.
+
+  label-titles:
+    title: Personnel pages titled with another department's name
+    says: >-
+      On {% for p in f.pages %}page {{ p.page }} of the {{ p.book }} book{% if not loop.last %} and {% endif %}{% endfor %},
+      the personnel page is headed "Law" (checked by eye against the PDF), but the rows beneath
+      the heading belong to the New Orleans Aviation Board's law-contracts program. The site
+      files them under the Aviation Board.
+
+  position-totals:
+    title: Position totals that do not match their own rows
+    says: >-
+      The books list positions job by job and print a total beneath. In {{ f.n }} cases the
+      printed total is not the sum of the job rows above it. In the {{ f.ex_book }} book
+      (page {{ f.ex_page }}), the {{ f.ex_dept }} total is printed as {{ f.ex_printed }} and
+      the rows above it add to {{ f.ex_rows }}. The books do not say which count is meant. For
+      a reader, position counts for these departments can differ by dozens depending on
+      whether the printed total or the rows are used.
+    note: >-
+      Only differences of ten positions or more are listed, and only for departments in the
+      citywide tables. The next item covers bodies that pay their own way.
+
+  position-columns:
+    title: The same position counts in every year column
+    says: >-
+      A position table prints three columns: the year before, the proposal and the adopted
+      budget. In the {{ f.book }} book, {{ f.same }} of the {{ f.n }} departments with position
+      tables show the same total in all three. In the {{ f.before }} book it is
+      {{ f.before_same }} of {{ f.before_n }}, and in the {{ f.after }} book
+      {{ f.after_same }} of {{ f.after_n }}. That could mean that nothing changed, but it is
+      a break from the books on either side, and the book does not say.
+
+  position-enterprise:
+    title: Enterprise bodies' position tables do not agree with themselves
+    says: >-
+      Bodies that pay their own way, such as the airport, print position tables in the books
+      but are mostly outside the citywide totals. In {{ f.n }} books from {{ f.first }} to
+      {{ f.last }}, the Aviation Board's printed total for the earlier year's column is
+      {% if f.all_below %}far below{% else %}different from{% endif %} the sum of the job rows listed in that
+      column (table below). The French Market
+      Corporation shows the same kind of difference in {{ f.n_french }} books. For a reader,
+      the position counts for these bodies cannot be taken from the printed totals.
+
+  missing:
+    title: Things that are simply missing
+    says: >-
+      <ul>
+      {% if f.has_2010 %}<li><strong>The 2010 adopted budget book.</strong> This project's archive holds
+      {{ f.n_2010_docs }} other 2010 budget documents (presentations, handouts and hearing notices) but
+      not the adopted book, and we could not find it online. The 2010 figures on this site come from the
+      2011 book, which reprints them.</li>{% endif %}
+      {% if f.has_2020 %}<li><strong>An adopted 2020 book.</strong> No adopted book for 2020 was posted. The
+      adopted 2020 figures come from the 2021 book, which reprints them.</li>{% endif %}
+      <li><strong>Readable pages in the 2020 proposed book.</strong> The PDF stores the numbers on
+      {{ f.n_unread }} of its pages (each department's summary page and the enterprise bodies' pages) in a
+      way that ordinary text tools cannot read. Those figures also appear on other pages of the book, so
+      the site's figures do not depend on them.</li>
+      <li><strong>Machine-readable data.</strong> Every one of the {{ f.n_books }} books is a PDF. For any
+      year before {{ f.first_open }} we found no spreadsheet or data file. The books from {{ f.first_open }}
+      are also in an online viewer ({{ f.host }}) that shows each table on screen; we found no line-item
+      download there.</li>
+      </ul>
+
+small: >-
+  Not listed: {{ f.within1 }} comparisons across the {{ f.n_books }} books that differ by a dollar or
+  less, and {{ f.small }} more that differ by two to five dollars. These are the size of rounding
+  differences and are not worth a line each.
+
+report: |
+  <p>This page is a reading of the books by a script, with every printed total checked against the rows
+  beneath it. A mistake is still possible. If a figure here does not match the page it cites, the error is
+  this site's, and we would like to know. Please say which item, which book and page, and what you see
+  there.</p>
+  <p>To report one, email <a href="mailto:nolabudget@dunn.us">nolabudget@dunn.us</a>.</p>

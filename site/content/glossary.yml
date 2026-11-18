@@ -1,0 +1,53 @@
+# The words the budget uses. Shown on the home page in this order.
+# Keep each definition to one or two plain sentences.
+- term: General Fund
+  id: general-fund
+  text: >-
+    The city's main pot of money, mostly from sales and property taxes, fees and fines.
+    The Mayor and City Council decide how it is spent. This site shows it first.
+- term: All funds
+  id: all-funds
+  text: >-
+    The General Fund plus grants and other money that can only be spent on a named
+    purpose, such as federal grants or a property tax set aside for the library.
+    Budgets for these funds are set high in case the money arrives, so much less is
+    usually spent than budgeted.
+- term: Proposed
+  id: proposed
+  text: The budget the Mayor sends to the City Council each fall.
+- term: Adopted
+  id: adopted
+  text: The budget the City Council passes, by December 1, for the year that starts in January.
+- term: Revised
+  id: revised
+  text: >-
+    The adopted figure as printed again in the next year's book, after changes made during
+    the year.
+- term: Actual
+  id: actual
+  text: What was really spent, printed in later books once the year's accounts are closed.
+- term: Millage
+  id: millage
+  text: >-
+    A property tax rate. One mill is $1 of tax for every $1,000 of a property's assessed
+    value. Some millages can only be spent on one purpose, such as police and fire.
+- term: Fund balance
+  id: fund-balance
+  text: >-
+    Money left over from earlier years. A budget can use some of it to cover spending in
+    the year ahead.
+- term: Position (FTE)
+  id: fte
+  text: >-
+    A budgeted job. FTE means full-time equivalent: two half-time jobs count as one.
+    A budgeted position may be empty.
+- term: Enterprise body
+  id: enterprise
+  text: >-
+    A city agency that pays its own way from fees and rents, such as the Aviation Board,
+    which runs the airport. Most are not counted in the citywide totals.
+- term: Department
+  id: department
+  text: >-
+    A line in the budget's citywide tables. Some are city departments; others are
+    separately elected offices, courts or boards that the city helps pay for.

@@ -1,0 +1,221 @@
+# ABOUTME: Text for /how/, the story of how this site was built with Claude Code, prompt by prompt.
+# ABOUTME: Prompts are quoted as typed, except prompt 1 (reworded) and [bracketed] personal details.
+# No budget figures here: this page is about the build, not the budget.
+
+lead: >-
+  This site was built with Claude Code, an AI coding tool, in two working sessions in
+  November 2026. These are the prompts that built it, in order, and what each one led to.
+  Use them to build something like it for your own city.
+
+quote_note: >-
+  Prompts are quoted as typed, typos included, with two exceptions. Prompt 1 is reworded so
+  it stands on its own; the original pointed to another site as the model to follow. Text
+  in square brackets replaces a personal detail.
+
+short:
+  - "<b>Part 1, the first build.</b> One long opening prompt set the goal, the source and the working style. Short go-aheads then moved Claude from downloading every budget book, to a test on three books, to reading all of them, to a working site."
+  - "<b>Part 2, clear and public.</b> A writing standard, better design, more depth (police programs, cost per resident, comparisons with other cities), a source on every figure, and then going public."
+
+parts:
+  - id: first-build
+    title: "Part 1: The first build"
+    intro: "Find every budget book, pull the tables out, check them, and build a working site."
+    steps:
+      - title: The opening prompt
+        prompt: |-
+          I'd like to build a website that makes the City of New Orleans budget easy to understand. The goal is something clear that works as a civic resource: simple to understand, easy to drill down into, and easy to see changes over time.
+
+          To start, we need to pull down every budget we can find. The city's site goes back to 2011, but if we can go back further, great!
+
+          Then we need to think of the most compelling ways to see the budget: how it's shifted over time, how resources are being used, etc.
+
+          We should spin up right-sized subagents for everything. The main session can plan and verify things, but we should use smaller models wherever we can.
+
+          https://nola.gov/next/mayors-office/topics/budget/
+        did:
+          - "Four helpers (subagents) ran at once. The smallest model downloaded every budget file from the city's website. Three others explored the city's online budget viewer, looked for budgets before 2011, and looked for open data."
+          - "Result: adopted budget books back to 2008, plus the Mayor's recent proposals."
+        why: "It states the purpose rather than the features, puts the data before the design, names the source, and says how to split the work between large and small models."
+
+      - title: Test on a few books first
+        prompt: Run the pilot
+        did:
+          - "Three books chosen because they differ: 2012 (an older layout), 2019 (a newer one) and 2026 (online only, no PDF). If the approach failed, it would fail on three books, not twenty."
+
+      - title: Do the rest
+        prompt: Extract the rest
+        did:
+          - "Seven helpers each took two or three books and wrote their own scripts, since the layout changes from year to year. The 2008 book is a scan and needed text recognition."
+          - "The main session then checked every book itself: do the rows add up to the totals the book prints, and does a random sample of figures appear on the page cited?"
+          - "Three more helpers built lookup tables so each department keeps one name across the years."
+        why: "The work was checked by something other than the thing that did it."
+
+      - title: Build the site
+        prompt: Build it
+        did:
+          - "The foundation (the build script, page templates and charts) went to the largest model, because every other page depends on it. The revenue, year and \"what changed\" pages went to a smaller one."
+
+      - title: Share the defaults
+        prompt: |-
+          Here's my stack.md. We'll put this up on cloudflare maybe nolabudget.dunn.us
+
+          Let's build and review locally first though.
+        did:
+          - "A short file listing preferred hosting, naming and tools, so those choices aren't made again for every project. It settled hosting in one message."
+
+      - title: Polish
+        prompt: Yes, polish it
+        did:
+          - "Budget jargon became plain words, with the book's own term underneath: \"Personal Services\" became \"Pay and benefits\". Tables were reworked for phones."
+
+      - title: Report bugs with screenshots
+        prompt: Seeing a lot of pages like this. What are so many setions showing $0 like this
+        did:
+          - "Two problems. A list printed one letter per line (a bug). And some tables were all zeros, which was real: some books print empty forms for small offices. The pages now say so."
+
+      - title: Publish for review
+        prompt: |-
+          Where can I view the current site?
+          Should we just get it published to nolabudget.dunn.us for me to review and such?
+        did:
+          - "A few messages later, ending with \"Yes, install Node\", it was live, hidden from search engines while it was reviewed."
+
+  - id: clear-and-public
+    title: "Part 2: Clear, deep and public"
+    intro: "The second session started from a correct but plain site. Most of the work was making it easier to read, adding context, and making every claim checkable."
+    steps:
+      - title: Write it simply
+        when: With a writing guide attached
+        prompt: |-
+          Great first pass!
+
+          First make sure everything in this repo/folder is well documented this and future claude sessions.
+
+          Second, I think it would be good it would explain things more visually and simply.
+
+          For example:
+
+          The proposed 2027 budget is $X billion. That is split between the general fund and [whatever the other thing is]. The general fund is proposed by the mayor and approved and adopted by the city council (or however it works).
+
+          Doesn't have to be that exactl language, just make it clearer. Here's  my voice file. Make sure we're using simple, helpful langauge. We want this to be accessible. Show when you can, charges, graphs, other visiuals are super useful.
+        did:
+          - "Notes for future sessions: a README, a guide for Claude, and a guide to how the data is made."
+          - "A new home page built around the example: the total in large type, a bar splitting the General Fund from other money, the four steps of the budget year with \"We are here\", and \"out of every $100\" bars."
+        why: "One example sentence showed the tone better than any instruction, and the writing guide made \"simple\" specific."
+
+      - title: Push for better design
+        prompt: "Is this your best work? Look at https://www.usehallmark.com/ and such (I think it's installed) and research the best UI/UX for this kind of site. Let's see if we can take it up a notce. Think nice, delightful animations, mouseovers, etc."
+        did:
+          - "A \"where every $100 goes\" receipt, a headline that counts up, bars that grow in as you scroll, details on hover, and charts that draw themselves."
+          - "Motion switches off for readers who ask for less of it, and every page still works without JavaScript."
+        why: "\"Is this your best work?\" and a site to study gave permission and a direction to raise the bar."
+
+      - title: Spread it
+        prompt: Yes, do those next
+        did:
+          - "The same pictures on every department and income page: this year against last year, \"out of every $100\", and split bars."
+
+      - title: Ask for depth and context
+        prompt: |-
+          Looks great.
+
+          Do we get more detail for example into the police department's budget? Like how they spend the money? Any way we can go a level deeper?
+
+          How can we contextualize the data better? I think showing changes overtime is good. But would also like to see maybe $ per citizen and maybe how that compares to other cities in Louisiana and throughout the world. We don't need line by line, but it would be helpful to have that context.
+        did:
+          - "Claude checked the data before promising anything. The books split police spending into programs (each district, the crime lab, investigations) and list jobs by title back to 2008."
+          - "It advised against comparing with cities abroad, which run different services."
+        why: "Asking \"any way we can…?\" got an answer based on what the data can support."
+
+      - title: Approve the plan
+        prompt: Yes, in that order
+        did:
+          - "Cost per resident across the site, an \"Inside the department\" section for police, and a \"Who works there\" breakdown of jobs by rank, each checked against the totals."
+          - "Then Claude stopped: the comparison data it had planned to use could not be republished."
+
+      - title: Pick a source
+        prompt: Use Census data
+        did:
+          - "The Census Bureau's survey of local governments, which is free to republish. New Orleans is compared with every U.S. city of similar size and with Louisiana's larger cities, chosen by a rule rather than by hand."
+
+      - title: Go wider
+        prompt: Merge when ready and I think we should expand the comparison beyond police.
+        did:
+          - "Seven services, each checked against the city's own budget books first. Housing and courts were left out because the Census figures did not match the books."
+
+      - title: Ship
+        prompt: Yes, deploy
+
+      - title: Clean up, and hand off a side job
+        prompt: |-
+          Let's clean up the footer. link my name do dunn.us.
+
+          Then I think we just do a simple "About this site"
+
+          And then should we do anything else to the footer for SEO purposes?
+
+          Also spin up a subagent on SEO/AEO. Just make sure we have good hygiene.
+        did:
+          - "A simpler footer. A helper working at the same time made the site easier for search engines and AI assistants to read, with build checks for all of it."
+
+      - title: Catch leftovers
+        when: Sent with a screenshot, while Claude was working
+        prompt: |-
+          Get rid of this on the about page.
+
+          Also is there any other placeholder data?
+        did:
+          - "The unfinished section came out, and a search found one more."
+
+      - title: Question the claims
+        prompt: |-
+          nolabudget@dunn.us
+
+          also does every figure really link to its source? because it doesn't appear that way […]
+        did:
+          - "The honest answer was no. Claude gave every section with a figure a source, then made the build fail if any section shows a figure without one."
+        why: "Checking a promise the site made turned it into a rule the build enforces."
+
+      - title: Ship again
+        prompt: Yes, deploy
+
+      - title: Go public
+        when: Sent while Claude was working
+        prompt: Go ahead and do any social sharing stuff and go public.
+        did:
+          - "A sharing image with no figures on it, so it never goes out of date. The site opened to search engines, and was checked live."
+
+      - title: Set up the accounts
+        prompt: |-
+          can you just open my browser and get this setup in umami, GSC, and openseo. Make sure you're using my personal accounts. umami is [my own Umami server].
+
+          Let me know if you need logging into anything
+        did:
+          - "Visit counting, Google Search Console and an SEO tool, set up in the browser. Search Console had opened in a work account; Claude noticed and switched to the personal one."
+        why: "Saying whose accounts to use is what made the wrong one stand out."
+
+      - title: Share the process
+        prompt: "yo - can you like output all of my prompts i used to amke this? or the process? like to help other learns how I built it?"
+        did:
+          - "Which produced this page."
+
+lessons:
+  - "<b>Start with a goal and a purpose</b>, not a list of features."
+  - "<b>Get the data first.</b> See what exists before deciding what to build."
+  - "<b>Test on a small, varied sample</b> before the full run."
+  - "<b>Use small models for bulk work</b> and a large one to plan and check."
+  - "<b>Have the work checked</b> against the source, by something other than what did it."
+  - "<b>Set standards in writing.</b> A writing guide and one example sentence beat \"make it clearer\"."
+  - "<b>Ask for more.</b> \"Is this your best work?\" with a site to study raises the bar."
+  - "<b>Ask questions, not only orders.</b> \"Any way we can go a level deeper?\" gets a plan based on what is possible."
+  - "<b>Check the claims.</b> Ask whether it really does what it says, then make the answer a rule."
+  - "<b>Go in stages</b> with a short go-ahead at each one. Long prompts are only needed at the turning points."
+  - "<b>Review the real thing</b> and send screenshots of whatever looks wrong."
+
+went_wrong:
+  - "A list printed one letter per line. Caught from a screenshot."
+  - "The 2018 book labels a column \"Adopted\" when its figures are actual spending. Corrected, with the reason recorded."
+  - "The first comparison data could not be republished. Claude stopped and asked; Census data replaced it."
+  - "Census figures for housing and courts did not match the city's books, so those were left out."
+  - "Not every figure showed its source, though the site said so. A question caught it; the build now enforces it."
+  - "Browsers kept an old copy of the styles. File links now change whenever the file does."

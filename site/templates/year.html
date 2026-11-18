@@ -1,0 +1,160 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% macro sources(cites) -%}
+<ul class="sources">{% for label, c in cites %}<li>{{ label }}: {{ m.cite(c) }}</li>{% endfor %}</ul>
+{%- endmacro %}
+{% block description %}The City of New Orleans budget for {{ year }}: {{ summary[0] }}{% endblock %}
+{% set crumbs = [("/", "Home"), ("/budgets/", "Budgets by year"), ("/budgets/%d/"|format(year), year|string)] %}
+{% block content %}
+<header class="lede">
+  <p class="kicker">{% if status %}{{ status|capitalize }}{% else %}Fiscal year{% endif %}</p>
+  <h1>The {{ year }} budget</h1>
+  <p class="lead">{{ summary|join(' ') }}</p>
+  {% if cites %}<p class="source">Sources: {% for bs, f, c in cites %}{{ BASIS_LABEL[bs] }}, {{ 'General Fund' if f == 'general_fund' else 'all funds' }}: {{ m.cite(c) }}{% if not loop.last %}; {% endif %}{% endfor %}.</p>{% endif %}
+  {% if is_proposal %}<p>This is the proposal now before the City Council. <a href="/budgets/{{ fy }}/">See the {{ fy }} budget now in force</a>.</p>{% endif %}
+  <p class="actions">
+    {% if is_proposal %}<a class="button" href="/changes/">Every change from {{ fy }}</a>{% elif has_changes %}<a class="button" href="/changes/{{ year }}/">Every change from {{ year - 1 }}</a>{% endif %}
+    <a class="button" href="#by-dept">Department table</a>
+    <a class="button" href="#documents">The original documents</a>
+  </p>
+</header>
+
+{% if only_actual %}
+<section class="block callout" aria-labelledby="actual-only">
+  <h2 id="actual-only">Actual spending only</h2>
+  <p>For {{ year }} the books we have print what the city actually spent, not what it planned to spend. There are no proposed or adopted figures to compare. {{ book_note }}</p>
+</section>
+{% endif %}
+
+{% if prop %}
+<section class="block" aria-labelledby="prop">
+  <h2 id="prop">From proposal to adoption{{ m.refs(col_notes[('adopted', prop.fund)], numbered) }}</h2>
+  <p class="sub">The Mayor proposes a budget and the City Council adopts one. {% if prop.n_changed %}The Council changed the {{ FUND_LABEL[prop.fund] }} figure for {{ prop.n_changed }} department{{ 's' if prop.n_changed != 1 }}{% if prop.n_changed > prop.rows|length %}; these are the {{ prop.rows|length }} with the largest change{% endif %}.{% else %}No department's {{ FUND_LABEL[prop.fund] }} figure differs between the proposal and the adopted budget in the books.{% endif %}
+  In all, the {{ FUND_LABEL[prop.fund] }} went from {{ prop.old|money }} proposed to {{ prop.new|money }} adopted: {{ fmt.change(prop.new, prop.old) }}. A change can be new spending, a cut, or work moved between departments; the book does not always say which.</p>
+  {% if prop.rows %}
+  <div class="table-scroll">
+  <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
+<table class="data index cmp">
+    <caption class="vh">{{ year }} {{ FUND_LABEL[prop.fund] }}: departments the Council changed most from the proposal, in dollars</caption>
+    <thead><tr><th scope="col">Department</th><th scope="col" class="num">Proposed</th><th scope="col" class="num">Adopted</th><th scope="col" class="num">Change</th><th scope="col" class="num">Percent</th></tr></thead>
+    <tbody>
+    {% for r in prop.rows %}
+      <tr><th scope="row"><a href="{{ r.dept.url }}">{{ r.dept.name }}</a></th>{{ m.num(r.old|full) }}{{ m.num(r.new|full) }}<td class="num">{{ r.diff|signed_full }}</td>{% if r.pct is not none %}<td class="num">{{ r.pct|signed_pct }}</td>{% else %}<td class="num na"><span aria-hidden="true">–</span><span class="vh">no percent, as nothing was budgeted before</span></td>{% endif %}</tr>
+    {% endfor %}
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">All departments</th><td class="num">{{ prop.old|full }}</td><td class="num">{{ prop.new|full }}</td><td class="num">{{ prop.diff|signed_full }}</td><td class="num">{{ (prop.diff / prop.old)|signed_pct }}</td></tr></tfoot>
+  </table>
+  </div>
+  {{ sources(prop.cites) }}
+  {% endif %}
+</section>
+{% endif %}
+
+{% if act %}
+<section class="block" aria-labelledby="act">
+  <h2 id="act">Budget against actual spending{{ m.refs(col_notes[('actual', act.fund)], numbered) }}</h2>
+  <p class="sub">The departments whose {{ FUND_LABEL[act.fund] }} spending ended furthest from the adopted budget{% if act.n_changed > act.rows|length %} (the {{ act.rows|length }} largest gaps of {{ act.n_changed }}){% endif %}. In all, the city spent {{ act.new|money }} against a budget of {{ act.old|money }}: {{ fmt.change(act.new, act.old) }}. A gap can come from unfilled jobs, a one-time payment, or work moved between departments; the book does not always say which.</p>
+  <div class="table-scroll">
+  <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
+<table class="data index cmp">
+    <caption class="vh">{{ year }} {{ FUND_LABEL[act.fund] }}: departments furthest from the adopted budget, in dollars</caption>
+    <thead><tr><th scope="col">Department</th><th scope="col" class="num">Adopted</th><th scope="col" class="num">Actual</th><th scope="col" class="num">Difference</th><th scope="col" class="num">Percent</th></tr></thead>
+    <tbody>
+    {% for r in act.rows %}
+      <tr><th scope="row"><a href="{{ r.dept.url }}">{{ r.dept.name }}</a></th>{{ m.num(r.old|full) }}{{ m.num(r.new|full) }}<td class="num">{{ r.diff|signed_full }}</td>{% if r.pct is not none %}<td class="num">{{ r.pct|signed_pct }}</td>{% else %}<td class="num na"><span aria-hidden="true">–</span><span class="vh">no percent, as nothing was budgeted before</span></td>{% endif %}</tr>
+    {% endfor %}
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">All departments</th><td class="num">{{ act.old|full }}</td><td class="num">{{ act.new|full }}</td><td class="num">{{ act.diff|signed_full }}</td><td class="num">{{ (act.diff / act.old)|signed_pct }}</td></tr></tfoot>
+  </table>
+  </div>
+  {{ sources(act.cites) }}
+</section>
+{% endif %}
+
+<section class="block" aria-labelledby="by-dept">
+  <h2 id="by-dept">Every department</h2>
+  <p class="sub">In dollars. <a href="/#general-fund">General Fund</a> first, then all funds. A dash means the department is not printed as its own line in that column.</p>
+  <div class="table-scroll wide">
+  <table class="data yby">
+    <caption class="vh">{{ year }} budget by department, in dollars</caption>
+    <thead>
+      <tr><th scope="col" rowspan="2">Department</th>
+      {% for bs in ('proposed', 'adopted', 'actual') %}{% set n = cols|selectattr(0, 'equalto', bs)|list|length %}{% if n %}<th scope="colgroup" colspan="{{ n }}" class="num grp">{{ BASIS_LABEL[bs] }}</th>{% endif %}{% endfor %}
+      </tr>
+      <tr>{% for k in cols %}<th scope="col" class="num">{{ 'General Fund' if k[1] == 'general_fund' else 'All funds' }}{{ m.refs(col_notes[k], numbered) }}</th>{% endfor %}</tr>
+    </thead>
+    {% for g in groups %}
+    <tbody>
+      <tr class="part"><th scope="colgroup" colspan="{{ cols|length + 1 }}">{{ g.name }}</th></tr>
+      {% for r in g.rows %}
+      <tr><th scope="row"><a href="{{ r.dept.url }}">{{ r.dept.name }}</a></th>{% for k in cols %}{{ m.num(r.vals[k]|full if r.vals[k] is not none else none) }}{% endfor %}</tr>
+      {% endfor %}
+      <tr class="subtotal"><th scope="row">Total, {{ g.name|lower }}</th>{% for k in cols %}{{ m.num(g.sub[k]|full if g.sub[k] is not none else none) }}{% endfor %}</tr>
+    </tbody>
+    {% endfor %}
+    <tfoot><tr class="total"><th scope="row">All departments</th>{% for k in cols %}{{ m.num(totals[k]|full) }}{% endfor %}</tr></tfoot>
+  </table>
+  </div>
+  <h3 class="notes-h">Sources</h3>
+  <ul class="sources">
+  {% for bs, f, c in cites %}<li>{{ BASIS_LABEL[bs] }}, {{ 'General Fund' if f == 'general_fund' else 'all funds' }}: {{ m.cite(c) }}</li>{% endfor %}
+  </ul>
+</section>
+
+<section class="block" aria-labelledby="revenue">
+  <h2 id="revenue">Where the money came from</h2>
+  <p class="sub">General Fund income for {{ year }}, by kind, in dollars. <a href="/revenue/">More on the city's income</a>.</p>
+  {% if rev_rows %}
+  <div class="table-scroll">
+  <table class="data index">
+    <caption class="vh">{{ year }} General Fund income by category, in dollars</caption>
+    <thead><tr><th scope="col">Kind of income</th>{% for bs in rcols %}<th scope="col" class="num">{{ BASIS_LABEL[bs] }}</th>{% endfor %}</tr></thead>
+    <tbody>
+    {% for r in rev_rows %}
+      <tr><th scope="row">{{ r.name }}</th>{% for bs in rcols %}{{ m.num(r.vals[bs]|full if r.vals[bs] is not none else none) }}{% endfor %}</tr>
+    {% endfor %}
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">Total income</th>{% for bs in rcols %}<td class="num">{{ rev_totals[bs]|full }}</td>{% endfor %}</tr></tfoot>
+  </table>
+  </div>
+  <ul class="sources">
+  {% for bs, c in rev_cites %}<li>{{ BASIS_LABEL[bs] }}: {{ m.cite(c) }}</li>{% endfor %}
+  </ul>
+  {% else %}
+  <p>No General Fund income figures are printed for {{ year }}.</p>
+  {% endif %}
+</section>
+
+<section class="block" aria-labelledby="positions">
+  <h2 id="positions">Budgeted jobs</h2>
+  {% if pos_basis %}
+  <p>The {{ year }} {{ 'proposal' if pos_basis == 'proposed' else 'budget' }} pays for <strong>{{ pos[pos_basis]|number }}</strong> full-time positions{% if prev_pos is not none %}, {{ fmt.change(pos[pos_basis], prev_pos, 'count') }} on the {{ year - 1 }} {{ pos_prev_basis }} figure of {{ prev_pos|number }}{% endif %}. {% if pos_basis == 'proposed' and pos['adopted'] is none %}Only the proposal's count is printed for {{ year }}. {% endif %}A budgeted position may be empty, and books count positions differently from year to year, so treat this as a rough guide. {% if pos_note %}{{ pos_note }}{% endif %}</p>
+  {{ m.source([pos_cite]) }}
+  {% else %}
+  <p>The books we have do not print position counts for {{ year }}.</p>
+  {% endif %}
+</section>
+
+{{ m.footnotes(notes) }}
+
+<section class="block" aria-labelledby="documents">
+  <h2 id="documents">The original documents</h2>
+  {% if book_note and not only_actual %}<p class="callout">{{ book_note }}</p>{% endif %}
+  {% if docs %}
+  <p class="sub">Every document for {{ year }} that this site has found. Each link goes to the publisher's own file; for the oldest years that is the Internet Archive's copy of the city's old website.</p>
+  <ul class="sources docs">
+  {% for d in docs %}
+    <li>{{ d.label }}: <a class="doc-link" href="{{ d.url }}">{{ d.title }}</a> ({{ d.host }})</li>
+  {% endfor %}
+  </ul>
+  {% else %}
+  <p>This site has found no original document of its own for {{ year }}.{% if only_actual %} The figures above come from later budget books; the sources under the table say which.{% endif %}</p>
+  {% endif %}
+</section>
+
+<nav class="pager" aria-label="Other years">
+  {% if prev %}<a href="/budgets/{{ prev }}/" rel="prev">{{ prev }}</a>{% endif %}
+  <a href="/budgets/">All years</a>
+  {% if next %}<a href="/budgets/{{ next }}/" rel="next">{{ next }}</a>{% endif %}
+</nav>
+{% endblock %}

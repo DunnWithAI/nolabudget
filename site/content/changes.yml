@@ -1,0 +1,15 @@
+# Known moves of work between departments, flagged on /changes/. Only the books say
+# what moved; a move is listed here only where a book prints it.
+#   year:  the fiscal year of the book that prints the move (it shows on the changes
+#          page whose newer figure is from that year)
+#   depts: dept_ids whose figures are affected
+moves:
+  - id: juvenile-detention
+    year: 2027
+    depts: [human-services, mayor]
+    text: >-
+      The juvenile detention centre (the Juvenile Justice Intervention Center) is
+      printed inside the Mayor's Office in the 2027 book. Earlier books print it under
+      Human Services. Some of the fall in Human Services and some of the change in the
+      Mayor's Office may come from this move, not from a cut or an increase. The book
+      does not say how much.

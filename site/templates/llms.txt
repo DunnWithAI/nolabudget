@@ -1,0 +1,42 @@
+{# ABOUTME: /llms.txt, a short plain-text guide to the site for AI assistants (llmstxt.org).
+   ABOUTME: No budget figures here: each figure lives on its page, with its source. #}
+# {{ site.name }}
+
+> {{ site.tagline }}. Where the City of New Orleans gets its money and how it spends it, in plain words. Budget figures come from the city's budget books, with the book and page for each; city comparisons use Census Bureau data.
+
+- An independent project by {{ site.author }} ({{ site.author_url }}). It is not affiliated with or endorsed by the City of New Orleans.
+- Figures come from the city's budget books, {{ site.first_year }} to {{ site.proposal_year }}. The {{ site.proposal_year }} figures are the Mayor's proposal; the {{ site.in_force_year }} budget is the one in force (as of {{ site.as_of }}).
+- Pages lead with the General Fund (the money the Mayor and City Council decide how to spend), then all funds, which also count grants and restricted money.
+
+## Main pages
+
+- [Home]({{ site.base_url }}/): the size of the budget, what it pays for, where the money comes from, and common questions
+- [Departments]({{ site.base_url }}/departments/): every department, office, court and board in the budget
+- [Revenue]({{ site.base_url }}/revenue/): where the General Fund money comes from
+- [Budgets by year]({{ site.base_url }}/budgets/): every year from {{ site.first_year }} to {{ site.proposal_year }}: proposed, adopted and actually spent
+- [Changes]({{ site.base_url }}/changes/): how each department changes from {{ site.in_force_year }} to {{ site.proposal_year }}
+- [How New Orleans compares]({{ site.base_url }}/compare/): spending per resident against similar-size U.S. cities, from Census Bureau data
+- [About the data]({{ site.base_url }}/about/): sources, limits and CSV downloads
+- [How the numbers were made]({{ site.base_url }}/method/)
+- [How this site was built]({{ site.base_url }}/how/): the prompts used to build it with Claude Code
+- [What the budget books don't explain]({{ site.base_url }}/not-explained/)
+
+## Revenue categories
+
+{% for url, name, short in revenue %}
+- [{{ name }}]({{ site.base_url }}{{ url }}): {{ short }}
+{% endfor %}
+
+## Departments
+
+{% for url, name in departments %}
+- [{{ name }}]({{ site.base_url }}{{ url }})
+{% endfor %}
+{% if downloads %}
+
+## Data
+
+{% for f in downloads %}
+- [{{ f.name }}]({{ site.base_url }}{{ f.href }}){{ (": " ~ f.text) if f.text else "" }}
+{% endfor %}
+{% endif %}

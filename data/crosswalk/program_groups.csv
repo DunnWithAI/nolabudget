@@ -1,0 +1,62 @@
+dept_id,code,name_pattern,group,plain_name
+police,2731,FIRST,Patrol districts,First District
+police,2732,SECOND,Patrol districts,Second District
+police,2733,THIRD,Patrol districts,Third District
+police,2734,FOURTH,Patrol districts,Fourth District
+police,2735,FIFTH,Patrol districts,Fifth District
+police,2736,SIXTH,Patrol districts,Sixth District
+police,2737,SEVENTH,Patrol districts,Seventh District
+police,2738,EIGHT,Patrol districts,Eighth District
+police,2780,FIELD OPERATIONS,Other patrol and traffic,Field operations
+police,2739,SPECIAL OPERATIONS,Other patrol and traffic,Special operations
+police,2769,TRAFFIC|SPECIAL OPERATIONS,Other patrol and traffic,Traffic
+police,2792,FRENCH QUARTER,Other patrol and traffic,French Quarter patrol
+police,2723,FQ|FRENCH QUARTER,Other patrol and traffic,French Quarter patrol division
+police,2757,STEP|TRAFFIC|RED LIGHT,Other patrol and traffic,Traffic enforcement grants
+police,2782,LAKEVIEW,Other patrol and traffic,Lakeview crime prevention district
+police,2791,MID CITY|QUALITY OF LIFE,Other patrol and traffic,Mid-City patrol
+police,2783,CROSSING GUARD,Other patrol and traffic,School crossing guards
+police,2784,TRANSIT,Other patrol and traffic,Transit security
+police,2795,SECURITY,Other patrol and traffic,Security
+police,2760,INVESTIGATION|CRIMINAL,Investigations and the crime lab,Investigations and support
+police,2720,SPECIAL INVESTIGATION,Investigations and the crime lab,Special investigations
+police,2713,SPECIALIZED|VICE|NARCOTICS,Investigations and the crime lab,Specialized investigations
+police,2747,NARCOTICS,Investigations and the crime lab,Narcotics
+police,2763,HOMICIDE,Investigations and the crime lab,Homicide investigations
+police,2762,COLD CAS|HOMICIDE,Investigations and the crime lab,Cold cases
+police,2719,COLD CASE,Investigations and the crime lab,Cold cases with DNA (grant)
+police,2761,SEX,Investigations and the crime lab,Sex offender registration
+police,2746,CRIME LAB,Investigations and the crime lab,Crime lab
+police,2748,CRIME LAB|FORENSIC,Investigations and the crime lab,Crime lab improvement (grant)
+police,2715,CRIME LAB,Investigations and the crime lab,Crime lab improvement (Coverdell grant)
+police,2703,EVIDENCE,Investigations and the crime lab,Central evidence
+police,2794,SEXUAL ASSAULT KIT,Investigations and the crime lab,Sexual assault kit testing
+police,2728,PENSION,Pensions and state pay,State police pension
+police,2796,SUPPLEMENTAL,Pensions and state pay,State supplemental pay
+police,2702,SUPERINTENDENT,"Leadership, administration and support",Office of the Superintendent
+police,2740,MANAGEMENT SERVICES|TECHNI,"Leadership, administration and support",Management services
+police,2750,FISCAL,"Leadership, administration and support",Fiscal management
+police,2705,PUBLIC INTEGRITY,"Leadership, administration and support",Public integrity (internal affairs)
+police,2711,PUBLIC AFFAIRS,"Leadership, administration and support",Public affairs
+police,2704,SUPPORT SERVICES,"Leadership, administration and support",Support services
+police,2716,FLEET,"Leadership, administration and support",Police vehicles (fleet)
+police,2743,FLEET,"Leadership, administration and support",Police vehicles (fleet)
+police,2712,CARPENTER|PROPERTY,"Leadership, administration and support",Property and carpentry shop
+police,2745,SPECIAL SERVICES,"Leadership, administration and support",Special services
+police,2717,ASSISTANT SUPERINTENDENT,"Leadership, administration and support",Assistant superintendents' staff
+police,2718,RECRUIT,Hiring and training,Police recruits
+police,2714,HIRING,Hiring and training,Police hiring program
+police,2710,HIRING|OVERTIME GRANT,Grants and seized money,Federal hiring and overtime grants
+police,2709,EDUCATION|TRAINING,Hiring and training,Education and training
+police,2788,GRANT|C\.O\.P\.S|INNOVATION,Grants and seized money,Grant-funded operations
+police,2790,GRANT,Grants and seized money,Other police grants
+police,2789,C\.O\.P\.S|NCS,Grants and seized money,Community policing grants
+police,2706,SEIZURE,Grants and seized money,Seized money (Justice Department)
+police,2707,SEIZURE|SPECIAL FUND,Grants and seized money,Seized money (police)
+police,2708,TREASURY,Grants and seized money,Seized money (Treasury)
+police,2799,CAPITAL,Grants and seized money,Capital
+police,2729,COMMUNITY POLICING,Other patrol and traffic,Community policing
+police,2741,DRUG,Grants and seized money,Drug offender grant
+police,2744,TERRORISM,Grants and seized money,Terrorism prevention grant
+police,2787,COPS,Grants and seized money,Community policing technology grant
+police,2781,MILLAGE,Other programs,Special dedicated millage

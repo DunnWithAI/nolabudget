@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% set more = overview|selectattr('diff', '>', 0)|list %}
+{% block description %}How New Orleans's spending per resident on police, fire, streets, trash, parks, libraries and public health compares with similar-size U.S. cities and other Louisiana cities, from Census Bureau data for {{ year }}.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/compare/", "Compare")] %}
+{% block content %}
+<header class="lede">
+  <h1>How New Orleans compares</h1>
+  <p class="lead">In {{ year }}, New Orleans spent more per resident than the typical U.S. city of its size on <strong>{{ more|length }} of {{ overview|length }}</strong> everyday services{% if more %}, most of all on {{ more[0].fn.label|lower }}{% endif %}.</p>
+  <p>These figures come from the Census Bureau, which collects every city government's spending in the same format. That makes cities comparable in a way their budget books are not. They are for {{ year }}, the latest year Census has counted every city, so they differ from the budget figures on the rest of this site. <a href="#how">How these figures work</a></p>
+</header>
+
+<section class="block" aria-labelledby="glance">
+  <h2 id="glance">At a glance</h2>
+  <p class="sub">New Orleans's spending per resident in {{ year }}, against the median of U.S. cities with 250,000 to 750,000 residents. The middle line is the median city.</p>
+  <figure class="diverge glance" data-animate>
+    <figcaption class="vh">New Orleans spending per resident compared with the median similar-size city, by service, {{ year }}</figcaption>
+    <div class="diverge-head" aria-hidden="true"><span></span><span>Less than typical</span><span>More than typical</span></div>
+    <ul>
+    {% for o in overview %}
+      <li class="diverge-row {{ 'up' if o.diff > 0 else 'down' }}" style="--i: {{ loop.index0 }}">
+        <a class="diverge-name" href="#{{ o.fn.key }}">{{ o.fn.label }}</a>
+        <span class="diverge-track"><span class="diverge-bar" style="width: {{ '%.1f'|format(o.width * 100) }}%"></span></span>
+        <span class="diverge-amt">{{ o.s.nola[o.fn.key ~ '_per']|money }} <span class="diverge-to">vs {{ o.s.median|money }}, {{ o.s.pct_diff }}% {{ 'more' if o.diff > 0 else 'less' }}</span></span>
+      </li>
+    {% endfor %}
+    </ul>
+  </figure>
+  {{ m.source([source]) }}
+</section>
+
+{% for sec in sections %}
+{% set k = sec.key %}
+{% set p = sec.peer %}
+<section class="block" aria-labelledby="{{ k }}">
+  <h2 id="{{ k }}">{{ sec.label }}: {{ p.nola[k ~ '_per']|money }} per resident</h2>
+
+  <h3>Against U.S. cities of similar size</h3>
+  <p class="big-sentence">New Orleans spent {{ p.nola[k ~ '_per']|money }} per resident {{ sec.fn.on }}. {% if p.ratio >= 1.05 %}That is {{ p.pct_diff }}% more than{% elif p.ratio <= 0.95 %}That is {{ p.pct_diff }}% less than{% else %}That is about the same as{% endif %} the median of {{ p.n - 1 }} other cities with 250,000 to 750,000 residents ({{ p.median|money }}).</p>
+  <figure class="strip-fig" data-animate>
+    <div class="strip-wrap"><div class="plot-wide">{{ p.svg|safe }}</div><div class="plot-narrow">{{ p.svg_narrow|safe }}</div></div>
+    <figcaption class="table-note">Each dot is one city, placed by what it spent per resident. Hover over a dot to see the city. The line is the median: half the cities spent more, half less.</figcaption>
+  </figure>
+  <details class="numbers">
+    <summary>Show all {{ p.n }} cities, ranked</summary>
+    <ol class="rank-list">
+    {% for b in p.bars %}
+      <li class="{{ 'nola' if b.r.is_nola }}"><span class="rank-name">{{ loop.index }}. {{ b.r.name }}, {{ b.r.state }}{% if b.r.combined %}<span class="row-desc">City and county government</span>{% endif %}</span><span class="rank-amt">{{ b.r[k ~ '_per']|money }}</span>{{ m.bar(b.width) }}</li>
+    {% endfor %}
+    </ol>
+  </details>
+
+  {% if sec.la %}
+  <h3>Against other Louisiana cities</h3>
+  <ol class="rank-list open" data-animate>
+  {% for b in sec.la.bars %}
+    <li class="{{ 'nola' if b.r.is_nola }}" style="--i: {{ loop.index0 }}"><span class="rank-name">{{ b.r.name }}{% if b.r.combined %}<span class="row-desc">City and parish government</span>{% endif %}</span><span class="rank-amt">{{ b.r[k ~ '_per']|money }}</span>{{ m.bar(b.width) }}</li>
+  {% endfor %}
+  </ol>
+  <p class="table-note">Louisiana cities with 50,000 or more residents. Census divides Baton Rouge's and Lafayette's spending by the population of the city alone, though their city-parish governments serve the whole parish for some services, so their figures per resident may run high.{% if sec.la.none %} Not shown, because they reported no spending of their own on this: {{ sec.la.none|map(attribute='name')|join(', ') }}.{% endif %}</p>
+  {% endif %}
+  {% if sec.fn.note %}<p class="table-note">{{ sec.fn.note }}</p>{% endif %}
+  {% if p.none %}<p class="table-note">{{ p.none|length }} similar-size cities reported no spending of their own {{ sec.fn.on }} and are left out. In many places a county or a separate district provides this service: {{ p.none|map(attribute='name')|join(', ') }}.</p>{% endif %}
+  {% if p.excluded %}<p class="table-note">Also left out: {% for r in p.excluded %}{{ r.note }}{% if not loop.last %} {% endif %}{% endfor %}</p>{% endif %}
+  {{ m.source([source]) }}
+</section>
+{% endfor %}
+
+<section class="block" aria-labelledby="how">
+  <h2 id="how">How these figures work</h2>
+  <ul class="plain-notes">
+    <li><strong>What is counted.</strong> What each city government spent in its {{ year }} fiscal year on running each service and on construction and equipment for it. That covers salaries, benefits and other running costs.</li>
+    <li><strong>Per resident.</strong> Each city's spending divided by the Census Bureau's population for that government. For New Orleans that is {{ nola.population|number }} people, which is higher than the estimate used elsewhere on this site, so these figures per resident run a little lower than the department pages.</li>
+    <li><strong>Who does the work.</strong> Cities split services with other governments in different ways. A county, a sheriff or a separate district may also do some of the work, and its spending is not counted here. New Orleans's city and parish governments are one, as are {{ combined|rejectattr('is_nola')|map(attribute='name')|join(', ') }}. A city that reported no spending of its own on a service is left out of that comparison. A city that reports a little may share the service with another government, which is why this page compares with the median rather than the average.</li>
+    <li><strong>Similar size.</strong> Every U.S. city government with 250,000 to 750,000 residents in the Census count. No city was picked by hand.</li>
+    <li><strong>What's not here.</strong> Census also reports housing and courts, but its figures for New Orleans don't match the city's budget books in ways this site can explain, so they are left out. Water, sewer and the airport are run by separate boards that many cities don't have.</li>
+    <li><strong>Why not other countries.</strong> Cities in other countries often don't run their own police, schools or health care, and they use different currencies and accounting rules. A comparison would mostly show what each city is responsible for, not how it spends.</li>
+  </ul>
+  <p>The Census Bureau publishes these figures in the public domain. <a href="{{ source.href }}">Get the data from the Census Bureau</a>.</p>
+</section>
+{% endblock %}

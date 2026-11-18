@@ -1,0 +1,32 @@
+# Honest notes about which books exist for a year, shown in "The original documents"
+# on /budgets/<year>/. Keyed by fiscal year. Plain words.
+books:
+  2004: >-
+    We have no budget book for 2004 that prints a 2004 budget. The only 2004 figures
+    are what the city actually spent, and they come from later budget books that print
+    past years for comparison.
+  2005: >-
+    We have no budget book for 2005 that prints a 2005 budget. The only 2005 figures
+    are what the city actually spent, and they come from later budget books that print
+    past years for comparison.
+  2006: >-
+    We have no budget book for 2006 that prints a 2006 budget. The only 2006 figures
+    are what the city actually spent, and they come from later budget books that print
+    past years for comparison.
+  2007: >-
+    We have no 2007 budget book. The adopted 2007 figures come from the 2008 adopted
+    budget book, which prints them as the year before. Actual spending comes from
+    later books.
+  2010: >-
+    The 2010 adopted budget book has been lost. The 2010 figures on this site come
+    from the 2011 adopted budget book, which prints them as the year before.
+  2020: >-
+    No adopted budget book was published for 2020. The adopted 2020 figures on this
+    site come from the 2021 adopted budget book, which prints them as the year before.
+positions:
+  2017: >-
+    The 2018 book printed the same position counts in every column, so the counts for
+    2017 and 2018 may not show the change between those years.
+  2018: >-
+    The 2018 book printed the same position counts in every column, so the counts for
+    2017 and 2018 may not show the change between those years.

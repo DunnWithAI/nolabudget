@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}Where the City of New Orleans budget books disagree with themselves, leave a label wrong, or print an amount with no explanation. Each item gives the figures, the book and the page.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/about/", "About the data"), ("/not-explained/", "What the books don't explain")] %}
+
+{# A table built in not_explained.py: cols = [(label, kind)], rows of cells. A cell is text,
+   markup, or {"cites": [...]} for a list of citations. #}
+{% macro cells(t) -%}
+<div class="table-scroll wide">
+<table class="data">
+  <caption class="vh">{{ t.caption }}</caption>
+  <thead><tr>{% for label, kind in t.cols %}<th scope="col"{% if kind == "num" %} class="num"{% endif %}>{{ label }}</th>{% endfor %}</tr></thead>
+  <tbody>
+  {% for row in t.rows %}
+    <tr>
+    {% for cell in row %}
+      {% set kind = t.cols[loop.index0][1] %}
+      {% if kind == "cite" and cell is mapping %}
+      <td class="src">{% for c in cell.cites %}<span class="src-item">{{ m.cite(c, short=not c.title) }}</span>{% endfor %}</td>
+      {% elif kind == "cite" %}
+      <td class="src">{{ cell }}</td>
+      {% elif kind == "num" %}{{ m.num(cell) }}
+      {% elif loop.first %}<th scope="row">{{ cell }}</th>
+      {% else %}<td>{{ cell }}</td>
+      {% endif %}
+    {% endfor %}
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{%- endmacro %}
+
+{% block content %}
+<header class="lede">
+  <h1>What the budget books don't explain</h1>
+  <p class="lead">{{ intro }}</p>
+  <nav aria-label="On this page">
+    <ul>
+    {% for s in sections %}<li><a href="#{{ s.id }}">{{ s.title }}</a></li>
+    {% endfor %}
+      <li><a href="#report">How to report a mistake</a></li>
+    </ul>
+  </nav>
+</header>
+
+{% for s in sections %}
+<section class="block prose" id="{{ s.id }}" aria-labelledby="h-{{ s.id }}">
+  <h2 id="h-{{ s.id }}">{{ s.title }}</h2>
+  {% if s.intro %}<p>{{ s.intro }}</p>{% endif %}
+  {% for it in s.entries %}
+  <article id="{{ it.id }}" class="item">
+    <h3>{{ it.title }}</h3>
+    {% if it.says %}{% if it.says.startswith("<ul>") %}{{ it.says }}{% else %}<p>{{ it.says }}</p>{% endif %}{% endif %}
+    {% if it.facts.get("swaps") %}
+    <ul>
+    {% for w in it.facts.swaps %}
+      <li>{{ w.col|capitalize }}: the {{ w.a }} book prints {{ w.d1 }} at {{ w.a1 }} and {{ w.d2 }} at {{ w.a2 }}. The {{ w.c }} book prints {{ w.c1 }} and {{ w.c2 }}.</li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+    {% if it.table %}{{ cells(it.table) }}{% endif %}
+    {% if it.after %}<p>{{ it.after }}</p>{% endif %}
+    {% if it.note %}<p class="table-note">{{ it.note }}</p>{% endif %}
+    {% if it.extra and it.extra.cite %}{{ m.source([it.extra.cite]) }}{% elif not it.table and it.cites %}{{ m.source(it.cites) }}{% endif %}
+  </article>
+  {% endfor %}
+</section>
+{% endfor %}
+
+<section class="block prose" id="small" aria-labelledby="h-small">
+  <h2 id="h-small">The small differences</h2>
+  <p>{{ tail }}</p>
+</section>
+
+<section class="block prose" id="report" aria-labelledby="h-report">
+  <h2 id="h-report">How to report a mistake</h2>
+  {{ report }}
+  <p>How the figures were made is on the <a href="/method/">method page</a>.</p>
+</section>
+{% endblock %}

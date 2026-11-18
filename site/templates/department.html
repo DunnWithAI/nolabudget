@@ -1,0 +1,287 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}{{ d.short }} What it costs, where its money comes from, and how that has changed since {{ site.first_year }}.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/departments/", "Departments"), (d.url, d.name)] %}
+{% block content %}
+<header class="lede">
+  <p class="kicker">{{ d.group }}</p>
+  <h1>{{ d.name }}</h1>
+  <p class="lead">{{ d.about }}</p>
+  {% if gf_new is not none and gf_old is not none and (gf_new or gf_old) %}
+  <p>The Mayor's {{ py }} proposal gives it <strong>{{ gf_new|money }}</strong> from the General Fund, {{ change }} from the {{ fy }} budget now in force.</p>
+  {% elif current[2].new %}
+  <p>The Mayor's {{ py }} proposal budgets {{ current[2].new|money }} for it, all from funds other than the General Fund.</p>
+  {% endif %}
+  {% if has_current %}
+  {% set use_gf = gf_new or gf_old %}
+  <div class="lede-visual">
+    <div>
+      <p class="visual-h">{{ 'General Fund' if use_gf else 'All funds' }}</p>
+      {{ m.compare(current[0 if use_gf else 2].old, current[0 if use_gf else 2].new, fy ~ " budget in force", py ~ " proposal") }}
+    </div>
+    <div class="stats">
+      {{ m.per100_stat(gf_share, "of every $100 the General Fund spends would go here under the " ~ py ~ " proposal.") }}
+      {{ m.resident_stat(current[0 if use_gf else 2].new, py, "per resident a year, from the " ~ ('General Fund' if use_gf else 'budget') ~ ".") }}
+    </div>
+  </div>
+  {% if current[0 if use_gf else 2].new %}{{ m.resident_note(py) }}{% endif %}
+  {% set lc = current[0 if use_gf else 2] %}
+  {{ m.source([lc.old_cite, lc.new_cite]|select|list, note="Shares of the General Fund and figures per resident are calculated from these and the citywide totals.") }}
+  {% endif %}
+</header>
+
+{% if not has_current %}
+<section class="block callout" aria-labelledby="where">
+  <h2 id="where">Not in the current budget as its own line</h2>
+  {% if last_year %}
+  <p>In the {{ fy }} budget and the {{ py }} proposal, {{ d.name }} is not printed as its own line with money in it. The last year with a figure in the citywide tables is {{ last_year }}.</p>
+  {% else %}
+  <p>{{ d.name }} has no figures in the budget's citywide tables in any year. {% if sections %}It appears only in its own section of some budget books, described below.{% endif %}</p>
+  {% endif %}
+  {% if nordc %}
+  <p>Recreation is now budgeted inside <a href="/departments/miscellaneous/">Miscellaneous</a>, as the {{ nordc.name }}. The {{ nordc.year }} {{ nordc.basis }} budget gives it {{ nordc.amount|money }}.{{ m.cite(nordc.cite) }}</p>
+  {% endif %}
+  {% if see and not nordc %}
+  <p>See also: {% for s in see %}<a href="{{ s.url }}">{{ s.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+  {% endif %}
+</section>
+{% endif %}
+
+{% if has_current %}
+<section class="block" aria-labelledby="now">
+  <h2 id="now">{{ py }} proposal and {{ fy }} budget</h2>
+  {% if fund_split %}
+  <p class="big-sentence">In the {{ py }} proposal, {{ fund_split[0].share|share }} of its money comes from the General Fund and {{ fund_split[1].share|share }} from other funds.</p>
+  {{ m.split_bar(fund_split, d.name ~ ", " ~ py ~ " proposal, by source of money", unit="share") }}
+  {% endif %}
+  <div class="table-scroll">
+  <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
+<table class="data cmp">
+    <caption class="vh">{{ d.name }}: {{ py }} proposal against the {{ fy }} adopted budget, in dollars</caption>
+    <thead><tr>
+      <th scope="col">Money</th>
+      <th scope="col" class="num">{{ fy }} adopted</th>
+      <th scope="col" class="num">{{ py }} proposed</th>
+      <th scope="col" class="num">Change</th>
+    </tr></thead>
+    <tbody>
+    {% for r in current %}
+      <tr{% if r.fund == 'all_funds' %} class="total"{% endif %}>
+        <th scope="row">{% if r.fund == 'general_fund' %}<a href="/#general-fund">General Fund</a>{% else %}{{ FUND_LABEL[r.fund] }}{% endif %}</th>
+        {{ m.num(r.old|full if r.old is not none else none) }}
+        {{ m.num(r.new|full if r.new is not none else none) }}
+        {% if r.new is not none and r.old is not none %}<td class="num">{{ (r.new - r.old)|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p class="table-note">In dollars. Other funds are grants and money set aside for a named purpose; these are budgeted at the most the city might receive, and less is usually spent.</p>
+  {{ m.source([current[0].old_cite or current[2].old_cite, current[0].new_cite or current[2].new_cite]|select|list) }}
+</section>
+{% endif %}
+
+{% if inside %}
+<section class="block" aria-labelledby="inside">
+  <h2 id="inside">Inside the department</h2>
+  <p class="big-sentence">Out of every $100 in the {{ d.name }}'s {{ inside.year }} proposal, ${{ inside.split[0].per100 }} goes to {{ inside.split[0].name|lower }} and ${{ inside.split[1].per100 }} to {{ inside.split[1].name|lower }}.</p>
+  <p class="sub">All funds, as printed program by program in the department's own pages. The groups are this site's, so related programs read together; each program is listed under its group.</p>
+  {{ m.split_bar(inside.split, d.name ~ ", " ~ inside.year ~ " proposal, by kind of work") }}
+  <ol class="groups" data-animate>
+  {% for g in inside.groups %}
+    <li class="group">
+      <details>
+        <summary>
+          <span class="group-name">{{ g.name }}</span>
+          <span class="group-spark" title="{% if g.first %}{{ g.first[0] }}: {{ g.first[1]|money }}; {% endif %}{{ inside.year }}: {{ g.amount|money }}">{{ g.spark|safe }}</span>
+          <span class="group-amt">{{ g.amount|money }}</span>
+          <span class="group-pct">{{ g.share|share }}</span>
+        </summary>
+        <p class="group-trend">{% if g.first and g.first[0] < inside.year %}{{ g.first[0] }}: {{ g.first[1]|money }}. {{ inside.year }}: {{ g.amount|money }}.{% endif %} {{ g.programs|length }} program{{ 's' if g.programs|length != 1 }}:</p>
+        <ul class="group-progs">
+        {% for p in g.programs %}
+          <li><span class="prog-name">{{ p.plain }}{% if p.plain|lower != p.printed|lower %}<span class="row-desc">In the book: “{{ p.printed }}”</span>{% endif %}</span><span class="prog-amt">{{ p.amount|money }}</span>{{ m.bar(p.amount / g.amount if g.amount > 0 else 0) }}</li>
+        {% endfor %}
+        </ul>
+      </details>
+    </li>
+  {% endfor %}
+  </ol>
+  <p class="table-note">The small lines show each group from {{ inside.years[0] }} to {{ inside.year }}, from each year's adopted budget ({{ inside.year }}: the proposal). Each line has its own scale: compare their shapes, not their heights. Programs move between groups when the department reorganizes, so a jump can mean work was moved, not added; the books do not say which.{% if inside.missing_years %} No program pages survive for {{ inside.missing_years|join(' and ') }}.{% endif %}{% for gp in inside.gaps %} In {{ gp.year }} the programs add up to {{ gp.programs|money }}, against {{ gp.statement|money }} in the citywide tables.{% endfor %}</p>
+  {{ m.source([inside.cite]) }}
+</section>
+{% endif %}
+
+{% if staff %}
+<section class="block" aria-labelledby="staff">
+  <h2 id="staff">Who works there</h2>
+  <div class="lede-visual tight">
+    <p class="big-sentence">The {{ staff.year }} proposal budgets {{ staff.total|number }} positions, {{ staff.sworn|number }} of them for sworn officers.</p>
+    <div class="stats">{% if staff.per1000 %}{{ m.stat(staff.per1000|number(1), "budgeted sworn positions for every 1,000 residents.") }}{% endif %}</div>
+  </div>
+  {{ m.split_bar(staff.parts, d.name ~ ", budgeted positions by rank, " ~ staff.year ~ " proposal", unit="count") }}
+  <p class="table-note"><strong>Budgeted positions are not people on the job.</strong> A budget pays for positions; many may be empty. Ranks are read from job titles, which the books abbreviate differently each year. Recruits are not counted as sworn.</p>
+  <h3>Budgeted sworn positions over time</h3>
+  {{ m.figure(staff.fig) }}
+  {% if staff.skipped %}<p class="table-note">{{ staff.skipped|join(' and ') }} {{ 'is' if staff.skipped|length == 1 else 'are' }} left out: the book prints many positions with no job title, so ranks can't be counted.</p>{% endif %}
+  {{ m.resident_note(staff.year) }}
+  {{ m.source([staff.cite]) }}
+</section>
+{% endif %}
+
+{% if cmp %}
+<section class="block" aria-labelledby="compares">
+  <h2 id="compares">How New Orleans compares</h2>
+  <div class="compare-box">
+    <p class="big-sentence">In {{ cmp.year }}, New Orleans spent {{ cmp.nola|money }} per resident {{ cmp.fn.on }}, {% if cmp.ratio >= 1.05 %}{{ cmp.pct_diff }}% more than{% elif cmp.ratio <= 0.95 %}{{ cmp.pct_diff }}% less than{% else %}about the same as{% endif %} the median U.S. city of similar size ({{ cmp.median|money }}){% if cmp.baton_rouge %}. Baton Rouge spent {{ cmp.baton_rouge|money }}{% endif %}.</p>
+    <p>{{ cmp.higher_than }} of {{ cmp.n }} cities with 250,000 to 750,000 residents spent less per resident than New Orleans. These are Census Bureau figures for {{ cmp.year }}, counted the same way for every city, so they differ from this page's budget figures.{% if cmp.fn.note %} {{ cmp.fn.note }}{% endif %} <a href="/compare/#{{ cmp.key }}">See every city</a></p>
+  </div>
+  {{ m.source([cmp.source]) }}
+</section>
+{% endif %}
+
+{% if fig %}
+<section class="block" aria-labelledby="time">
+  <h2 id="time">Over time</h2>
+  <p class="sub">What the City Council adopted each year, and what was actually spent{% if fig.funds|length > 1 %}. Switch between the General Fund and all funds, and between dollars, dollars adjusted for inflation and dollars per resident{% endif %}.</p>
+  {{ m.figure(fig) }}
+  <p class="table-note">A gap in a line means the department was not printed as its own line that year. It does not mean it spent nothing.</p>
+  {% if tables %}{{ m.source_ref("each year's figures, with the book and page they come from, are in", "#years", "the year-by-year table") }}{% endif %}
+</section>
+{% endif %}
+
+{% if share_fig %}
+<section class="block" aria-labelledby="share">
+  <h2 id="share">Its share of the General Fund</h2>
+  {{ m.figure(share_fig) }}
+  {{ m.source_ref("calculated from each year's department and citywide General Fund figures; the department's figures, with their pages, are in", "#years", "the year-by-year table") }}
+</section>
+{% endif %}
+
+{% if bd %}
+<section class="block" aria-labelledby="spent-on">
+  <h2 id="spent-on">What the money is spent on</h2>
+  <p class="sub">From the department's own section of the {{ bd.book_label }}, for {{ bd.year }} as {{ bd.basis }}. All funds, in dollars.</p>
+  {% for t in bd.tables %}
+  <h3>{{ t.title }}</h3>
+  {% if t.split and t.split|length > 1 %}{{ m.split_bar(t.split, d.name ~ ", " ~ bd.year ~ " " ~ bd.basis ~ ": " ~ t.title|lower, unit="share") }}{% endif %}
+  <div class="table-scroll">
+  <table class="data breakdown">
+    <caption class="vh">{{ d.name }}, {{ bd.year }} {{ bd.basis }}: {{ t.title|lower }}</caption>
+    <thead><tr><th scope="col">{{ {'type': 'Type of expense', 'fund': 'Source of money', 'program': 'Program'}[t.kind] }}</th><th scope="col" class="num">Dollars</th><th scope="col" class="num">Share</th></tr></thead>
+    {% for p in t.parts if p['items'] %}
+    <tbody>
+      {% if t.many_parts %}<tr class="part"><th scope="rowgroup" colspan="3">{{ p.name or d.name }}</th></tr>{% endif %}
+      {% for k, v in p['shown'] %}
+      <tr{% if k is none %} class="fold"{% endif %}><th scope="row" class="{{ 'indent' if t.many_parts }}">{% if k is none %}{{ p['items']|length - p['shown']|length + 1 }} smaller programs{% else %}{{ k }}{% if bd.printed.get(k) %}<span class="row-desc">In the book: “{{ bd.printed[k] }}”</span>{% endif %}{% endif %}</th><td class="num">{{ v|full }}</td><td class="num share">{{ (v / t.total)|share if t.total else '' }}{{ m.bar(v / t.total if t.total else 0) }}</td></tr>
+      {% endfor %}
+      {% if t.many_parts %}<tr class="subtotal"><th scope="row" class="indent">Total, {{ p.name or d.name }}</th><td class="num">{{ p.total|full }}</td><td class="num">{{ (p.total / t.total)|share if t.total else '' }}</td></tr>{% endif %}
+    </tbody>
+    {% endfor %}
+    <tfoot><tr class="total"><th scope="row">Total</th><td class="num">{{ t.total|full }}</td><td></td></tr></tfoot>
+  </table>
+  </div>
+  {% if t.folded %}
+  <details class="numbers">
+    <summary>Show all {{ t.n_items }} programs</summary>
+    <div class="table-scroll">
+    <table class="data breakdown">
+      <caption class="vh">{{ d.name }}, {{ bd.year }} {{ bd.basis }}: every program</caption>
+      <thead><tr><th scope="col">Program</th><th scope="col" class="num">Dollars</th></tr></thead>
+      {% for p in t.parts if p['items'] %}
+      <tbody>
+        {% if t.many_parts %}<tr class="part"><th scope="rowgroup" colspan="2">{{ p.name or d.name }}</th></tr>{% endif %}
+        {% for k, v in p['items'] %}<tr><th scope="row" class="{{ 'indent' if t.many_parts }}">{{ k }}</th><td class="num">{{ v|full }}</td></tr>{% endfor %}
+      </tbody>
+      {% endfor %}
+    </table>
+    </div>
+  </details>
+  {% endif %}
+  {% if t.many_parts %}{{ m.source(t.parts|selectattr('items')|map(attribute='cite')|list) }}{% else %}{{ m.source([t.cite]) }}{% endif %}
+  {% endfor %}
+  {% if bd.statement_all is not none %}
+    {% if (bd.tables[0].total - bd.statement_all)|abs < 1000 %}
+  <p class="table-note">These tables add up to {{ bd.tables[0].total|money }}, the same as the department's all-funds figure in the citywide tables.</p>
+    {% else %}
+  <p class="table-note">These tables add up to {{ bd.tables[0].total|money }}. The citywide tables give the department {{ bd.statement_all|money }} for the same year; the book does not explain the difference.</p>
+    {% endif %}
+  {% elif has_current or sections %}
+  <p class="table-note">This section is printed in the book but the department has no line in the citywide tables for that year, so it is not counted in the city's totals.</p>
+  {% endif %}
+</section>
+{% endif %}
+
+{% if sections %}
+{% set printed = sections|selectattr('total')|list %}
+{% set blank = sections|rejectattr('total')|list %}
+<section class="block" aria-labelledby="sections">
+  <h2 id="sections">Its own section of the budget books</h2>
+  {% if printed %}
+  <p>These totals come from the department's own pages in each book. They are not counted in the city's citywide totals.</p>
+  <div class="table-scroll">
+  <table class="data">
+    <caption class="vh">{{ d.name }}: totals printed in its own section of each book, in dollars</caption>
+    <thead><tr><th scope="col">Year</th><th scope="col" class="num">Total, in dollars</th><th scope="col">Source</th></tr></thead>
+    <tbody>
+    {% for s in printed %}<tr><th scope="row">{{ s.year }} {{ s.basis }}</th><td class="num">{{ s.total|full }}</td><td class="src">{{ m.cite(s.cite) }}</td></tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  {% endif %}
+  {% if blank %}
+  <p{% if printed %} class="table-note"{% endif %}>{% if printed %}For {% for s in blank %}{{ s.year }}{% if not loop.last %}{{ ' and ' if loop.revindex == 2 else ', ' }}{% endif %}{% endfor %}, the{% else %}The{% endif %} books print a page for {{ d.name }} with every amount at zero. The page is an empty form: it does not say whether the body spent nothing or its figures were left out. Sources: {% set seen = namespace(t=[]) %}{% for s in blank %}{% if s.cite.text not in seen.t %}{% if seen.t %}; {% endif %}{{ m.cite(s.cite) }}{% set seen.t = seen.t + [s.cite.text] %}{% endif %}{% endfor %}.</p>
+  {% endif %}
+</section>
+{% endif %}
+
+{% if pos_fig %}
+<section class="block" aria-labelledby="positions">
+  <h2 id="positions">Budgeted positions</h2>
+  {{ m.figure(pos_fig) }}
+  {% for n in pos_notes %}<p class="table-note">{{ n }}</p>{% endfor %}
+</section>
+{% endif %}
+
+{% if tables %}
+<section class="block" aria-labelledby="years">
+  <h2 id="years">Year by year</h2>
+  <p class="sub">Every figure printed for this department, in dollars, with the book and page it comes from. Proposed is what the Mayor asked for; adopted is what the Council passed; revised is the adopted figure as reprinted a year later; actual is what was spent.</p>
+  {% for t in tables %}
+  <h3>{{ FUND_LABEL[t.fund] }}</h3>
+  <div class="table-scroll wide">
+  <table class="data yby">
+    <caption class="vh">{{ d.name }}, {{ FUND_LABEL[t.fund] }}, by year, in dollars</caption>
+    <thead><tr>
+      <th scope="col">Year</th>
+      {% for bs in ('proposed', 'adopted', 'revised', 'actual') %}<th scope="col" class="num">{{ BASIS_LABEL[bs] }}</th>{% endfor %}
+      <th scope="col">Sources</th>
+    </tr></thead>
+    <tbody>
+    {% for r in t.rows|reverse %}
+      <tr{% if r.year in (py, fy) %} class="current"{% endif %}>
+        <th scope="row">{{ r.year }}{{ m.refs(r.notes, numbered) }}</th>
+        {% for c in r.cells %}{{ m.num(c|full if c is not none else none) }}{% endfor %}
+        <td class="src">{% for bs, c in r.cites %}<span class="src-item"><span class="src-basis">{{ BASIS_LABEL[bs] }}:</span> {{ m.cite(c, true) }}</span>{% endfor %}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  {% endfor %}
+  <p class="table-note">A dash means the figure was not printed: the department was not its own line that year, or the book has no column for it. It does not mean zero.</p>
+  {{ m.footnotes(page_notes) }}
+</section>
+{% endif %}
+
+{% if d.notes or see %}
+<section class="block" aria-labelledby="about-figures">
+  <h2 id="about-figures">About these figures</h2>
+  {% if d.notes %}<ul class="plain-notes">{% for n in d.notes %}<li>{{ n }}</li>{% endfor %}</ul>{% endif %}
+  {% if see %}<p>Related: {% for s in see %}<a href="{{ s.url }}">{{ s.name }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>{% endif %}
+</section>
+{% endif %}
+
+<p class="back"><a href="/departments/">All departments</a></p>
+{% endblock %}

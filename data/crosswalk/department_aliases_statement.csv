@@ -1,0 +1,958 @@
+book_id,printed_name,dept_id,note
+2008-operating-adopted,Alcoholic Beverage Ctrl. Bd.,alcoholic-beverage-control,
+2008-operating-adopted,CAO,cao,
+2008-operating-adopted,City Planning Commission,city-planning,
+2008-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2008-operating-adopted,Civil Service,civil-service,
+2008-operating-adopted,Clerk of Criminal District Court,clerk-criminal-court,
+2008-operating-adopted,Coroner's Office,coroner,
+2008-operating-adopted,Council,council,
+2008-operating-adopted,Criminal District Court,criminal-district-court,
+2008-operating-adopted,Criminal Sheriff,sheriff,
+2008-operating-adopted,District Attorney,district-attorney,
+2008-operating-adopted,Economic Development Fund,economic-development-fund,
+2008-operating-adopted,Finance,finance,
+2008-operating-adopted,Fire,fire,
+2008-operating-adopted,First City Court,first-city-court,
+2008-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2008-operating-adopted,HDLC,hdlc,
+2008-operating-adopted,Health,health,
+2008-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2008-operating-adopted,Intergovernmental,intergovernmental,
+2008-operating-adopted,Judicial Retirement,judicial-retirement,
+2008-operating-adopted,Juvenile Court,juvenile-court,
+2008-operating-adopted,Law,law,
+2008-operating-adopted,Library,library,
+2008-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2008-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2008-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2008-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2008-operating-adopted,Museum of Art,museum-of-art,
+2008-operating-adopted,Neighborhood 1,community-development,Printed name of the Office of Community Development in 2008-09 (identical amounts to 'Office of Comm. Dev.' for the same years in 2012-2014 books). No separate OCD line in these books.
+2008-operating-adopted,Neighborhood Housing Improvement Fund,neighborhood-housing-fund,
+2008-operating-adopted,Office of Training Division,office-of-training,"Dormant line: 6,394 FY2004 actual, 0 thereafter."
+2008-operating-adopted,Parks & Parkways,parks-parkways,
+2008-operating-adopted,Police,police,
+2008-operating-adopted,Property Management,property-management,
+2008-operating-adopted,Public Works,public-works,
+2008-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2008-operating-adopted,Registrar of Voters,registrar-of-voters,
+2008-operating-adopted,Safety & Permits,safety-permits,
+2008-operating-adopted,Sanitation,sanitation,
+2008-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2008-operating-adopted,VCC,vcc,
+2008-operating-adopted,Workforce Investment Act,workforce-investment,
+2009-operating-adopted,Alcoholic Beverage Ctrl. Bd.,alcoholic-beverage-control,
+2009-operating-adopted,CAO,cao,
+2009-operating-adopted,City Planning Commission,city-planning,
+2009-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2009-operating-adopted,Civil Service,civil-service,
+2009-operating-adopted,Clerk of Criminal District Court,clerk-criminal-court,
+2009-operating-adopted,Coroner's Office,coroner,
+2009-operating-adopted,Council,council,
+2009-operating-adopted,Criminal District Court,criminal-district-court,
+2009-operating-adopted,Criminal Sheriff,sheriff,
+2009-operating-adopted,District Attorney,district-attorney,
+2009-operating-adopted,Economic Development Fund,economic-development-fund,
+2009-operating-adopted,Finance,finance,
+2009-operating-adopted,Fire,fire,
+2009-operating-adopted,First City Court,first-city-court,
+2009-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2009-operating-adopted,HDLC,hdlc,
+2009-operating-adopted,Health,health,
+2009-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2009-operating-adopted,Intergovernmental,intergovernmental,
+2009-operating-adopted,Judicial Retirement,judicial-retirement,
+2009-operating-adopted,Juvenile Court,juvenile-court,
+2009-operating-adopted,Law,law,
+2009-operating-adopted,Library,library,
+2009-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2009-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2009-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2009-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2009-operating-adopted,Museum of Art,museum-of-art,
+2009-operating-adopted,Neighborhood 1,community-development,Printed name of the Office of Community Development in 2008-09 (identical amounts to 'Office of Comm. Dev.' for the same years in 2012-2014 books). No separate OCD line in these books.
+2009-operating-adopted,Neighborhood Housing Improvement Fund,neighborhood-housing-fund,
+2009-operating-adopted,Office of Training Division,office-of-training,"Dormant line: 6,394 FY2004 actual, 0 thereafter."
+2009-operating-adopted,Parks & Parkways,parks-parkways,
+2009-operating-adopted,Police,police,
+2009-operating-adopted,Property Management,property-management,
+2009-operating-adopted,Public Works,public-works,
+2009-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2009-operating-adopted,Registrar of Voters,registrar-of-voters,
+2009-operating-adopted,Safety & Permits,safety-permits,
+2009-operating-adopted,Sanitation,sanitation,
+2009-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2009-operating-adopted,VCC,vcc,
+2009-operating-adopted,Workforce Investment Act,workforce-investment,
+2011-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2011-operating-adopted,CAO,cao,
+2011-operating-adopted,City Planning Comm.,city-planning,
+2011-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2011-operating-adopted,Civil Service,civil-service,
+2011-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2011-operating-adopted,Coroner's Office,coroner,
+2011-operating-adopted,Council,council,
+2011-operating-adopted,Criminal District Court,criminal-district-court,
+2011-operating-adopted,Criminal Sheriff,sheriff,
+2011-operating-adopted,District Attorney,district-attorney,
+2011-operating-adopted,Economic Development Fund,economic-development-fund,
+2011-operating-adopted,Finance,finance,
+2011-operating-adopted,Fire,fire,
+2011-operating-adopted,First City Court,first-city-court,
+2011-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2011-operating-adopted,HDLC,hdlc,
+2011-operating-adopted,Health,health,
+2011-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2011-operating-adopted,Intergovernmental,intergovernmental,
+2011-operating-adopted,Judicial Retirement,judicial-retirement,
+2011-operating-adopted,Juvenile Court,juvenile-court,
+2011-operating-adopted,Law,law,
+2011-operating-adopted,Library,library,
+2011-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2011-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2011-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2011-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2011-operating-adopted,Museum of Art,museum-of-art,
+2011-operating-adopted,N‘hood Hsg Improv.Fund,neighborhood-housing-fund,
+2011-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2011-operating-adopted,Office of Comm. Development,community-development,
+2011-operating-adopted,Parks & Parkways,parks-parkways,
+2011-operating-adopted,Police,police,
+2011-operating-adopted,Property Management,property-management,
+2011-operating-adopted,Public Works,public-works,
+2011-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2011-operating-adopted,Registrar of Voters,registrar-of-voters,
+2011-operating-adopted,Safety & Permits,safety-permits,
+2011-operating-adopted,Sanitation,sanitation,
+2011-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2011-operating-adopted,VCC,vcc,
+2011-operating-adopted,Workforce Investment Act,workforce-investment,
+2012-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2012-operating-adopted,CAO,cao,
+2012-operating-adopted,City Planning Comm.,city-planning,
+2012-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2012-operating-adopted,Civil Service,civil-service,
+2012-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2012-operating-adopted,Coroner's Office,coroner,
+2012-operating-adopted,Council,council,
+2012-operating-adopted,Criminal District Court,criminal-district-court,
+2012-operating-adopted,Criminal Sheriff,sheriff,
+2012-operating-adopted,District Attorney,district-attorney,
+2012-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2012-operating-adopted,Finance,finance,
+2012-operating-adopted,Fire,fire,
+2012-operating-adopted,First City Court,first-city-court,
+2012-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2012-operating-adopted,HDLC,hdlc,
+2012-operating-adopted,Health,health,
+2012-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2012-operating-adopted,Intergovernmental,intergovernmental,
+2012-operating-adopted,Judicial Retirement,judicial-retirement,
+2012-operating-adopted,Juvenile Court,juvenile-court,
+2012-operating-adopted,Law,law,
+2012-operating-adopted,Library,library,
+2012-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2012-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2012-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2012-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2012-operating-adopted,Museum of Art,museum-of-art,
+2012-operating-adopted,N’hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2012-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2012-operating-adopted,Office of Training Div.,office-of-training,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual; 9,007,366 FY2013 actual printed in 2015-2018 books (unexplained, no department section)."
+2012-operating-adopted,Parks & Parkways,parks-parkways,
+2012-operating-adopted,Police,police,
+2012-operating-adopted,Property Management,property-management,
+2012-operating-adopted,Public Works,public-works,
+2012-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2012-operating-adopted,Registrar of Voters,registrar-of-voters,
+2012-operating-adopted,Safety & Permits,safety-permits,
+2012-operating-adopted,Sanitation,sanitation,
+2012-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2012-operating-adopted,VCC,vcc,
+2012-operating-adopted,Workforce Invst. Act,workforce-investment,
+2013-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2013-operating-adopted,CAO,cao,
+2013-operating-adopted,City Planning Comm.,city-planning,
+2013-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2013-operating-adopted,Civil Service,civil-service,
+2013-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2013-operating-adopted,Coroner's Office,coroner,
+2013-operating-adopted,Council,council,
+2013-operating-adopted,Criminal District Court,criminal-district-court,
+2013-operating-adopted,Criminal Sheriff,sheriff,
+2013-operating-adopted,District Attorney,district-attorney,
+2013-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2013-operating-adopted,Finance,finance,
+2013-operating-adopted,Fire,fire,
+2013-operating-adopted,First City Court,first-city-court,
+2013-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2013-operating-adopted,HDLC,hdlc,
+2013-operating-adopted,Health,health,
+2013-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2013-operating-adopted,Intergovernmental,intergovernmental,
+2013-operating-adopted,Judicial Retirement,judicial-retirement,
+2013-operating-adopted,Juvenile Court,juvenile-court,
+2013-operating-adopted,Law,law,
+2013-operating-adopted,Library,library,
+2013-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2013-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2013-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2013-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2013-operating-adopted,Museum of Art,museum-of-art,
+2013-operating-adopted,N’hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2013-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2013-operating-adopted,Office of Training Div.,office-of-training,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual; 9,007,366 FY2013 actual printed in 2015-2018 books (unexplained, no department section)."
+2013-operating-adopted,Parks & Parkways,parks-parkways,
+2013-operating-adopted,Police,police,
+2013-operating-adopted,Property Management,property-management,
+2013-operating-adopted,Public Works,public-works,
+2013-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2013-operating-adopted,Registrar of Voters,registrar-of-voters,
+2013-operating-adopted,Safety & Permits,safety-permits,
+2013-operating-adopted,Sanitation,sanitation,
+2013-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2013-operating-adopted,VCC,vcc,
+2013-operating-adopted,Workforce Invst. Act,workforce-investment,
+2014-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2014-operating-adopted,CAO,cao,
+2014-operating-adopted,City Planning Comm.,city-planning,
+2014-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2014-operating-adopted,Civil Service,civil-service,
+2014-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2014-operating-adopted,Coroner's Office,coroner,
+2014-operating-adopted,Council,council,
+2014-operating-adopted,Criminal District Court,criminal-district-court,
+2014-operating-adopted,Criminal Sheriff,sheriff,
+2014-operating-adopted,District Attorney,district-attorney,
+2014-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2014-operating-adopted,Finance,finance,
+2014-operating-adopted,Fire,fire,
+2014-operating-adopted,First City Court,first-city-court,
+2014-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2014-operating-adopted,HDLC,hdlc,
+2014-operating-adopted,Health,health,
+2014-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2014-operating-adopted,Intergovernmental,intergovernmental,
+2014-operating-adopted,Judicial Retirement,judicial-retirement,
+2014-operating-adopted,Juvenile Court,juvenile-court,
+2014-operating-adopted,Law,law,
+2014-operating-adopted,Library,library,
+2014-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2014-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2014-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2014-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2014-operating-adopted,Museum of Art,museum-of-art,
+2014-operating-adopted,N’hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2014-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2014-operating-adopted,Office of Training Div.,office-of-training,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual; 9,007,366 FY2013 actual printed in 2015-2018 books (unexplained, no department section)."
+2014-operating-adopted,Parks & Parkways,parks-parkways,
+2014-operating-adopted,Police,police,
+2014-operating-adopted,Property Management,property-management,
+2014-operating-adopted,Public Works,public-works,
+2014-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2014-operating-adopted,Registrar of Voters,registrar-of-voters,
+2014-operating-adopted,Safety & Permits,safety-permits,
+2014-operating-adopted,Sanitation,sanitation,
+2014-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2014-operating-adopted,VCC,vcc,
+2014-operating-adopted,Workforce Invst. Act,workforce-investment,
+2015-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2015-operating-adopted,CAO,cao,
+2015-operating-adopted,City Planning Comm.,city-planning,
+2015-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2015-operating-adopted,Civil Service,civil-service,
+2015-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2015-operating-adopted,Coroner's Office,coroner,
+2015-operating-adopted,Council,council,
+2015-operating-adopted,Criminal District Court,criminal-district-court,
+2015-operating-adopted,Criminal Sheriff,sheriff,
+2015-operating-adopted,District Attorney,district-attorney,
+2015-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2015-operating-adopted,Finance,finance,
+2015-operating-adopted,Fire,fire,
+2015-operating-adopted,First City Court,first-city-court,
+2015-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2015-operating-adopted,HDLC,hdlc,
+2015-operating-adopted,Health,health,
+2015-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2015-operating-adopted,Intergovernmental,intergovernmental,
+2015-operating-adopted,Judicial Retirement,judicial-retirement,
+2015-operating-adopted,Juvenile Court,juvenile-court,
+2015-operating-adopted,Law,law,
+2015-operating-adopted,Library,library,
+2015-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2015-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2015-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2015-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2015-operating-adopted,Museum of Art,museum-of-art,
+2015-operating-adopted,N’hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2015-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2015-operating-adopted,Office of Training Div.,office-of-training,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual; 9,007,366 FY2013 actual printed in 2015-2018 books (unexplained, no department section)."
+2015-operating-adopted,Parks & Parkways,parks-parkways,
+2015-operating-adopted,Police,police,
+2015-operating-adopted,Property Management,property-management,
+2015-operating-adopted,Public Works,public-works,
+2015-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2015-operating-adopted,Registrar of Voters,registrar-of-voters,
+2015-operating-adopted,Safety & Permits,safety-permits,
+2015-operating-adopted,Sanitation,sanitation,
+2015-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2015-operating-adopted,VCC,vcc,
+2015-operating-adopted,Workforce Invst. Act,workforce-investment,
+2016-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2016-operating-adopted,CAO,cao,
+2016-operating-adopted,City Planning Comm.,city-planning,
+2016-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2016-operating-adopted,Civil Service,civil-service,
+2016-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2016-operating-adopted,Coroner's Office,coroner,
+2016-operating-adopted,Council,council,
+2016-operating-adopted,Criminal District Court,criminal-district-court,
+2016-operating-adopted,Criminal Sheriff,sheriff,
+2016-operating-adopted,District Attorney,district-attorney,
+2016-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2016-operating-adopted,Finance,finance,
+2016-operating-adopted,Fire,fire,
+2016-operating-adopted,First City Court,first-city-court,
+2016-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2016-operating-adopted,HDLC,hdlc,
+2016-operating-adopted,Health,health,
+2016-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2016-operating-adopted,Intergovernmental,intergovernmental,
+2016-operating-adopted,Judicial Retirement,judicial-retirement,
+2016-operating-adopted,Juvenile Court,juvenile-court,
+2016-operating-adopted,Law,law,
+2016-operating-adopted,Library,library,
+2016-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2016-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2016-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2016-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2016-operating-adopted,Museum of Art,museum-of-art,
+2016-operating-adopted,N’hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2016-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2016-operating-adopted,Office of Training Div.,office-of-training,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual; 9,007,366 FY2013 actual printed in 2015-2018 books (unexplained, no department section)."
+2016-operating-adopted,Parks & Parkways,parks-parkways,
+2016-operating-adopted,Police,police,
+2016-operating-adopted,Property Management,property-management,
+2016-operating-adopted,Public Works,public-works,
+2016-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2016-operating-adopted,Registrar of Voters,registrar-of-voters,
+2016-operating-adopted,Safety & Permits,safety-permits,
+2016-operating-adopted,Sanitation,sanitation,
+2016-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2016-operating-adopted,VCC,vcc,
+2016-operating-adopted,Workforce Invst. Act,workforce-investment,
+2017-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2017-operating-adopted,CAO,cao,
+2017-operating-adopted,City Planning Comm.,city-planning,
+2017-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2017-operating-adopted,Civil Service,civil-service,
+2017-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2017-operating-adopted,Coroner's Office,coroner,
+2017-operating-adopted,Council,council,
+2017-operating-adopted,Criminal District Court,criminal-district-court,
+2017-operating-adopted,Criminal Sheriff,sheriff,
+2017-operating-adopted,District Attorney,district-attorney,
+2017-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2017-operating-adopted,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2017-operating-adopted,Finance,finance,
+2017-operating-adopted,Fire,fire,
+2017-operating-adopted,First City Court,first-city-court,
+2017-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2017-operating-adopted,HDLC,hdlc,
+2017-operating-adopted,Health,health,
+2017-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2017-operating-adopted,Intergovernmental,intergovernmental,
+2017-operating-adopted,Judicial Retirement,judicial-retirement,
+2017-operating-adopted,Juvenile Court,juvenile-court,
+2017-operating-adopted,Law,law,
+2017-operating-adopted,Library,library,
+2017-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2017-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2017-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2017-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2017-operating-adopted,Museum of Art,museum-of-art,
+2017-operating-adopted,N’hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2017-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2017-operating-adopted,Office of Ind. Police Mon.,independent-police-monitor,Own line from 2016-17; before that inside General Services (OIG) page programs.
+2017-operating-adopted,Office of Training Div.,office-of-training,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual; 9,007,366 FY2013 actual printed in 2015-2018 books (unexplained, no department section)."
+2017-operating-adopted,Parks & Parkways,parks-parkways,
+2017-operating-adopted,Police,police,
+2017-operating-adopted,Property Management,property-management,
+2017-operating-adopted,Public Works,public-works,
+2017-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2017-operating-adopted,Registrar of Voters,registrar-of-voters,
+2017-operating-adopted,Safety & Permits,safety-permits,
+2017-operating-adopted,Sanitation,sanitation,
+2017-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2017-operating-adopted,VCC,vcc,
+2017-operating-adopted,Workforce Invst. Act,workforce-investment,
+2018-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2018-operating-adopted,CAO,cao,
+2018-operating-adopted,City Planning Comm.,city-planning,
+2018-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2018-operating-adopted,Civil Service,civil-service,
+2018-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2018-operating-adopted,Coroner's Office,coroner,
+2018-operating-adopted,Council,council,
+2018-operating-adopted,Criminal District Court,criminal-district-court,
+2018-operating-adopted,Criminal Sheriff,sheriff,
+2018-operating-adopted,District Attorney,district-attorney,
+2018-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2018-operating-adopted,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2018-operating-adopted,Finance,finance,
+2018-operating-adopted,Fire,fire,
+2018-operating-adopted,First City Court,first-city-court,
+2018-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2018-operating-adopted,HDLC,hdlc,
+2018-operating-adopted,Health,health,
+2018-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2018-operating-adopted,Intergovernmental,intergovernmental,
+2018-operating-adopted,Judicial Retirement,judicial-retirement,
+2018-operating-adopted,Juvenile Court,juvenile-court,
+2018-operating-adopted,Law,law,
+2018-operating-adopted,Library,library,
+2018-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2018-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2018-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2018-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2018-operating-adopted,Museum of Art,museum-of-art,
+2018-operating-adopted,N’hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2018-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2018-operating-adopted,Office of Ind. Police Mon.,independent-police-monitor,Own line from 2016-17; before that inside General Services (OIG) page programs.
+2018-operating-adopted,Office of Training Div.,office-of-training,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual; 9,007,366 FY2013 actual printed in 2015-2018 books (unexplained, no department section)."
+2018-operating-adopted,Parks & Parkways,parks-parkways,
+2018-operating-adopted,Police,police,
+2018-operating-adopted,Property Management,property-management,
+2018-operating-adopted,Public Works,public-works,
+2018-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2018-operating-adopted,Registrar of Voters,registrar-of-voters,
+2018-operating-adopted,Safety & Permits,safety-permits,
+2018-operating-adopted,Sanitation,sanitation,
+2018-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2018-operating-adopted,VCC,vcc,
+2018-operating-adopted,Workforce Invst. Act,workforce-investment,
+2019-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2019-operating-adopted,CAO,cao,
+2019-operating-adopted,City Planning Comm.,city-planning,
+2019-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2019-operating-adopted,Civil Service,civil-service,
+2019-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2019-operating-adopted,Coroner's Office,coroner,
+2019-operating-adopted,Council,council,
+2019-operating-adopted,Criminal District Court,criminal-district-court,
+2019-operating-adopted,Criminal Sheriff,sheriff,
+2019-operating-adopted,District Attorney,district-attorney,
+2019-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2019-operating-adopted,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2019-operating-adopted,Finance,finance,
+2019-operating-adopted,Fire,fire,
+2019-operating-adopted,First City Court,first-city-court,
+2019-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2019-operating-adopted,HDLC,hdlc,
+2019-operating-adopted,Health,health,
+2019-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2019-operating-adopted,Intergovernmental,intergovernmental,
+2019-operating-adopted,Judicial Retirement,judicial-retirement,
+2019-operating-adopted,Juvenile Court,juvenile-court,
+2019-operating-adopted,Law,law,
+2019-operating-adopted,Library,library,
+2019-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2019-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2019-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2019-operating-adopted,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2019-operating-adopted,Museum of Art,museum-of-art,
+2019-operating-adopted,N’hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2019-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2019-operating-adopted,Office of Ind. Police Mon.,independent-police-monitor,Own line from 2016-17; before that inside General Services (OIG) page programs.
+2019-operating-adopted,Office of Training Div.,office-of-training,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual; 9,007,366 FY2013 actual printed in 2015-2018 books (unexplained, no department section)."
+2019-operating-adopted,Parks & Parkways,parks-parkways,
+2019-operating-adopted,Police,police,
+2019-operating-adopted,Property Management,property-management,
+2019-operating-adopted,Public Works,public-works,
+2019-operating-adopted,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2019-operating-adopted,Registrar of Voters,registrar-of-voters,
+2019-operating-adopted,Safety & Permits,safety-permits,
+2019-operating-adopted,Sanitation,sanitation,
+2019-operating-adopted,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2019-operating-adopted,VCC,vcc,
+2019-operating-adopted,Workforce Invst. Act,workforce-investment,
+2020-operating-proposed,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2020-operating-proposed,CAO,cao,
+2020-operating-proposed,City Planning Comm.,city-planning,
+2020-operating-proposed,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2020-operating-proposed,Civil Service,civil-service,
+2020-operating-proposed,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2020-operating-proposed,Coroner's Office,coroner,
+2020-operating-proposed,Council,council,
+2020-operating-proposed,Criminal District Court,criminal-district-court,
+2020-operating-proposed,Criminal Sheriff,sheriff,
+2020-operating-proposed,District Attorney,district-attorney,
+2020-operating-proposed,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2020-operating-proposed,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2020-operating-proposed,Finance,finance,
+2020-operating-proposed,Fire,fire,
+2020-operating-proposed,First City Court,first-city-court,
+2020-operating-proposed,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2020-operating-proposed,HDLC,hdlc,
+2020-operating-proposed,Health,health,
+2020-operating-proposed,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2020-operating-proposed,Intergovernmental,intergovernmental,
+2020-operating-proposed,Judicial Retirement,judicial-retirement,
+2020-operating-proposed,Juvenile Court,juvenile-court,
+2020-operating-proposed,Law,law,
+2020-operating-proposed,Library,library,
+2020-operating-proposed,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2020-operating-proposed,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2020-operating-proposed,Mosquito Control Bd.,mosquito-control,
+2020-operating-proposed,Municipal Court,municipal-traffic-court,Separate from Traffic Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2020-operating-proposed,Museum of Art,museum-of-art,
+2020-operating-proposed,N’hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2020-operating-proposed,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2020-operating-proposed,Office of Ind. Police Mon.,independent-police-monitor,Own line from 2016-17; before that inside General Services (OIG) page programs.
+2020-operating-proposed,Office of Training Div.,office-of-training,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual; 9,007,366 FY2013 actual printed in 2015-2018 books (unexplained, no department section)."
+2020-operating-proposed,Parks & Parkways,parks-parkways,
+2020-operating-proposed,Police,police,
+2020-operating-proposed,Property Management,property-management,
+2020-operating-proposed,Public Works,public-works,
+2020-operating-proposed,Recreation,recreation,"Own line to FY2012 (22.8M FY2012 actual, near 0 or negative FY2013-14, 0 thereafter). From FY2013 recreation spending (NORDC programs 7001-7007, later Misc-NORD page, later NORDC page) is inside Miscellaneous. Line ends in 2020 proposed book."
+2020-operating-proposed,Registrar of Voters,registrar-of-voters,
+2020-operating-proposed,Safety & Permits,safety-permits,
+2020-operating-proposed,Sanitation,sanitation,
+2020-operating-proposed,Traffic Court,municipal-traffic-court,Separate from Municipal Court until the 2021 book prints 'Municipal and Traffic Court'; both lines sum into municipal-traffic-court.
+2020-operating-proposed,VCC,vcc,
+2020-operating-proposed,Workforce Invst. Act,workforce-investment,
+2021-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2021-operating-adopted,CAO,cao,
+2021-operating-adopted,City Planning Comm.,city-planning,
+2021-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2021-operating-adopted,Civil Service,civil-service,
+2021-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2021-operating-adopted,Coroner's Office,coroner,
+2021-operating-adopted,Council,council,
+2021-operating-adopted,Criminal District Court,criminal-district-court,
+2021-operating-adopted,Criminal Sheriff,sheriff,
+2021-operating-adopted,District Attorney,district-attorney,
+2021-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2021-operating-adopted,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2021-operating-adopted,Finance,finance,
+2021-operating-adopted,Fire,fire,
+2021-operating-adopted,First City Courts,first-city-court,
+2021-operating-adopted,General Services,inspector-general,"Despite the name this line is the Office of Inspector General (+ Ethics Review Board until FY2016): book programs 7101 OIG, 7102 ERB, 7107 Construction Fraud, 7108 OIG Justice System Funding; 2019-2021 books: line total = OIG page total; 2021 book FY2021 adopted 3,484,529 = 'Office of the Inspector General' FY2021 adopted in 2022 book. No real General Services department appears in the statements."
+2021-operating-adopted,HDLC,hdlc,
+2021-operating-adopted,Health,health,
+2021-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2021-operating-adopted,Intergovernmental,intergovernmental,
+2021-operating-adopted,Judicial Retirement,judicial-retirement,
+2021-operating-adopted,Juvenile Court,juvenile-court,
+2021-operating-adopted,Law,law,
+2021-operating-adopted,Library,library,
+2021-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2021-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2021-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2021-operating-adopted,Municipal and Traffic Court,municipal-traffic-court,
+2021-operating-adopted,Museum of Art,museum-of-art,
+2021-operating-adopted,N'hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2021-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2021-operating-adopted,Office of Ind. Police Mon.,independent-police-monitor,Own line from 2016-17; before that inside General Services (OIG) page programs.
+2021-operating-adopted,Parks and Parkways,parks-parkways,
+2021-operating-adopted,Police,police,
+2021-operating-adopted,Property Management,property-management,
+2021-operating-adopted,Public Works,public-works,
+2021-operating-adopted,Registrar of Voters,registrar-of-voters,
+2021-operating-adopted,Safety and Permits,safety-permits,
+2021-operating-adopted,Sanitation,sanitation,
+2021-operating-adopted,VCC,vcc,
+2021-operating-adopted,Workforce Invst. Act,workforce-investment,
+2022-operating-adopted,Alcoholic Bvg Ctrl. Bd.,alcoholic-beverage-control,
+2022-operating-adopted,CAO,cao,
+2022-operating-adopted,City Planning Comm.,city-planning,
+2022-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2022-operating-adopted,Civil Service,civil-service,
+2022-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2022-operating-adopted,Coroner's Office,coroner,
+2022-operating-adopted,Council,council,
+2022-operating-adopted,Criminal District Court,criminal-district-court,
+2022-operating-adopted,Criminal Sheriff,sheriff,
+2022-operating-adopted,District Attorney,district-attorney,
+2022-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2022-operating-adopted,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2022-operating-adopted,Finance,finance,
+2022-operating-adopted,Fire,fire,
+2022-operating-adopted,First City Courts,first-city-court,
+2022-operating-adopted,Health,health,
+2022-operating-adopted,Historic District Landmarks Commission,hdlc,
+2022-operating-adopted,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2022-operating-adopted,Intergovernmental,intergovernmental,
+2022-operating-adopted,Judicial Retirement,judicial-retirement,
+2022-operating-adopted,Juvenile Court,juvenile-court,
+2022-operating-adopted,Law,law,
+2022-operating-adopted,Library,library,
+2022-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2022-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2022-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2022-operating-adopted,Municipal and Traffic Court,municipal-traffic-court,
+2022-operating-adopted,Museum of Art,museum-of-art,
+2022-operating-adopted,N'hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2022-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2022-operating-adopted,Office of Ind. Police Mon.,independent-police-monitor,Own line from 2016-17; before that inside General Services (OIG) page programs.
+2022-operating-adopted,Office of the Inspector General,inspector-general,
+2022-operating-adopted,Parks and Parkways,parks-parkways,
+2022-operating-adopted,Police,police,
+2022-operating-adopted,Property Management,property-management,
+2022-operating-adopted,Public Works,public-works,
+2022-operating-adopted,Registrar of Voters,registrar-of-voters,
+2022-operating-adopted,Safety and Permits,safety-permits,
+2022-operating-adopted,Sanitation,sanitation,
+2022-operating-adopted,Vieux Carré Commission,vcc,
+2022-operating-adopted,Workforce Invst. Act,workforce-investment,
+2023-operating-adopted,CAO,cao,
+2023-operating-adopted,City Planning Comm.,city-planning,
+2023-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2023-operating-adopted,Civil Service,civil-service,
+2023-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2023-operating-adopted,Coroner's Office,coroner,
+2023-operating-adopted,Council,council,
+2023-operating-adopted,Criminal District Court,criminal-district-court,
+2023-operating-adopted,District Attorney,district-attorney,
+2023-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2023-operating-adopted,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2023-operating-adopted,Finance,finance,
+2023-operating-adopted,Fire,fire,
+2023-operating-adopted,First City Courts,first-city-court,
+2023-operating-adopted,Health,health,
+2023-operating-adopted,Historic District Landmarks Commission,hdlc,
+2023-operating-adopted,Intergovernmental,intergovernmental,
+2023-operating-adopted,JJIC,human-services,Same line as 'Human Services' (2022 book FY2021) and the long JJIC name (2025 books): identical amounts.
+2023-operating-adopted,Judicial Retirement,judicial-retirement,
+2023-operating-adopted,Juvenile Court,juvenile-court,
+2023-operating-adopted,Law,law,
+2023-operating-adopted,Library,library,
+2023-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2023-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2023-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2023-operating-adopted,Municipal and Traffic Court,municipal-traffic-court,
+2023-operating-adopted,Museum of Art,museum-of-art,
+2023-operating-adopted,N'hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2023-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2023-operating-adopted,Office of Ind. Police Mon.,independent-police-monitor,Own line from 2016-17; before that inside General Services (OIG) page programs.
+2023-operating-adopted,Office of the Inspector General,inspector-general,
+2023-operating-adopted,Parks and Parkways,parks-parkways,
+2023-operating-adopted,Police,police,
+2023-operating-adopted,Property Management,property-management,
+2023-operating-adopted,Public Works,public-works,
+2023-operating-adopted,Registrar of Voters,registrar-of-voters,
+2023-operating-adopted,Safety and Permits,safety-permits,
+2023-operating-adopted,Sanitation,sanitation,
+2023-operating-adopted,Sheriff,sheriff,Same line as 'Criminal Sheriff': identical amounts in neighbouring books.
+2023-operating-adopted,Vieux Carre Commission,vcc,
+2023-operating-adopted,Workforce Invst. Act,workforce-investment,
+2024-operating-adopted,CAO,cao,
+2024-operating-adopted,City Planning Comm.,city-planning,
+2024-operating-adopted,Civil Court,civil-court,"Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2024-operating-adopted,Civil Service,civil-service,
+2024-operating-adopted,Clrk of Crim. Dist. Crt,clerk-criminal-court,
+2024-operating-adopted,Coroner's Office,coroner,
+2024-operating-adopted,Council,council,
+2024-operating-adopted,Criminal District Court,criminal-district-court,
+2024-operating-adopted,Department of Code Enforcement,code-enforcement,Own line from the 2024 book. In 2021-2023 Code Enforcement is inside the OCD line (OCD - Grants + OCD - Code Enforcement pages = line); earlier presumably inside Safety and Permits (not verified).
+2024-operating-adopted,District Attorney,district-attorney,
+2024-operating-adopted,Economic Dev. Fund,economic-development-fund,Renamed 'Economic Development' in 2025 books.
+2024-operating-adopted,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2024-operating-adopted,Finance,finance,
+2024-operating-adopted,Fire,fire,
+2024-operating-adopted,First City Courts,first-city-court,
+2024-operating-adopted,Health,health,
+2024-operating-adopted,Historic District Landmarks Commission,hdlc,
+2024-operating-adopted,Intergovernmental,intergovernmental,
+2024-operating-adopted,JJIC,human-services,Same line as 'Human Services' (2022 book FY2021) and the long JJIC name (2025 books): identical amounts.
+2024-operating-adopted,Judicial Retirement,judicial-retirement,
+2024-operating-adopted,Juvenile Court,juvenile-court,
+2024-operating-adopted,Law,law,
+2024-operating-adopted,Library,library,
+2024-operating-adopted,Mayor,mayor,"Contents vary by year (homeland security, criminal justice coordination, resilience, community and economic development sub-offices)."
+2024-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2024-operating-adopted,Mosquito Control Bd.,mosquito-control,
+2024-operating-adopted,Municipal and Traffic Court,municipal-traffic-court,
+2024-operating-adopted,Museum of Art,museum-of-art,
+2024-operating-adopted,N'hood Hsg Imprv. Fnd,neighborhood-housing-fund,
+2024-operating-adopted,New Orleans Aviation Board,aviation-board,
+2024-operating-adopted,Office of Comm. Dev.,community-development,From FY2021-FY2023 this line also carries Code Enforcement ('OCD - Code Enforcement' page).
+2024-operating-adopted,Office of Ind. Police Mon.,independent-police-monitor,Own line from 2016-17; before that inside General Services (OIG) page programs.
+2024-operating-adopted,Office of the Inspector General,inspector-general,
+2024-operating-adopted,Parks and Parkways,parks-parkways,
+2024-operating-adopted,Payroll Error Suspense,other,"Suspense line, 1,305 general fund, FY2022 actual in 2024 book only; no department page."
+2024-operating-adopted,Police,police,
+2024-operating-adopted,Property Management,property-management,
+2024-operating-adopted,Public Works,public-works,
+2024-operating-adopted,Registrar of Voters,registrar-of-voters,
+2024-operating-adopted,Safety and Permits,safety-permits,
+2024-operating-adopted,Sanitation,sanitation,
+2024-operating-adopted,Sheriff,sheriff,Same line as 'Criminal Sheriff': identical amounts in neighbouring books.
+2024-operating-adopted,Vieux Carre Commission,vcc,
+2024-operating-adopted,Workforce Invst. Act,workforce-investment,
+2025-operating-adopted,Chief Administrative Office - Core,cao,
+2025-operating-adopted,City Attorney's Office - Law Department,law,
+2025-operating-adopted,City Council,council,
+2025-operating-adopted,City Planning Commission,city-planning,
+2025-operating-adopted,Civil Service,civil-service,
+2025-operating-adopted,Criminal District Court,criminal-district-court,
+2025-operating-adopted,Criminal Sheriff,sheriff,
+2025-operating-adopted,Department of Code Enforcement,code-enforcement,Own line from the 2024 book. In 2021-2023 Code Enforcement is inside the OCD line (OCD - Grants + OCD - Code Enforcement pages = line); earlier presumably inside Safety and Permits (not verified).
+2025-operating-adopted,Department of Finance,finance,
+2025-operating-adopted,Department of Health,health,
+2025-operating-adopted,Department of Parks and Parkways,parks-parkways,
+2025-operating-adopted,Department of Property Management,property-management,
+2025-operating-adopted,Department of Public Works,public-works,
+2025-operating-adopted,Department of Safety and Permits,safety-permits,
+2025-operating-adopted,Department of Sanitation,sanitation,
+2025-operating-adopted,District Attorney,district-attorney,
+2025-operating-adopted,Economic Development,economic-development-fund,"Same line as 'Economic Dev. Fund' (2024 book FY2024 adopted equals 2025 book). Not the Mayor's economic-development sub-office, which sits inside the Mayor line."
+2025-operating-adopted,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2025-operating-adopted,Historic District Landmarks Commission,hdlc,
+2025-operating-adopted,Human Services Juvenile Justice Intervention Center (JJIC),human-services,Same line as 'Human Services' / 'JJIC'.
+2025-operating-adopted,Intergovernmental,intergovernmental,
+2025-operating-adopted,Judicial Retirement Fund,judicial-retirement,
+2025-operating-adopted,Mayor's Office,mayor,"Includes Homeland Security, Resilience & Sustainability, Criminal Justice Coordination, Community & Economic Development pages (2025 adopted: sum of pages = line)."
+2025-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2025-operating-adopted,"Mosquito, Termite and Rodent Control Board",mosquito-control,
+2025-operating-adopted,Municipal and Traffic Court,municipal-traffic-court,
+2025-operating-adopted,Neighborhood Housing Improvement,neighborhood-housing-fund,
+2025-operating-adopted,New Orleans Aviation Board,aviation-board,
+2025-operating-adopted,New Orleans Fire Department,fire,
+2025-operating-adopted,New Orleans Museum of Art,museum-of-art,In the 2026 book FY2024 actuals table this name is printed alongside 'New Orleans Art Museum' (split NOMA amounts); both map here and sum.
+2025-operating-adopted,New Orleans Police Department,police,
+2025-operating-adopted,New Orleans Pubic Library,library,
+2025-operating-adopted,New Orleans Public Library,library,
+2025-operating-adopted,Office of Housing and Community Development,community-development,Later name of Office of Community Development (= OCD - Grants page).
+2025-operating-adopted,Office of Independent Police Monitor,independent-police-monitor,
+2025-operating-adopted,Office of Police Secondary Employment,miscellaneous,"MISLABELLED: the row printed as 'Office of Police Secondary Employment' is the Miscellaneous line in this book (FY2023 actual / FY2024 adopted / FY2025 proposed other- and all-funds figures equal 'Miscellaneous' in the 2024 and 2025 adopted books; OPSE itself is inside Miscellaneous in budget years and only prints its own line in the 2026 book's FY2024 actuals table, 14.6M)."
+2025-operating-adopted,Office of the Inspector General,inspector-general,
+2025-operating-adopted,Orleans Parish Clerk of Criminal District Court,clerk-criminal-court,
+2025-operating-adopted,Orleans Parish Communication District,communication-district,
+2025-operating-adopted,Orleans Parish Coroner's Office,coroner,
+2025-operating-adopted,Orleans Parish Juvenile Court,juvenile-court,
+2025-operating-adopted,Orleans Parish Registrar of Voters,registrar-of-voters,
+2025-operating-adopted,Vieux Carré Commission,vcc,
+2025-operating-adopted,Vieux Carr� Commission,vcc,
+2025-operating-adopted,Workforce Investment,workforce-investment,
+2025-operating-proposed,Chief Administrative Office - Core,cao,
+2025-operating-proposed,City Attorney's Office - Law Department,law,
+2025-operating-proposed,City Council,council,
+2025-operating-proposed,City Planning Commission,city-planning,
+2025-operating-proposed,Civil Service,civil-service,
+2025-operating-proposed,Criminal District Court,criminal-district-court,
+2025-operating-proposed,Criminal Sheriff,sheriff,
+2025-operating-proposed,Department of Code Enforcement,code-enforcement,Own line from the 2024 book. In 2021-2023 Code Enforcement is inside the OCD line (OCD - Grants + OCD - Code Enforcement pages = line); earlier presumably inside Safety and Permits (not verified).
+2025-operating-proposed,Department of Code Enforcment,code-enforcement,Typo in 2025 proposed book.
+2025-operating-proposed,Department of Finance,finance,
+2025-operating-proposed,Department of Health,health,
+2025-operating-proposed,Department of Parks and Parkways,parks-parkways,
+2025-operating-proposed,Department of Property Management,property-management,
+2025-operating-proposed,Department of Public Works,public-works,
+2025-operating-proposed,Department of Safety and Permits,safety-permits,
+2025-operating-proposed,Department of Sanitation,sanitation,
+2025-operating-proposed,District Attorney,district-attorney,
+2025-operating-proposed,Economic Development,economic-development-fund,"Same line as 'Economic Dev. Fund' (2024 book FY2024 adopted equals 2025 book). Not the Mayor's economic-development sub-office, which sits inside the Mayor line."
+2025-operating-proposed,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2025-operating-proposed,Historic District Landmarks Commission,hdlc,
+2025-operating-proposed,Human Services Juvenile Justice Intervention Center (JJIC),human-services,Same line as 'Human Services' / 'JJIC'.
+2025-operating-proposed,Intergovernmental,intergovernmental,
+2025-operating-proposed,Judicial Retirement Fund,judicial-retirement,
+2025-operating-proposed,Mayor's Office,mayor,"Includes Homeland Security, Resilience & Sustainability, Criminal Justice Coordination, Community & Economic Development pages (2025 adopted: sum of pages = line)."
+2025-operating-proposed,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2025-operating-proposed,"Mosquito, Termite and Rodent Control Board",mosquito-control,
+2025-operating-proposed,Municipal and Traffic Court,municipal-traffic-court,
+2025-operating-proposed,Neighborhood Housing Improvement,neighborhood-housing-fund,
+2025-operating-proposed,New Orleans Aviation Board,aviation-board,
+2025-operating-proposed,New Orleans Fire Department,fire,
+2025-operating-proposed,New Orleans Museum of Art,museum-of-art,In the 2026 book FY2024 actuals table this name is printed alongside 'New Orleans Art Museum' (split NOMA amounts); both map here and sum.
+2025-operating-proposed,New Orleans Police Department,police,
+2025-operating-proposed,New Orleans Pubic Library,library,
+2025-operating-proposed,New Orleans Public Library,library,
+2025-operating-proposed,Office of Housing and Community Development,community-development,Later name of Office of Community Development (= OCD - Grants page).
+2025-operating-proposed,Office of Independent Police Monitor,independent-police-monitor,
+2025-operating-proposed,Office of Police Secondary Employment,miscellaneous,"MISLABELLED: the row printed as 'Office of Police Secondary Employment' is the Miscellaneous line in this book (FY2023 actual / FY2024 adopted / FY2025 proposed other- and all-funds figures equal 'Miscellaneous' in the 2024 and 2025 adopted books; OPSE itself is inside Miscellaneous in budget years and only prints its own line in the 2026 book's FY2024 actuals table, 14.6M)."
+2025-operating-proposed,Office of the Inspector General,inspector-general,
+2025-operating-proposed,Orleans Parish Clerk of Criminal District Court,clerk-criminal-court,
+2025-operating-proposed,Orleans Parish Communication District,communication-district,
+2025-operating-proposed,Orleans Parish Coroner's Office,coroner,
+2025-operating-proposed,Orleans Parish Juvenile Court,juvenile-court,
+2025-operating-proposed,Orleans Parish Registrar of Voters,registrar-of-voters,
+2025-operating-proposed,Vieux Carré Commission,vcc,
+2025-operating-proposed,Vieux Carr� Commission,vcc,
+2025-operating-proposed,Workforce Investment,workforce-investment,
+2026-operating-adopted,Bureau of Accounting,finance,FY2024 actuals table; equals Bureau of Accounting department page 2024 actual. Finance = five bureaus + Director's Office.
+2026-operating-adopted,Bureau of Purchasing,finance,FY2024 actuals table; equals the Bureau page 2024 actual. Part of Finance.
+2026-operating-adopted,Bureau of Retirement,finance,FY2024 actuals table; equals the Bureau page 2024 actual. Part of Finance.
+2026-operating-adopted,Bureau of Revenue,finance,FY2024 actuals table; equals the Bureau page 2024 actual. Part of Finance.
+2026-operating-adopted,Bureau of Treasury,finance,FY2024 actuals table; equals the Bureau page 2024 actual. Part of Finance.
+2026-operating-adopted,Canal Street Development Corporation,canal-street-development,FY2024 actuals table only; component unit.
+2026-operating-adopted,Chief Administrative Office,cao,FY2024 actuals table in 2026 book only. Not comparable to 'Chief Administrative Office - Core' (= Core + ITI + FEMA PA grants): the miscellaneous-type CAO programs sit in 'Other Agencies' here.
+2026-operating-adopted,Chief Administrative Office - Core,cao,
+2026-operating-adopted,City Attorney's Office - Law Department,law,
+2026-operating-adopted,City Council,council,
+2026-operating-adopted,City Planning Commission,city-planning,
+2026-operating-adopted,Civil Court,civil-court,"FY2024 actuals table name. Civil District Court; city-funded only a token amount (14,400 FY2024 actual)."
+2026-operating-adopted,Civil Service,civil-service,
+2026-operating-adopted,Clerk of Criminal District Court,clerk-criminal-court,FY2024 actuals table name.
+2026-operating-adopted,Coroner's Office,coroner,FY2024 actuals table name.
+2026-operating-adopted,Criminal District Court,criminal-district-court,
+2026-operating-adopted,Criminal Sheriff,sheriff,
+2026-operating-adopted,Department of Code Enforcement,code-enforcement,Own line from the 2024 book. In 2021-2023 Code Enforcement is inside the OCD line (OCD - Grants + OCD - Code Enforcement pages = line); earlier presumably inside Safety and Permits (not verified).
+2026-operating-adopted,Department of Finance,finance,
+2026-operating-adopted,Department of Health,health,
+2026-operating-adopted,Department of Parks and Parkways,parks-parkways,
+2026-operating-adopted,Department of Property Management,property-management,
+2026-operating-adopted,Department of Public Works,public-works,
+2026-operating-adopted,Department of Safety and Permits,safety-permits,
+2026-operating-adopted,Department of Sanitation,sanitation,
+2026-operating-adopted,Director's Office,finance,"FY2024 actuals table. = Finance Director's Office page, 9,022,638 (2024 actual)."
+2026-operating-adopted,District Attorney,district-attorney,
+2026-operating-adopted,EMS,health,"FY2024 actuals table name. Emergency Medical Services, a Health sub-department; Health Department (department_expenditures) printed without it in the FY2024 actuals table, 'Health - EMS' page 2024 actual = 20,662,268. Health+EMS sums into health (2019-2020 books: Health = Health-Core + EMS page)."
+2026-operating-adopted,Economic Development,economic-development-fund,"Same line as 'Economic Dev. Fund' (2024 book FY2024 adopted equals 2025 book). Not the Mayor's economic-development sub-office, which sits inside the Mayor line."
+2026-operating-adopted,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2026-operating-adopted,Fire Department,fire,"FY2024 actuals table name; = Fire Administration page 153,101,292."
+2026-operating-adopted,First City Courts,first-city-court,FY2024 actuals table name.
+2026-operating-adopted,French Market Corporation,french-market,FY2024 actuals table name.
+2026-operating-adopted,HDLC,hdlc,FY2024 actuals table name.
+2026-operating-adopted,Health Department,health,"FY2024 actuals table name (excludes EMS, printed separately as 'EMS')."
+2026-operating-adopted,Historic District Landmarks Commission,hdlc,
+2026-operating-adopted,Human Services,human-services,FY2024 actuals table name. Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2026-operating-adopted,Human Services Juvenile Justice Intervention Center (JJIC),human-services,Same line as 'Human Services' / 'JJIC'.
+2026-operating-adopted,Intergovernmental,intergovernmental,
+2026-operating-adopted,Judicial Retirement,judicial-retirement,FY2024 actuals table name.
+2026-operating-adopted,Judicial Retirement Fund,judicial-retirement,
+2026-operating-adopted,Juvenile Court,juvenile-court,FY2024 actuals table name.
+2026-operating-adopted,Law Administration,law,"FY2024 actuals table name for the Law Department page (14,981,715)."
+2026-operating-adopted,Library,library,FY2024 actuals table name.
+2026-operating-adopted,Mayor's Office,mayor,"Includes Homeland Security, Resilience & Sustainability, Criminal Justice Coordination, Community & Economic Development pages (2025 adopted: sum of pages = line)."
+2026-operating-adopted,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2026-operating-adopted,Mosquito Termite Control Board,mosquito-control,FY2024 actuals table name.
+2026-operating-adopted,"Mosquito, Termite and Rodent Control Board",mosquito-control,
+2026-operating-adopted,Municipal Traffic Court,municipal-traffic-court,FY2024 actuals table name for Municipal and Traffic Court.
+2026-operating-adopted,Municipal Yacht Harbor,yacht-harbor,
+2026-operating-adopted,Municipal and Traffic Court,municipal-traffic-court,
+2026-operating-adopted,Neighborhood Housing Improvement,neighborhood-housing-fund,
+2026-operating-adopted,New Orleans Art Museum,museum-of-art,"FY2024 actuals table; with 'New Orleans Museum of Art' (also printed in that table) sums to the NOMA page 419,790 (305,851 + 113,939). Both map here and sum."
+2026-operating-adopted,New Orleans Aviation Board,aviation-board,FY2024 actuals table name.
+2026-operating-adopted,New Orleans Fire Department,fire,
+2026-operating-adopted,New Orleans Museum of Art,museum-of-art,In the 2026 book FY2024 actuals table this name is printed alongside 'New Orleans Art Museum' (split NOMA amounts); both map here and sum.
+2026-operating-adopted,New Orleans Police Department,police,
+2026-operating-adopted,New Orleans Public Library,library,
+2026-operating-adopted,OIG,inspector-general,FY2024 actuals table name for the Office of the Inspector General.
+2026-operating-adopted,Office of Community Development,community-development,"FY2024 actuals table name for OCD; = 'OCD - Grants' page 48,343,295. Code Enforcement is separate in FY2024."
+2026-operating-adopted,Office of Housing and Community Development,community-development,Later name of Office of Community Development (= OCD - Grants page).
+2026-operating-adopted,Office of Independent Police Monitor,independent-police-monitor,
+2026-operating-adopted,Office of Police Secondary Employment,police-secondary-employment,FY2024 actuals table name. Own line only in some 2025/2026-era books (see years list); otherwise its page is inside Miscellaneous (OPSE + Risk + NORDC + CAO misc page).
+2026-operating-adopted,Office of the Inspector General,inspector-general,
+2026-operating-adopted,Office of the Mayor,mayor,FY2024 actuals table name for the Mayor's Office.
+2026-operating-adopted,Orleans Parish Clerk of Criminal District Court,clerk-criminal-court,
+2026-operating-adopted,Orleans Parish Communication District,communication-district,
+2026-operating-adopted,Orleans Parish Communications,communication-district,FY2024 actuals table name for the Orleans Parish Communication District.
+2026-operating-adopted,Orleans Parish Coroner's Office,coroner,
+2026-operating-adopted,Orleans Parish Juvenile Court,juvenile-court,
+2026-operating-adopted,Orleans Parish Registrar of Voters,registrar-of-voters,
+2026-operating-adopted,Other Agencies,miscellaneous,"FY2024 actuals table in 2026 book only. Acts as Miscellaneous there: CAO 131,416,462 + Other Agencies 67,612,533 = CAO-Core 161,539,149 + CAO-ITI 10,141,572 + Risk Mgmt 7,684,642 + NORDC 19,663,633 (2024 actual department pages); Miscellaneous-type programs (NORDC, Risk) plus CAO misc programs. OPSE is its own line here."
+2026-operating-adopted,Parks and Parkways,parks-parkways,FY2024 actuals table name.
+2026-operating-adopted,Police,police,FY2024 actuals table name.
+2026-operating-adopted,Public Works,public-works,FY2024 actuals table name.
+2026-operating-adopted,Registrar of Voters,registrar-of-voters,FY2024 actuals table name.
+2026-operating-adopted,Rivergate Development,rivergate,"FY2024 actuals table; Rivergate Development Corporation component unit, no statement line in budget-year tables."
+2026-operating-adopted,Safety and Permits,safety-permits,FY2024 actuals table name.
+2026-operating-adopted,Sanitation,sanitation,FY2024 actuals table name.
+2026-operating-adopted,Vieux Carre Commission,vcc,FY2024 actuals table name.
+2026-operating-adopted,Vieux Carré Commission,vcc,
+2026-operating-adopted,Workforce Investment,workforce-investment,
+2026-operating-proposed,Chief Administrative Office - Core,cao,
+2026-operating-proposed,City Attorney's Office - Law Department,law,
+2026-operating-proposed,City Council,council,
+2026-operating-proposed,City Planning Commission,city-planning,
+2026-operating-proposed,Civil Service,civil-service,
+2026-operating-proposed,Criminal District Court,criminal-district-court,
+2026-operating-proposed,Criminal Sheriff,sheriff,
+2026-operating-proposed,Department of Code Enforcement,code-enforcement,Own line from the 2024 book. In 2021-2023 Code Enforcement is inside the OCD line (OCD - Grants + OCD - Code Enforcement pages = line); earlier presumably inside Safety and Permits (not verified).
+2026-operating-proposed,Department of Finance,finance,
+2026-operating-proposed,Department of Health,health,
+2026-operating-proposed,Department of Parks and Parkways,parks-parkways,
+2026-operating-proposed,Department of Property Management,property-management,
+2026-operating-proposed,Department of Public Works,public-works,
+2026-operating-proposed,Department of Safety and Permits,safety-permits,
+2026-operating-proposed,Department of Sanitation,sanitation,
+2026-operating-proposed,District Attorney,district-attorney,
+2026-operating-proposed,Economic Development,economic-development-fund,"Same line as 'Economic Dev. Fund' (2024 book FY2024 adopted equals 2025 book). Not the Mayor's economic-development sub-office, which sits inside the Mayor line."
+2026-operating-proposed,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2026-operating-proposed,Historic District Landmarks Commission,hdlc,
+2026-operating-proposed,Human Services Juvenile Justice Intervention Center (JJIC),human-services,Same line as 'Human Services' / 'JJIC'.
+2026-operating-proposed,Intergovernmental,intergovernmental,
+2026-operating-proposed,Judicial Retirement Fund,judicial-retirement,
+2026-operating-proposed,Mayor's Office,mayor,"Includes Homeland Security, Resilience & Sustainability, Criminal Justice Coordination, Community & Economic Development pages (2025 adopted: sum of pages = line)."
+2026-operating-proposed,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2026-operating-proposed,"Mosquito, Termite and Rodent Control Board",mosquito-control,
+2026-operating-proposed,Municipal Yacht Harbor,yacht-harbor,
+2026-operating-proposed,Municipal and Traffic Court,municipal-traffic-court,
+2026-operating-proposed,Neighborhood Housing Improvement,neighborhood-housing-fund,
+2026-operating-proposed,New Orleans Aviation Board,aviation-board,
+2026-operating-proposed,New Orleans Fire Department,fire,
+2026-operating-proposed,New Orleans Museum of Art,museum-of-art,In the 2026 book FY2024 actuals table this name is printed alongside 'New Orleans Art Museum' (split NOMA amounts); both map here and sum.
+2026-operating-proposed,New Orleans Police Department,police,
+2026-operating-proposed,New Orleans Pubic Library,library,
+2026-operating-proposed,New Orleans Public Library,library,
+2026-operating-proposed,Office of Housing and Community Development,community-development,Later name of Office of Community Development (= OCD - Grants page).
+2026-operating-proposed,Office of Independent Police Monitor,independent-police-monitor,
+2026-operating-proposed,Office of Police Secondary Employment,miscellaneous,"MISLABELLED: the row printed as 'Office of Police Secondary Employment' is the Miscellaneous line in this book (FY2023 actual / FY2024 adopted / FY2025 proposed other- and all-funds figures equal 'Miscellaneous' in the 2024 and 2025 adopted books; OPSE itself is inside Miscellaneous in budget years and only prints its own line in the 2026 book's FY2024 actuals table, 14.6M)."
+2026-operating-proposed,Office of the Inspector General,inspector-general,
+2026-operating-proposed,Orleans Parish Clerk of Criminal District Court,clerk-criminal-court,
+2026-operating-proposed,Orleans Parish Communication District,communication-district,
+2026-operating-proposed,Orleans Parish Coroner's Office,coroner,
+2026-operating-proposed,Orleans Parish Juvenile Court,juvenile-court,
+2026-operating-proposed,Orleans Parish Registrar of Voters,registrar-of-voters,
+2026-operating-proposed,Vieux Carré Commission,vcc,
+2026-operating-proposed,Vieux Carr� Commission,vcc,
+2026-operating-proposed,Workforce Investment,workforce-investment,
+2027-operating-proposed,Chief Administrative Office - Core,cao,
+2027-operating-proposed,City Attorney's Office - Law Department,law,
+2027-operating-proposed,City Council,council,
+2027-operating-proposed,City Planning Commission,city-planning,
+2027-operating-proposed,Civil Service,civil-service,
+2027-operating-proposed,Clerk of Court for Orleans Parish,clerk-criminal-court,"FY2026/FY2027 values are 0. Successor/renamed line of the Clerk of Criminal District Court: 2027 book prints both lines; 'Orleans Parish Clerk of Criminal District Court' goes 5,618,260 (FY2026) to 0 (FY2027). Dept page lists head Chelsey Richard Napoleon, 2700 Tulane Ave. Inference, no dollar overlap (all zero)."
+2027-operating-proposed,Criminal District Court,criminal-district-court,
+2027-operating-proposed,Criminal Sheriff,sheriff,
+2027-operating-proposed,Department of Code Enforcement,code-enforcement,Own line from the 2024 book. In 2021-2023 Code Enforcement is inside the OCD line (OCD - Grants + OCD - Code Enforcement pages = line); earlier presumably inside Safety and Permits (not verified).
+2027-operating-proposed,Department of Finance,finance,
+2027-operating-proposed,Department of Health,health,
+2027-operating-proposed,Department of Parks and Parkways,parks-parkways,
+2027-operating-proposed,Department of Property Management,property-management,
+2027-operating-proposed,Department of Public Works,public-works,
+2027-operating-proposed,Department of Safety and Permits,safety-permits,
+2027-operating-proposed,Department of Sanitation,sanitation,
+2027-operating-proposed,District Attorney,district-attorney,
+2027-operating-proposed,Economic Development,economic-development-fund,"Same line as 'Economic Dev. Fund' (2024 book FY2024 adopted equals 2025 book). Not the Mayor's economic-development sub-office, which sits inside the Mayor line."
+2027-operating-proposed,Ethics Review Board,ethics-review-board,Own line from the 2017 book; before that included in the 'General Services' (OIG) line.
+2027-operating-proposed,French Market Corporation,french-market,
+2027-operating-proposed,Historic District Landmarks Commission,hdlc,
+2027-operating-proposed,Human Services,human-services,Runs the juvenile detention centre; amounts equal 'JJIC' / 'Human Services Juvenile Justice Intervention Center (JJIC)' for the same years in later books.
+2027-operating-proposed,Intergovernmental,intergovernmental,
+2027-operating-proposed,Judicial Retirement Fund,judicial-retirement,
+2027-operating-proposed,Mayor's Office,mayor,"Includes Homeland Security, Resilience & Sustainability, Criminal Justice Coordination, Community & Economic Development pages (2025 adopted: sum of pages = line)."
+2027-operating-proposed,Miscellaneous,miscellaneous,Contents vary: from FY2013 includes NORDC (the former Recreation); 2021-2027 books = CAO 'Chief Administrative Office' page + NORDC + Risk Management + Office of Police Secondary Employment (department pages sum to the line).
+2027-operating-proposed,"Mosquito, Termite and Rodent Control Board",mosquito-control,
+2027-operating-proposed,Municipal Yacht Harbor,yacht-harbor,
+2027-operating-proposed,Municipal and Traffic Court,municipal-traffic-court,
+2027-operating-proposed,Neighborhood Housing Improvement,neighborhood-housing-fund,
+2027-operating-proposed,New Orleans Aviation Board,aviation-board,
+2027-operating-proposed,New Orleans Fire Department,fire,
+2027-operating-proposed,New Orleans Museum of Art,museum-of-art,In the 2026 book FY2024 actuals table this name is printed alongside 'New Orleans Art Museum' (split NOMA amounts); both map here and sum.
+2027-operating-proposed,New Orleans Police Department,police,
+2027-operating-proposed,New Orleans Public Library,library,
+2027-operating-proposed,Office of Housing and Community Development,community-development,Later name of Office of Community Development (= OCD - Grants page).
+2027-operating-proposed,Office of Independent Police Monitor,independent-police-monitor,
+2027-operating-proposed,Office of the Inspector General,inspector-general,
+2027-operating-proposed,Orleans Parish Clerk of Criminal District Court,clerk-criminal-court,
+2027-operating-proposed,Orleans Parish Communication District,communication-district,
+2027-operating-proposed,Orleans Parish Coroner's Office,coroner,
+2027-operating-proposed,Orleans Parish Juvenile Court,juvenile-court,
+2027-operating-proposed,Orleans Parish Registrar of Voters,registrar-of-voters,
+2027-operating-proposed,Vieux Carré Commission,vcc,
+2027-operating-proposed,Workforce Investment,workforce-investment,

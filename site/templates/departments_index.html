@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}Every department in the City of New Orleans budget, with its {{ py }} proposed and {{ fy }} adopted General Fund amounts.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/departments/", "Departments")] %}
+{% block content %}
+<header class="lede">
+  <h1>Departments</h1>
+  <p class="lead">Every line in the city's budget tables, grouped by what it does. Some are city departments; others are separately elected offices, courts and boards that the city helps pay for.</p>
+  <p>Amounts are from the <a href="/#general-fund">General Fund</a>: the Mayor's {{ py }} proposal ({{ totals.new|money }} in all) against the {{ fy }} budget now in force ({{ totals.old|money }}). Each department's page also shows all funds.</p>
+  {% if group_split|length > 1 %}
+  <p class="big-sentence">Out of every $100 the General Fund spends in the {{ py }} proposal, ${{ group_split[0].per100 }} goes to {{ group_split[0].name|lower }}.</p>
+  {{ m.split_bar(group_split, "General Fund spending in the " ~ py ~ " proposal, by kind of work") }}
+  {{ m.source(cites) }}
+  {% endif %}
+  <p class="narrow-note">On a narrow screen these tables leave out the {{ fy }} column. A wider screen shows it.</p>
+</header>
+
+{% for g in groups %}
+<section class="block" aria-labelledby="g-{{ loop.index }}">
+  <h2 id="g-{{ loop.index }}">{{ g.name }}{% if g.share %} <span class="h-amt">{{ g.share|per100 }} of every $100</span>{% endif %}</h2>
+  <div class="table-scroll">
+  <table class="data index cmp">
+    <caption class="vh">{{ g.name }}: General Fund, {{ fy }} adopted and {{ py }} proposed, in dollars</caption>
+    <thead><tr>
+      <th scope="col">Department</th>
+      <th scope="col" class="num">{{ fy }} adopted</th>
+      <th scope="col" class="num">{{ py }} proposed</th>
+      <th scope="col" class="num">Change</th>
+    </tr></thead>
+    <tbody>
+    {% for r in g.rows %}
+      <tr>
+        <th scope="row"><a href="{{ r.dept.url }}">{{ r.dept.name }}</a><span class="row-desc">{{ r.dept.short }}</span></th>
+        {{ m.num(r.old|full if r.old is not none else none) }}
+        {{ m.num(r.new|full if r.new is not none else none) }}
+        {% if r.diff is not none %}<td class="num">{{ r.diff|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}
+      </tr>
+    {% endfor %}
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">Total, {{ g.name|lower }}</th><td class="num">{{ g.old|full }}</td><td class="num">{{ g.new|full }}</td><td class="num">{{ g.diff|signed_full }}</td></tr></tfoot>
+  </table>
+  </div>
+  {{ m.source(cites) }}
+</section>
+{% endfor %}
+
+<section class="block">
+  <div class="table-scroll">
+  <table class="data index grand cmp">
+    <caption class="vh">All departments, General Fund, in dollars</caption>
+    <thead class="vh"><tr><th scope="col">All departments</th><th scope="col" class="num">{{ fy }} adopted</th><th scope="col" class="num">{{ py }} proposed</th><th scope="col" class="num">Change</th></tr></thead>
+    <tbody><tr class="total"><th scope="row">All departments, General Fund</th><td class="num">{{ totals.old|full }}</td><td class="num">{{ totals.new|full }}</td><td class="num">{{ (totals.new - totals.old)|signed_full }}</td></tr></tbody>
+  </table>
+  </div>
+  <p class="table-note">In dollars. A dash means the department is not printed as its own line in that budget; it does not mean zero. Departments with no General Fund money in either year still have a page, which shows any other money they receive.</p>
+  {{ m.source(cites) }}
+</section>
+{% endblock %}

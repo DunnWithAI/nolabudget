@@ -1,0 +1,1927 @@
+book_id,fiscal_year,basis,dept_name,program,fte,page
+2017-operating-adopted,2009,actual,Council,Councilmembers' Offices,44.00,79
+2017-operating-adopted,2010,actual,Council,Councilmembers' Offices,43.00,79
+2017-operating-adopted,2011,actual,Council,Councilmembers' Offices,44.57,79
+2017-operating-adopted,2012,actual,Council,Councilmembers' Offices,44.57,79
+2017-operating-adopted,2013,actual,Council,Councilmembers' Offices,39.57,79
+2017-operating-adopted,2014,actual,Council,Councilmembers' Offices,42.42,79
+2017-operating-adopted,2015,actual,Council,Councilmembers' Offices,45.53,79
+2017-operating-adopted,2016,adopted,Council,Councilmembers' Offices,43.84,79
+2017-operating-adopted,2017,adopted,Council,Councilmembers' Offices,41.39,79
+2017-operating-adopted,2009,actual,Council,Clerk of Council,13.00,79
+2017-operating-adopted,2010,actual,Council,Clerk of Council,13.00,79
+2017-operating-adopted,2011,actual,Council,Clerk of Council,16.00,79
+2017-operating-adopted,2012,actual,Council,Clerk of Council,16.00,79
+2017-operating-adopted,2013,actual,Council,Clerk of Council,15.00,79
+2017-operating-adopted,2014,actual,Council,Clerk of Council,15.00,79
+2017-operating-adopted,2015,actual,Council,Clerk of Council,15.00,79
+2017-operating-adopted,2016,adopted,Council,Clerk of Council,16.00,79
+2017-operating-adopted,2017,adopted,Council,Clerk of Council,15.00,79
+2017-operating-adopted,2009,actual,Council,Council Research,11.48,79
+2017-operating-adopted,2010,actual,Council,Council Research,11.00,79
+2017-operating-adopted,2011,actual,Council,Council Research,7.00,79
+2017-operating-adopted,2012,actual,Council,Council Research,7.00,79
+2017-operating-adopted,2013,actual,Council,Council Research,6.00,79
+2017-operating-adopted,2014,actual,Council,Council Research,5.48,79
+2017-operating-adopted,2015,actual,Council,Council Research,5.48,79
+2017-operating-adopted,2016,adopted,Council,Council Research,5.49,79
+2017-operating-adopted,2017,adopted,Council,Council Research,5.49,79
+2017-operating-adopted,2009,actual,Council,Council Fiscal Office,2.00,79
+2017-operating-adopted,2010,actual,Council,Council Fiscal Office,2.00,79
+2017-operating-adopted,2011,actual,Council,Council Fiscal Office,3.00,79
+2017-operating-adopted,2012,actual,Council,Council Fiscal Office,3.00,79
+2017-operating-adopted,2013,actual,Council,Council Fiscal Office,4.00,79
+2017-operating-adopted,2014,actual,Council,Council Fiscal Office,4.00,79
+2017-operating-adopted,2015,actual,Council,Council Fiscal Office,4.00,79
+2017-operating-adopted,2016,adopted,Council,Council Fiscal Office,2.49,79
+2017-operating-adopted,2017,adopted,Council,Council Fiscal Office,2.49,79
+2017-operating-adopted,2009,actual,Council,Utility Regulatory/Energy,1.00,79
+2017-operating-adopted,2010,actual,Council,Utility Regulatory/Energy,1.00,79
+2017-operating-adopted,2011,actual,Council,Utility Regulatory/Energy,1.00,79
+2017-operating-adopted,2012,actual,Council,Utility Regulatory/Energy,1.00,79
+2017-operating-adopted,2013,actual,Council,Utility Regulatory/Energy,1.00,79
+2017-operating-adopted,2014,actual,Council,Utility Regulatory/Energy,2.00,79
+2017-operating-adopted,2015,actual,Council,Utility Regulatory/Energy,3.00,79
+2017-operating-adopted,2016,adopted,Council,Utility Regulatory/Energy,2.00,79
+2017-operating-adopted,2017,adopted,Council,Utility Regulatory/Energy,4.00,79
+2017-operating-adopted,2009,actual,Mayor,Office of the Mayor,4.00,79
+2017-operating-adopted,2010,actual,Mayor,Office of the Mayor,10.00,79
+2017-operating-adopted,2011,actual,Mayor,Office of the Mayor,22.00,79
+2017-operating-adopted,2012,actual,Mayor,Office of the Mayor,22.00,79
+2017-operating-adopted,2013,actual,Mayor,Office of the Mayor,21.00,79
+2017-operating-adopted,2014,actual,Mayor,Office of the Mayor,17.00,79
+2017-operating-adopted,2015,actual,Mayor,Office of the Mayor,17.00,79
+2017-operating-adopted,2016,adopted,Mayor,Office of the Mayor,15.00,79
+2017-operating-adopted,2017,adopted,Mayor,Office of the Mayor,15.00,79
+2017-operating-adopted,2009,actual,Mayor,Recovery Office,3.00,79
+2017-operating-adopted,2010,actual,Mayor,Recovery Office,1.00,79
+2017-operating-adopted,2011,actual,Mayor,Recovery Office,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Recovery Office,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Recovery Office,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Recovery Office,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Recovery Office,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Recovery Office,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Recovery Office,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Human Relations Comm.,1.00,79
+2017-operating-adopted,2010,actual,Mayor,Human Relations Comm.,1.00,79
+2017-operating-adopted,2011,actual,Mayor,Human Relations Comm.,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Human Relations Comm.,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Human Relations Comm.,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Human Relations Comm.,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Human Relations Comm.,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Human Relations Comm.,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Human Relations Comm.,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Executive Office Admin.,11.00,79
+2017-operating-adopted,2010,actual,Mayor,Executive Office Admin.,14.00,79
+2017-operating-adopted,2011,actual,Mayor,Executive Office Admin.,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Executive Office Admin.,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Executive Office Admin.,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Executive Office Admin.,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Executive Office Admin.,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Executive Office Admin.,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Executive Office Admin.,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Intergovernmental Relations,3.00,79
+2017-operating-adopted,2010,actual,Mayor,Intergovernmental Relations,2.00,79
+2017-operating-adopted,2011,actual,Mayor,Intergovernmental Relations,15.00,79
+2017-operating-adopted,2012,actual,Mayor,Intergovernmental Relations,15.00,79
+2017-operating-adopted,2013,actual,Mayor,Intergovernmental Relations,12.00,79
+2017-operating-adopted,2014,actual,Mayor,Intergovernmental Relations,12.00,79
+2017-operating-adopted,2015,actual,Mayor,Intergovernmental Relations,11.57,79
+2017-operating-adopted,2016,adopted,Mayor,Intergovernmental Relations,11.00,79
+2017-operating-adopted,2017,adopted,Mayor,Intergovernmental Relations,11.00,79
+2017-operating-adopted,2009,actual,Mayor,Legislative Coordination,2.00,79
+2017-operating-adopted,2010,actual,Mayor,Legislative Coordination,2.00,79
+2017-operating-adopted,2011,actual,Mayor,Legislative Coordination,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Legislative Coordination,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Legislative Coordination,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Legislative Coordination,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Legislative Coordination,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Legislative Coordination,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Legislative Coordination,0.00,79
+2017-operating-adopted,2009,actual,Mayor,State Relations,1.00,79
+2017-operating-adopted,2010,actual,Mayor,State Relations,0.00,79
+2017-operating-adopted,2011,actual,Mayor,State Relations,0.00,79
+2017-operating-adopted,2012,actual,Mayor,State Relations,0.00,79
+2017-operating-adopted,2013,actual,Mayor,State Relations,0.00,79
+2017-operating-adopted,2014,actual,Mayor,State Relations,0.00,79
+2017-operating-adopted,2015,actual,Mayor,State Relations,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,State Relations,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,State Relations,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Communications,7.00,79
+2017-operating-adopted,2010,actual,Mayor,Communications,6.00,79
+2017-operating-adopted,2011,actual,Mayor,Communications,5.00,79
+2017-operating-adopted,2012,actual,Mayor,Communications,5.00,79
+2017-operating-adopted,2013,actual,Mayor,Communications,5.00,79
+2017-operating-adopted,2014,actual,Mayor,Communications,5.00,79
+2017-operating-adopted,2015,actual,Mayor,Communications,6.00,79
+2017-operating-adopted,2016,adopted,Mayor,Communications,6.00,79
+2017-operating-adopted,2017,adopted,Mayor,Communications,6.00,79
+2017-operating-adopted,2009,actual,Mayor,Supervised Visitation,0.00,79
+2017-operating-adopted,2010,actual,Mayor,Supervised Visitation,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Supervised Visitation,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Supervised Visitation,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Supervised Visitation,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Supervised Visitation,0.15,79
+2017-operating-adopted,2015,actual,Mayor,Supervised Visitation,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Supervised Visitation,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Supervised Visitation,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Commissioner of Criminal Justice,2.00,79
+2017-operating-adopted,2010,actual,Mayor,Commissioner of Criminal Justice,1.00,79
+2017-operating-adopted,2011,actual,Mayor,Commissioner of Criminal Justice,3.00,79
+2017-operating-adopted,2012,actual,Mayor,Commissioner of Criminal Justice,2.00,79
+2017-operating-adopted,2013,actual,Mayor,Commissioner of Criminal Justice,2.00,79
+2017-operating-adopted,2014,actual,Mayor,Commissioner of Criminal Justice,8.00,79
+2017-operating-adopted,2015,actual,Mayor,Commissioner of Criminal Justice,6.00,79
+2017-operating-adopted,2016,adopted,Mayor,Commissioner of Criminal Justice,6.00,79
+2017-operating-adopted,2017,adopted,Mayor,Commissioner of Criminal Justice,8.00,79
+2017-operating-adopted,2009,actual,Mayor,Office of Homeland Security,1.00,79
+2017-operating-adopted,2010,actual,Mayor,Office of Homeland Security,2.00,79
+2017-operating-adopted,2011,actual,Mayor,Office of Homeland Security,7.00,79
+2017-operating-adopted,2012,actual,Mayor,Office of Homeland Security,7.00,79
+2017-operating-adopted,2013,actual,Mayor,Office of Homeland Security,13.00,79
+2017-operating-adopted,2014,actual,Mayor,Office of Homeland Security,13.00,79
+2017-operating-adopted,2015,actual,Mayor,Office of Homeland Security,13.00,79
+2017-operating-adopted,2016,adopted,Mayor,Office of Homeland Security,14.00,79
+2017-operating-adopted,2017,adopted,Mayor,Office of Homeland Security,17.00,79
+2017-operating-adopted,2009,actual,Mayor,Executive Office /Economic Dev.,0.00,79
+2017-operating-adopted,2010,actual,Mayor,Executive Office /Economic Dev.,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Executive Office /Economic Dev.,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Executive Office /Economic Dev.,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Executive Office /Economic Dev.,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Executive Office /Economic Dev.,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Executive Office /Economic Dev.,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Executive Office /Economic Dev.,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Executive Office /Economic Dev.,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Economic Development,0.00,79
+2017-operating-adopted,2010,actual,Mayor,Economic Development,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Economic Development,7.00,79
+2017-operating-adopted,2012,actual,Mayor,Economic Development,7.00,79
+2017-operating-adopted,2013,actual,Mayor,Economic Development,5.00,79
+2017-operating-adopted,2014,actual,Mayor,Economic Development,5.00,79
+2017-operating-adopted,2015,actual,Mayor,Economic Development,5.00,79
+2017-operating-adopted,2016,adopted,Mayor,Economic Development,5.00,79
+2017-operating-adopted,2017,adopted,Mayor,Economic Development,6.00,79
+2017-operating-adopted,2009,actual,Mayor,RESEARCH ART WORKS,0.00,79
+2017-operating-adopted,2010,actual,Mayor,RESEARCH ART WORKS,0.00,79
+2017-operating-adopted,2011,actual,Mayor,RESEARCH ART WORKS,0.00,79
+2017-operating-adopted,2012,actual,Mayor,RESEARCH ART WORKS,0.00,79
+2017-operating-adopted,2013,actual,Mayor,RESEARCH ART WORKS,0.00,79
+2017-operating-adopted,2014,actual,Mayor,RESEARCH ART WORKS,0.00,79
+2017-operating-adopted,2015,actual,Mayor,RESEARCH ART WORKS,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,RESEARCH ART WORKS,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,RESEARCH ART WORKS,1.00,79
+2017-operating-adopted,2009,actual,Mayor,State Cooperative Endeavors,1.00,79
+2017-operating-adopted,2010,actual,Mayor,State Cooperative Endeavors,0.00,79
+2017-operating-adopted,2011,actual,Mayor,State Cooperative Endeavors,0.00,79
+2017-operating-adopted,2012,actual,Mayor,State Cooperative Endeavors,0.00,79
+2017-operating-adopted,2013,actual,Mayor,State Cooperative Endeavors,0.00,79
+2017-operating-adopted,2014,actual,Mayor,State Cooperative Endeavors,0.00,79
+2017-operating-adopted,2015,actual,Mayor,State Cooperative Endeavors,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,State Cooperative Endeavors,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,State Cooperative Endeavors,0.00,79
+2017-operating-adopted,2009,actual,Mayor,EQUITY NOLA,0.00,79
+2017-operating-adopted,2010,actual,Mayor,EQUITY NOLA,0.00,79
+2017-operating-adopted,2011,actual,Mayor,EQUITY NOLA,0.00,79
+2017-operating-adopted,2012,actual,Mayor,EQUITY NOLA,0.00,79
+2017-operating-adopted,2013,actual,Mayor,EQUITY NOLA,0.00,79
+2017-operating-adopted,2014,actual,Mayor,EQUITY NOLA,0.00,79
+2017-operating-adopted,2015,actual,Mayor,EQUITY NOLA,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,EQUITY NOLA,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,EQUITY NOLA,2.00,79
+2017-operating-adopted,2009,actual,Mayor,Special Events,1.00,79
+2017-operating-adopted,2010,actual,Mayor,Special Events,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Special Events,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Special Events,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Special Events,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Special Events,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Special Events,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Special Events,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Special Events,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Office of Resilience and Sustainability,1.00,79
+2017-operating-adopted,2010,actual,Mayor,Office of Resilience and Sustainability,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Office of Resilience and Sustainability,3.00,79
+2017-operating-adopted,2012,actual,Mayor,Office of Resilience and Sustainability,1.00,79
+2017-operating-adopted,2013,actual,Mayor,Office of Resilience and Sustainability,2.00,79
+2017-operating-adopted,2014,actual,Mayor,Office of Resilience and Sustainability,1.00,79
+2017-operating-adopted,2015,actual,Mayor,Office of Resilience and Sustainability,0.70,79
+2017-operating-adopted,2016,adopted,Mayor,Office of Resilience and Sustainability,0.50,79
+2017-operating-adopted,2017,adopted,Mayor,Office of Resilience and Sustainability,4.00,79
+2017-operating-adopted,2009,actual,Mayor,Human Resources Policy and Plan,2.00,79
+2017-operating-adopted,2010,actual,Mayor,Human Resources Policy and Plan,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Human Resources Policy and Plan,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Human Resources Policy and Plan,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Human Resources Policy and Plan,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Human Resources Policy and Plan,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Human Resources Policy and Plan,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Human Resources Policy and Plan,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Human Resources Policy and Plan,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Public Advocacy,3.00,79
+2017-operating-adopted,2010,actual,Mayor,Public Advocacy,3.00,79
+2017-operating-adopted,2011,actual,Mayor,Public Advocacy,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Public Advocacy,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Public Advocacy,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Public Advocacy,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Public Advocacy,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Public Advocacy,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Public Advocacy,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Mayoral Fellows,7.00,79
+2017-operating-adopted,2010,actual,Mayor,Mayoral Fellows,5.00,79
+2017-operating-adopted,2011,actual,Mayor,Mayoral Fellows,7.00,79
+2017-operating-adopted,2012,actual,Mayor,Mayoral Fellows,5.00,79
+2017-operating-adopted,2013,actual,Mayor,Mayoral Fellows,4.00,79
+2017-operating-adopted,2014,actual,Mayor,Mayoral Fellows,4.00,79
+2017-operating-adopted,2015,actual,Mayor,Mayoral Fellows,4.00,79
+2017-operating-adopted,2016,adopted,Mayor,Mayoral Fellows,3.00,79
+2017-operating-adopted,2017,adopted,Mayor,Mayoral Fellows,4.00,79
+2017-operating-adopted,2009,actual,Mayor,Livable Claiborne Community Plan,0.00,79
+2017-operating-adopted,2010,actual,Mayor,Livable Claiborne Community Plan,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Livable Claiborne Community Plan,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Livable Claiborne Community Plan,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Livable Claiborne Community Plan,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Livable Claiborne Community Plan,2.00,79
+2017-operating-adopted,2015,actual,Mayor,Livable Claiborne Community Plan,2.00,79
+2017-operating-adopted,2016,adopted,Mayor,Livable Claiborne Community Plan,4.15,79
+2017-operating-adopted,2017,adopted,Mayor,Livable Claiborne Community Plan,4.13,79
+2017-operating-adopted,2009,actual,Mayor,Housing and Community Affairs,0.00,79
+2017-operating-adopted,2010,actual,Mayor,Housing and Community Affairs,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Housing and Community Affairs,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Housing and Community Affairs,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Housing and Community Affairs,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Housing and Community Affairs,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Housing and Community Affairs,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Housing and Community Affairs,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Housing and Community Affairs,0.00,79
+2017-operating-adopted,2009,actual,Mayor,State and Federal Programs,4.00,79
+2017-operating-adopted,2010,actual,Mayor,State and Federal Programs,3.00,79
+2017-operating-adopted,2011,actual,Mayor,State and Federal Programs,2.00,79
+2017-operating-adopted,2012,actual,Mayor,State and Federal Programs,2.00,79
+2017-operating-adopted,2013,actual,Mayor,State and Federal Programs,2.00,79
+2017-operating-adopted,2014,actual,Mayor,State and Federal Programs,2.00,79
+2017-operating-adopted,2015,actual,Mayor,State and Federal Programs,2.00,79
+2017-operating-adopted,2016,adopted,Mayor,State and Federal Programs,2.00,79
+2017-operating-adopted,2017,adopted,Mayor,State and Federal Programs,2.00,79
+2017-operating-adopted,2009,actual,Mayor,BRAC Community Base Reuse Plan,2.00,79
+2017-operating-adopted,2010,actual,Mayor,BRAC Community Base Reuse Plan,2.00,79
+2017-operating-adopted,2011,actual,Mayor,BRAC Community Base Reuse Plan,2.00,79
+2017-operating-adopted,2012,actual,Mayor,BRAC Community Base Reuse Plan,2.00,79
+2017-operating-adopted,2013,actual,Mayor,BRAC Community Base Reuse Plan,2.00,79
+2017-operating-adopted,2014,actual,Mayor,BRAC Community Base Reuse Plan,2.00,79
+2017-operating-adopted,2015,actual,Mayor,BRAC Community Base Reuse Plan,2.00,79
+2017-operating-adopted,2016,adopted,Mayor,BRAC Community Base Reuse Plan,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,BRAC Community Base Reuse Plan,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Business Service Rep,0.00,79
+2017-operating-adopted,2010,actual,Mayor,Business Service Rep,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Business Service Rep,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Business Service Rep,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Business Service Rep,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Business Service Rep,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Business Service Rep,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Business Service Rep,1.00,79
+2017-operating-adopted,2017,adopted,Mayor,Business Service Rep,1.00,79
+2017-operating-adopted,2009,actual,Mayor,Ryan White Admin - GF,1.00,79
+2017-operating-adopted,2010,actual,Mayor,Ryan White Admin - GF,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Ryan White Admin - GF,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Ryan White Admin - GF,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Ryan White Admin - GF,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Ryan White Admin - GF,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Ryan White Admin - GF,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Ryan White Admin - GF,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Ryan White Admin - GF,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Ryan White Admin,2.00,79
+2017-operating-adopted,2010,actual,Mayor,Ryan White Admin,3.00,79
+2017-operating-adopted,2011,actual,Mayor,Ryan White Admin,3.00,79
+2017-operating-adopted,2012,actual,Mayor,Ryan White Admin,3.00,79
+2017-operating-adopted,2013,actual,Mayor,Ryan White Admin,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Ryan White Admin,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Ryan White Admin,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Ryan White Admin,0.48,79
+2017-operating-adopted,2017,adopted,Mayor,Ryan White Admin,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Ryan White Quality Mgt,4.00,79
+2017-operating-adopted,2010,actual,Mayor,Ryan White Quality Mgt,3.00,79
+2017-operating-adopted,2011,actual,Mayor,Ryan White Quality Mgt,3.00,79
+2017-operating-adopted,2012,actual,Mayor,Ryan White Quality Mgt,3.00,79
+2017-operating-adopted,2013,actual,Mayor,Ryan White Quality Mgt,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Ryan White Quality Mgt,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Ryan White Quality Mgt,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Ryan White Quality Mgt,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Ryan White Quality Mgt,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Program Support Budget,1.00,79
+2017-operating-adopted,2010,actual,Mayor,Program Support Budget,1.00,79
+2017-operating-adopted,2011,actual,Mayor,Program Support Budget,1.00,79
+2017-operating-adopted,2012,actual,Mayor,Program Support Budget,1.00,79
+2017-operating-adopted,2013,actual,Mayor,Program Support Budget,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Program Support Budget,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Program Support Budget,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Program Support Budget,0.50,79
+2017-operating-adopted,2017,adopted,Mayor,Program Support Budget,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Healthy Start Initiative,24.69,79
+2017-operating-adopted,2010,actual,Mayor,Healthy Start Initiative,26.58,79
+2017-operating-adopted,2011,actual,Mayor,Healthy Start Initiative,26.00,79
+2017-operating-adopted,2012,actual,Mayor,Healthy Start Initiative,26.00,79
+2017-operating-adopted,2013,actual,Mayor,Healthy Start Initiative,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Healthy Start Initiative,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Healthy Start Initiative,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Healthy Start Initiative,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Healthy Start Initiative,0.00,79
+2017-operating-adopted,2009,actual,Mayor,Solar America Cities,1.00,79
+2017-operating-adopted,2010,actual,Mayor,Solar America Cities,1.00,79
+2017-operating-adopted,2011,actual,Mayor,Solar America Cities,0.00,79
+2017-operating-adopted,2012,actual,Mayor,Solar America Cities,0.00,79
+2017-operating-adopted,2013,actual,Mayor,Solar America Cities,0.00,79
+2017-operating-adopted,2014,actual,Mayor,Solar America Cities,0.00,79
+2017-operating-adopted,2015,actual,Mayor,Solar America Cities,0.00,79
+2017-operating-adopted,2016,adopted,Mayor,Solar America Cities,0.00,79
+2017-operating-adopted,2017,adopted,Mayor,Solar America Cities,0.00,79
+2017-operating-adopted,2009,actual,Mayor,CeaseFire,0.00,79
+2017-operating-adopted,2010,actual,Mayor,CeaseFire,0.00,79
+2017-operating-adopted,2011,actual,Mayor,CeaseFire,0.00,79
+2017-operating-adopted,2012,actual,Mayor,CeaseFire,1.00,79
+2017-operating-adopted,2013,actual,Mayor,CeaseFire,1.00,79
+2017-operating-adopted,2014,actual,Mayor,CeaseFire,1.00,79
+2017-operating-adopted,2015,actual,Mayor,CeaseFire,1.00,79
+2017-operating-adopted,2016,adopted,Mayor,CeaseFire,1.00,79
+2017-operating-adopted,2017,adopted,Mayor,CeaseFire,1.00,79
+2017-operating-adopted,2009,actual,Mayor,Project Delivery Unit,0.00,79
+2017-operating-adopted,2010,actual,Mayor,Project Delivery Unit,0.00,79
+2017-operating-adopted,2011,actual,Mayor,Project Delivery Unit,30.00,79
+2017-operating-adopted,2012,actual,Mayor,Project Delivery Unit,30.00,79
+2017-operating-adopted,2013,actual,Mayor,Project Delivery Unit,43.00,79
+2017-operating-adopted,2014,actual,Mayor,Project Delivery Unit,61.00,79
+2017-operating-adopted,2015,actual,Mayor,Project Delivery Unit,60.00,79
+2017-operating-adopted,2016,adopted,Mayor,Project Delivery Unit,65.00,79
+2017-operating-adopted,2017,adopted,Mayor,Project Delivery Unit,97.90,79
+2017-operating-adopted,2009,actual,Chief Administrative Office,Office of Emergency Preparedness,10.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,Office of Emergency Preparedness,9.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,Office of Emergency Preparedness,10.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,Office of Emergency Preparedness,6.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,Office of Emergency Preparedness,0.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,Office of Emergency Preparedness,0.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,Office of Emergency Preparedness,0.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,Office of Emergency Preparedness,0.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,Office of Emergency Preparedness,0.00,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,Executive Office,6.49,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,Executive Office,7.49,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,Executive Office,6.49,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,Executive Office,7.49,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,Executive Office,7.49,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,Executive Office,7.40,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,Executive Office,8.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,Executive Office,8.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,Executive Office,8.00,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,Office of Municipal Investment,0.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,Office of Municipal Investment,0.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,Office of Municipal Investment,0.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,Office of Municipal Investment,0.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,Office of Municipal Investment,0.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,Office of Municipal Investment,0.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,Office of Municipal Investment,0.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,Office of Municipal Investment,0.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,Office of Municipal Investment,0.00,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,Management Information Systems,21.48,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,Management Information Systems,21.48,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,Management Information Systems,43.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,Management Information Systems,26.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,Management Information Systems,42.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,Management Information Systems,46.48,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,Management Information Systems,31.48,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,Management Information Systems,32.49,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,Management Information Systems,36.49,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,311 Call Center Operations,16.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,311 Call Center Operations,13.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,311 Call Center Operations,13.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,311 Call Center Operations,13.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,311 Call Center Operations,15.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,311 Call Center Operations,14.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,311 Call Center Operations,14.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,311 Call Center Operations,15.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,311 Call Center Operations,14.10,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,CAO-Personnel/Office Mgmt,2.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,CAO-Personnel/Office Mgmt,2.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,CAO-Personnel/Office Mgmt,2.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,CAO-Personnel/Office Mgmt,2.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,CAO-Personnel/Office Mgmt,2.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,CAO-Personnel/Office Mgmt,1.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,CAO-Personnel/Office Mgmt,0.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,CAO-Personnel/Office Mgmt,0.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,CAO-Personnel/Office Mgmt,0.00,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,CAO-Benefits Administration,4.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,CAO-Benefits Administration,4.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,CAO-Benefits Administration,4.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,CAO-Benefits Administration,4.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,CAO-Benefits Administration,3.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,CAO-Benefits Administration,2.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,CAO-Benefits Administration,5.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,CAO-Benefits Administration,5.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,CAO-Benefits Administration,4.49,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,Munc. Training Academy,1.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,Munc. Training Academy,1.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,Munc. Training Academy,0.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,Munc. Training Academy,0.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,Munc. Training Academy,1.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,Munc. Training Academy,1.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,Munc. Training Academy,3.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,Munc. Training Academy,2.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,Munc. Training Academy,2.00,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,Mail Room,2.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,Mail Room,2.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,Mail Room,2.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,Mail Room,2.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,Mail Room,2.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,Mail Room,2.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,Mail Room,2.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,Mail Room,2.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,Mail Room,2.00,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,Budget and Planning,4.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,Budget and Planning,5.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,Budget and Planning,8.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,Budget and Planning,7.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,Budget and Planning,8.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,Budget and Planning,8.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,Budget and Planning,8.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,Budget and Planning,9.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,Budget and Planning,9.00,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,C A O Employee Relations,2.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,C A O Employee Relations,1.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,C A O Employee Relations,2.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,C A O Employee Relations,1.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,C A O Employee Relations,1.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,C A O Employee Relations,1.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,C A O Employee Relations,0.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,C A O Employee Relations,1.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,C A O Employee Relations,1.00,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,CAO-Capital Projects,7.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,CAO-Capital Projects,7.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,CAO-Capital Projects,7.15,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,CAO-Capital Projects,7.15,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,CAO-Capital Projects,2.78,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,CAO-Capital Projects,8.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,CAO-Capital Projects,8.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,CAO-Capital Projects,8.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,CAO-Capital Projects,6.00,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,EMD-General Maintenance,18.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,EMD-General Maintenance,19.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,EMD-General Maintenance,18.98,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,EMD-General Maintenance,18.98,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,EMD-General Maintenance,18.98,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,EMD-General Maintenance,18.98,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,EMD-General Maintenance,17.98,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,EMD-General Maintenance,16.07,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,EMD-General Maintenance,15.62,80
+2017-operating-adopted,2009,actual,Chief Administrative Office,Service & Innovation,0.00,80
+2017-operating-adopted,2010,actual,Chief Administrative Office,Service & Innovation,0.00,80
+2017-operating-adopted,2011,actual,Chief Administrative Office,Service & Innovation,0.00,80
+2017-operating-adopted,2012,actual,Chief Administrative Office,Service & Innovation,9.00,80
+2017-operating-adopted,2013,actual,Chief Administrative Office,Service & Innovation,0.00,80
+2017-operating-adopted,2014,actual,Chief Administrative Office,Service & Innovation,0.00,80
+2017-operating-adopted,2015,actual,Chief Administrative Office,Service & Innovation,0.00,80
+2017-operating-adopted,2016,adopted,Chief Administrative Office,Service & Innovation,0.00,80
+2017-operating-adopted,2017,adopted,Chief Administrative Office,Service & Innovation,0.00,80
+2017-operating-adopted,2009,actual,Law,Law Administration,27.00,80
+2017-operating-adopted,2010,actual,Law,Law Administration,25.80,80
+2017-operating-adopted,2011,actual,Law,Law Administration,27.00,80
+2017-operating-adopted,2012,actual,Law,Law Administration,23.00,80
+2017-operating-adopted,2013,actual,Law,Law Administration,20.49,80
+2017-operating-adopted,2014,actual,Law,Law Administration,7.00,80
+2017-operating-adopted,2015,actual,Law,Law Administration,11.00,80
+2017-operating-adopted,2016,adopted,Law,Law Administration,11.00,80
+2017-operating-adopted,2017,adopted,Law,Law Administration,9.00,80
+2017-operating-adopted,2009,actual,Law,Law In-House,0.00,80
+2017-operating-adopted,2010,actual,Law,Law In-House,0.00,80
+2017-operating-adopted,2011,actual,Law,Law In-House,0.00,80
+2017-operating-adopted,2012,actual,Law,Law In-House,0.00,80
+2017-operating-adopted,2013,actual,Law,Law In-House,0.00,80
+2017-operating-adopted,2014,actual,Law,Law In-House,4.49,80
+2017-operating-adopted,2015,actual,Law,Law In-House,4.49,80
+2017-operating-adopted,2016,adopted,Law,Law In-House,5.50,80
+2017-operating-adopted,2017,adopted,Law,Law In-House,5.04,80
+2017-operating-adopted,2009,actual,Law,Law Contracts,0.00,80
+2017-operating-adopted,2010,actual,Law,Law Contracts,0.00,80
+2017-operating-adopted,2011,actual,Law,Law Contracts,0.00,80
+2017-operating-adopted,2012,actual,Law,Law Contracts,0.00,80
+2017-operating-adopted,2013,actual,Law,Law Contracts,0.00,80
+2017-operating-adopted,2014,actual,Law,Law Contracts,7.00,80
+2017-operating-adopted,2015,actual,Law,Law Contracts,7.00,80
+2017-operating-adopted,2016,adopted,Law,Law Contracts,6.00,80
+2017-operating-adopted,2017,adopted,Law,Law Contracts,6.00,80
+2017-operating-adopted,2009,actual,Law,Police Litigation,7.00,80
+2017-operating-adopted,2010,actual,Law,Police Litigation,8.00,80
+2017-operating-adopted,2011,actual,Law,Police Litigation,8.00,80
+2017-operating-adopted,2012,actual,Law,Police Litigation,8.00,80
+2017-operating-adopted,2013,actual,Law,Police Litigation,9.00,80
+2017-operating-adopted,2014,actual,Law,Police Litigation,9.00,80
+2017-operating-adopted,2015,actual,Law,Police Litigation,9.00,80
+2017-operating-adopted,2016,adopted,Law,Police Litigation,11.00,80
+2017-operating-adopted,2017,adopted,Law,Police Litigation,12.00,80
+2017-operating-adopted,2009,actual,Law,Municipal and Traffic,11.00,80
+2017-operating-adopted,2010,actual,Law,Municipal and Traffic,12.00,80
+2017-operating-adopted,2011,actual,Law,Municipal and Traffic,13.00,80
+2017-operating-adopted,2012,actual,Law,Municipal and Traffic,13.00,80
+2017-operating-adopted,2013,actual,Law,Municipal and Traffic,14.00,80
+2017-operating-adopted,2014,actual,Law,Municipal and Traffic,13.00,80
+2017-operating-adopted,2015,actual,Law,Municipal and Traffic,14.00,80
+2017-operating-adopted,2016,adopted,Law,Municipal and Traffic,14.00,80
+2017-operating-adopted,2017,adopted,Law,Municipal and Traffic,15.00,80
+2017-operating-adopted,2009,actual,Law,Risk Management,2.00,80
+2017-operating-adopted,2010,actual,Law,Risk Management,2.00,80
+2017-operating-adopted,2011,actual,Law,Risk Management,3.00,80
+2017-operating-adopted,2012,actual,Law,Risk Management,3.00,80
+2017-operating-adopted,2013,actual,Law,Risk Management,0.00,80
+2017-operating-adopted,2014,actual,Law,Risk Management,0.00,80
+2017-operating-adopted,2015,actual,Law,Risk Management,0.00,80
+2017-operating-adopted,2016,adopted,Law,Risk Management,0.00,80
+2017-operating-adopted,2017,adopted,Law,Risk Management,0.00,80
+2017-operating-adopted,2009,actual,Police,Office of the Superintendent,34.00,81
+2017-operating-adopted,2010,actual,Police,Office of the Superintendent,37.00,81
+2017-operating-adopted,2011,actual,Police,Office of the Superintendent,47.00,81
+2017-operating-adopted,2012,actual,Police,Office of the Superintendent,47.00,81
+2017-operating-adopted,2013,actual,Police,Office of the Superintendent,47.00,81
+2017-operating-adopted,2014,actual,Police,Office of the Superintendent,43.00,81
+2017-operating-adopted,2015,actual,Police,Office of the Superintendent,37.00,81
+2017-operating-adopted,2016,adopted,Police,Office of the Superintendent,19.00,81
+2017-operating-adopted,2017,adopted,Police,Office of the Superintendent,8.00,81
+2017-operating-adopted,2009,actual,Police,Public Integrity,32.00,81
+2017-operating-adopted,2010,actual,Police,Public Integrity,31.00,81
+2017-operating-adopted,2011,actual,Police,Public Integrity,37.00,81
+2017-operating-adopted,2012,actual,Police,Public Integrity,37.00,81
+2017-operating-adopted,2013,actual,Police,Public Integrity,40.00,81
+2017-operating-adopted,2014,actual,Police,Public Integrity,38.00,81
+2017-operating-adopted,2015,actual,Police,Public Integrity,36.49,81
+2017-operating-adopted,2016,adopted,Police,Public Integrity,40.50,81
+2017-operating-adopted,2017,adopted,Police,Public Integrity,39.05,81
+2017-operating-adopted,2009,actual,Health,Head of Environ Asthma in LA,7.00,82
+2017-operating-adopted,2010,actual,Health,Head of Environ Asthma in LA,1.00,82
+2017-operating-adopted,2011,actual,Health,Head of Environ Asthma in LA,0.00,82
+2017-operating-adopted,2012,actual,Health,Head of Environ Asthma in LA,0.00,82
+2017-operating-adopted,2013,actual,Health,Head of Environ Asthma in LA,0.00,82
+2017-operating-adopted,2014,actual,Health,Head of Environ Asthma in LA,0.00,82
+2017-operating-adopted,2015,actual,Health,Head of Environ Asthma in LA,0.00,82
+2017-operating-adopted,2016,adopted,Health,Head of Environ Asthma in LA,0.00,82
+2017-operating-adopted,2017,adopted,Health,Head of Environ Asthma in LA,0.00,82
+2017-operating-adopted,2009,actual,Health,Admin Adjudication,2.00,82
+2017-operating-adopted,2010,actual,Health,Admin Adjudication,2.00,82
+2017-operating-adopted,2011,actual,Health,Admin Adjudication,0.00,82
+2017-operating-adopted,2012,actual,Health,Admin Adjudication,0.00,82
+2017-operating-adopted,2013,actual,Health,Admin Adjudication,0.00,82
+2017-operating-adopted,2014,actual,Health,Admin Adjudication,0.00,82
+2017-operating-adopted,2015,actual,Health,Admin Adjudication,0.00,82
+2017-operating-adopted,2016,adopted,Health,Admin Adjudication,0.00,82
+2017-operating-adopted,2017,adopted,Health,Admin Adjudication,0.00,82
+2017-operating-adopted,2009,actual,Health,Health-Environmental Enforcement,5.00,82
+2017-operating-adopted,2010,actual,Health,Health-Environmental Enforcement,5.00,82
+2017-operating-adopted,2011,actual,Health,Health-Environmental Enforcement,0.00,82
+2017-operating-adopted,2012,actual,Health,Health-Environmental Enforcement,0.00,82
+2017-operating-adopted,2013,actual,Health,Health-Environmental Enforcement,0.00,82
+2017-operating-adopted,2014,actual,Health,Health-Environmental Enforcement,0.00,82
+2017-operating-adopted,2015,actual,Health,Health-Environmental Enforcement,0.00,82
+2017-operating-adopted,2016,adopted,Health,Health-Environmental Enforcement,0.00,82
+2017-operating-adopted,2017,adopted,Health,Health-Environmental Enforcement,0.00,82
+2017-operating-adopted,2009,actual,Health,Carver School-GF,1.00,82
+2017-operating-adopted,2010,actual,Health,Carver School-GF,1.00,82
+2017-operating-adopted,2011,actual,Health,Carver School-GF,0.00,82
+2017-operating-adopted,2012,actual,Health,Carver School-GF,0.00,82
+2017-operating-adopted,2013,actual,Health,Carver School-GF,0.00,82
+2017-operating-adopted,2014,actual,Health,Carver School-GF,0.00,82
+2017-operating-adopted,2015,actual,Health,Carver School-GF,0.00,82
+2017-operating-adopted,2016,adopted,Health,Carver School-GF,0.00,82
+2017-operating-adopted,2017,adopted,Health,Carver School-GF,0.00,82
+2017-operating-adopted,2009,actual,Health,Healthy Start Initiative,0.00,82
+2017-operating-adopted,2010,actual,Health,Healthy Start Initiative,0.00,82
+2017-operating-adopted,2011,actual,Health,Healthy Start Initiative,0.00,82
+2017-operating-adopted,2012,actual,Health,Healthy Start Initiative,0.00,82
+2017-operating-adopted,2013,actual,Health,Healthy Start Initiative,29.48,82
+2017-operating-adopted,2014,actual,Health,Healthy Start Initiative,25.96,82
+2017-operating-adopted,2015,actual,Health,Healthy Start Initiative,24.48,82
+2017-operating-adopted,2016,adopted,Health,Healthy Start Initiative,26.00,82
+2017-operating-adopted,2017,adopted,Health,Healthy Start Initiative,22.00,82
+2017-operating-adopted,2009,actual,Health,Algiers Fischer Clinic,2.00,83
+2017-operating-adopted,2010,actual,Health,Algiers Fischer Clinic,1.00,83
+2017-operating-adopted,2011,actual,Health,Algiers Fischer Clinic,1.00,83
+2017-operating-adopted,2012,actual,Health,Algiers Fischer Clinic,1.00,83
+2017-operating-adopted,2013,actual,Health,Algiers Fischer Clinic,0.00,83
+2017-operating-adopted,2014,actual,Health,Algiers Fischer Clinic,0.00,83
+2017-operating-adopted,2015,actual,Health,Algiers Fischer Clinic,0.00,83
+2017-operating-adopted,2016,adopted,Health,Algiers Fischer Clinic,0.00,83
+2017-operating-adopted,2017,adopted,Health,Algiers Fischer Clinic,0.00,83
+2017-operating-adopted,2009,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2010,actual,Health,Code Enforcement,16.00,83
+2017-operating-adopted,2011,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2012,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2013,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2014,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2015,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2016,adopted,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2017,adopted,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2009,actual,Health,Healthcare/Homeless,0.00,83
+2017-operating-adopted,2010,actual,Health,Healthcare/Homeless,0.00,83
+2017-operating-adopted,2011,actual,Health,Healthcare/Homeless,0.00,83
+2017-operating-adopted,2012,actual,Health,Healthcare/Homeless,10.00,83
+2017-operating-adopted,2013,actual,Health,Healthcare/Homeless,17.00,83
+2017-operating-adopted,2014,actual,Health,Healthcare/Homeless,17.49,83
+2017-operating-adopted,2015,actual,Health,Healthcare/Homeless,14.91,83
+2017-operating-adopted,2016,adopted,Health,Healthcare/Homeless,15.23,83
+2017-operating-adopted,2017,adopted,Health,Healthcare/Homeless,16.47,83
+2017-operating-adopted,2009,actual,Health,Nursing Services,12.00,83
+2017-operating-adopted,2010,actual,Health,Nursing Services,13.00,83
+2017-operating-adopted,2011,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2012,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2013,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2014,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2015,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2016,adopted,Health,Nursing Services,0.00,83
+2017-operating-adopted,2017,adopted,Health,Nursing Services,0.00,83
+2017-operating-adopted,2009,actual,Health,Emergency Medical Service,102.00,83
+2017-operating-adopted,2010,actual,Health,Emergency Medical Service,103.75,83
+2017-operating-adopted,2011,actual,Health,Emergency Medical Service,118.50,83
+2017-operating-adopted,2012,actual,Health,Emergency Medical Service,126.50,83
+2017-operating-adopted,2013,actual,Health,Emergency Medical Service,117.50,83
+2017-operating-adopted,2014,actual,Health,Emergency Medical Service,58.75,83
+2017-operating-adopted,2015,actual,Health,Emergency Medical Service,89.75,83
+2017-operating-adopted,2016,adopted,Health,Emergency Medical Service,88.75,83
+2017-operating-adopted,2017,adopted,Health,Emergency Medical Service,99.25,83
+2017-operating-adopted,2009,actual,Health,Emergency Med. Serv. Logisti/SOD,0.00,83
+2017-operating-adopted,2010,actual,Health,Emergency Med. Serv. Logisti/SOD,0.00,83
+2017-operating-adopted,2011,actual,Health,Emergency Med. Serv. Logisti/SOD,0.00,83
+2017-operating-adopted,2012,actual,Health,Emergency Med. Serv. Logisti/SOD,0.00,83
+2017-operating-adopted,2013,actual,Health,Emergency Med. Serv. Logisti/SOD,0.00,83
+2017-operating-adopted,2014,actual,Health,Emergency Med. Serv. Logisti/SOD,8.00,83
+2017-operating-adopted,2015,actual,Health,Emergency Med. Serv. Logisti/SOD,3.00,83
+2017-operating-adopted,2016,adopted,Health,Emergency Med. Serv. Logisti/SOD,3.00,83
+2017-operating-adopted,2017,adopted,Health,Emergency Med. Serv. Logisti/SOD,3.00,83
+2017-operating-adopted,2009,actual,Health,Asthma Diabetes & Obesity,3.00,83
+2017-operating-adopted,2010,actual,Health,Asthma Diabetes & Obesity,0.00,83
+2017-operating-adopted,2011,actual,Health,Asthma Diabetes & Obesity,0.00,83
+2017-operating-adopted,2012,actual,Health,Asthma Diabetes & Obesity,0.00,83
+2017-operating-adopted,2013,actual,Health,Asthma Diabetes & Obesity,0.00,83
+2017-operating-adopted,2014,actual,Health,Asthma Diabetes & Obesity,0.00,83
+2017-operating-adopted,2015,actual,Health,Asthma Diabetes & Obesity,0.00,83
+2017-operating-adopted,2016,adopted,Health,Asthma Diabetes & Obesity,0.00,83
+2017-operating-adopted,2017,adopted,Health,Asthma Diabetes & Obesity,0.00,83
+2017-operating-adopted,2009,actual,Health,Health Care/Homeless,16.00,83
+2017-operating-adopted,2010,actual,Health,Health Care/Homeless,12.00,83
+2017-operating-adopted,2011,actual,Health,Health Care/Homeless,10.00,83
+2017-operating-adopted,2012,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2013,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2014,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2015,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2016,adopted,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2017,adopted,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2009,actual,Health,Code Enforcement,17.00,83
+2017-operating-adopted,2010,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2011,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2012,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2013,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2014,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2015,actual,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2016,adopted,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2017,adopted,Health,Code Enforcement,0.00,83
+2017-operating-adopted,2009,actual,Health,Essential Pub Health Services,0.00,83
+2017-operating-adopted,2010,actual,Health,Essential Pub Health Services,0.00,83
+2017-operating-adopted,2011,actual,Health,Essential Pub Health Services,0.00,83
+2017-operating-adopted,2012,actual,Health,Essential Pub Health Services,8.00,83
+2017-operating-adopted,2013,actual,Health,Essential Pub Health Services,7.48,83
+2017-operating-adopted,2014,actual,Health,Essential Pub Health Services,6.48,83
+2017-operating-adopted,2015,actual,Health,Essential Pub Health Services,6.48,83
+2017-operating-adopted,2016,adopted,Health,Essential Pub Health Services,7.79,83
+2017-operating-adopted,2017,adopted,Health,Essential Pub Health Services,8.99,83
+2017-operating-adopted,2009,actual,Health,Strategic Prevention Framework,1.00,83
+2017-operating-adopted,2010,actual,Health,Strategic Prevention Framework,1.00,83
+2017-operating-adopted,2011,actual,Health,Strategic Prevention Framework,0.00,83
+2017-operating-adopted,2012,actual,Health,Strategic Prevention Framework,0.00,83
+2017-operating-adopted,2013,actual,Health,Strategic Prevention Framework,0.00,83
+2017-operating-adopted,2014,actual,Health,Strategic Prevention Framework,0.00,83
+2017-operating-adopted,2015,actual,Health,Strategic Prevention Framework,0.00,83
+2017-operating-adopted,2016,adopted,Health,Strategic Prevention Framework,0.00,83
+2017-operating-adopted,2017,adopted,Health,Strategic Prevention Framework,0.00,83
+2017-operating-adopted,2009,actual,Health,Primary Care Access Program,22.50,83
+2017-operating-adopted,2010,actual,Health,Primary Care Access Program,21.00,83
+2017-operating-adopted,2011,actual,Health,Primary Care Access Program,0.00,83
+2017-operating-adopted,2012,actual,Health,Primary Care Access Program,0.00,83
+2017-operating-adopted,2013,actual,Health,Primary Care Access Program,0.00,83
+2017-operating-adopted,2014,actual,Health,Primary Care Access Program,0.00,83
+2017-operating-adopted,2015,actual,Health,Primary Care Access Program,0.00,83
+2017-operating-adopted,2016,adopted,Health,Primary Care Access Program,0.00,83
+2017-operating-adopted,2017,adopted,Health,Primary Care Access Program,0.00,83
+2017-operating-adopted,2009,actual,Health,Primary Care Access Supplement,4.00,83
+2017-operating-adopted,2010,actual,Health,Primary Care Access Supplement,10.00,83
+2017-operating-adopted,2011,actual,Health,Primary Care Access Supplement,0.00,83
+2017-operating-adopted,2012,actual,Health,Primary Care Access Supplement,0.00,83
+2017-operating-adopted,2013,actual,Health,Primary Care Access Supplement,0.00,83
+2017-operating-adopted,2014,actual,Health,Primary Care Access Supplement,0.00,83
+2017-operating-adopted,2015,actual,Health,Primary Care Access Supplement,0.00,83
+2017-operating-adopted,2016,adopted,Health,Primary Care Access Supplement,0.00,83
+2017-operating-adopted,2017,adopted,Health,Primary Care Access Supplement,0.00,83
+2017-operating-adopted,2009,actual,Health,WIC Food Program,8.00,83
+2017-operating-adopted,2010,actual,Health,WIC Food Program,6.00,83
+2017-operating-adopted,2011,actual,Health,WIC Food Program,10.00,83
+2017-operating-adopted,2012,actual,Health,WIC Food Program,10.00,83
+2017-operating-adopted,2013,actual,Health,WIC Food Program,13.00,83
+2017-operating-adopted,2014,actual,Health,WIC Food Program,13.00,83
+2017-operating-adopted,2015,actual,Health,WIC Food Program,12.00,83
+2017-operating-adopted,2016,adopted,Health,WIC Food Program,12.00,83
+2017-operating-adopted,2017,adopted,Health,WIC Food Program,12.00,83
+2017-operating-adopted,2009,actual,Health,Supplemental Food Program,0.00,83
+2017-operating-adopted,2010,actual,Health,Supplemental Food Program,0.00,83
+2017-operating-adopted,2011,actual,Health,Supplemental Food Program,0.00,83
+2017-operating-adopted,2012,actual,Health,Supplemental Food Program,0.00,83
+2017-operating-adopted,2013,actual,Health,Supplemental Food Program,0.00,83
+2017-operating-adopted,2014,actual,Health,Supplemental Food Program,0.00,83
+2017-operating-adopted,2015,actual,Health,Supplemental Food Program,0.00,83
+2017-operating-adopted,2016,adopted,Health,Supplemental Food Program,0.00,83
+2017-operating-adopted,2017,adopted,Health,Supplemental Food Program,0.00,83
+2017-operating-adopted,2009,actual,Health,EPSDT Medical Services,4.00,83
+2017-operating-adopted,2010,actual,Health,EPSDT Medical Services,3.00,83
+2017-operating-adopted,2011,actual,Health,EPSDT Medical Services,0.00,83
+2017-operating-adopted,2012,actual,Health,EPSDT Medical Services,0.00,83
+2017-operating-adopted,2013,actual,Health,EPSDT Medical Services,0.00,83
+2017-operating-adopted,2014,actual,Health,EPSDT Medical Services,0.00,83
+2017-operating-adopted,2015,actual,Health,EPSDT Medical Services,0.00,83
+2017-operating-adopted,2016,adopted,Health,EPSDT Medical Services,0.00,83
+2017-operating-adopted,2017,adopted,Health,EPSDT Medical Services,0.00,83
+2017-operating-adopted,2009,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2010,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2011,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2012,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2013,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2014,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2015,actual,Health,Nursing Services,0.00,83
+2017-operating-adopted,2016,adopted,Health,Nursing Services,0.20,83
+2017-operating-adopted,2017,adopted,Health,Nursing Services,0.00,83
+2017-operating-adopted,2009,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2010,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2011,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2012,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2013,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2014,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2015,actual,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2016,adopted,Health,Health Care/Homeless,1.10,83
+2017-operating-adopted,2017,adopted,Health,Health Care/Homeless,0.00,83
+2017-operating-adopted,2009,actual,Health,Carver School Clinic,0.00,83
+2017-operating-adopted,2010,actual,Health,Carver School Clinic,0.00,83
+2017-operating-adopted,2011,actual,Health,Carver School Clinic,0.00,83
+2017-operating-adopted,2012,actual,Health,Carver School Clinic,0.00,83
+2017-operating-adopted,2013,actual,Health,Carver School Clinic,0.00,83
+2017-operating-adopted,2014,actual,Health,Carver School Clinic,0.00,83
+2017-operating-adopted,2015,actual,Health,Carver School Clinic,0.00,83
+2017-operating-adopted,2016,adopted,Health,Carver School Clinic,1.00,83
+2017-operating-adopted,2017,adopted,Health,Carver School Clinic,0.00,83
+2017-operating-adopted,2009,actual,Health,Homeless Evaluation,0.00,83
+2017-operating-adopted,2010,actual,Health,Homeless Evaluation,0.00,83
+2017-operating-adopted,2011,actual,Health,Homeless Evaluation,0.00,83
+2017-operating-adopted,2012,actual,Health,Homeless Evaluation,0.00,83
+2017-operating-adopted,2013,actual,Health,Homeless Evaluation,0.00,83
+2017-operating-adopted,2014,actual,Health,Homeless Evaluation,0.10,83
+2017-operating-adopted,2015,actual,Health,Homeless Evaluation,0.00,83
+2017-operating-adopted,2016,adopted,Health,Homeless Evaluation,0.00,83
+2017-operating-adopted,2017,adopted,Health,Homeless Evaluation,0.00,83
+2017-operating-adopted,2009,actual,Health,Strong Start,0.00,83
+2017-operating-adopted,2010,actual,Health,Strong Start,0.00,83
+2017-operating-adopted,2011,actual,Health,Strong Start,0.00,83
+2017-operating-adopted,2012,actual,Health,Strong Start,0.00,83
+2017-operating-adopted,2013,actual,Health,Strong Start,0.00,83
+2017-operating-adopted,2014,actual,Health,Strong Start,2.00,83
+2017-operating-adopted,2015,actual,Health,Strong Start,1.00,83
+2017-operating-adopted,2016,adopted,Health,Strong Start,2.00,83
+2017-operating-adopted,2017,adopted,Health,Strong Start,0.00,83
+2017-operating-adopted,2009,actual,Health,Blood Lead Surveillance,0.00,83
+2017-operating-adopted,2010,actual,Health,Blood Lead Surveillance,2.00,83
+2017-operating-adopted,2011,actual,Health,Blood Lead Surveillance,2.00,83
+2017-operating-adopted,2012,actual,Health,Blood Lead Surveillance,2.00,83
+2017-operating-adopted,2013,actual,Health,Blood Lead Surveillance,0.00,83
+2017-operating-adopted,2014,actual,Health,Blood Lead Surveillance,0.00,83
+2017-operating-adopted,2015,actual,Health,Blood Lead Surveillance,0.00,83
+2017-operating-adopted,2016,adopted,Health,Blood Lead Surveillance,0.00,83
+2017-operating-adopted,2017,adopted,Health,Blood Lead Surveillance,0.00,83
+2017-operating-adopted,2009,actual,Health,Lead Poison Prevention,3.00,83
+2017-operating-adopted,2010,actual,Health,Lead Poison Prevention,0.00,83
+2017-operating-adopted,2011,actual,Health,Lead Poison Prevention,0.00,83
+2017-operating-adopted,2012,actual,Health,Lead Poison Prevention,0.00,83
+2017-operating-adopted,2013,actual,Health,Lead Poison Prevention,0.00,83
+2017-operating-adopted,2014,actual,Health,Lead Poison Prevention,0.00,83
+2017-operating-adopted,2015,actual,Health,Lead Poison Prevention,0.00,83
+2017-operating-adopted,2016,adopted,Health,Lead Poison Prevention,0.00,83
+2017-operating-adopted,2017,adopted,Health,Lead Poison Prevention,0.00,83
+2017-operating-adopted,2009,actual,Health,Kellogg Sufoc,0.00,83
+2017-operating-adopted,2010,actual,Health,Kellogg Sufoc,0.00,83
+2017-operating-adopted,2011,actual,Health,Kellogg Sufoc,0.00,83
+2017-operating-adopted,2012,actual,Health,Kellogg Sufoc,0.00,83
+2017-operating-adopted,2013,actual,Health,Kellogg Sufoc,0.00,83
+2017-operating-adopted,2014,actual,Health,Kellogg Sufoc,2.00,83
+2017-operating-adopted,2015,actual,Health,Kellogg Sufoc,0.00,83
+2017-operating-adopted,2016,adopted,Health,Kellogg Sufoc,0.00,83
+2017-operating-adopted,2017,adopted,Health,Kellogg Sufoc,0.00,83
+2017-operating-adopted,2009,actual,Health,Ryan White Administration,0.00,83
+2017-operating-adopted,2010,actual,Health,Ryan White Administration,0.00,83
+2017-operating-adopted,2011,actual,Health,Ryan White Administration,0.00,83
+2017-operating-adopted,2012,actual,Health,Ryan White Administration,0.00,83
+2017-operating-adopted,2013,actual,Health,Ryan White Administration,3.00,83
+2017-operating-adopted,2014,actual,Health,Ryan White Administration,2.00,83
+2017-operating-adopted,2015,actual,Health,Ryan White Administration,2.00,83
+2017-operating-adopted,2016,adopted,Health,Ryan White Administration,2.00,83
+2017-operating-adopted,2017,adopted,Health,Ryan White Administration,2.00,83
+2017-operating-adopted,2009,actual,Health,Ryan White Quality Mgmt.,0.00,83
+2017-operating-adopted,2010,actual,Health,Ryan White Quality Mgmt.,0.00,83
+2017-operating-adopted,2011,actual,Health,Ryan White Quality Mgmt.,0.00,83
+2017-operating-adopted,2012,actual,Health,Ryan White Quality Mgmt.,0.00,83
+2017-operating-adopted,2013,actual,Health,Ryan White Quality Mgmt.,3.00,83
+2017-operating-adopted,2014,actual,Health,Ryan White Quality Mgmt.,3.00,83
+2017-operating-adopted,2015,actual,Health,Ryan White Quality Mgmt.,3.00,83
+2017-operating-adopted,2016,adopted,Health,Ryan White Quality Mgmt.,3.00,83
+2017-operating-adopted,2017,adopted,Health,Ryan White Quality Mgmt.,2.00,83
+2017-operating-adopted,2009,actual,Health,Ryan White Program Support,0.00,83
+2017-operating-adopted,2010,actual,Health,Ryan White Program Support,0.00,83
+2017-operating-adopted,2011,actual,Health,Ryan White Program Support,0.00,83
+2017-operating-adopted,2012,actual,Health,Ryan White Program Support,0.00,83
+2017-operating-adopted,2013,actual,Health,Ryan White Program Support,1.00,83
+2017-operating-adopted,2014,actual,Health,Ryan White Program Support,1.00,83
+2017-operating-adopted,2015,actual,Health,Ryan White Program Support,1.00,83
+2017-operating-adopted,2016,adopted,Health,Ryan White Program Support,1.00,83
+2017-operating-adopted,2017,adopted,Health,Ryan White Program Support,1.00,83
+2017-operating-adopted,2009,actual,Health,Emergency Med Serv Admin,0.00,83
+2017-operating-adopted,2010,actual,Health,Emergency Med Serv Admin,0.00,83
+2017-operating-adopted,2011,actual,Health,Emergency Med Serv Admin,0.00,83
+2017-operating-adopted,2012,actual,Health,Emergency Med Serv Admin,0.00,83
+2017-operating-adopted,2013,actual,Health,Emergency Med Serv Admin,0.00,83
+2017-operating-adopted,2014,actual,Health,Emergency Med Serv Admin,5.50,83
+2017-operating-adopted,2015,actual,Health,Emergency Med Serv Admin,6.25,83
+2017-operating-adopted,2016,adopted,Health,Emergency Med Serv Admin,6.25,83
+2017-operating-adopted,2017,adopted,Health,Emergency Med Serv Admin,7.25,83
+2017-operating-adopted,2009,actual,Health,EPSDT Dental,1.56,83
+2017-operating-adopted,2010,actual,Health,EPSDT Dental,1.56,83
+2017-operating-adopted,2011,actual,Health,EPSDT Dental,0.00,83
+2017-operating-adopted,2012,actual,Health,EPSDT Dental,0.00,83
+2017-operating-adopted,2013,actual,Health,EPSDT Dental,0.00,83
+2017-operating-adopted,2014,actual,Health,EPSDT Dental,0.00,83
+2017-operating-adopted,2015,actual,Health,EPSDT Dental,0.00,83
+2017-operating-adopted,2016,adopted,Health,EPSDT Dental,0.00,83
+2017-operating-adopted,2017,adopted,Health,EPSDT Dental,0.00,83
+2017-operating-adopted,2009,actual,Health,Mobile Dental Care,0.84,83
+2017-operating-adopted,2010,actual,Health,Mobile Dental Care,0.84,83
+2017-operating-adopted,2011,actual,Health,Mobile Dental Care,0.00,83
+2017-operating-adopted,2012,actual,Health,Mobile Dental Care,0.00,83
+2017-operating-adopted,2013,actual,Health,Mobile Dental Care,0.00,83
+2017-operating-adopted,2014,actual,Health,Mobile Dental Care,0.00,83
+2017-operating-adopted,2015,actual,Health,Mobile Dental Care,0.00,83
+2017-operating-adopted,2016,adopted,Health,Mobile Dental Care,0.00,83
+2017-operating-adopted,2017,adopted,Health,Mobile Dental Care,0.00,83
+2017-operating-adopted,2009,actual,Health,Lsu Best Baby Zone Project,0.00,83
+2017-operating-adopted,2010,actual,Health,Lsu Best Baby Zone Project,0.00,83
+2017-operating-adopted,2011,actual,Health,Lsu Best Baby Zone Project,0.00,83
+2017-operating-adopted,2012,actual,Health,Lsu Best Baby Zone Project,0.00,83
+2017-operating-adopted,2013,actual,Health,Lsu Best Baby Zone Project,0.00,83
+2017-operating-adopted,2014,actual,Health,Lsu Best Baby Zone Project,2.00,83
+2017-operating-adopted,2015,actual,Health,Lsu Best Baby Zone Project,0.00,83
+2017-operating-adopted,2016,adopted,Health,Lsu Best Baby Zone Project,0.00,83
+2017-operating-adopted,2017,adopted,Health,Lsu Best Baby Zone Project,0.00,83
+2017-operating-adopted,2009,actual,Health,Emergency Med. Serv. Call Center,0.00,83
+2017-operating-adopted,2010,actual,Health,Emergency Med. Serv. Call Center,0.00,83
+2017-operating-adopted,2011,actual,Health,Emergency Med. Serv. Call Center,0.00,83
+2017-operating-adopted,2012,actual,Health,Emergency Med. Serv. Call Center,0.00,83
+2017-operating-adopted,2013,actual,Health,Emergency Med. Serv. Call Center,0.00,83
+2017-operating-adopted,2014,actual,Health,Emergency Med. Serv. Call Center,15.00,83
+2017-operating-adopted,2015,actual,Health,Emergency Med. Serv. Call Center,18.25,83
+2017-operating-adopted,2016,adopted,Health,Emergency Med. Serv. Call Center,18.25,83
+2017-operating-adopted,2017,adopted,Health,Emergency Med. Serv. Call Center,1.00,83
+2017-operating-adopted,2009,actual,Health,Emergency Med Serv Train Ed,0.00,83
+2017-operating-adopted,2010,actual,Health,Emergency Med Serv Train Ed,0.00,83
+2017-operating-adopted,2011,actual,Health,Emergency Med Serv Train Ed,0.00,83
+2017-operating-adopted,2012,actual,Health,Emergency Med Serv Train Ed,0.00,83
+2017-operating-adopted,2013,actual,Health,Emergency Med Serv Train Ed,0.00,83
+2017-operating-adopted,2014,actual,Health,Emergency Med Serv Train Ed,4.00,83
+2017-operating-adopted,2015,actual,Health,Emergency Med Serv Train Ed,4.25,83
+2017-operating-adopted,2016,adopted,Health,Emergency Med Serv Train Ed,4.25,83
+2017-operating-adopted,2017,adopted,Health,Emergency Med Serv Train Ed,4.25,83
+2017-operating-adopted,2009,actual,Health,Increase Demand for Services,0.00,83
+2017-operating-adopted,2010,actual,Health,Increase Demand for Services,1.00,83
+2017-operating-adopted,2011,actual,Health,Increase Demand for Services,0.00,83
+2017-operating-adopted,2012,actual,Health,Increase Demand for Services,0.00,83
+2017-operating-adopted,2013,actual,Health,Increase Demand for Services,0.00,83
+2017-operating-adopted,2014,actual,Health,Increase Demand for Services,0.00,83
+2017-operating-adopted,2015,actual,Health,Increase Demand for Services,0.00,83
+2017-operating-adopted,2016,adopted,Health,Increase Demand for Services,0.00,83
+2017-operating-adopted,2017,adopted,Health,Increase Demand for Services,0.00,83
+2017-operating-adopted,2009,actual,Health,Essential Public Health Administration,0.00,83
+2017-operating-adopted,2010,actual,Health,Essential Public Health Administration,0.00,83
+2017-operating-adopted,2011,actual,Health,Essential Public Health Administration,7.97,83
+2017-operating-adopted,2012,actual,Health,Essential Public Health Administration,7.97,83
+2017-operating-adopted,2013,actual,Health,Essential Public Health Administration,10.48,83
+2017-operating-adopted,2014,actual,Health,Essential Public Health Administration,10.38,83
+2017-operating-adopted,2015,actual,Health,Essential Public Health Administration,12.48,83
+2017-operating-adopted,2016,adopted,Health,Essential Public Health Administration,11.30,83
+2017-operating-adopted,2017,adopted,Health,Essential Public Health Administration,12.00,83
+2017-operating-adopted,2009,actual,Health,Family Dental Program,0.00,83
+2017-operating-adopted,2010,actual,Health,Family Dental Program,0.00,83
+2017-operating-adopted,2011,actual,Health,Family Dental Program,6.00,83
+2017-operating-adopted,2012,actual,Health,Family Dental Program,1.00,83
+2017-operating-adopted,2013,actual,Health,Family Dental Program,0.00,83
+2017-operating-adopted,2014,actual,Health,Family Dental Program,0.00,83
+2017-operating-adopted,2015,actual,Health,Family Dental Program,0.00,83
+2017-operating-adopted,2016,adopted,Health,Family Dental Program,0.00,83
+2017-operating-adopted,2017,adopted,Health,Family Dental Program,0.00,83
+2017-operating-adopted,2009,actual,Health,Healthy Homes,0.00,83
+2017-operating-adopted,2010,actual,Health,Healthy Homes,0.00,83
+2017-operating-adopted,2011,actual,Health,Healthy Homes,0.00,83
+2017-operating-adopted,2012,actual,Health,Healthy Homes,3.00,83
+2017-operating-adopted,2013,actual,Health,Healthy Homes,0.00,83
+2017-operating-adopted,2014,actual,Health,Healthy Homes,0.00,83
+2017-operating-adopted,2015,actual,Health,Healthy Homes,0.00,83
+2017-operating-adopted,2016,adopted,Health,Healthy Homes,0.00,83
+2017-operating-adopted,2017,adopted,Health,Healthy Homes,0.00,83
+2017-operating-adopted,2009,actual,Health,Community Alternatives Program,0.00,83
+2017-operating-adopted,2010,actual,Health,Community Alternatives Program,0.00,83
+2017-operating-adopted,2011,actual,Health,Community Alternatives Program,0.00,83
+2017-operating-adopted,2012,actual,Health,Community Alternatives Program,0.00,83
+2017-operating-adopted,2013,actual,Health,Community Alternatives Program,0.00,83
+2017-operating-adopted,2014,actual,Health,Community Alternatives Program,0.00,83
+2017-operating-adopted,2015,actual,Health,Community Alternatives Program,1.00,83
+2017-operating-adopted,2016,adopted,Health,Community Alternatives Program,1.00,83
+2017-operating-adopted,2017,adopted,Health,Community Alternatives Program,1.00,83
+2017-operating-adopted,2009,actual,Health,Environmental Health Services,0.00,83
+2017-operating-adopted,2010,actual,Health,Environmental Health Services,0.00,83
+2017-operating-adopted,2011,actual,Health,Environmental Health Services,0.00,83
+2017-operating-adopted,2012,actual,Health,Environmental Health Services,0.00,83
+2017-operating-adopted,2013,actual,Health,Environmental Health Services,0.00,83
+2017-operating-adopted,2014,actual,Health,Environmental Health Services,0.00,83
+2017-operating-adopted,2015,actual,Health,Environmental Health Services,4.00,83
+2017-operating-adopted,2016,adopted,Health,Environmental Health Services,3.50,83
+2017-operating-adopted,2017,adopted,Health,Environmental Health Services,3.50,83
+2017-operating-adopted,2009,actual,Health,NEW ORLEANS REALTIME RESOURCES,0.00,83
+2017-operating-adopted,2010,actual,Health,NEW ORLEANS REALTIME RESOURCES,0.00,83
+2017-operating-adopted,2011,actual,Health,NEW ORLEANS REALTIME RESOURCES,0.00,83
+2017-operating-adopted,2012,actual,Health,NEW ORLEANS REALTIME RESOURCES,0.00,83
+2017-operating-adopted,2013,actual,Health,NEW ORLEANS REALTIME RESOURCES,0.00,83
+2017-operating-adopted,2014,actual,Health,NEW ORLEANS REALTIME RESOURCES,0.00,83
+2017-operating-adopted,2015,actual,Health,NEW ORLEANS REALTIME RESOURCES,4.00,83
+2017-operating-adopted,2016,adopted,Health,NEW ORLEANS REALTIME RESOURCES,1.00,83
+2017-operating-adopted,2017,adopted,Health,NEW ORLEANS REALTIME RESOURCES,0.00,83
+2017-operating-adopted,2009,actual,Health,VIOLENCE RISK REDUCTION,0.00,83
+2017-operating-adopted,2010,actual,Health,VIOLENCE RISK REDUCTION,0.00,83
+2017-operating-adopted,2011,actual,Health,VIOLENCE RISK REDUCTION,0.00,83
+2017-operating-adopted,2012,actual,Health,VIOLENCE RISK REDUCTION,0.00,83
+2017-operating-adopted,2013,actual,Health,VIOLENCE RISK REDUCTION,0.00,83
+2017-operating-adopted,2014,actual,Health,VIOLENCE RISK REDUCTION,0.00,83
+2017-operating-adopted,2015,actual,Health,VIOLENCE RISK REDUCTION,0.00,83
+2017-operating-adopted,2016,adopted,Health,VIOLENCE RISK REDUCTION,0.00,83
+2017-operating-adopted,2017,adopted,Health,VIOLENCE RISK REDUCTION,1.00,83
+2017-operating-adopted,2009,actual,Health,GRANTS TO ENCOURAGE ARREST POL,0.00,83
+2017-operating-adopted,2010,actual,Health,GRANTS TO ENCOURAGE ARREST POL,0.00,83
+2017-operating-adopted,2011,actual,Health,GRANTS TO ENCOURAGE ARREST POL,0.00,83
+2017-operating-adopted,2012,actual,Health,GRANTS TO ENCOURAGE ARREST POL,0.00,83
+2017-operating-adopted,2013,actual,Health,GRANTS TO ENCOURAGE ARREST POL,0.00,83
+2017-operating-adopted,2014,actual,Health,GRANTS TO ENCOURAGE ARREST POL,0.00,83
+2017-operating-adopted,2015,actual,Health,GRANTS TO ENCOURAGE ARREST POL,0.00,83
+2017-operating-adopted,2016,adopted,Health,GRANTS TO ENCOURAGE ARREST POL,0.00,83
+2017-operating-adopted,2017,adopted,Health,GRANTS TO ENCOURAGE ARREST POL,2.00,83
+2017-operating-adopted,2009,actual,Health,BLUEPRINT FOR SAFETY,0.00,83
+2017-operating-adopted,2010,actual,Health,BLUEPRINT FOR SAFETY,0.00,83
+2017-operating-adopted,2011,actual,Health,BLUEPRINT FOR SAFETY,0.00,83
+2017-operating-adopted,2012,actual,Health,BLUEPRINT FOR SAFETY,0.00,83
+2017-operating-adopted,2013,actual,Health,BLUEPRINT FOR SAFETY,0.00,83
+2017-operating-adopted,2014,actual,Health,BLUEPRINT FOR SAFETY,0.00,83
+2017-operating-adopted,2015,actual,Health,BLUEPRINT FOR SAFETY,0.00,83
+2017-operating-adopted,2016,adopted,Health,BLUEPRINT FOR SAFETY,0.00,83
+2017-operating-adopted,2017,adopted,Health,BLUEPRINT FOR SAFETY,1.00,83
+2017-operating-adopted,2009,actual,Health,JUSTICE & MENTAL HEALTH COLLAB,0.00,83
+2017-operating-adopted,2010,actual,Health,JUSTICE & MENTAL HEALTH COLLAB,0.00,83
+2017-operating-adopted,2011,actual,Health,JUSTICE & MENTAL HEALTH COLLAB,0.00,83
+2017-operating-adopted,2012,actual,Health,JUSTICE & MENTAL HEALTH COLLAB,0.00,83
+2017-operating-adopted,2013,actual,Health,JUSTICE & MENTAL HEALTH COLLAB,0.00,83
+2017-operating-adopted,2014,actual,Health,JUSTICE & MENTAL HEALTH COLLAB,0.00,83
+2017-operating-adopted,2015,actual,Health,JUSTICE & MENTAL HEALTH COLLAB,0.00,83
+2017-operating-adopted,2016,adopted,Health,JUSTICE & MENTAL HEALTH COLLAB,0.00,83
+2017-operating-adopted,2017,adopted,Health,JUSTICE & MENTAL HEALTH COLLAB,1.00,83
+2017-operating-adopted,2009,actual,Finance,Finance Directors Office,7.00,84
+2017-operating-adopted,2010,actual,Finance,Finance Directors Office,7.00,84
+2017-operating-adopted,2011,actual,Finance,Finance Directors Office,8.00,84
+2017-operating-adopted,2012,actual,Finance,Finance Directors Office,8.00,84
+2017-operating-adopted,2013,actual,Finance,Finance Directors Office,7.00,84
+2017-operating-adopted,2014,actual,Finance,Finance Directors Office,6.00,84
+2017-operating-adopted,2015,actual,Finance,Finance Directors Office,7.00,84
+2017-operating-adopted,2016,adopted,Finance,Finance Directors Office,8.00,84
+2017-operating-adopted,2017,adopted,Finance,Finance Directors Office,8.00,84
+2017-operating-adopted,2009,actual,Finance,Accounting Administration,3.00,84
+2017-operating-adopted,2010,actual,Finance,Accounting Administration,3.00,84
+2017-operating-adopted,2011,actual,Finance,Accounting Administration,5.00,84
+2017-operating-adopted,2012,actual,Finance,Accounting Administration,5.00,84
+2017-operating-adopted,2013,actual,Finance,Accounting Administration,4.00,84
+2017-operating-adopted,2014,actual,Finance,Accounting Administration,4.49,84
+2017-operating-adopted,2015,actual,Finance,Accounting Administration,25.49,84
+2017-operating-adopted,2016,adopted,Finance,Accounting Administration,8.50,84
+2017-operating-adopted,2017,adopted,Finance,Accounting Administration,5.05,84
+2017-operating-adopted,2009,actual,Finance,General Fund,9.00,84
+2017-operating-adopted,2010,actual,Finance,General Fund,9.00,84
+2017-operating-adopted,2011,actual,Finance,General Fund,14.00,84
+2017-operating-adopted,2012,actual,Finance,General Fund,14.00,84
+2017-operating-adopted,2013,actual,Finance,General Fund,14.00,84
+2017-operating-adopted,2014,actual,Finance,General Fund,13.00,84
+2017-operating-adopted,2015,actual,Finance,General Fund,0.00,84
+2017-operating-adopted,2016,adopted,Finance,General Fund,16.00,84
+2017-operating-adopted,2017,adopted,Finance,General Fund,15.49,84
+2017-operating-adopted,2009,actual,Finance,Accounts Payable,3.00,84
+2017-operating-adopted,2010,actual,Finance,Accounts Payable,3.00,84
+2017-operating-adopted,2011,actual,Finance,Accounts Payable,3.00,84
+2017-operating-adopted,2012,actual,Finance,Accounts Payable,3.00,84
+2017-operating-adopted,2013,actual,Finance,Accounts Payable,3.00,84
+2017-operating-adopted,2014,actual,Finance,Accounts Payable,3.00,84
+2017-operating-adopted,2015,actual,Finance,Accounts Payable,0.00,84
+2017-operating-adopted,2016,adopted,Finance,Accounts Payable,3.00,84
+2017-operating-adopted,2017,adopted,Finance,Accounts Payable,3.00,84
+2017-operating-adopted,2009,actual,Finance,Payroll/Payroll Deductions,6.00,84
+2017-operating-adopted,2010,actual,Finance,Payroll/Payroll Deductions,6.00,84
+2017-operating-adopted,2011,actual,Finance,Payroll/Payroll Deductions,6.00,84
+2017-operating-adopted,2012,actual,Finance,Payroll/Payroll Deductions,6.00,84
+2017-operating-adopted,2013,actual,Finance,Payroll/Payroll Deductions,6.00,84
+2017-operating-adopted,2014,actual,Finance,Payroll/Payroll Deductions,5.00,84
+2017-operating-adopted,2015,actual,Finance,Payroll/Payroll Deductions,0.00,84
+2017-operating-adopted,2016,adopted,Finance,Payroll/Payroll Deductions,4.00,84
+2017-operating-adopted,2017,adopted,Finance,Payroll/Payroll Deductions,4.00,84
+2017-operating-adopted,2009,actual,Finance,Revenue Administration,7.00,84
+2017-operating-adopted,2010,actual,Finance,Revenue Administration,7.00,84
+2017-operating-adopted,2011,actual,Finance,Revenue Administration,7.00,84
+2017-operating-adopted,2012,actual,Finance,Revenue Administration,7.00,84
+2017-operating-adopted,2013,actual,Finance,Revenue Administration,7.00,84
+2017-operating-adopted,2014,actual,Finance,Revenue Administration,7.00,84
+2017-operating-adopted,2015,actual,Finance,Revenue Administration,48.00,84
+2017-operating-adopted,2016,adopted,Finance,Revenue Administration,6.00,84
+2017-operating-adopted,2017,adopted,Finance,Revenue Administration,7.00,84
+2017-operating-adopted,2009,actual,Finance,Revenue Applications,16.00,84
+2017-operating-adopted,2010,actual,Finance,Revenue Applications,15.00,84
+2017-operating-adopted,2011,actual,Finance,Revenue Applications,29.00,84
+2017-operating-adopted,2012,actual,Finance,Revenue Applications,29.00,84
+2017-operating-adopted,2013,actual,Finance,Revenue Applications,27.00,84
+2017-operating-adopted,2014,actual,Finance,Revenue Applications,22.00,84
+2017-operating-adopted,2015,actual,Finance,Revenue Applications,0.00,84
+2017-operating-adopted,2016,adopted,Finance,Revenue Applications,25.00,84
+2017-operating-adopted,2017,adopted,Finance,Revenue Applications,27.00,84
+2017-operating-adopted,2009,actual,Finance,Fiscal Records,8.00,84
+2017-operating-adopted,2010,actual,Finance,Fiscal Records,10.00,84
+2017-operating-adopted,2011,actual,Finance,Fiscal Records,16.00,84
+2017-operating-adopted,2012,actual,Finance,Fiscal Records,16.00,84
+2017-operating-adopted,2013,actual,Finance,Fiscal Records,15.00,84
+2017-operating-adopted,2014,actual,Finance,Fiscal Records,15.00,84
+2017-operating-adopted,2015,actual,Finance,Fiscal Records,0.00,84
+2017-operating-adopted,2016,adopted,Finance,Fiscal Records,16.00,84
+2017-operating-adopted,2017,adopted,Finance,Fiscal Records,14.00,84
+2017-operating-adopted,2009,actual,Finance,Treasury Administration,5.00,84
+2017-operating-adopted,2010,actual,Finance,Treasury Administration,5.00,84
+2017-operating-adopted,2011,actual,Finance,Treasury Administration,6.00,84
+2017-operating-adopted,2012,actual,Finance,Treasury Administration,6.00,84
+2017-operating-adopted,2013,actual,Finance,Treasury Administration,5.00,84
+2017-operating-adopted,2014,actual,Finance,Treasury Administration,5.00,84
+2017-operating-adopted,2015,actual,Finance,Treasury Administration,25.00,84
+2017-operating-adopted,2016,adopted,Finance,Treasury Administration,10.49,84
+2017-operating-adopted,2017,adopted,Finance,Treasury Administration,10.49,84
+2017-operating-adopted,2009,actual,Finance,Cashiers,4.00,84
+2017-operating-adopted,2010,actual,Finance,Cashiers,5.00,84
+2017-operating-adopted,2011,actual,Finance,Cashiers,5.00,84
+2017-operating-adopted,2012,actual,Finance,Cashiers,5.00,84
+2017-operating-adopted,2013,actual,Finance,Cashiers,5.00,84
+2017-operating-adopted,2014,actual,Finance,Cashiers,5.00,84
+2017-operating-adopted,2015,actual,Finance,Cashiers,0.00,84
+2017-operating-adopted,2016,adopted,Finance,Cashiers,4.00,84
+2017-operating-adopted,2017,adopted,Finance,Cashiers,5.00,84
+2017-operating-adopted,2009,actual,Finance,Ad Valorem Taxes,3.00,84
+2017-operating-adopted,2010,actual,Finance,Ad Valorem Taxes,3.00,84
+2017-operating-adopted,2011,actual,Finance,Ad Valorem Taxes,7.00,84
+2017-operating-adopted,2012,actual,Finance,Ad Valorem Taxes,7.00,84
+2017-operating-adopted,2013,actual,Finance,Ad Valorem Taxes,6.00,84
+2017-operating-adopted,2014,actual,Finance,Ad Valorem Taxes,6.00,84
+2017-operating-adopted,2015,actual,Finance,Ad Valorem Taxes,0.00,84
+2017-operating-adopted,2016,adopted,Finance,Ad Valorem Taxes,5.00,84
+2017-operating-adopted,2017,adopted,Finance,Ad Valorem Taxes,4.00,84
+2017-operating-adopted,2009,actual,Finance,Receipts & Disbursements,2.00,84
+2017-operating-adopted,2010,actual,Finance,Receipts & Disbursements,2.00,84
+2017-operating-adopted,2011,actual,Finance,Receipts & Disbursements,4.00,84
+2017-operating-adopted,2012,actual,Finance,Receipts & Disbursements,4.00,84
+2017-operating-adopted,2013,actual,Finance,Receipts & Disbursements,4.00,84
+2017-operating-adopted,2014,actual,Finance,Receipts & Disbursements,4.00,84
+2017-operating-adopted,2015,actual,Finance,Receipts & Disbursements,0.00,84
+2017-operating-adopted,2016,adopted,Finance,Receipts & Disbursements,3.00,84
+2017-operating-adopted,2017,adopted,Finance,Receipts & Disbursements,3.00,84
+2017-operating-adopted,2009,actual,Finance,TA Research,3.00,84
+2017-operating-adopted,2010,actual,Finance,TA Research,2.00,84
+2017-operating-adopted,2011,actual,Finance,TA Research,3.00,84
+2017-operating-adopted,2012,actual,Finance,TA Research,3.00,84
+2017-operating-adopted,2013,actual,Finance,TA Research,3.00,84
+2017-operating-adopted,2014,actual,Finance,TA Research,3.00,84
+2017-operating-adopted,2015,actual,Finance,TA Research,0.00,84
+2017-operating-adopted,2016,adopted,Finance,TA Research,2.00,84
+2017-operating-adopted,2017,adopted,Finance,TA Research,3.00,84
+2017-operating-adopted,2009,actual,Finance,Brake Tag/Sanitation,1.00,84
+2017-operating-adopted,2010,actual,Finance,Brake Tag/Sanitation,1.00,84
+2017-operating-adopted,2011,actual,Finance,Brake Tag/Sanitation,2.00,84
+2017-operating-adopted,2012,actual,Finance,Brake Tag/Sanitation,2.00,84
+2017-operating-adopted,2013,actual,Finance,Brake Tag/Sanitation,1.00,84
+2017-operating-adopted,2014,actual,Finance,Brake Tag/Sanitation,1.00,84
+2017-operating-adopted,2015,actual,Finance,Brake Tag/Sanitation,0.00,84
+2017-operating-adopted,2016,adopted,Finance,Brake Tag/Sanitation,1.00,84
+2017-operating-adopted,2017,adopted,Finance,Brake Tag/Sanitation,1.00,84
+2017-operating-adopted,2009,actual,Finance,Purchasing Administration,8.00,84
+2017-operating-adopted,2010,actual,Finance,Purchasing Administration,8.00,84
+2017-operating-adopted,2011,actual,Finance,Purchasing Administration,8.00,84
+2017-operating-adopted,2012,actual,Finance,Purchasing Administration,8.00,84
+2017-operating-adopted,2013,actual,Finance,Purchasing Administration,7.00,84
+2017-operating-adopted,2014,actual,Finance,Purchasing Administration,7.00,84
+2017-operating-adopted,2015,actual,Finance,Purchasing Administration,7.00,84
+2017-operating-adopted,2016,adopted,Finance,Purchasing Administration,7.00,84
+2017-operating-adopted,2017,adopted,Finance,Purchasing Administration,8.00,84
+2017-operating-adopted,2009,actual,Finance,Employee Retirement System,7.49,84
+2017-operating-adopted,2010,actual,Finance,Employee Retirement System,6.49,84
+2017-operating-adopted,2011,actual,Finance,Employee Retirement System,7.49,84
+2017-operating-adopted,2012,actual,Finance,Employee Retirement System,7.49,84
+2017-operating-adopted,2013,actual,Finance,Employee Retirement System,6.49,84
+2017-operating-adopted,2014,actual,Finance,Employee Retirement System,5.49,84
+2017-operating-adopted,2015,actual,Finance,Employee Retirement System,5.49,84
+2017-operating-adopted,2016,adopted,Finance,Employee Retirement System,5.50,84
+2017-operating-adopted,2017,adopted,Finance,Employee Retirement System,5.05,84
+2017-operating-adopted,2009,actual,Property Management,Property Mgmt Directors Office,8.00,84
+2017-operating-adopted,2010,actual,Property Management,Property Mgmt Directors Office,7.00,84
+2017-operating-adopted,2011,actual,Property Management,Property Mgmt Directors Office,9.00,84
+2017-operating-adopted,2012,actual,Property Management,Property Mgmt Directors Office,9.00,84
+2017-operating-adopted,2013,actual,Property Management,Property Mgmt Directors Office,10.00,84
+2017-operating-adopted,2014,actual,Property Management,Property Mgmt Directors Office,10.00,84
+2017-operating-adopted,2015,actual,Property Management,Property Mgmt Directors Office,9.00,84
+2017-operating-adopted,2016,adopted,Property Management,Property Mgmt Directors Office,10.00,84
+2017-operating-adopted,2017,adopted,Property Management,Property Mgmt Directors Office,10.00,84
+2017-operating-adopted,2009,actual,Property Management,Custodians,7.00,84
+2017-operating-adopted,2010,actual,Property Management,Custodians,7.00,84
+2017-operating-adopted,2011,actual,Property Management,Custodians,7.00,84
+2017-operating-adopted,2012,actual,Property Management,Custodians,7.00,84
+2017-operating-adopted,2013,actual,Property Management,Custodians,6.00,84
+2017-operating-adopted,2014,actual,Property Management,Custodians,6.00,84
+2017-operating-adopted,2015,actual,Property Management,Custodians,5.00,84
+2017-operating-adopted,2016,adopted,Property Management,Custodians,5.00,84
+2017-operating-adopted,2017,adopted,Property Management,Custodians,5.00,84
+2017-operating-adopted,2009,actual,Property Management,Public Buildings Maintenance,15.50,84
+2017-operating-adopted,2010,actual,Property Management,Public Buildings Maintenance,17.00,84
+2017-operating-adopted,2011,actual,Property Management,Public Buildings Maintenance,18.00,84
+2017-operating-adopted,2012,actual,Property Management,Public Buildings Maintenance,18.00,84
+2017-operating-adopted,2013,actual,Property Management,Public Buildings Maintenance,15.00,84
+2017-operating-adopted,2014,actual,Property Management,Public Buildings Maintenance,15.00,84
+2017-operating-adopted,2015,actual,Property Management,Public Buildings Maintenance,15.00,84
+2017-operating-adopted,2016,adopted,Property Management,Public Buildings Maintenance,15.00,84
+2017-operating-adopted,2017,adopted,Property Management,Public Buildings Maintenance,15.00,84
+2017-operating-adopted,2009,actual,Property Management,Mechanical Engine Room,24.00,84
+2017-operating-adopted,2010,actual,Property Management,Mechanical Engine Room,22.00,84
+2017-operating-adopted,2011,actual,Property Management,Mechanical Engine Room,23.00,84
+2017-operating-adopted,2012,actual,Property Management,Mechanical Engine Room,24.00,84
+2017-operating-adopted,2013,actual,Property Management,Mechanical Engine Room,21.00,84
+2017-operating-adopted,2014,actual,Property Management,Mechanical Engine Room,21.00,84
+2017-operating-adopted,2015,actual,Property Management,Mechanical Engine Room,22.00,84
+2017-operating-adopted,2016,adopted,Property Management,Mechanical Engine Room,26.00,84
+2017-operating-adopted,2017,adopted,Property Management,Mechanical Engine Room,26.00,84
+2017-operating-adopted,2009,actual,Property Management,Gallier Hall,2.00,84
+2017-operating-adopted,2010,actual,Property Management,Gallier Hall,2.00,84
+2017-operating-adopted,2011,actual,Property Management,Gallier Hall,2.00,84
+2017-operating-adopted,2012,actual,Property Management,Gallier Hall,2.00,84
+2017-operating-adopted,2013,actual,Property Management,Gallier Hall,3.00,84
+2017-operating-adopted,2014,actual,Property Management,Gallier Hall,3.00,84
+2017-operating-adopted,2015,actual,Property Management,Gallier Hall,2.00,84
+2017-operating-adopted,2016,adopted,Property Management,Gallier Hall,2.00,84
+2017-operating-adopted,2017,adopted,Property Management,Gallier Hall,2.00,84
+2017-operating-adopted,2009,actual,Property Management,Multi-Purpose Centers,8.00,84
+2017-operating-adopted,2010,actual,Property Management,Multi-Purpose Centers,8.00,84
+2017-operating-adopted,2011,actual,Property Management,Multi-Purpose Centers,8.00,84
+2017-operating-adopted,2012,actual,Property Management,Multi-Purpose Centers,8.00,84
+2017-operating-adopted,2013,actual,Property Management,Multi-Purpose Centers,6.00,84
+2017-operating-adopted,2014,actual,Property Management,Multi-Purpose Centers,6.00,84
+2017-operating-adopted,2015,actual,Property Management,Multi-Purpose Centers,4.00,84
+2017-operating-adopted,2016,adopted,Property Management,Multi-Purpose Centers,4.00,84
+2017-operating-adopted,2017,adopted,Property Management,Multi-Purpose Centers,4.00,84
+2017-operating-adopted,2009,actual,Property Management,Cemeteries,3.00,84
+2017-operating-adopted,2010,actual,Property Management,Cemeteries,2.00,84
+2017-operating-adopted,2011,actual,Property Management,Cemeteries,3.00,84
+2017-operating-adopted,2012,actual,Property Management,Cemeteries,3.00,84
+2017-operating-adopted,2013,actual,Property Management,Cemeteries,2.00,84
+2017-operating-adopted,2014,actual,Property Management,Cemeteries,2.00,84
+2017-operating-adopted,2015,actual,Property Management,Cemeteries,3.00,84
+2017-operating-adopted,2016,adopted,Property Management,Cemeteries,3.00,84
+2017-operating-adopted,2017,adopted,Property Management,Cemeteries,3.00,84
+2017-operating-adopted,2009,actual,Property Management,Realty Records,6.00,84
+2017-operating-adopted,2010,actual,Property Management,Realty Records,6.00,84
+2017-operating-adopted,2011,actual,Property Management,Realty Records,5.00,84
+2017-operating-adopted,2012,actual,Property Management,Realty Records,6.00,84
+2017-operating-adopted,2013,actual,Property Management,Realty Records,7.00,84
+2017-operating-adopted,2014,actual,Property Management,Realty Records,7.00,84
+2017-operating-adopted,2015,actual,Property Management,Realty Records,7.00,84
+2017-operating-adopted,2016,adopted,Property Management,Realty Records,7.49,84
+2017-operating-adopted,2017,adopted,Property Management,Realty Records,8.00,84
+2017-operating-adopted,2009,actual,Miscellaneous,NORDC Director & Management,2.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,NORDC Director & Management,2.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,NORDC Director & Management,12.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,NORDC Director & Management,12.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,NORDC Director & Management,12.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,NORDC Director & Management,12.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,NORDC Director & Management,16.50,85
+2017-operating-adopted,2016,adopted,Miscellaneous,NORDC Director & Management,20.53,85
+2017-operating-adopted,2017,adopted,Miscellaneous,NORDC Director & Management,19.61,85
+2017-operating-adopted,2009,actual,Miscellaneous,NORDC Maintenance,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,NORDC Maintenance,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,NORDC Maintenance,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,NORDC Maintenance,48.92,85
+2017-operating-adopted,2013,actual,Miscellaneous,NORDC Maintenance,43.92,85
+2017-operating-adopted,2014,actual,Miscellaneous,NORDC Maintenance,38.42,85
+2017-operating-adopted,2015,actual,Miscellaneous,NORDC Maintenance,43.50,85
+2017-operating-adopted,2016,adopted,Miscellaneous,NORDC Maintenance,48.50,85
+2017-operating-adopted,2017,adopted,Miscellaneous,NORDC Maintenance,52.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,NORDC Centers,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,NORDC Centers,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,NORDC Centers,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,NORDC Centers,12.75,85
+2017-operating-adopted,2013,actual,Miscellaneous,NORDC Centers,23.50,85
+2017-operating-adopted,2014,actual,Miscellaneous,NORDC Centers,23.25,85
+2017-operating-adopted,2015,actual,Miscellaneous,NORDC Centers,48.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,NORDC Centers,63.51,85
+2017-operating-adopted,2017,adopted,Miscellaneous,NORDC Centers,62.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,NORDC Aquatic Programs,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,NORDC Aquatic Programs,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,NORDC Aquatic Programs,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,NORDC Aquatic Programs,34.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,NORDC Aquatic Programs,35.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,NORDC Aquatic Programs,25.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,NORDC Aquatic Programs,33.50,85
+2017-operating-adopted,2016,adopted,Miscellaneous,NORDC Aquatic Programs,56.25,85
+2017-operating-adopted,2017,adopted,Miscellaneous,NORDC Aquatic Programs,19.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Misc. Office of Administration,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Misc. Office of Administration,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Misc. Office of Administration,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Misc. Office of Administration,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Misc. Office of Administration,1.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Misc. Office of Administration,1.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Misc. Office of Administration,2.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Misc. Office of Administration,1.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Misc. Office of Administration,1.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Risk Management,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Risk Management,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Risk Management,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Risk Management,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Risk Management,3.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Risk Management,3.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Risk Management,3.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Risk Management,3.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Risk Management,3.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Misc. Service & Innovation,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Misc. Service & Innovation,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Misc. Service & Innovation,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Misc. Service & Innovation,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Misc. Service & Innovation,11.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Misc. Service & Innovation,9.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Misc. Service & Innovation,6.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Misc. Service & Innovation,6.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Misc. Service & Innovation,4.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Public Works PDU,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Public Works PDU,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Public Works PDU,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Public Works PDU,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Public Works PDU,21.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Public Works PDU,21.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Public Works PDU,23.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Public Works PDU,25.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Public Works PDU,50.10,85
+2017-operating-adopted,2009,actual,Miscellaneous,Mayors Summer Youth Program,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Mayors Summer Youth Program,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Mayors Summer Youth Program,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Mayors Summer Youth Program,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Mayors Summer Youth Program,1.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Mayors Summer Youth Program,1.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Mayors Summer Youth Program,0.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Mayors Summer Youth Program,1.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Mayors Summer Youth Program,1.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Office of Performance & Accountability,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Office of Performance & Accountability,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Office of Performance & Accountability,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Office of Performance & Accountability,5.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Office of Performance & Accountability,5.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Office of Performance & Accountability,5.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Office of Performance & Accountability,5.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Office of Performance & Accountability,6.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Office of Performance & Accountability,5.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Office Of Police Secondary Emp,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Office Of Police Secondary Emp,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Office Of Police Secondary Emp,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Office Of Police Secondary Emp,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Office Of Police Secondary Emp,0.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Office Of Police Secondary Emp,11.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Office Of Police Secondary Emp,0.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Office Of Police Secondary Emp,0.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Office Of Police Secondary Emp,0.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Management,3.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Management,3.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Management,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Management,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Management,0.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Management,0.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Management,0.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Management,0.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Management,0.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,NORDC Special Program & Culture,0.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,NORDC Special Program & Culture,0.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,NORDC Special Program & Culture,23.50,85
+2017-operating-adopted,2012,actual,Miscellaneous,NORDC Special Program & Culture,23.50,85
+2017-operating-adopted,2013,actual,Miscellaneous,NORDC Special Program & Culture,17.75,85
+2017-operating-adopted,2014,actual,Miscellaneous,NORDC Special Program & Culture,13.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,NORDC Special Program & Culture,14.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,NORDC Special Program & Culture,19.50,85
+2017-operating-adopted,2017,adopted,Miscellaneous,NORDC Special Program & Culture,21.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Special Program-Millage,1.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Special Program-Millage,1.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Special Program-Millage,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Special Program-Millage,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Special Program-Millage,0.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Special Program-Millage,0.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Special Program-Millage,0.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Special Program-Millage,0.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Special Program-Millage,0.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Maintenance,9.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Maintenance,18.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Maintenance,48.92,85
+2017-operating-adopted,2012,actual,Miscellaneous,Maintenance,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Maintenance,0.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Maintenance,0.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Maintenance,0.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Maintenance,0.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Maintenance,0.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Maintenance Millage,4.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Maintenance Millage,4.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Maintenance Millage,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Maintenance Millage,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Maintenance Millage,0.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Maintenance Millage,0.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Maintenance Millage,0.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Maintenance Millage,0.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Maintenance Millage,0.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Centers Millage,1.00,85
+2017-operating-adopted,2010,actual,Miscellaneous,Centers Millage,1.00,85
+2017-operating-adopted,2011,actual,Miscellaneous,Centers Millage,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Centers Millage,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Centers Millage,0.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Centers Millage,0.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Centers Millage,0.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Centers Millage,0.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Centers Millage,0.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,Athletics Millage,2.50,85
+2017-operating-adopted,2010,actual,Miscellaneous,Athletics Millage,2.75,85
+2017-operating-adopted,2011,actual,Miscellaneous,Athletics Millage,0.00,85
+2017-operating-adopted,2012,actual,Miscellaneous,Athletics Millage,0.00,85
+2017-operating-adopted,2013,actual,Miscellaneous,Athletics Millage,0.00,85
+2017-operating-adopted,2014,actual,Miscellaneous,Athletics Millage,0.00,85
+2017-operating-adopted,2015,actual,Miscellaneous,Athletics Millage,0.00,85
+2017-operating-adopted,2016,adopted,Miscellaneous,Athletics Millage,0.00,85
+2017-operating-adopted,2017,adopted,Miscellaneous,Athletics Millage,0.00,85
+2017-operating-adopted,2009,actual,Miscellaneous,NORDC Athletics Programs,18.49,85
+2017-operating-adopted,2010,actual,Miscellaneous,NORDC Athletics Programs,22.99,85
+2017-operating-adopted,2011,actual,Miscellaneous,NORDC Athletics Programs,34.74,85
+2017-operating-adopted,2012,actual,Miscellaneous,NORDC Athletics Programs,34.74,85
+2017-operating-adopted,2013,actual,Miscellaneous,NORDC Athletics Programs,32.49,85
+2017-operating-adopted,2014,actual,Miscellaneous,NORDC Athletics Programs,29.49,85
+2017-operating-adopted,2015,actual,Miscellaneous,NORDC Athletics Programs,31.08,85
+2017-operating-adopted,2016,adopted,Miscellaneous,NORDC Athletics Programs,31.25,85
+2017-operating-adopted,2017,adopted,Miscellaneous,NORDC Athletics Programs,30.50,85
+2017-operating-adopted,2009,actual,Miscellaneous,Cultural,3.25,86
+2017-operating-adopted,2010,actual,Miscellaneous,Cultural,3.50,86
+2017-operating-adopted,2011,actual,Miscellaneous,Cultural,0.00,86
+2017-operating-adopted,2012,actual,Miscellaneous,Cultural,0.00,86
+2017-operating-adopted,2013,actual,Miscellaneous,Cultural,0.00,86
+2017-operating-adopted,2014,actual,Miscellaneous,Cultural,0.00,86
+2017-operating-adopted,2015,actual,Miscellaneous,Cultural,0.00,86
+2017-operating-adopted,2016,adopted,Miscellaneous,Cultural,0.00,86
+2017-operating-adopted,2017,adopted,Miscellaneous,Cultural,0.00,86
+2017-operating-adopted,2009,actual,Miscellaneous,Centers,11.00,86
+2017-operating-adopted,2010,actual,Miscellaneous,Centers,12.00,86
+2017-operating-adopted,2011,actual,Miscellaneous,Centers,12.75,86
+2017-operating-adopted,2012,actual,Miscellaneous,Centers,0.00,86
+2017-operating-adopted,2013,actual,Miscellaneous,Centers,0.00,86
+2017-operating-adopted,2014,actual,Miscellaneous,Centers,0.00,86
+2017-operating-adopted,2015,actual,Miscellaneous,Centers,0.00,86
+2017-operating-adopted,2016,adopted,Miscellaneous,Centers,0.00,86
+2017-operating-adopted,2017,adopted,Miscellaneous,Centers,0.00,86
+2017-operating-adopted,2009,actual,Miscellaneous,Aquatics Program,53.50,86
+2017-operating-adopted,2010,actual,Miscellaneous,Aquatics Program,39.25,86
+2017-operating-adopted,2011,actual,Miscellaneous,Aquatics Program,34.00,86
+2017-operating-adopted,2012,actual,Miscellaneous,Aquatics Program,0.00,86
+2017-operating-adopted,2013,actual,Miscellaneous,Aquatics Program,0.00,86
+2017-operating-adopted,2014,actual,Miscellaneous,Aquatics Program,0.00,86
+2017-operating-adopted,2015,actual,Miscellaneous,Aquatics Program,0.00,86
+2017-operating-adopted,2016,adopted,Miscellaneous,Aquatics Program,0.00,86
+2017-operating-adopted,2017,adopted,Miscellaneous,Aquatics Program,0.00,86
+2017-operating-adopted,2009,actual,Miscellaneous,ITI Administration,0.00,86
+2017-operating-adopted,2010,actual,Miscellaneous,ITI Administration,0.00,86
+2017-operating-adopted,2011,actual,Miscellaneous,ITI Administration,0.00,86
+2017-operating-adopted,2012,actual,Miscellaneous,ITI Administration,0.00,86
+2017-operating-adopted,2013,actual,Miscellaneous,ITI Administration,0.00,86
+2017-operating-adopted,2014,actual,Miscellaneous,ITI Administration,0.00,86
+2017-operating-adopted,2015,actual,Miscellaneous,ITI Administration,3.00,86
+2017-operating-adopted,2016,adopted,Miscellaneous,ITI Administration,3.00,86
+2017-operating-adopted,2017,adopted,Miscellaneous,ITI Administration,4.00,86
+2017-operating-adopted,2009,actual,Miscellaneous,OFFICE OF POLICE SECONDARY EMP,0.00,86
+2017-operating-adopted,2010,actual,Miscellaneous,OFFICE OF POLICE SECONDARY EMP,0.00,86
+2017-operating-adopted,2011,actual,Miscellaneous,OFFICE OF POLICE SECONDARY EMP,0.00,86
+2017-operating-adopted,2012,actual,Miscellaneous,OFFICE OF POLICE SECONDARY EMP,0.00,86
+2017-operating-adopted,2013,actual,Miscellaneous,OFFICE OF POLICE SECONDARY EMP,0.00,86
+2017-operating-adopted,2014,actual,Miscellaneous,OFFICE OF POLICE SECONDARY EMP,0.00,86
+2017-operating-adopted,2015,actual,Miscellaneous,OFFICE OF POLICE SECONDARY EMP,3.00,86
+2017-operating-adopted,2016,adopted,Miscellaneous,OFFICE OF POLICE SECONDARY EMP,10.00,86
+2017-operating-adopted,2017,adopted,Miscellaneous,OFFICE OF POLICE SECONDARY EMP,11.00,86
+2017-operating-adopted,2009,actual,Miscellaneous,RESERVES FOR CONSENT DECREE,0.00,86
+2017-operating-adopted,2010,actual,Miscellaneous,RESERVES FOR CONSENT DECREE,0.00,86
+2017-operating-adopted,2011,actual,Miscellaneous,RESERVES FOR CONSENT DECREE,0.00,86
+2017-operating-adopted,2012,actual,Miscellaneous,RESERVES FOR CONSENT DECREE,0.00,86
+2017-operating-adopted,2013,actual,Miscellaneous,RESERVES FOR CONSENT DECREE,0.00,86
+2017-operating-adopted,2014,actual,Miscellaneous,RESERVES FOR CONSENT DECREE,0.00,86
+2017-operating-adopted,2015,actual,Miscellaneous,RESERVES FOR CONSENT DECREE,0.00,86
+2017-operating-adopted,2016,adopted,Miscellaneous,RESERVES FOR CONSENT DECREE,0.00,86
+2017-operating-adopted,2017,adopted,Miscellaneous,RESERVES FOR CONSENT DECREE,1.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Superintendents Office,3.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Superintendents Office,3.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Superintendents Office,4.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Superintendents Office,4.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Superintendents Office,3.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Superintendents Office,3.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Superintendents Office,3.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Superintendents Office,4.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Superintendents Office,3.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Planning & Design,4.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Planning & Design,3.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Planning & Design,4.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Planning & Design,4.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Planning & Design,4.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Planning & Design,4.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Planning & Design,4.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Planning & Design,4.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Planning & Design,4.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Administration,3.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Administration,3.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Administration,3.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Administration,3.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Administration,2.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Administration,2.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Administration,3.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Administration,3.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Administration,3.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Building Maintenance,3.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Building Maintenance,3.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Building Maintenance,3.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Building Maintenance,3.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Building Maintenance,3.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Building Maintenance,0.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Building Maintenance,3.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Building Maintenance,3.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Building Maintenance,3.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Grass Cutting Millage,7.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Grass Cutting Millage,7.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Grass Cutting Millage,7.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Grass Cutting Millage,7.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Grass Cutting Millage,7.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Grass Cutting Millage,7.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Grass Cutting Millage,7.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Grass Cutting Millage,8.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Grass Cutting Millage,7.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Operations Administration,5.98,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Operations Administration,6.98,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Operations Administration,5.98,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Operations Administration,5.98,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Operations Administration,7.98,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Operations Administration,6.98,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Operations Administration,7.98,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Operations Administration,7.98,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Operations Administration,7.98,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Nursery & Park Security,2.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Nursery & Park Security,2.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Nursery & Park Security,2.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Nursery & Park Security,2.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Nursery & Park Security,2.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Nursery & Park Security,0.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Nursery & Park Security,2.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Nursery & Park Security,2.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Nursery & Park Security,2.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Tree Maintenance,8.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Tree Maintenance,9.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Tree Maintenance,9.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Tree Maintenance,9.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Tree Maintenance,9.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Tree Maintenance,1.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Tree Maintenance,9.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Tree Maintenance,9.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Tree Maintenance,9.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Grounds Maintenance,61.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Grounds Maintenance,59.49,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Grounds Maintenance,62.49,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Grounds Maintenance,62.49,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Grounds Maintenance,59.69,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Grounds Maintenance,66.69,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Grounds Maintenance,68.69,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Grounds Maintenance,70.69,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Grounds Maintenance,72.51,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Golf Courses & Parks,15.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Golf Courses & Parks,14.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Golf Courses & Parks,15.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Golf Courses & Parks,15.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Golf Courses & Parks,11.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Golf Courses & Parks,0.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Golf Courses & Parks,16.76,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Golf Courses & Parks,17.03,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Golf Courses & Parks,17.86,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Nursery & Greenhouse,4.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Nursery & Greenhouse,4.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Nursery & Greenhouse,4.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Nursery & Greenhouse,4.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Nursery & Greenhouse,4.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Nursery & Greenhouse,0.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Nursery & Greenhouse,4.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Nursery & Greenhouse,4.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Nursery & Greenhouse,4.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Heavy Equipment,4.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Heavy Equipment,5.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Heavy Equipment,5.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Heavy Equipment,5.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Heavy Equipment,5.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Heavy Equipment,0.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Heavy Equipment,5.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Heavy Equipment,5.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Heavy Equipment,5.00,86
+2017-operating-adopted,2009,actual,Parkway and Park Commission,Chef Highway Project,1.00,86
+2017-operating-adopted,2010,actual,Parkway and Park Commission,Chef Highway Project,1.00,86
+2017-operating-adopted,2011,actual,Parkway and Park Commission,Chef Highway Project,1.00,86
+2017-operating-adopted,2012,actual,Parkway and Park Commission,Chef Highway Project,1.00,86
+2017-operating-adopted,2013,actual,Parkway and Park Commission,Chef Highway Project,1.00,86
+2017-operating-adopted,2014,actual,Parkway and Park Commission,Chef Highway Project,1.00,86
+2017-operating-adopted,2015,actual,Parkway and Park Commission,Chef Highway Project,1.00,86
+2017-operating-adopted,2016,adopted,Parkway and Park Commission,Chef Highway Project,1.00,86
+2017-operating-adopted,2017,adopted,Parkway and Park Commission,Chef Highway Project,1.00,86
+2017-operating-adopted,2009,actual,Library,Library Administration,55.92,86
+2017-operating-adopted,2010,actual,Library,Library Administration,139.16,86
+2017-operating-adopted,2011,actual,Library,Library Administration,139.50,86
+2017-operating-adopted,2012,actual,Library,Library Administration,139.50,86
+2017-operating-adopted,2013,actual,Library,Library Administration,151.60,86
+2017-operating-adopted,2014,actual,Library,Library Administration,170.75,86
+2017-operating-adopted,2015,actual,Library,Library Administration,175.42,86
+2017-operating-adopted,2016,adopted,Library,Library Administration,220.60,86
+2017-operating-adopted,2017,adopted,Library,Library Administration,228.88,86
+2017-operating-adopted,2009,actual,Library,Public Services,58.24,86
+2017-operating-adopted,2010,actual,Library,Public Services,0.00,86
+2017-operating-adopted,2011,actual,Library,Public Services,0.00,86
+2017-operating-adopted,2012,actual,Library,Public Services,0.00,86
+2017-operating-adopted,2013,actual,Library,Public Services,0.00,86
+2017-operating-adopted,2014,actual,Library,Public Services,0.00,86
+2017-operating-adopted,2015,actual,Library,Public Services,0.00,86
+2017-operating-adopted,2016,adopted,Library,Public Services,0.00,86
+2017-operating-adopted,2017,adopted,Library,Public Services,0.00,86
+2017-operating-adopted,2009,actual,Historic Distinct & Landmarks Commission,Historic Dist. Landmarks Comm.,10.00,86
+2017-operating-adopted,2010,actual,Historic Distinct & Landmarks Commission,Historic Dist. Landmarks Comm.,10.00,86
+2017-operating-adopted,2011,actual,Historic Distinct & Landmarks Commission,Historic Dist. Landmarks Comm.,10.00,86
+2017-operating-adopted,2012,actual,Historic Distinct & Landmarks Commission,Historic Dist. Landmarks Comm.,10.00,86
+2017-operating-adopted,2013,actual,Historic Distinct & Landmarks Commission,Historic Dist. Landmarks Comm.,7.00,86
+2017-operating-adopted,2014,actual,Historic Distinct & Landmarks Commission,Historic Dist. Landmarks Comm.,7.00,86
+2017-operating-adopted,2015,actual,Historic Distinct & Landmarks Commission,Historic Dist. Landmarks Comm.,7.00,86
+2017-operating-adopted,2016,adopted,Historic Distinct & Landmarks Commission,Historic Dist. Landmarks Comm.,11.00,86
+2017-operating-adopted,2017,adopted,Historic Distinct & Landmarks Commission,Historic Dist. Landmarks Comm.,11.00,86
+2017-operating-adopted,2009,actual,Vieux Carre Commission,Vieux Carre Commission,6.00,86
+2017-operating-adopted,2010,actual,Vieux Carre Commission,Vieux Carre Commission,5.00,86
+2017-operating-adopted,2011,actual,Vieux Carre Commission,Vieux Carre Commission,9.50,86
+2017-operating-adopted,2012,actual,Vieux Carre Commission,Vieux Carre Commission,5.00,86
+2017-operating-adopted,2013,actual,Vieux Carre Commission,Vieux Carre Commission,4.00,86
+2017-operating-adopted,2014,actual,Vieux Carre Commission,Vieux Carre Commission,4.00,86
+2017-operating-adopted,2015,actual,Vieux Carre Commission,Vieux Carre Commission,6.00,86
+2017-operating-adopted,2016,adopted,Vieux Carre Commission,Vieux Carre Commission,6.00,86
+2017-operating-adopted,2017,adopted,Vieux Carre Commission,Vieux Carre Commission,5.00,86
+2017-operating-adopted,2009,actual,City Planning Commission,Policy Formulation & Admin,6.00,86
+2017-operating-adopted,2010,actual,City Planning Commission,Policy Formulation & Admin,6.00,86
+2017-operating-adopted,2011,actual,City Planning Commission,Policy Formulation & Admin,5.00,86
+2017-operating-adopted,2012,actual,City Planning Commission,Policy Formulation & Admin,5.00,86
+2017-operating-adopted,2013,actual,City Planning Commission,Policy Formulation & Admin,5.00,86
+2017-operating-adopted,2014,actual,City Planning Commission,Policy Formulation & Admin,3.00,86
+2017-operating-adopted,2015,actual,City Planning Commission,Policy Formulation & Admin,2.00,86
+2017-operating-adopted,2016,adopted,City Planning Commission,Policy Formulation & Admin,3.00,86
+2017-operating-adopted,2017,adopted,City Planning Commission,Policy Formulation & Admin,3.00,86
+2017-operating-adopted,2009,actual,City Planning Commission,Mapping,0.00,86
+2017-operating-adopted,2010,actual,City Planning Commission,Mapping,0.00,86
+2017-operating-adopted,2011,actual,City Planning Commission,Mapping,0.00,86
+2017-operating-adopted,2012,actual,City Planning Commission,Mapping,0.00,86
+2017-operating-adopted,2013,actual,City Planning Commission,Mapping,0.00,86
+2017-operating-adopted,2014,actual,City Planning Commission,Mapping,0.00,86
+2017-operating-adopted,2015,actual,City Planning Commission,Mapping,0.00,86
+2017-operating-adopted,2016,adopted,City Planning Commission,Mapping,0.00,86
+2017-operating-adopted,2017,adopted,City Planning Commission,Mapping,0.00,86
+2017-operating-adopted,2009,actual,City Planning Commission,Land Use Regulation,8.49,86
+2017-operating-adopted,2010,actual,City Planning Commission,Land Use Regulation,8.49,86
+2017-operating-adopted,2011,actual,City Planning Commission,Land Use Regulation,9.49,86
+2017-operating-adopted,2012,actual,City Planning Commission,Land Use Regulation,9.49,86
+2017-operating-adopted,2013,actual,City Planning Commission,Land Use Regulation,8.49,86
+2017-operating-adopted,2014,actual,City Planning Commission,Land Use Regulation,7.49,86
+2017-operating-adopted,2015,actual,City Planning Commission,Land Use Regulation,5.00,86
+2017-operating-adopted,2016,adopted,City Planning Commission,Land Use Regulation,7.50,86
+2017-operating-adopted,2017,adopted,City Planning Commission,Land Use Regulation,9.05,86
+2017-operating-adopted,2009,actual,City Planning Commission,Board of Zoning Adjustments,2.00,86
+2017-operating-adopted,2010,actual,City Planning Commission,Board of Zoning Adjustments,1.00,86
+2017-operating-adopted,2011,actual,City Planning Commission,Board of Zoning Adjustments,1.00,86
+2017-operating-adopted,2012,actual,City Planning Commission,Board of Zoning Adjustments,1.00,86
+2017-operating-adopted,2013,actual,City Planning Commission,Board of Zoning Adjustments,1.00,86
+2017-operating-adopted,2014,actual,City Planning Commission,Board of Zoning Adjustments,2.00,86
+2017-operating-adopted,2015,actual,City Planning Commission,Board of Zoning Adjustments,0.00,86
+2017-operating-adopted,2016,adopted,City Planning Commission,Board of Zoning Adjustments,2.00,86
+2017-operating-adopted,2017,adopted,City Planning Commission,Board of Zoning Adjustments,2.00,86
+2017-operating-adopted,2009,actual,City Planning Commission,Dcdbg Planners,0.00,86
+2017-operating-adopted,2010,actual,City Planning Commission,Dcdbg Planners,0.00,86
+2017-operating-adopted,2011,actual,City Planning Commission,Dcdbg Planners,0.00,86
+2017-operating-adopted,2012,actual,City Planning Commission,Dcdbg Planners,0.00,86
+2017-operating-adopted,2013,actual,City Planning Commission,Dcdbg Planners,0.00,86
+2017-operating-adopted,2014,actual,City Planning Commission,Dcdbg Planners,5.00,86
+2017-operating-adopted,2015,actual,City Planning Commission,Dcdbg Planners,7.00,86
+2017-operating-adopted,2016,adopted,City Planning Commission,Dcdbg Planners,5.00,86
+2017-operating-adopted,2017,adopted,City Planning Commission,Dcdbg Planners,2.00,86
+2017-operating-adopted,2009,actual,City Planning Commission,Comprehensive Planning,3.00,86
+2017-operating-adopted,2010,actual,City Planning Commission,Comprehensive Planning,3.00,86
+2017-operating-adopted,2011,actual,City Planning Commission,Comprehensive Planning,7.00,86
+2017-operating-adopted,2012,actual,City Planning Commission,Comprehensive Planning,5.00,86
+2017-operating-adopted,2013,actual,City Planning Commission,Comprehensive Planning,7.00,86
+2017-operating-adopted,2014,actual,City Planning Commission,Comprehensive Planning,3.00,86
+2017-operating-adopted,2015,actual,City Planning Commission,Comprehensive Planning,3.00,86
+2017-operating-adopted,2016,adopted,City Planning Commission,Comprehensive Planning,5.00,86
+2017-operating-adopted,2017,adopted,City Planning Commission,Comprehensive Planning,7.00,86
+2017-operating-adopted,2009,actual,Mosquito Control Board,Mosquito Control Unit,30.97,87
+2017-operating-adopted,2010,actual,Mosquito Control Board,Mosquito Control Unit,33.47,87
+2017-operating-adopted,2011,actual,Mosquito Control Board,Mosquito Control Unit,31.71,87
+2017-operating-adopted,2012,actual,Mosquito Control Board,Mosquito Control Unit,31.71,87
+2017-operating-adopted,2013,actual,Mosquito Control Board,Mosquito Control Unit,29.46,87
+2017-operating-adopted,2014,actual,Mosquito Control Board,Mosquito Control Unit,28.98,87
+2017-operating-adopted,2015,actual,Mosquito Control Board,Mosquito Control Unit,29.18,87
+2017-operating-adopted,2016,adopted,Mosquito Control Board,Mosquito Control Unit,28.71,87
+2017-operating-adopted,2017,adopted,Mosquito Control Board,Mosquito Control Unit,26.33,87
+2017-operating-adopted,2009,actual,Mosquito Control Board,Industry,1.00,87
+2017-operating-adopted,2010,actual,Mosquito Control Board,Industry,0.00,87
+2017-operating-adopted,2011,actual,Mosquito Control Board,Industry,0.00,87
+2017-operating-adopted,2012,actual,Mosquito Control Board,Industry,0.00,87
+2017-operating-adopted,2013,actual,Mosquito Control Board,Industry,0.00,87
+2017-operating-adopted,2014,actual,Mosquito Control Board,Industry,0.00,87
+2017-operating-adopted,2015,actual,Mosquito Control Board,Industry,0.00,87
+2017-operating-adopted,2016,adopted,Mosquito Control Board,Industry,0.49,87
+2017-operating-adopted,2017,adopted,Mosquito Control Board,Industry,0.00,87
+2017-operating-adopted,2009,actual,Mosquito Control Board,Vector Control Program,1.00,87
+2017-operating-adopted,2010,actual,Mosquito Control Board,Vector Control Program,0.00,87
+2017-operating-adopted,2011,actual,Mosquito Control Board,Vector Control Program,0.00,87
+2017-operating-adopted,2012,actual,Mosquito Control Board,Vector Control Program,0.00,87
+2017-operating-adopted,2013,actual,Mosquito Control Board,Vector Control Program,0.00,87
+2017-operating-adopted,2014,actual,Mosquito Control Board,Vector Control Program,0.00,87
+2017-operating-adopted,2015,actual,Mosquito Control Board,Vector Control Program,0.00,87
+2017-operating-adopted,2016,adopted,Mosquito Control Board,Vector Control Program,0.00,87
+2017-operating-adopted,2017,adopted,Mosquito Control Board,Vector Control Program,0.00,87
+2017-operating-adopted,2009,actual,Mosquito Control Board,Structural Pest Control,0.50,87
+2017-operating-adopted,2010,actual,Mosquito Control Board,Structural Pest Control,0.50,87
+2017-operating-adopted,2011,actual,Mosquito Control Board,Structural Pest Control,0.00,87
+2017-operating-adopted,2012,actual,Mosquito Control Board,Structural Pest Control,0.00,87
+2017-operating-adopted,2013,actual,Mosquito Control Board,Structural Pest Control,0.00,87
+2017-operating-adopted,2014,actual,Mosquito Control Board,Structural Pest Control,0.00,87
+2017-operating-adopted,2015,actual,Mosquito Control Board,Structural Pest Control,0.00,87
+2017-operating-adopted,2016,adopted,Mosquito Control Board,Structural Pest Control,0.00,87
+2017-operating-adopted,2017,adopted,Mosquito Control Board,Structural Pest Control,0.00,87
+2017-operating-adopted,2009,actual,Mosquito Control Board,French Quarter Termite Project,2.98,87
+2017-operating-adopted,2010,actual,Mosquito Control Board,French Quarter Termite Project,1.98,87
+2017-operating-adopted,2011,actual,Mosquito Control Board,French Quarter Termite Project,0.00,87
+2017-operating-adopted,2012,actual,Mosquito Control Board,French Quarter Termite Project,0.00,87
+2017-operating-adopted,2013,actual,Mosquito Control Board,French Quarter Termite Project,0.00,87
+2017-operating-adopted,2014,actual,Mosquito Control Board,French Quarter Termite Project,0.00,87
+2017-operating-adopted,2015,actual,Mosquito Control Board,French Quarter Termite Project,0.00,87
+2017-operating-adopted,2016,adopted,Mosquito Control Board,French Quarter Termite Project,0.00,87
+2017-operating-adopted,2017,adopted,Mosquito Control Board,French Quarter Termite Project,0.00,87
+2017-operating-adopted,2009,actual,Mosquito Control Board,Vector-Management Pest Projects,0.00,87
+2017-operating-adopted,2010,actual,Mosquito Control Board,Vector-Management Pest Projects,0.00,87
+2017-operating-adopted,2011,actual,Mosquito Control Board,Vector-Management Pest Projects,0.00,87
+2017-operating-adopted,2012,actual,Mosquito Control Board,Vector-Management Pest Projects,0.00,87
+2017-operating-adopted,2013,actual,Mosquito Control Board,Vector-Management Pest Projects,0.00,87
+2017-operating-adopted,2014,actual,Mosquito Control Board,Vector-Management Pest Projects,0.00,87
+2017-operating-adopted,2015,actual,Mosquito Control Board,Vector-Management Pest Projects,0.75,87
+2017-operating-adopted,2016,adopted,Mosquito Control Board,Vector-Management Pest Projects,1.75,87
+2017-operating-adopted,2017,adopted,Mosquito Control Board,Vector-Management Pest Projects,1.29,87
+2017-operating-adopted,2009,actual,Mosquito Control Board,WEST VIRGINIA WOOD TESTING,0.00,87
+2017-operating-adopted,2010,actual,Mosquito Control Board,WEST VIRGINIA WOOD TESTING,0.00,87
+2017-operating-adopted,2011,actual,Mosquito Control Board,WEST VIRGINIA WOOD TESTING,0.00,87
+2017-operating-adopted,2012,actual,Mosquito Control Board,WEST VIRGINIA WOOD TESTING,0.00,87
+2017-operating-adopted,2013,actual,Mosquito Control Board,WEST VIRGINIA WOOD TESTING,0.00,87
+2017-operating-adopted,2014,actual,Mosquito Control Board,WEST VIRGINIA WOOD TESTING,0.00,87
+2017-operating-adopted,2015,actual,Mosquito Control Board,WEST VIRGINIA WOOD TESTING,0.75,87
+2017-operating-adopted,2016,adopted,Mosquito Control Board,WEST VIRGINIA WOOD TESTING,0.50,87
+2017-operating-adopted,2017,adopted,Mosquito Control Board,WEST VIRGINIA WOOD TESTING,0.00,87
+2017-operating-adopted,2009,actual,Mosquito Control Board,Termite State Services,0.00,87
+2017-operating-adopted,2010,actual,Mosquito Control Board,Termite State Services,0.00,87
+2017-operating-adopted,2011,actual,Mosquito Control Board,Termite State Services,0.00,87
+2017-operating-adopted,2012,actual,Mosquito Control Board,Termite State Services,0.00,87
+2017-operating-adopted,2013,actual,Mosquito Control Board,Termite State Services,0.00,87
+2017-operating-adopted,2014,actual,Mosquito Control Board,Termite State Services,0.00,87
+2017-operating-adopted,2015,actual,Mosquito Control Board,Termite State Services,0.75,87
+2017-operating-adopted,2016,adopted,Mosquito Control Board,Termite State Services,0.50,87
+2017-operating-adopted,2017,adopted,Mosquito Control Board,Termite State Services,0.50,87
+2017-operating-adopted,2009,actual,Mosquito Control Board,JACKSON BARRACKS PROJECT,0.00,87
+2017-operating-adopted,2010,actual,Mosquito Control Board,JACKSON BARRACKS PROJECT,0.00,87
+2017-operating-adopted,2011,actual,Mosquito Control Board,JACKSON BARRACKS PROJECT,0.00,87
+2017-operating-adopted,2012,actual,Mosquito Control Board,JACKSON BARRACKS PROJECT,0.00,87
+2017-operating-adopted,2013,actual,Mosquito Control Board,JACKSON BARRACKS PROJECT,0.00,87
+2017-operating-adopted,2014,actual,Mosquito Control Board,JACKSON BARRACKS PROJECT,0.00,87
+2017-operating-adopted,2015,actual,Mosquito Control Board,JACKSON BARRACKS PROJECT,0.75,87
+2017-operating-adopted,2016,adopted,Mosquito Control Board,JACKSON BARRACKS PROJECT,0.50,87
+2017-operating-adopted,2017,adopted,Mosquito Control Board,JACKSON BARRACKS PROJECT,0.49,87
+2017-operating-adopted,2009,actual,Museum of Art,Administration,3.00,87
+2017-operating-adopted,2010,actual,Museum of Art,Administration,2.00,87
+2017-operating-adopted,2011,actual,Museum of Art,Administration,2.00,87
+2017-operating-adopted,2012,actual,Museum of Art,Administration,2.00,87
+2017-operating-adopted,2013,actual,Museum of Art,Administration,1.00,87
+2017-operating-adopted,2014,actual,Museum of Art,Administration,0.00,87
+2017-operating-adopted,2015,actual,Museum of Art,Administration,0.00,87
+2017-operating-adopted,2016,adopted,Museum of Art,Administration,0.00,87
+2017-operating-adopted,2017,adopted,Museum of Art,Administration,0.00,87
+2017-operating-adopted,2009,actual,Museum of Art,Security,3.00,87
+2017-operating-adopted,2010,actual,Museum of Art,Security,3.00,87
+2017-operating-adopted,2011,actual,Museum of Art,Security,2.00,87
+2017-operating-adopted,2012,actual,Museum of Art,Security,2.00,87
+2017-operating-adopted,2013,actual,Museum of Art,Security,2.00,87
+2017-operating-adopted,2014,actual,Museum of Art,Security,2.00,87
+2017-operating-adopted,2015,actual,Museum of Art,Security,2.00,87
+2017-operating-adopted,2016,adopted,Museum of Art,Security,2.00,87
+2017-operating-adopted,2017,adopted,Museum of Art,Security,2.00,87
+2017-operating-adopted,2009,actual,Museum of Art,Building,4.00,87
+2017-operating-adopted,2010,actual,Museum of Art,Building,4.00,87
+2017-operating-adopted,2011,actual,Museum of Art,Building,4.00,87
+2017-operating-adopted,2012,actual,Museum of Art,Building,4.00,87
+2017-operating-adopted,2013,actual,Museum of Art,Building,3.00,87
+2017-operating-adopted,2014,actual,Museum of Art,Building,2.00,87
+2017-operating-adopted,2015,actual,Museum of Art,Building,2.00,87
+2017-operating-adopted,2016,adopted,Museum of Art,Building,2.00,87
+2017-operating-adopted,2017,adopted,Museum of Art,Building,1.00,87
+2017-operating-adopted,2009,actual,Museum of Art,Collections,5.50,87
+2017-operating-adopted,2010,actual,Museum of Art,Collections,5.50,87
+2017-operating-adopted,2011,actual,Museum of Art,Collections,4.50,87
+2017-operating-adopted,2012,actual,Museum of Art,Collections,4.50,87
+2017-operating-adopted,2013,actual,Museum of Art,Collections,4.50,87
+2017-operating-adopted,2014,actual,Museum of Art,Collections,4.50,87
+2017-operating-adopted,2015,actual,Museum of Art,Collections,4.50,87
+2017-operating-adopted,2016,adopted,Museum of Art,Collections,4.50,87
+2017-operating-adopted,2017,adopted,Museum of Art,Collections,3.00,87
+2017-operating-adopted,2009,actual,Workforce Investment Act,WIA Adult,3.03,87
+2017-operating-adopted,2010,actual,Workforce Investment Act,WIA Adult,1.98,87
+2017-operating-adopted,2011,actual,Workforce Investment Act,WIA Adult,1.98,87
+2017-operating-adopted,2012,actual,Workforce Investment Act,WIA Adult,1.98,87
+2017-operating-adopted,2013,actual,Workforce Investment Act,WIA Adult,1.74,87
+2017-operating-adopted,2014,actual,Workforce Investment Act,WIA Adult,2.34,87
+2017-operating-adopted,2015,actual,Workforce Investment Act,WIA Adult,2.36,87
+2017-operating-adopted,2016,adopted,Workforce Investment Act,WIA Adult,2.46,87
+2017-operating-adopted,2017,adopted,Workforce Investment Act,WIA Adult,2.05,87
+2017-operating-adopted,2009,actual,Workforce Investment Act,WIA Dislocated Worker,1.98,87
+2017-operating-adopted,2010,actual,Workforce Investment Act,WIA Dislocated Worker,2.01,87
+2017-operating-adopted,2011,actual,Workforce Investment Act,WIA Dislocated Worker,1.98,87
+2017-operating-adopted,2012,actual,Workforce Investment Act,WIA Dislocated Worker,0.99,87
+2017-operating-adopted,2013,actual,Workforce Investment Act,WIA Dislocated Worker,1.74,87
+2017-operating-adopted,2014,actual,Workforce Investment Act,WIA Dislocated Worker,1.14,87
+2017-operating-adopted,2015,actual,Workforce Investment Act,WIA Dislocated Worker,1.14,87
+2017-operating-adopted,2016,adopted,Workforce Investment Act,WIA Dislocated Worker,1.14,87
+2017-operating-adopted,2017,adopted,Workforce Investment Act,WIA Dislocated Worker,0.95,87
+2017-operating-adopted,2009,actual,Workforce Investment Act,WIA Youth,2.03,87
+2017-operating-adopted,2010,actual,Workforce Investment Act,WIA Youth,2.01,87
+2017-operating-adopted,2011,actual,Workforce Investment Act,WIA Youth,2.04,87
+2017-operating-adopted,2012,actual,Workforce Investment Act,WIA Youth,2.04,87
+2017-operating-adopted,2013,actual,Workforce Investment Act,WIA Youth,2.52,87
+2017-operating-adopted,2014,actual,Workforce Investment Act,WIA Youth,2.72,87
+2017-operating-adopted,2015,actual,Workforce Investment Act,WIA Youth,3.50,87
+2017-operating-adopted,2016,adopted,Workforce Investment Act,WIA Youth,2.40,87
+2017-operating-adopted,2017,adopted,Workforce Investment Act,WIA Youth,2.00,87
+2017-operating-adopted,2009,actual,Workforce Investment Act,Louisiana Public Health Instit,0.00,87
+2017-operating-adopted,2010,actual,Workforce Investment Act,Louisiana Public Health Instit,0.00,87
+2017-operating-adopted,2011,actual,Workforce Investment Act,Louisiana Public Health Instit,0.00,87
+2017-operating-adopted,2012,actual,Workforce Investment Act,Louisiana Public Health Instit,0.00,87
+2017-operating-adopted,2013,actual,Workforce Investment Act,Louisiana Public Health Instit,0.00,87
+2017-operating-adopted,2014,actual,Workforce Investment Act,Louisiana Public Health Instit,0.80,87
+2017-operating-adopted,2015,actual,Workforce Investment Act,Louisiana Public Health Instit,0.00,87
+2017-operating-adopted,2016,adopted,Workforce Investment Act,Louisiana Public Health Instit,0.00,87
+2017-operating-adopted,2017,adopted,Workforce Investment Act,Louisiana Public Health Instit,0.00,87
+2017-operating-adopted,2009,actual,Workforce Investment Act,Workforce Innovation Fund,0.00,87
+2017-operating-adopted,2010,actual,Workforce Investment Act,Workforce Innovation Fund,0.00,87
+2017-operating-adopted,2011,actual,Workforce Investment Act,Workforce Innovation Fund,0.00,87
+2017-operating-adopted,2012,actual,Workforce Investment Act,Workforce Innovation Fund,0.00,87
+2017-operating-adopted,2013,actual,Workforce Investment Act,Workforce Innovation Fund,0.00,87
+2017-operating-adopted,2014,actual,Workforce Investment Act,Workforce Innovation Fund,0.80,87
+2017-operating-adopted,2015,actual,Workforce Investment Act,Workforce Innovation Fund,0.00,87
+2017-operating-adopted,2016,adopted,Workforce Investment Act,Workforce Innovation Fund,1.00,87
+2017-operating-adopted,2017,adopted,Workforce Investment Act,Workforce Innovation Fund,2.00,87
+2017-operating-adopted,2009,actual,General Services,Office of Inspector General,26.00,87
+2017-operating-adopted,2010,actual,General Services,Office of Inspector General,24.00,87
+2017-operating-adopted,2011,actual,General Services,Office of Inspector General,33.50,87
+2017-operating-adopted,2012,actual,General Services,Office of Inspector General,31.00,87
+2017-operating-adopted,2013,actual,General Services,Office of Inspector General,28.00,87
+2017-operating-adopted,2014,actual,General Services,Office of Inspector General,28.00,87
+2017-operating-adopted,2015,actual,General Services,Office of Inspector General,28.00,87
+2017-operating-adopted,2016,adopted,General Services,Office of Inspector General,24.00,87
+2017-operating-adopted,2017,adopted,General Services,Office of Inspector General,23.73,87
+2017-operating-adopted,2009,actual,General Services,Ethics Review Board,0.00,87
+2017-operating-adopted,2010,actual,General Services,Ethics Review Board,0.00,87
+2017-operating-adopted,2011,actual,General Services,Ethics Review Board,0.00,87
+2017-operating-adopted,2012,actual,General Services,Ethics Review Board,2.50,87
+2017-operating-adopted,2013,actual,General Services,Ethics Review Board,3.25,87
+2017-operating-adopted,2014,actual,General Services,Ethics Review Board,1.25,87
+2017-operating-adopted,2015,actual,General Services,Ethics Review Board,1.25,87
+2017-operating-adopted,2016,adopted,General Services,Ethics Review Board,0.00,87
+2017-operating-adopted,2017,adopted,General Services,Ethics Review Board,0.00,87
+2017-operating-adopted,2009,actual,General Services,OIG Red Construction Oversight,0.00,87
+2017-operating-adopted,2010,actual,General Services,OIG Red Construction Oversight,0.00,87
+2017-operating-adopted,2011,actual,General Services,OIG Red Construction Oversight,0.00,87
+2017-operating-adopted,2012,actual,General Services,OIG Red Construction Oversight,0.05,87
+2017-operating-adopted,2013,actual,General Services,OIG Red Construction Oversight,4.00,87
+2017-operating-adopted,2014,actual,General Services,OIG Red Construction Oversight,0.00,87
+2017-operating-adopted,2015,actual,General Services,OIG Red Construction Oversight,0.00,87
+2017-operating-adopted,2016,adopted,General Services,OIG Red Construction Oversight,6.00,87
+2017-operating-adopted,2017,adopted,General Services,OIG Red Construction Oversight,0.00,87
+2017-operating-adopted,2009,actual,General Services,Contruction Fraud Division,0.00,87
+2017-operating-adopted,2010,actual,General Services,Contruction Fraud Division,0.00,87
+2017-operating-adopted,2011,actual,General Services,Contruction Fraud Division,0.00,87
+2017-operating-adopted,2012,actual,General Services,Contruction Fraud Division,0.00,87
+2017-operating-adopted,2013,actual,General Services,Contruction Fraud Division,0.00,87
+2017-operating-adopted,2014,actual,General Services,Contruction Fraud Division,3.00,87
+2017-operating-adopted,2015,actual,General Services,Contruction Fraud Division,2.00,87
+2017-operating-adopted,2016,adopted,General Services,Contruction Fraud Division,2.00,87
+2017-operating-adopted,2017,adopted,General Services,Contruction Fraud Division,2.00,87
+2017-operating-adopted,2009,actual,General Services,Community Police Mediation Project,0.00,87
+2017-operating-adopted,2010,actual,General Services,Community Police Mediation Project,0.00,87
+2017-operating-adopted,2011,actual,General Services,Community Police Mediation Project,0.00,87
+2017-operating-adopted,2012,actual,General Services,Community Police Mediation Project,0.00,87
+2017-operating-adopted,2013,actual,General Services,Community Police Mediation Project,0.00,87
+2017-operating-adopted,2014,actual,General Services,Community Police Mediation Project,0.00,87
+2017-operating-adopted,2015,actual,General Services,Community Police Mediation Project,0.00,87
+2017-operating-adopted,2016,adopted,General Services,Community Police Mediation Project,0.00,87
+2017-operating-adopted,2017,adopted,General Services,Community Police Mediation Project,0.00,87
+2017-operating-adopted,2009,actual,General Services,N.O.-COMMUNITY POLICE MEDIATIO,0.00,87
+2017-operating-adopted,2010,actual,General Services,N.O.-COMMUNITY POLICE MEDIATIO,0.00,87
+2017-operating-adopted,2011,actual,General Services,N.O.-COMMUNITY POLICE MEDIATIO,0.00,87
+2017-operating-adopted,2012,actual,General Services,N.O.-COMMUNITY POLICE MEDIATIO,0.00,87
+2017-operating-adopted,2013,actual,General Services,N.O.-COMMUNITY POLICE MEDIATIO,0.00,87
+2017-operating-adopted,2014,actual,General Services,N.O.-COMMUNITY POLICE MEDIATIO,0.00,87
+2017-operating-adopted,2015,actual,General Services,N.O.-COMMUNITY POLICE MEDIATIO,0.00,87
+2017-operating-adopted,2016,adopted,General Services,N.O.-COMMUNITY POLICE MEDIATIO,1.00,87
+2017-operating-adopted,2017,adopted,General Services,N.O.-COMMUNITY POLICE MEDIATIO,0.00,87
+2017-operating-adopted,2009,actual,General Services,OIG JUSTICE SYSTEM FUNDING EVA,0.00,87
+2017-operating-adopted,2010,actual,General Services,OIG JUSTICE SYSTEM FUNDING EVA,0.00,87
+2017-operating-adopted,2011,actual,General Services,OIG JUSTICE SYSTEM FUNDING EVA,0.00,87
+2017-operating-adopted,2012,actual,General Services,OIG JUSTICE SYSTEM FUNDING EVA,0.00,87
+2017-operating-adopted,2013,actual,General Services,OIG JUSTICE SYSTEM FUNDING EVA,0.00,87
+2017-operating-adopted,2014,actual,General Services,OIG JUSTICE SYSTEM FUNDING EVA,0.00,87
+2017-operating-adopted,2015,actual,General Services,OIG JUSTICE SYSTEM FUNDING EVA,0.00,87
+2017-operating-adopted,2016,adopted,General Services,OIG JUSTICE SYSTEM FUNDING EVA,1.00,87
+2017-operating-adopted,2017,adopted,General Services,OIG JUSTICE SYSTEM FUNDING EVA,0.27,87
+2017-operating-adopted,2009,actual,Ethics Review Board,Ethics Review Board,0.00,87
+2017-operating-adopted,2010,actual,Ethics Review Board,Ethics Review Board,0.00,87
+2017-operating-adopted,2011,actual,Ethics Review Board,Ethics Review Board,0.00,87
+2017-operating-adopted,2012,actual,Ethics Review Board,Ethics Review Board,0.00,87
+2017-operating-adopted,2013,actual,Ethics Review Board,Ethics Review Board,0.00,87
+2017-operating-adopted,2014,actual,Ethics Review Board,Ethics Review Board,0.00,87
+2017-operating-adopted,2015,actual,Ethics Review Board,Ethics Review Board,0.00,87
+2017-operating-adopted,2016,adopted,Ethics Review Board,Ethics Review Board,0.00,87
+2017-operating-adopted,2017,adopted,Ethics Review Board,Ethics Review Board,1.00,87
+2017-operating-adopted,2009,actual,Office of Independent Police Monitor,Office of Independent Police Monitor,0.00,87
+2017-operating-adopted,2010,actual,Office of Independent Police Monitor,Office of Independent Police Monitor,0.00,87
+2017-operating-adopted,2011,actual,Office of Independent Police Monitor,Office of Independent Police Monitor,0.00,87
+2017-operating-adopted,2012,actual,Office of Independent Police Monitor,Office of Independent Police Monitor,0.00,87
+2017-operating-adopted,2013,actual,Office of Independent Police Monitor,Office of Independent Police Monitor,0.00,87
+2017-operating-adopted,2014,actual,Office of Independent Police Monitor,Office of Independent Police Monitor,0.00,87
+2017-operating-adopted,2015,actual,Office of Independent Police Monitor,Office of Independent Police Monitor,0.00,87
+2017-operating-adopted,2016,adopted,Office of Independent Police Monitor,Office of Independent Police Monitor,0.00,87
+2017-operating-adopted,2017,adopted,Office of Independent Police Monitor,Office of Independent Police Monitor,7.00,87
+2017-operating-adopted,2009,actual,Coroner's Office,Coroner Administration,12.42,88
+2017-operating-adopted,2010,actual,Coroner's Office,Coroner Administration,12.42,88
+2017-operating-adopted,2011,actual,Coroner's Office,Coroner Administration,13.42,88
+2017-operating-adopted,2012,actual,Coroner's Office,Coroner Administration,14.42,88
+2017-operating-adopted,2013,actual,Coroner's Office,Coroner Administration,12.42,88
+2017-operating-adopted,2014,actual,Coroner's Office,Coroner Administration,13.42,88
+2017-operating-adopted,2015,actual,Coroner's Office,Coroner Administration,13.50,88
+2017-operating-adopted,2016,adopted,Coroner's Office,Coroner Administration,12.50,88
+2017-operating-adopted,2017,adopted,Coroner's Office,Coroner Administration,14.00,88
+2017-operating-adopted,2009,actual,Coroner's Office,Coroner Investigations,2.00,88
+2017-operating-adopted,2010,actual,Coroner's Office,Coroner Investigations,2.00,88
+2017-operating-adopted,2011,actual,Coroner's Office,Coroner Investigations,2.00,88
+2017-operating-adopted,2012,actual,Coroner's Office,Coroner Investigations,3.00,88
+2017-operating-adopted,2013,actual,Coroner's Office,Coroner Investigations,2.00,88
+2017-operating-adopted,2014,actual,Coroner's Office,Coroner Investigations,2.00,88
+2017-operating-adopted,2015,actual,Coroner's Office,Coroner Investigations,2.00,88
+2017-operating-adopted,2016,adopted,Coroner's Office,Coroner Investigations,6.00,88
+2017-operating-adopted,2017,adopted,Coroner's Office,Coroner Investigations,6.00,88
+2017-operating-adopted,2009,actual,Juvenile Court,Administrative Services,3.00,88
+2017-operating-adopted,2010,actual,Juvenile Court,Administrative Services,30.00,88
+2017-operating-adopted,2011,actual,Juvenile Court,Administrative Services,28.00,88
+2017-operating-adopted,2012,actual,Juvenile Court,Administrative Services,28.00,88
+2017-operating-adopted,2013,actual,Juvenile Court,Administrative Services,27.00,88
+2017-operating-adopted,2014,actual,Juvenile Court,Administrative Services,15.00,88
+2017-operating-adopted,2015,actual,Juvenile Court,Administrative Services,14.00,88
+2017-operating-adopted,2016,adopted,Juvenile Court,Administrative Services,15.00,88
+2017-operating-adopted,2017,adopted,Juvenile Court,Administrative Services,15.00,88
+2017-operating-adopted,2009,actual,Juvenile Court,Clerks Services,13.00,88
+2017-operating-adopted,2010,actual,Juvenile Court,Clerks Services,5.00,88
+2017-operating-adopted,2011,actual,Juvenile Court,Clerks Services,5.00,88
+2017-operating-adopted,2012,actual,Juvenile Court,Clerks Services,5.00,88
+2017-operating-adopted,2013,actual,Juvenile Court,Clerks Services,5.00,88
+2017-operating-adopted,2014,actual,Juvenile Court,Clerks Services,3.00,88
+2017-operating-adopted,2015,actual,Juvenile Court,Clerks Services,3.00,88
+2017-operating-adopted,2016,adopted,Juvenile Court,Clerks Services,3.00,88
+2017-operating-adopted,2017,adopted,Juvenile Court,Clerks Services,3.00,88
+2017-operating-adopted,2009,actual,Juvenile Court,Judges' Personnel,24.00,88
+2017-operating-adopted,2010,actual,Juvenile Court,Judges' Personnel,17.00,88
+2017-operating-adopted,2011,actual,Juvenile Court,Judges' Personnel,16.00,88
+2017-operating-adopted,2012,actual,Juvenile Court,Judges' Personnel,16.00,88
+2017-operating-adopted,2013,actual,Juvenile Court,Judges' Personnel,16.00,88
+2017-operating-adopted,2014,actual,Juvenile Court,Judges' Personnel,14.00,88
+2017-operating-adopted,2015,actual,Juvenile Court,Judges' Personnel,14.00,88
+2017-operating-adopted,2016,adopted,Juvenile Court,Judges' Personnel,11.00,88
+2017-operating-adopted,2017,adopted,Juvenile Court,Judges' Personnel,11.00,88

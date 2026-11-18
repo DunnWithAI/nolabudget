@@ -1,0 +1,406 @@
+book_id,fiscal_year,basis,fund_group,dept_code,dept_name,amount,page
+2020-operating-proposed,2018,actual,general_fund,,Council,7715835,96
+2020-operating-proposed,2019,adopted,general_fund,,Council,11018358,96
+2020-operating-proposed,2020,proposed,general_fund,,Council,11112317,96
+2020-operating-proposed,2018,actual,general_fund,,Mayor,17947253,96
+2020-operating-proposed,2019,adopted,general_fund,,Mayor,25256141,96
+2020-operating-proposed,2020,proposed,general_fund,,Mayor,26952620,96
+2020-operating-proposed,2018,actual,general_fund,,CAO,42851926,96
+2020-operating-proposed,2019,adopted,general_fund,,CAO,47455239,96
+2020-operating-proposed,2020,proposed,general_fund,,CAO,49956464,96
+2020-operating-proposed,2018,actual,general_fund,,Law,11346340,96
+2020-operating-proposed,2019,adopted,general_fund,,Law,6091965,96
+2020-operating-proposed,2020,proposed,general_fund,,Law,7031065,96
+2020-operating-proposed,2018,actual,general_fund,,Fire,114347959,96
+2020-operating-proposed,2019,adopted,general_fund,,Fire,116374074,96
+2020-operating-proposed,2020,proposed,general_fund,,Fire,118354936,96
+2020-operating-proposed,2018,actual,general_fund,,Safety & Permits,6834552,96
+2020-operating-proposed,2019,adopted,general_fund,,Safety & Permits,7963720,96
+2020-operating-proposed,2020,proposed,general_fund,,Safety & Permits,8515294,96
+2020-operating-proposed,2018,actual,general_fund,,Police,167264953,96
+2020-operating-proposed,2019,adopted,general_fund,,Police,173366314,96
+2020-operating-proposed,2020,proposed,general_fund,,Police,175401302,96
+2020-operating-proposed,2018,actual,general_fund,,Sanitation,36780401,96
+2020-operating-proposed,2019,adopted,general_fund,,Sanitation,39739504,96
+2020-operating-proposed,2020,proposed,general_fund,,Sanitation,39765413,96
+2020-operating-proposed,2018,actual,general_fund,,Health,20068023,96
+2020-operating-proposed,2019,adopted,general_fund,,Health,21452006,96
+2020-operating-proposed,2020,proposed,general_fund,,Health,22706424,96
+2020-operating-proposed,2018,actual,general_fund,,Human Services,4730437,96
+2020-operating-proposed,2019,adopted,general_fund,,Human Services,6374611,96
+2020-operating-proposed,2020,proposed,general_fund,,Human Services,7215960,96
+2020-operating-proposed,2018,actual,general_fund,,Finance,52417603,96
+2020-operating-proposed,2019,adopted,general_fund,,Finance,50281274,96
+2020-operating-proposed,2020,proposed,general_fund,,Finance,52261259,96
+2020-operating-proposed,2018,actual,general_fund,,Property Management,10071210,96
+2020-operating-proposed,2019,adopted,general_fund,,Property Management,10204487,96
+2020-operating-proposed,2020,proposed,general_fund,,Property Management,10683217,96
+2020-operating-proposed,2018,actual,general_fund,,Civil Service,2489548,96
+2020-operating-proposed,2019,adopted,general_fund,,Civil Service,3364831,96
+2020-operating-proposed,2020,proposed,general_fund,,Civil Service,3464831,96
+2020-operating-proposed,2018,actual,general_fund,,Public Works,30457002,96
+2020-operating-proposed,2019,adopted,general_fund,,Public Works,36072398,96
+2020-operating-proposed,2020,proposed,general_fund,,Public Works,36454146,96
+2020-operating-proposed,2018,actual,general_fund,,Recreation,0,96
+2020-operating-proposed,2019,adopted,general_fund,,Recreation,0,96
+2020-operating-proposed,2020,proposed,general_fund,,Recreation,0,96
+2020-operating-proposed,2018,actual,general_fund,,Parks & Parkways,9082095,96
+2020-operating-proposed,2019,adopted,general_fund,,Parks & Parkways,10404882,96
+2020-operating-proposed,2020,proposed,general_fund,,Parks & Parkways,10557343,96
+2020-operating-proposed,2018,actual,general_fund,,Library,4207,96
+2020-operating-proposed,2019,adopted,general_fund,,Library,0,96
+2020-operating-proposed,2020,proposed,general_fund,,Library,0,96
+2020-operating-proposed,2018,actual,general_fund,,HDLC,946316,96
+2020-operating-proposed,2019,adopted,general_fund,,HDLC,993417,96
+2020-operating-proposed,2020,proposed,general_fund,,HDLC,1073138,96
+2020-operating-proposed,2018,actual,general_fund,,VCC,466799,96
+2020-operating-proposed,2019,adopted,general_fund,,VCC,529063,96
+2020-operating-proposed,2020,proposed,general_fund,,VCC,573325,96
+2020-operating-proposed,2018,actual,general_fund,,Alcoholic Bvg Ctrl. Bd.,0,96
+2020-operating-proposed,2019,adopted,general_fund,,Alcoholic Bvg Ctrl. Bd.,1500,96
+2020-operating-proposed,2020,proposed,general_fund,,Alcoholic Bvg Ctrl. Bd.,1500,96
+2020-operating-proposed,2018,actual,general_fund,,City Planning Comm.,2021383,96
+2020-operating-proposed,2019,adopted,general_fund,,City Planning Comm.,2410613,96
+2020-operating-proposed,2020,proposed,general_fund,,City Planning Comm.,2439320,96
+2020-operating-proposed,2018,actual,general_fund,,Mosquito Control Bd.,2496763,96
+2020-operating-proposed,2019,adopted,general_fund,,Mosquito Control Bd.,2999534,96
+2020-operating-proposed,2020,proposed,general_fund,,Mosquito Control Bd.,3099534,96
+2020-operating-proposed,2018,actual,general_fund,,Museum of Art,128931,96
+2020-operating-proposed,2019,adopted,general_fund,,Museum of Art,128931,96
+2020-operating-proposed,2020,proposed,general_fund,,Museum of Art,247314,96
+2020-operating-proposed,2018,actual,general_fund,,Miscellaneous,35276035,96
+2020-operating-proposed,2019,adopted,general_fund,,Miscellaneous,39057359,96
+2020-operating-proposed,2020,proposed,general_fund,,Miscellaneous,42773436,96
+2020-operating-proposed,2018,actual,general_fund,,General Services,2827902,96
+2020-operating-proposed,2019,adopted,general_fund,,General Services,3860951,96
+2020-operating-proposed,2020,proposed,general_fund,,General Services,4300061,96
+2020-operating-proposed,2018,actual,general_fund,,Ethics Review Board,275847,96
+2020-operating-proposed,2019,adopted,general_fund,,Ethics Review Board,280796,96
+2020-operating-proposed,2020,proposed,general_fund,,Ethics Review Board,288743,96
+2020-operating-proposed,2018,actual,general_fund,,Office of Ind. Police Mon.,935106,96
+2020-operating-proposed,2019,adopted,general_fund,,Office of Ind. Police Mon.,1123186,96
+2020-operating-proposed,2020,proposed,general_fund,,Office of Ind. Police Mon.,1154971,96
+2020-operating-proposed,2018,actual,general_fund,,Office of Training Div.,0,96
+2020-operating-proposed,2019,adopted,general_fund,,Office of Training Div.,0,96
+2020-operating-proposed,2020,proposed,general_fund,,Office of Training Div.,0,96
+2020-operating-proposed,2018,actual,general_fund,,Office of Comm. Dev.,0,96
+2020-operating-proposed,2019,adopted,general_fund,,Office of Comm. Dev.,0,96
+2020-operating-proposed,2020,proposed,general_fund,,Office of Comm. Dev.,0,96
+2020-operating-proposed,2018,actual,general_fund,,N’hood Hsg Imprv. Fnd,0,96
+2020-operating-proposed,2019,adopted,general_fund,,N’hood Hsg Imprv. Fnd,0,96
+2020-operating-proposed,2020,proposed,general_fund,,N’hood Hsg Imprv. Fnd,0,96
+2020-operating-proposed,2018,actual,general_fund,,Workforce Invst. Act,0,96
+2020-operating-proposed,2019,adopted,general_fund,,Workforce Invst. Act,0,96
+2020-operating-proposed,2020,proposed,general_fund,,Workforce Invst. Act,0,96
+2020-operating-proposed,2018,actual,general_fund,,Economic Dev. Fund,0,96
+2020-operating-proposed,2019,adopted,general_fund,,Economic Dev. Fund,0,96
+2020-operating-proposed,2020,proposed,general_fund,,Economic Dev. Fund,0,96
+2020-operating-proposed,2018,actual,general_fund,,Intergovernmental,0,96
+2020-operating-proposed,2019,adopted,general_fund,,Intergovernmental,0,96
+2020-operating-proposed,2020,proposed,general_fund,,Intergovernmental,0,96
+2020-operating-proposed,2018,actual,general_fund,,District Attorney,6078029,96
+2020-operating-proposed,2019,adopted,general_fund,,District Attorney,6678029,96
+2020-operating-proposed,2020,proposed,general_fund,,District Attorney,6678029,96
+2020-operating-proposed,2018,actual,general_fund,,Coroner's Office,2515621,96
+2020-operating-proposed,2019,adopted,general_fund,,Coroner's Office,3250516,96
+2020-operating-proposed,2020,proposed,general_fund,,Coroner's Office,3220020,96
+2020-operating-proposed,2018,actual,general_fund,,Juvenile Court,2756833,96
+2020-operating-proposed,2019,adopted,general_fund,,Juvenile Court,2736206,96
+2020-operating-proposed,2020,proposed,general_fund,,Juvenile Court,2857531,96
+2020-operating-proposed,2018,actual,general_fund,,First City Court,0,96
+2020-operating-proposed,2019,adopted,general_fund,,First City Court,6000,96
+2020-operating-proposed,2020,proposed,general_fund,,First City Court,6000,96
+2020-operating-proposed,2018,actual,general_fund,,Civil Court,0,96
+2020-operating-proposed,2019,adopted,general_fund,,Civil Court,14400,96
+2020-operating-proposed,2020,proposed,general_fund,,Civil Court,14400,96
+2020-operating-proposed,2018,actual,general_fund,,Municipal Court,5686952,96
+2020-operating-proposed,2019,adopted,general_fund,,Municipal Court,7923477,96
+2020-operating-proposed,2020,proposed,general_fund,,Municipal Court,7845837,96
+2020-operating-proposed,2018,actual,general_fund,,Traffic Court,262440,96
+2020-operating-proposed,2019,adopted,general_fund,,Traffic Court,0,96
+2020-operating-proposed,2020,proposed,general_fund,,Traffic Court,0,96
+2020-operating-proposed,2018,actual,general_fund,,Criminal District Court,4490121,96
+2020-operating-proposed,2019,adopted,general_fund,,Criminal District Court,6911998,96
+2020-operating-proposed,2020,proposed,general_fund,,Criminal District Court,6911998,96
+2020-operating-proposed,2018,actual,general_fund,,Criminal Sheriff,53013425,96
+2020-operating-proposed,2019,adopted,general_fund,,Criminal Sheriff,53188976,96
+2020-operating-proposed,2020,proposed,general_fund,,Criminal Sheriff,53188976,96
+2020-operating-proposed,2018,actual,general_fund,,Clrk of Crim. Dist. Crt,3953520,96
+2020-operating-proposed,2019,adopted,general_fund,,Clrk of Crim. Dist. Crt,3726330,96
+2020-operating-proposed,2020,proposed,general_fund,,Clrk of Crim. Dist. Crt,4000000,96
+2020-operating-proposed,2018,actual,general_fund,,Registrar of Voters,362835,96
+2020-operating-proposed,2019,adopted,general_fund,,Registrar of Voters,385945,96
+2020-operating-proposed,2020,proposed,general_fund,,Registrar of Voters,385945,96
+2020-operating-proposed,2018,actual,general_fund,,Judicial Retirement,348380,96
+2020-operating-proposed,2019,adopted,general_fund,,Judicial Retirement,364000,96
+2020-operating-proposed,2020,proposed,general_fund,,Judicial Retirement,364000,96
+2020-operating-proposed,2018,actual,other_funds,,Council,79037,97
+2020-operating-proposed,2019,adopted,other_funds,,Council,5935000,97
+2020-operating-proposed,2020,proposed,other_funds,,Council,10935000,97
+2020-operating-proposed,2018,actual,other_funds,,Mayor,16262882,97
+2020-operating-proposed,2019,adopted,other_funds,,Mayor,84007291,97
+2020-operating-proposed,2020,proposed,other_funds,,Mayor,77975600,97
+2020-operating-proposed,2018,actual,other_funds,,CAO,1369142,97
+2020-operating-proposed,2019,adopted,other_funds,,CAO,30449501,97
+2020-operating-proposed,2020,proposed,other_funds,,CAO,13243873,97
+2020-operating-proposed,2018,actual,other_funds,,Law,1144151,97
+2020-operating-proposed,2019,adopted,other_funds,,Law,3562233,97
+2020-operating-proposed,2020,proposed,other_funds,,Law,3586490,97
+2020-operating-proposed,2018,actual,other_funds,,Fire,3458289,97
+2020-operating-proposed,2019,adopted,other_funds,,Fire,4000000,97
+2020-operating-proposed,2020,proposed,other_funds,,Fire,4000000,97
+2020-operating-proposed,2018,actual,other_funds,,Safety & Permits,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Safety & Permits,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Safety & Permits,0,97
+2020-operating-proposed,2018,actual,other_funds,,Police,8989470,97
+2020-operating-proposed,2019,adopted,other_funds,,Police,18653735,97
+2020-operating-proposed,2020,proposed,other_funds,,Police,18653667,97
+2020-operating-proposed,2018,actual,other_funds,,Sanitation,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Sanitation,71839,97
+2020-operating-proposed,2020,proposed,other_funds,,Sanitation,71839,97
+2020-operating-proposed,2018,actual,other_funds,,Health,13564252,97
+2020-operating-proposed,2019,adopted,other_funds,,Health,22622015,97
+2020-operating-proposed,2020,proposed,other_funds,,Health,28164814,97
+2020-operating-proposed,2018,actual,other_funds,,Human Services,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Human Services,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Human Services,0,97
+2020-operating-proposed,2018,actual,other_funds,,Finance,9005113,97
+2020-operating-proposed,2019,adopted,other_funds,,Finance,7300000,97
+2020-operating-proposed,2020,proposed,other_funds,,Finance,10281026,97
+2020-operating-proposed,2018,actual,other_funds,,Property Management,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Property Management,123507,97
+2020-operating-proposed,2020,proposed,other_funds,,Property Management,123507,97
+2020-operating-proposed,2018,actual,other_funds,,Civil Service,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Civil Service,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Civil Service,0,97
+2020-operating-proposed,2018,actual,other_funds,,Public Works,4573584,97
+2020-operating-proposed,2019,adopted,other_funds,,Public Works,19969730,97
+2020-operating-proposed,2020,proposed,other_funds,,Public Works,19969730,97
+2020-operating-proposed,2018,actual,other_funds,,Recreation,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Recreation,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Recreation,0,97
+2020-operating-proposed,2018,actual,other_funds,,Parks & Parkways,714300,97
+2020-operating-proposed,2019,adopted,other_funds,,Parks & Parkways,1460073,97
+2020-operating-proposed,2020,proposed,other_funds,,Parks & Parkways,1060073,97
+2020-operating-proposed,2018,actual,other_funds,,Library,19112715,97
+2020-operating-proposed,2019,adopted,other_funds,,Library,23446060,97
+2020-operating-proposed,2020,proposed,other_funds,,Library,22270206,97
+2020-operating-proposed,2018,actual,other_funds,,HDLC,0,97
+2020-operating-proposed,2019,adopted,other_funds,,HDLC,0,97
+2020-operating-proposed,2020,proposed,other_funds,,HDLC,0,97
+2020-operating-proposed,2018,actual,other_funds,,VCC,0,97
+2020-operating-proposed,2019,adopted,other_funds,,VCC,0,97
+2020-operating-proposed,2020,proposed,other_funds,,VCC,0,97
+2020-operating-proposed,2018,actual,other_funds,,Alcoholic Bvg Ctrl. Bd.,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Alcoholic Bvg Ctrl. Bd.,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Alcoholic Bvg Ctrl. Bd.,0,97
+2020-operating-proposed,2018,actual,other_funds,,City Planning Comm.,0,97
+2020-operating-proposed,2019,adopted,other_funds,,City Planning Comm.,0,97
+2020-operating-proposed,2020,proposed,other_funds,,City Planning Comm.,80411,97
+2020-operating-proposed,2018,actual,other_funds,,Mosquito Control Bd.,998871,97
+2020-operating-proposed,2019,adopted,other_funds,,Mosquito Control Bd.,1628470,97
+2020-operating-proposed,2020,proposed,other_funds,,Mosquito Control Bd.,1038950,97
+2020-operating-proposed,2018,actual,other_funds,,Museum of Art,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Museum of Art,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Museum of Art,0,97
+2020-operating-proposed,2018,actual,other_funds,,Miscellaneous,15975102,97
+2020-operating-proposed,2019,adopted,other_funds,,Miscellaneous,20123096,97
+2020-operating-proposed,2020,proposed,other_funds,,Miscellaneous,23249621,97
+2020-operating-proposed,2018,actual,other_funds,,General Services,0,97
+2020-operating-proposed,2019,adopted,other_funds,,General Services,160976,97
+2020-operating-proposed,2020,proposed,other_funds,,General Services,160976,97
+2020-operating-proposed,2018,actual,other_funds,,Ethics Review Board,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Ethics Review Board,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Ethics Review Board,0,97
+2020-operating-proposed,2018,actual,other_funds,,Office of Ind. Police Mon.,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Office of Ind. Police Mon.,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Office of Ind. Police Mon.,0,97
+2020-operating-proposed,2018,actual,other_funds,,Office of Training Div.,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Office of Training Div.,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Office of Training Div.,0,97
+2020-operating-proposed,2018,actual,other_funds,,Office of Comm. Dev.,16997842,97
+2020-operating-proposed,2019,adopted,other_funds,,Office of Comm. Dev.,60731069,97
+2020-operating-proposed,2020,proposed,other_funds,,Office of Comm. Dev.,55737085,97
+2020-operating-proposed,2018,actual,other_funds,,N’hood Hsg Imprv. Fnd,2342897,97
+2020-operating-proposed,2019,adopted,other_funds,,N’hood Hsg Imprv. Fnd,6891296,97
+2020-operating-proposed,2020,proposed,other_funds,,N’hood Hsg Imprv. Fnd,7561523,97
+2020-operating-proposed,2018,actual,other_funds,,Workforce Invst. Act,2651924,97
+2020-operating-proposed,2019,adopted,other_funds,,Workforce Invst. Act,8701986,97
+2020-operating-proposed,2020,proposed,other_funds,,Workforce Invst. Act,8913727,97
+2020-operating-proposed,2018,actual,other_funds,,Economic Dev. Fund,3155842,97
+2020-operating-proposed,2019,adopted,other_funds,,Economic Dev. Fund,4034833,97
+2020-operating-proposed,2020,proposed,other_funds,,Economic Dev. Fund,3898958,97
+2020-operating-proposed,2018,actual,other_funds,,Intergovernmental,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Intergovernmental,100000000,97
+2020-operating-proposed,2020,proposed,other_funds,,Intergovernmental,100000000,97
+2020-operating-proposed,2018,actual,other_funds,,District Attorney,0,97
+2020-operating-proposed,2019,adopted,other_funds,,District Attorney,0,97
+2020-operating-proposed,2020,proposed,other_funds,,District Attorney,0,97
+2020-operating-proposed,2018,actual,other_funds,,Coroner's Office,59382,97
+2020-operating-proposed,2019,adopted,other_funds,,Coroner's Office,216511,97
+2020-operating-proposed,2020,proposed,other_funds,,Coroner's Office,216511,97
+2020-operating-proposed,2018,actual,other_funds,,Juvenile Court,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Juvenile Court,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Juvenile Court,0,97
+2020-operating-proposed,2018,actual,other_funds,,First City Court,0,97
+2020-operating-proposed,2019,adopted,other_funds,,First City Court,0,97
+2020-operating-proposed,2020,proposed,other_funds,,First City Court,0,97
+2020-operating-proposed,2018,actual,other_funds,,Civil Court,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Civil Court,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Civil Court,0,97
+2020-operating-proposed,2018,actual,other_funds,,Municipal Court,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Municipal Court,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Municipal Court,0,97
+2020-operating-proposed,2018,actual,other_funds,,Traffic Court,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Traffic Court,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Traffic Court,0,97
+2020-operating-proposed,2018,actual,other_funds,,Criminal District Court,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Criminal District Court,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Criminal District Court,0,97
+2020-operating-proposed,2018,actual,other_funds,,Criminal Sheriff,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Criminal Sheriff,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Criminal Sheriff,0,97
+2020-operating-proposed,2018,actual,other_funds,,Clrk of Crim. Dist. Crt,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Clrk of Crim. Dist. Crt,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Clrk of Crim. Dist. Crt,0,97
+2020-operating-proposed,2018,actual,other_funds,,Registrar of Voters,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Registrar of Voters,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Registrar of Voters,0,97
+2020-operating-proposed,2018,actual,other_funds,,Judicial Retirement,0,97
+2020-operating-proposed,2019,adopted,other_funds,,Judicial Retirement,0,97
+2020-operating-proposed,2020,proposed,other_funds,,Judicial Retirement,0,97
+2020-operating-proposed,2018,actual,all_funds,,Council,7794872,98
+2020-operating-proposed,2019,adopted,all_funds,,Council,16953358,98
+2020-operating-proposed,2020,proposed,all_funds,,Council,22047317,98
+2020-operating-proposed,2018,actual,all_funds,,Mayor,34210135,98
+2020-operating-proposed,2019,adopted,all_funds,,Mayor,109263432,98
+2020-operating-proposed,2020,proposed,all_funds,,Mayor,104928220,98
+2020-operating-proposed,2018,actual,all_funds,,CAO,44221068,98
+2020-operating-proposed,2019,adopted,all_funds,,CAO,77904740,98
+2020-operating-proposed,2020,proposed,all_funds,,CAO,63200337,98
+2020-operating-proposed,2018,actual,all_funds,,Law,12490491,98
+2020-operating-proposed,2019,adopted,all_funds,,Law,9654198,98
+2020-operating-proposed,2020,proposed,all_funds,,Law,10617555,98
+2020-operating-proposed,2018,actual,all_funds,,Fire,117806248,98
+2020-operating-proposed,2019,adopted,all_funds,,Fire,120374074,98
+2020-operating-proposed,2020,proposed,all_funds,,Fire,122354936,98
+2020-operating-proposed,2018,actual,all_funds,,Safety & Permits,6834552,98
+2020-operating-proposed,2019,adopted,all_funds,,Safety & Permits,7963720,98
+2020-operating-proposed,2020,proposed,all_funds,,Safety & Permits,8515294,98
+2020-operating-proposed,2018,actual,all_funds,,Police,176254423,98
+2020-operating-proposed,2019,adopted,all_funds,,Police,192020049,98
+2020-operating-proposed,2020,proposed,all_funds,,Police,194054969,98
+2020-operating-proposed,2018,actual,all_funds,,Sanitation,36780401,98
+2020-operating-proposed,2019,adopted,all_funds,,Sanitation,39811343,98
+2020-operating-proposed,2020,proposed,all_funds,,Sanitation,39837252,98
+2020-operating-proposed,2018,actual,all_funds,,Health,33632275,98
+2020-operating-proposed,2019,adopted,all_funds,,Health,44074021,98
+2020-operating-proposed,2020,proposed,all_funds,,Health,50871238,98
+2020-operating-proposed,2018,actual,all_funds,,Human Services,4730437,98
+2020-operating-proposed,2019,adopted,all_funds,,Human Services,6374611,98
+2020-operating-proposed,2020,proposed,all_funds,,Human Services,7215960,98
+2020-operating-proposed,2018,actual,all_funds,,Finance,61422716,98
+2020-operating-proposed,2019,adopted,all_funds,,Finance,57581274,98
+2020-operating-proposed,2020,proposed,all_funds,,Finance,62542285,98
+2020-operating-proposed,2018,actual,all_funds,,Property Management,10071210,98
+2020-operating-proposed,2019,adopted,all_funds,,Property Management,10327994,98
+2020-operating-proposed,2020,proposed,all_funds,,Property Management,10806724,98
+2020-operating-proposed,2018,actual,all_funds,,Civil Service,2489548,98
+2020-operating-proposed,2019,adopted,all_funds,,Civil Service,3364831,98
+2020-operating-proposed,2020,proposed,all_funds,,Civil Service,3464831,98
+2020-operating-proposed,2018,actual,all_funds,,Public Works,35030586,98
+2020-operating-proposed,2019,adopted,all_funds,,Public Works,56042128,98
+2020-operating-proposed,2020,proposed,all_funds,,Public Works,56423876,98
+2020-operating-proposed,2018,actual,all_funds,,Recreation,0,98
+2020-operating-proposed,2019,adopted,all_funds,,Recreation,0,98
+2020-operating-proposed,2020,proposed,all_funds,,Recreation,0,98
+2020-operating-proposed,2018,actual,all_funds,,Parks & Parkways,9796395,98
+2020-operating-proposed,2019,adopted,all_funds,,Parks & Parkways,11864955,98
+2020-operating-proposed,2020,proposed,all_funds,,Parks & Parkways,11617416,98
+2020-operating-proposed,2018,actual,all_funds,,Library,19116922,98
+2020-operating-proposed,2019,adopted,all_funds,,Library,23446060,98
+2020-operating-proposed,2020,proposed,all_funds,,Library,22270206,98
+2020-operating-proposed,2018,actual,all_funds,,HDLC,946316,98
+2020-operating-proposed,2019,adopted,all_funds,,HDLC,993417,98
+2020-operating-proposed,2020,proposed,all_funds,,HDLC,1073138,98
+2020-operating-proposed,2018,actual,all_funds,,VCC,466799,98
+2020-operating-proposed,2019,adopted,all_funds,,VCC,529063,98
+2020-operating-proposed,2020,proposed,all_funds,,VCC,573325,98
+2020-operating-proposed,2018,actual,all_funds,,Alcoholic Bvg Ctrl. Bd.,0,98
+2020-operating-proposed,2019,adopted,all_funds,,Alcoholic Bvg Ctrl. Bd.,1500,98
+2020-operating-proposed,2020,proposed,all_funds,,Alcoholic Bvg Ctrl. Bd.,1500,98
+2020-operating-proposed,2018,actual,all_funds,,City Planning Comm.,2021383,98
+2020-operating-proposed,2019,adopted,all_funds,,City Planning Comm.,2410613,98
+2020-operating-proposed,2020,proposed,all_funds,,City Planning Comm.,2519731,98
+2020-operating-proposed,2018,actual,all_funds,,Mosquito Control Bd.,3495634,98
+2020-operating-proposed,2019,adopted,all_funds,,Mosquito Control Bd.,4628004,98
+2020-operating-proposed,2020,proposed,all_funds,,Mosquito Control Bd.,4138484,98
+2020-operating-proposed,2018,actual,all_funds,,Museum of Art,128931,98
+2020-operating-proposed,2019,adopted,all_funds,,Museum of Art,128931,98
+2020-operating-proposed,2020,proposed,all_funds,,Museum of Art,247314,98
+2020-operating-proposed,2018,actual,all_funds,,Miscellaneous,51251137,98
+2020-operating-proposed,2019,adopted,all_funds,,Miscellaneous,59180455,98
+2020-operating-proposed,2020,proposed,all_funds,,Miscellaneous,66023057,98
+2020-operating-proposed,2018,actual,all_funds,,General Services,2827902,98
+2020-operating-proposed,2019,adopted,all_funds,,General Services,4021927,98
+2020-operating-proposed,2020,proposed,all_funds,,General Services,4461037,98
+2020-operating-proposed,2018,actual,all_funds,,Ethics Review Board,275847,98
+2020-operating-proposed,2019,adopted,all_funds,,Ethics Review Board,280796,98
+2020-operating-proposed,2020,proposed,all_funds,,Ethics Review Board,288743,98
+2020-operating-proposed,2018,actual,all_funds,,Office of Ind. Police Mon.,935106,98
+2020-operating-proposed,2019,adopted,all_funds,,Office of Ind. Police Mon.,1123186,98
+2020-operating-proposed,2020,proposed,all_funds,,Office of Ind. Police Mon.,1154971,98
+2020-operating-proposed,2018,actual,all_funds,,Office of Training Div.,0,98
+2020-operating-proposed,2019,adopted,all_funds,,Office of Training Div.,0,98
+2020-operating-proposed,2020,proposed,all_funds,,Office of Training Div.,0,98
+2020-operating-proposed,2018,actual,all_funds,,Office of Comm. Dev.,16997842,98
+2020-operating-proposed,2019,adopted,all_funds,,Office of Comm. Dev.,60731069,98
+2020-operating-proposed,2020,proposed,all_funds,,Office of Comm. Dev.,55737085,98
+2020-operating-proposed,2018,actual,all_funds,,N’hood Hsg Imprv. Fnd,2342897,98
+2020-operating-proposed,2019,adopted,all_funds,,N’hood Hsg Imprv. Fnd,6891296,98
+2020-operating-proposed,2020,proposed,all_funds,,N’hood Hsg Imprv. Fnd,7561523,98
+2020-operating-proposed,2018,actual,all_funds,,Workforce Invst. Act,2651924,98
+2020-operating-proposed,2019,adopted,all_funds,,Workforce Invst. Act,8701986,98
+2020-operating-proposed,2020,proposed,all_funds,,Workforce Invst. Act,8913727,98
+2020-operating-proposed,2018,actual,all_funds,,Economic Dev. Fund,3155842,98
+2020-operating-proposed,2019,adopted,all_funds,,Economic Dev. Fund,4034833,98
+2020-operating-proposed,2020,proposed,all_funds,,Economic Dev. Fund,3898958,98
+2020-operating-proposed,2018,actual,all_funds,,Intergovernmental,0,98
+2020-operating-proposed,2019,adopted,all_funds,,Intergovernmental,100000000,98
+2020-operating-proposed,2020,proposed,all_funds,,Intergovernmental,100000000,98
+2020-operating-proposed,2018,actual,all_funds,,District Attorney,6078029,98
+2020-operating-proposed,2019,adopted,all_funds,,District Attorney,6678029,98
+2020-operating-proposed,2020,proposed,all_funds,,District Attorney,6678029,98
+2020-operating-proposed,2018,actual,all_funds,,Coroner's Office,2575003,98
+2020-operating-proposed,2019,adopted,all_funds,,Coroner's Office,3467027,98
+2020-operating-proposed,2020,proposed,all_funds,,Coroner's Office,3436531,98
+2020-operating-proposed,2018,actual,all_funds,,Juvenile Court,2756833,98
+2020-operating-proposed,2019,adopted,all_funds,,Juvenile Court,2736206,98
+2020-operating-proposed,2020,proposed,all_funds,,Juvenile Court,2857531,98
+2020-operating-proposed,2018,actual,all_funds,,First City Court,0,98
+2020-operating-proposed,2019,adopted,all_funds,,First City Court,6000,98
+2020-operating-proposed,2020,proposed,all_funds,,First City Court,6000,98
+2020-operating-proposed,2018,actual,all_funds,,Civil Court,0,98
+2020-operating-proposed,2019,adopted,all_funds,,Civil Court,14400,98
+2020-operating-proposed,2020,proposed,all_funds,,Civil Court,14400,98
+2020-operating-proposed,2018,actual,all_funds,,Municipal Court,5686952,98
+2020-operating-proposed,2019,adopted,all_funds,,Municipal Court,7923477,98
+2020-operating-proposed,2020,proposed,all_funds,,Municipal Court,7845837,98
+2020-operating-proposed,2018,actual,all_funds,,Traffic Court,262440,98
+2020-operating-proposed,2019,adopted,all_funds,,Traffic Court,0,98
+2020-operating-proposed,2020,proposed,all_funds,,Traffic Court,0,98
+2020-operating-proposed,2018,actual,all_funds,,Criminal District Court,4490121,98
+2020-operating-proposed,2019,adopted,all_funds,,Criminal District Court,6911998,98
+2020-operating-proposed,2020,proposed,all_funds,,Criminal District Court,6911998,98
+2020-operating-proposed,2018,actual,all_funds,,Criminal Sheriff,53013425,98
+2020-operating-proposed,2019,adopted,all_funds,,Criminal Sheriff,53188976,98
+2020-operating-proposed,2020,proposed,all_funds,,Criminal Sheriff,53188976,98
+2020-operating-proposed,2018,actual,all_funds,,Clrk of Crim. Dist. Crt,3953520,98
+2020-operating-proposed,2019,adopted,all_funds,,Clrk of Crim. Dist. Crt,3726330,98
+2020-operating-proposed,2020,proposed,all_funds,,Clrk of Crim. Dist. Crt,4000000,98
+2020-operating-proposed,2018,actual,all_funds,,Registrar of Voters,362835,98
+2020-operating-proposed,2019,adopted,all_funds,,Registrar of Voters,385945,98
+2020-operating-proposed,2020,proposed,all_funds,,Registrar of Voters,385945,98
+2020-operating-proposed,2018,actual,all_funds,,Judicial Retirement,348380,98
+2020-operating-proposed,2019,adopted,all_funds,,Judicial Retirement,364000,98
+2020-operating-proposed,2020,proposed,all_funds,,Judicial Retirement,364000,98

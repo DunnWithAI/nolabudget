@@ -1,0 +1,64 @@
+rev_id,name,category,plain_description
+property-tax-general,"Property tax, general operating",Property taxes,"Tax on the assessed value of real estate and business personal property that pays for general city services (current-year collections, plus small special assessments)."
+property-tax-police-fire-dedicated,"Property tax, dedicated to police and fire",Property taxes,Property tax millages voted by residents that can only be spent on the police and fire departments (shown as separate millage lines from 2025).
+property-tax-nord-dedicated,"Property tax, dedicated to recreation (NORD/NORDC)",Property taxes,"A 1.5-mill property tax set aside for the city's recreation department (NORD, now NORDC)."
+property-tax-parkway-dedicated,"Property tax, dedicated to parks and parkways",Property taxes,A 1.5-mill property tax set aside for the Parks and Parkways department.
+property-tax-streets-dedicated,"Property tax, dedicated to streets",Property taxes,A 1.9-mill property tax set aside for street maintenance; budgeted at about $7 million a year until about 2019 and almost nothing since.
+property-tax-prior-year,"Property tax, back taxes from prior years",Property taxes,"Property tax collected late, for earlier tax years, on the general (non-dedicated) rolls."
+property-tax-interest-penalties,Property tax interest and penalties,Property taxes,Interest and penalties charged on delinquent property tax bills.
+sales-tax-general,Sales and use tax (city share),Sales taxes,"The city's share of the local sales tax on goods and services, including (from 2025) food and drug sales and the tax on out-of-state online purchases. CAUTION: FY2004-2007 (all books) and FY2008-2013 in books through 2013 print hotel/motel and motor vehicle tax inside this line; use the 'sales-and-related-taxes' rollup for a series that is comparable across all years."
+sales-tax-motor-vehicle,Motor vehicle sales tax,Sales taxes,"The city's share of the sales tax on vehicle purchases, printed as 'Motor Vehicle Tax'."
+hotel-motel-tax,Hotel and motel tax,Other taxes,Tax paid by visitors on hotel and motel room stays in New Orleans.
+utility-tax,Utility tax,Other taxes,Tax on electricity and gas bills of customers in the city (Entergy New Orleans).
+parking-tax,Parking tax,Other taxes,Tax on parking charged at garages and lots in the city.
+document-transaction-tax,Document transaction tax,Other taxes,"Tax paid when property deeds, mortgages and similar documents are recorded."
+other-taxes-misc,Other small taxes,Other taxes,"Smaller taxes lumped together: beer, wine and liquor, chain stores, racing and slot machines, airport, sports wagering, Sewerage and Water Board tax, and tax-collection costs."
+franchise-fees-utilities,"Franchise fees (electric, cable, telephone, wireless)",Licenses and permits,"What utilities such as Entergy New Orleans, cable and telephone companies pay the city for the right to use public streets and rights-of-way."
+building-permits,Building permits,Licenses and permits,"Fees for building permits, demolition permits and use-and-occupancy certificates."
+occupational-licenses,Occupational and business licenses,Licenses and permits,"Annual licenses that businesses and professionals must buy to operate in the city, including the insurance premium license tax."
+alcoholic-beverage-permits,Alcoholic beverage permits,Licenses and permits,"Fees for permits to sell alcohol in bars, restaurants and stores."
+taxi-tour-rideshare-licenses,"Taxi, tour guide and ride-hail licenses",Licenses and permits,"Permits and fees for taxis, tour guides and operators, and ride-hail (Uber/Lyft-type) companies."
+short-term-rental-permits,Short-term rental permits,Licenses and permits,Permit fees on Airbnb-style short-term rentals; only printed separately from the 2025 books (earlier years sit inside 'licenses-permits-other').
+motor-vehicle-permits,Motor vehicle permits and brake tags,Licenses and permits,"Fees tied to vehicles, mainly the brake-tag inspection stickers."
+safety-electrical-mechanical-permits,"Electrical, mechanical and safety permits",Licenses and permits,"Permits and licences for electrical, mechanical, gas and similar trade work and inspections."
+licenses-permits-other,Other licenses and permits,Licenses and permits,"All other permits: street cuts and closures, mayoralty permits (parades, film), signs, historic-district reviews and other small fees."
+harrahs-casino-rent,Harrah's casino rent,Intergovernmental,"Rent from Harrah's casino on Canal Street; printed as 'Harrah's Rent' under Intergovernmental from the 2021 book, which moved it there from Service Charges (earlier years sit inside 'general-government-charges')."
+state-revenue-sharing,State revenue sharing,Intergovernmental,"Money the state shares with local governments out of state tax revenue, including amounts dedicated to police and fire."
+state-aid-video-poker,State video poker revenue,Intergovernmental,The city's share of state-licensed video poker proceeds.
+state-aid-medicaid,State Medicaid payments,Intergovernmental,State payments to the city for Medicaid ambulance services (Upper Payment Limit program).
+parish-transportation-fund,Parish transportation fund (roads and transit),Intergovernmental,State gasoline-tax money returned to the parish for roads and for transit.
+state-supplemental-pay,State supplemental pay for police and fire,Intergovernmental,State payments toward extra pay for police officers and firefighters ($10-14 million a year in 2009-2013); printed as 'State Aid Other' through the 2020 book and as 'State Supplemental Pay' from the 2026 books.
+intergovernmental-other,Other state and federal aid,Intergovernmental,"Smaller aid lines: other state aid, corrections, federal aid, emergency management, GOMESA oil revenue, the Orleans Parish Communication District and the like."
+sanitation-service-charge,Sanitation service charge,Service charges,The garbage collection and curbside recycling fee charged to residents and businesses.
+parking-meters,Parking meters,Service charges,"Coins and app payments collected at the city's parking meters, including temporary meters."
+emergency-medical-fees,Emergency medical (ambulance) fees,Service charges,Fees billed to patients and insurers for EMS ambulance transport; printed separately only from 2025 (earlier books hold it inside 'public-safety-charges').
+public-safety-charges,Public safety charges,Service charges,"Fees for public safety services, e.g. airport fire protection and police reports; in books before 2025 this single line also contains ambulance fees."
+general-government-charges,General government charges,Service charges,"Fees for city administrative services, mainly the 2% fee the city charges other districts for collecting sales tax and the tax collection fees, plus zoning, planning and utility regulatory fees."
+harrahs-city-support,Harrah's city support payment,Service charges,A separate annual payment from Harrah's casino for city services; printed separately only from 2025 (earlier books hold it inside 'general-government-charges').
+indirect-cost-recoveries,Indirect cost recoveries,Service charges,Money the General Fund recovers from grants and other funds for the administrative overhead it provides to them.
+service-charges-other,Other service charges,Service charges,"Small charges: streets and towing, parks and parkways, state highway maintenance, and a few lines printed under this heading that are state aid."
+traffic-camera-fines,Traffic camera and red-light fines,Fines and forfeits,Fines from automated red-light and speed camera tickets.
+parking-and-traffic-fines,Parking tickets and traffic/municipal court fines,Fines and forfeits,"Fines paid on parking tickets, traffic violations and municipal court cases; books split these differently (2005-06 print them as one line, and the 2025+ 'Traffic Fines' line has the dollar amounts of the earlier 'Parking Ticket Collections' line), so they are one rev_id."
+fines-other,Other fines and forfeits,Fines and forfeits,"Smaller fines: health-code violations, abandoned vehicle impound fees, administrative adjudication fees and demolition lien penalties."
+interest-earnings,Interest earnings,Miscellaneous,Interest the city earns on cash balances and bond funds.
+rents-royalties,Rents and royalties,Miscellaneous,"Rent on city-owned buildings and land, and landfill and parking royalties."
+settlement-judgment-fund,Settlement and judgment fund,Miscellaneous,"A transfer to cover legal settlements and judgments, printed only in the 2008-2014 books (about $20 million in 2004)."
+reimbursements-and-other-misc,Reimbursements and other miscellaneous,Miscellaneous,"Catch-all of reimbursements from other agencies, insurance proceeds, asset sales, contributions and one-time receipts (2015 includes a $36 million BP oil-spill settlement)."
+fund-balance-use,Use of fund balance,Other financing sources,"Savings from earlier years used to balance the budget; the 2012 actual of $195.9 million is not savings but pension-bond refinancing proceeds, and the 2023 figure appears to include one-time American Rescue Plan (ARPA) money."
+transfers-in,Transfers from other funds,Other financing sources,Money moved into the General Fund from other city funds.
+fema-disaster-loan,FEMA community disaster loan,Other financing sources,Federal disaster loan proceeds after Hurricane Katrina (2005-2009).
+go-zone-payment,Gulf Opportunity Zone payment,Other financing sources,Payments tied to the Gulf Opportunity Zone program after Katrina (2006-2009).
+other-financing-other,Other financing and adjustments,Other financing sources,"Other adjustments, HUD Section 108 loan draws and small bond-related transfers."
+federal-grants,Federal grants,Other funds,"Money from federal agencies for specific programs (health, public safety, transportation, disaster recovery), restricted to those uses."
+state-local-grants,State and local grants,Other funds,"State and foundation grants for specific programs; the books print these as State Grants, then State and Local Foundation Grants."
+hud-grants,Housing and Urban Development (HUD) grants,Other funds,Federal housing and community development money such as CDBG and HOME block grants.
+local-law-enforcement-grants,Local law enforcement grants,Other funds,Small state grants for local police programs from the Governor's office.
+self-generated,Self-generated funds,Other funds,Small funds that departments raise themselves and may spend on their own programs.
+special-revenue-trust-funds,Special revenue and trust funds,Other funds,"Dedicated-purpose and trust funds not listed separately; the 2025+ books print this as 'Self Generated, Spc Rev, Trust Funds'."
+library-funds,Library funds,Other funds,The library's dedicated property tax millage plus library fines and fees.
+downtown-development-district,Downtown Development District,Other funds,A special property tax paid by downtown property owners for district services; dropped out of the budget as 'Exclude from Budget' in 2026.
+economic-development-fund,Economic development fund,Other funds,Property tax set aside for economic development projects.
+housing-improvement-fund,Housing improvement (housing trust) fund,Other funds,Property tax set aside to fund neighbourhood housing improvement.
+regional-business-park,New Orleans Regional Business Park,Other funds,Property tax from the Regional Business Park district (2008-2017).
+wisner-land-trust,Wisner land trust,Other funds,"Proceeds of the Wisner land trust, printed under Mayoral Fellows Program until 2024 and as Wisner Fund from 2025."
+grants-and-transfers,"Grants, contributions and fund transfers",Other funds,A budgeted placeholder for grants and contributions the city expects to receive during the year but cannot yet attribute to a program.

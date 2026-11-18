@@ -1,0 +1,19 @@
+# Plain words for labels the budget books print in each department's own tables.
+# Key: the printed label (any capitals). Value: what the site shows instead.
+# The printed label is shown underneath, so a reader can still find it in the book.
+# A label not listed here is shown as printed.
+expense_types:
+  Personal Services: Pay and benefits
+  Personnel: Pay and benefits
+  Other Operating: Supplies, contracts and other running costs
+  Operating: Supplies, contracts and other running costs
+  Debt Service: Loan repayments
+  Reserves: Money held in reserve
+  Grants, Contrib. & Fund Tran.: Grants, contributions and transfers to other funds
+  Grants, Contrib., & Fund Tran.: Grants, contributions and transfers to other funds
+  Grants, Contrib. & Fund Transfers: Grants, contributions and transfers to other funds
+funds:
+  Self Generated, Spc Rev, Trust Funds: Fees, dedicated revenues and trust funds
+  Housing and Urban Development: Federal housing grants (HUD)
+  State & Local Foundations Grants: State grants and local foundation grants
+  Enterprise: The body's own fees and rents

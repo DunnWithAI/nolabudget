@@ -1,0 +1,299 @@
+book_id,fiscal_year,basis,fund_group,fund_name,category,line_name,amount,page
+2021-operating-adopted,2019,actual,general_fund,General Fund,Property Taxes,Real Estate Current Year,43513576,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Real Estate Current Year,49136804,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Property Taxes,Real Estate Current Year,50091414,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Property Taxes,Real Estate Current Year,50091414,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Property Taxes,Personal Property Current Year,9380620,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Personal Property Current Year,10643638,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Property Taxes,Personal Property Current Year,9377769,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Property Taxes,Personal Property Current Year,9377769,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Prior Year Property,149031,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Property Taxes,Police/Fire Dedicated Mills,75520410,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Police/Fire Dedicated Mills,83808675,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Property Taxes,Police/Fire Dedicated Mills,83285997,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Property Taxes,Police/Fire Dedicated Mills,83285997,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Property Taxes,Nord Dedicated 1.5 Mills,5290259,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Nord Dedicated 1.5 Mills,5498863,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Property Taxes,Nord Dedicated 1.5 Mills,6935923,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Property Taxes,Nord Dedicated 1.5 Mills,6935923,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Property Taxes,Parkway Dedicated 1.5 Mills,5296275,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Parkway Dedicated 1.5 Mills,5498863,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Property Taxes,Parkway Dedicated 1.5 Mills,6485321,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Property Taxes,Parkway Dedicated 1.5 Mills,6485321,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Property Taxes,Streets Dedicated 1.9 Mills,6709454,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Streets Dedicated 1.9 Mills,6881961,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Property Taxes,Streets Dedicated 1.9 Mills,6479761,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Property Taxes,Streets Dedicated 1.9 Mills,6479761,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Property Taxes,Real Estate Prior Year,326410,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Real Estate Prior Year,235302,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Property Taxes,Real Estate Prior Year,442894,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Property Taxes,Real Estate Prior Year,442894,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Property Taxes,Personal Property Prior Year,1492245,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Personal Property Prior Year,1685197,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Property Taxes,Personal Property Prior Year,1961442,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Property Taxes,Personal Property Prior Year,1961442,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Property Taxes,Interest and Penalties,3302808,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Property Taxes,Interest and Penalties,3633284,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Property Taxes,Interest and Penalties,3132249,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Property Taxes,Interest and Penalties,3132249,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Sales Tax,205219973,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Sales Tax,205969652,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Sales Tax,173433380,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Sales Tax,173433380,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Motor Vehicle Tax,13297964,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Motor Vehicle Tax,12654264,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Motor Vehicle Tax,12627019,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Motor Vehicle Tax,12627019,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Hotel and Motel Tax,22301958,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Hotel and Motel Tax,21739875,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Hotel and Motel Tax,7878600,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Hotel and Motel Tax,7878600,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Beer Wine and Liquor Tax,500707,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Beer Wine and Liquor Tax,553369,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Beer Wine and Liquor Tax,458662,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Beer Wine and Liquor Tax,458662,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Parking Tax,5277874,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Parking Tax,5200510,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Parking Tax,3142280,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Parking Tax,3142280,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Document Transaction Tax,4083689,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Document Transaction Tax,3965086,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Document Transaction Tax,3739613,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Document Transaction Tax,3739613,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Chain Store Tax,168311,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Chain Store Tax,162065,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Chain Store Tax,165054,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Chain Store Tax,165054,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Off Track Betting/Racing Tax,141559,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Off Track Betting/Racing Tax,164387,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Off Track Betting/Racing Tax,99359,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Off Track Betting/Racing Tax,99359,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Utility Tax,11084796,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Utility Tax,12426706,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Utility Tax,10130407,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Utility Tax,10130407,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Taxes,Fairground Slot Machine 4% Tax,1481469,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Taxes,Fairground Slot Machine 4% Tax,1456270,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Taxes,Fairground Slot Machine 4% Tax,1027867,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Taxes,Fairground Slot Machine 4% Tax,1027867,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Alcoholic Beverage,2665992,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Alcoholic Beverage,3144807,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Alcoholic Beverage,2231617,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Alcoholic Beverage,2231617,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Cable Tv Franchise,4789086,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Cable Tv Franchise,5025462,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Cable Tv Franchise,4641913,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Cable Tv Franchise,4641913,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Entergy Franchise,30262605,66
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Entergy Franchise,31946052,66
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Entergy Franchise,30653200,66
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Entergy Franchise,30653200,66
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Telephone Franchise,527047,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Telephone Franchise,761895,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Telephone Franchise,451856,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Telephone Franchise,451856,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Miscellaneous Franchise,393412,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Miscellaneous Franchise,1431323,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Miscellaneous Franchise,660770,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Miscellaneous Franchise,660770,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Occupational Licenses,11690911,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Occupational Licenses,11500000,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Occupational Licenses,11840872,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Occupational Licenses,11840872,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Safety Electrical Mechanical,2235293,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Safety Electrical Mechanical,2422543,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Safety Electrical Mechanical,1780595,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Safety Electrical Mechanical,1780595,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Taxi Tourguide Licenses,7590301,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Taxi Tourguide Licenses,6978966,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Taxi Tourguide Licenses,4726280,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Taxi Tourguide Licenses,4726280,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Building Permits,5653663,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Building Permits,7450000,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Building Permits,6258187,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Building Permits,6258187,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Motor Vehicle Permits,2183463,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Motor Vehicle Permits,2552500,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Motor Vehicle Permits,1874907,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Motor Vehicle Permits,1874907,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Streets and Curbs,1124799,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Streets and Curbs,813568,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Streets and Curbs,681136,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Streets and Curbs,681136,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Mayoralty Permits,460496,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Mayoralty Permits,425717,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Mayoralty Permits,165591,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Mayoralty Permits,165591,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Licenses & Permits,Other Licenses and Permits,5932020,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Licenses & Permits,Other Licenses and Permits,2500890,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Licenses & Permits,Other Licenses and Permits,8240002,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Licenses & Permits,Other Licenses and Permits,8240002,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Intergovermental Revenue,State Aid - Video Poker,1588578,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Intergovermental Revenue,State Aid - Video Poker,1815000,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Intergovermental Revenue,State Aid - Video Poker,1241760,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Intergovermental Revenue,State Aid - Video Poker,1241760,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Intergovermental Revenue,State Deptment Of Corrections,30000,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Intergovermental Revenue,State Aid-Medicaid and UPL,11106294,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Intergovermental Revenue,State Aid-Medicaid and UPL,9403551,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Intergovermental Revenue,State Aid-Medicaid and UPL,7503868,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Intergovermental Revenue,State Aid-Medicaid and UPL,7503868,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Intergovermental Revenue,State Revenue Sharing,2181065,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Intergovermental Revenue,State Revenue Sharing,2100000,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Intergovermental Revenue,State Revenue Sharing,2183227,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Intergovermental Revenue,State Revenue Sharing,2183227,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Intergovermental Revenue,State Aid Other,89,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Intergovermental Revenue,State Aid Other,4300000,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Intergovermental Revenue,Parish Transportation Fund: Roads,2428514,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Intergovermental Revenue,Parish Transportation Fund: Roads,2290000,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Intergovermental Revenue,Parish Transportation Fund: Roads,2501710,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Intergovermental Revenue,Parish Transportation Fund: Roads,2501710,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Intergovermental Revenue,Parish Transportation Fund: Transit,1988805,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Intergovermental Revenue,Parish Transportation Fund: Transit,1600000,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Intergovermental Revenue,Parish Transportation Fund: Transit,1747919,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Intergovermental Revenue,Parish Transportation Fund: Transit,1747919,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Intergovermental Revenue,Harrah's Rent,13275912,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Intergovermental Revenue,Harrah's Rent,12860424,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Intergovermental Revenue,Harrah's Rent,12860424,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Intergovermental Revenue,GOMESA Oil Payments,1299392,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Intergovermental Revenue,GOMESA Oil Payments,2141905,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Intergovermental Revenue,GOMESA Oil Payments,2141905,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Service Charges,General Government,18002049,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Service Charges,General Government,19043438,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Service Charges,General Government,22504022,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Service Charges,General Government,22504022,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Service Charges,Public Safety,25472727,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Service Charges,Public Safety,24210000,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Service Charges,Public Safety,24738011,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Service Charges,Public Safety,24738011,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Service Charges,Streets Parking Meters,8900706,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Service Charges,Streets Parking Meters,10464496,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Service Charges,Streets Parking Meters,6915333,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Service Charges,Streets Parking Meters,6915333,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Service Charges,Streets Other,2344988,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Service Charges,Streets Other,2282876,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Service Charges,Streets Other,912070,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Service Charges,Streets Other,912070,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Service Charges,Sanitation,38943483,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Service Charges,Sanitation,40792400,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Service Charges,Sanitation,37792901,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Service Charges,Sanitation,37792901,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Service Charges,Parks And Parkway,6636,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Service Charges,Parks And Parkway,7000,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Service Charges,Parks And Parkway,5600,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Service Charges,Parks And Parkway,5600,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Service Charges,State Aid Other,70424,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Service Charges,State Aid Other,83500,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Service Charges,State Aid Other,37580,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Service Charges,State Aid Other,37580,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Service Charges,Indirect Costs,1460444,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Service Charges,Indirect Costs,1730409,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Service Charges,Indirect Costs,1616225,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Service Charges,Indirect Costs,1616225,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Service Charges,Other Service Charges,18300,67
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Service Charges,Other Service Charges,21500,67
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Service Charges,Other Service Charges,19800,67
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Service Charges,Other Service Charges,19800,67
+2021-operating-adopted,2019,actual,general_fund,General Fund,Fines & Forfeits,Traffic and Municipal Court,2460971,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Fines & Forfeits,Traffic and Municipal Court,2723863,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Fines & Forfeits,Traffic and Municipal Court,2147881,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Fines & Forfeits,Traffic and Municipal Court,2147881,68
+2021-operating-adopted,2019,actual,general_fund,General Fund,Fines & Forfeits,Red Signal Light and Camera Enforcement,23257161,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Fines & Forfeits,Red Signal Light and Camera Enforcement,25000000,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Fines & Forfeits,Red Signal Light and Camera Enforcement,19526551,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Fines & Forfeits,Red Signal Light and Camera Enforcement,19526551,68
+2021-operating-adopted,2019,actual,general_fund,General Fund,Fines & Forfeits,Parking Ticket Collections,10104513,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Fines & Forfeits,Parking Ticket Collections,11408202,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Fines & Forfeits,Parking Ticket Collections,6101396,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Fines & Forfeits,Parking Ticket Collections,6101396,68
+2021-operating-adopted,2019,actual,general_fund,General Fund,Fines & Forfeits,Impound and Abandoned Vehicles,84784,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Fines & Forfeits,Impound and Abandoned Vehicles,100000,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Fines & Forfeits,Impound and Abandoned Vehicles,59806,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Fines & Forfeits,Impound and Abandoned Vehicles,59806,68
+2021-operating-adopted,2019,actual,general_fund,General Fund,Miscellaneous Revenue,Interest - Operating and Capital,5251200,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest - Operating and Capital,5500001,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Miscellaneous Revenue,Interest - Operating and Capital,60759,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Miscellaneous Revenue,Interest - Operating and Capital,60759,68
+2021-operating-adopted,2019,actual,general_fund,General Fund,Miscellaneous Revenue,Rents and Royalties,1808254,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Miscellaneous Revenue,Rents and Royalties,1000000,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Miscellaneous Revenue,Rents and Royalties,1800015,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Miscellaneous Revenue,Rents and Royalties,1800015,68
+2021-operating-adopted,2019,actual,general_fund,General Fund,Miscellaneous Revenue,Contributions and Other,6899365,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Miscellaneous Revenue,Contributions and Other,13872001,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Miscellaneous Revenue,Contributions and Other,6930470,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Miscellaneous Revenue,Contributions and Other,6930470,68
+2021-operating-adopted,2019,actual,general_fund,General Fund,Miscellaneous Revenue,Miscellaneous Reimbursement,18066883,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Miscellaneous Revenue,Miscellaneous Reimbursement,15400319,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Miscellaneous Revenue,Miscellaneous Reimbursement,6237684,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Miscellaneous Revenue,Miscellaneous Reimbursement,6237684,68
+2021-operating-adopted,2019,actual,general_fund,General Fund,Other Financing Sources,Transfer From Other Funds,802830,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Financing Sources,Transfer From Other Funds,15483588,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Financing Sources,Transfer From Other Funds,60001,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Financing Sources,Transfer From Other Funds,310001,68
+2021-operating-adopted,2020,adopted,general_fund,General Fund,Other Financing Sources,Fund Balance,6800000,68
+2021-operating-adopted,2021,proposed,general_fund,General Fund,Other Financing Sources,Fund Balance,10801959,68
+2021-operating-adopted,2021,adopted,general_fund,General Fund,Other Financing Sources,Fund Balance,10801959,68
+2021-operating-adopted,2019,actual,other_funds,Self-Generated,,Contributions & Other Miscellaneous,175723,69
+2021-operating-adopted,2020,adopted,other_funds,Self-Generated,,Contributions & Other Miscellaneous,765000,69
+2021-operating-adopted,2021,proposed,other_funds,Self-Generated,,Contributions & Other Miscellaneous,765000,69
+2021-operating-adopted,2021,adopted,other_funds,Self-Generated,,Contributions & Other Miscellaneous,765000,69
+2021-operating-adopted,2019,actual,other_funds,Housing and Urban Development,,"Federal Grants, Communication & Regional Developme",10522544,69
+2021-operating-adopted,2020,adopted,other_funds,Housing and Urban Development,,"Federal Grants, Communication & Regional Developme",64259987,69
+2021-operating-adopted,2021,proposed,other_funds,Housing and Urban Development,,"Federal Grants, Communication & Regional Developme",74944176,69
+2021-operating-adopted,2021,adopted,other_funds,Housing and Urban Development,,"Federal Grants, Communication & Regional Developme",80574273,69
+2021-operating-adopted,2019,actual,other_funds,Mayoral Fellows Program,,Wisner Land Trust Proceeds,678238,69
+2021-operating-adopted,2020,adopted,other_funds,Mayoral Fellows Program,,Wisner Land Trust Proceeds,644669,69
+2021-operating-adopted,2021,proposed,other_funds,Mayoral Fellows Program,,Wisner Land Trust Proceeds,450357,69
+2021-operating-adopted,2021,adopted,other_funds,Mayoral Fellows Program,,Wisner Land Trust Proceeds,450357,69
+2021-operating-adopted,2019,actual,other_funds,Library Funds,,Dedicated Property Taxes,20450365,69
+2021-operating-adopted,2020,adopted,other_funds,Library Funds,,Dedicated Property Taxes,20131149,69
+2021-operating-adopted,2021,proposed,other_funds,Library Funds,,Dedicated Property Taxes,18963058,69
+2021-operating-adopted,2021,adopted,other_funds,Library Funds,,Dedicated Property Taxes,18963058,69
+2021-operating-adopted,2019,actual,other_funds,Local Law Enforcement Grants,,Office of the Governor - State Grant,404163,69
+2021-operating-adopted,2020,adopted,other_funds,Local Law Enforcement Grants,,Office of the Governor - State Grant,1719904,69
+2021-operating-adopted,2021,proposed,other_funds,Local Law Enforcement Grants,,Office of the Governor - State Grant,1391780,69
+2021-operating-adopted,2021,adopted,other_funds,Local Law Enforcement Grants,,Office of the Governor - State Grant,1396780,69
+2021-operating-adopted,2019,actual,other_funds,Federal Grants,,Health,7945962,69
+2021-operating-adopted,2020,adopted,other_funds,Federal Grants,,Health,20176721,69
+2021-operating-adopted,2021,proposed,other_funds,Federal Grants,,Health,22502633,69
+2021-operating-adopted,2021,adopted,other_funds,Federal Grants,,Health,22502633,69
+2021-operating-adopted,2019,actual,other_funds,Federal Grants,,All Other,22806751,69
+2021-operating-adopted,2020,adopted,other_funds,Federal Grants,,All Other,69488276,69
+2021-operating-adopted,2021,proposed,other_funds,Federal Grants,,All Other,61035555,69
+2021-operating-adopted,2021,adopted,other_funds,Federal Grants,,All Other,68231798,69
+2021-operating-adopted,2019,actual,other_funds,State & Local Foundation Grants,,Health & Human Services,1065190,69
+2021-operating-adopted,2020,adopted,other_funds,State & Local Foundation Grants,,Health & Human Services,1327287,69
+2021-operating-adopted,2021,proposed,other_funds,State & Local Foundation Grants,,Health & Human Services,1859628,69
+2021-operating-adopted,2021,adopted,other_funds,State & Local Foundation Grants,,Health & Human Services,1859628,69
+2021-operating-adopted,2019,actual,other_funds,State & Local Foundation Grants,,State Aid Department of Public Safety,363990,69
+2021-operating-adopted,2020,adopted,other_funds,State & Local Foundation Grants,,State Aid Department of Public Safety,714366,69
+2021-operating-adopted,2019,actual,other_funds,State & Local Foundation Grants,,State Department of Labor,4995691,69
+2021-operating-adopted,2020,adopted,other_funds,State & Local Foundation Grants,,State Department of Labor,8877466,69
+2021-operating-adopted,2021,proposed,other_funds,State & Local Foundation Grants,,State Department of Labor,13470896,69
+2021-operating-adopted,2021,adopted,other_funds,State & Local Foundation Grants,,State Department of Labor,13470896,69
+2021-operating-adopted,2019,actual,other_funds,State & Local Foundation Grants,,Louisiana Social Services,19488,69
+2021-operating-adopted,2020,adopted,other_funds,State & Local Foundation Grants,,Louisiana Social Services,416791,69
+2021-operating-adopted,2019,actual,other_funds,State & Local Foundation Grants,,State Aid (Other),1841474,69
+2021-operating-adopted,2020,adopted,other_funds,State & Local Foundation Grants,,State Aid (Other),9091635,69
+2021-operating-adopted,2021,proposed,other_funds,State & Local Foundation Grants,,State Aid (Other),18991539,69
+2021-operating-adopted,2021,adopted,other_funds,State & Local Foundation Grants,,State Aid (Other),18991539,69
+2021-operating-adopted,2019,actual,other_funds,State & Local Foundation Grants,,Local Foundation Grants,6229441,69
+2021-operating-adopted,2020,adopted,other_funds,State & Local Foundation Grants,,Local Foundation Grants,26610248,69
+2021-operating-adopted,2021,proposed,other_funds,State & Local Foundation Grants,,Local Foundation Grants,2237652,69
+2021-operating-adopted,2021,adopted,other_funds,State & Local Foundation Grants,,Local Foundation Grants,2237652,69
+2021-operating-adopted,2020,adopted,other_funds,"Grants, Contrib., & Fund Transfers",,"Grants, Contributions & Fund Transfers",100000000,70
+2021-operating-adopted,2021,proposed,other_funds,"Grants, Contrib., & Fund Transfers",,"Grants, Contributions & Fund Transfers",200000000,70
+2021-operating-adopted,2021,adopted,other_funds,"Grants, Contrib., & Fund Transfers",,"Grants, Contributions & Fund Transfers",200000000,70
+2021-operating-adopted,2020,adopted,other_funds,Downtown Development District,,Downtown Development District Taxes,10504848,70
+2021-operating-adopted,2021,proposed,other_funds,Downtown Development District,,Downtown Development District Taxes,11956645,70
+2021-operating-adopted,2021,adopted,other_funds,Downtown Development District,,Downtown Development District Taxes,9957434,70
+2021-operating-adopted,2019,actual,other_funds,Economic Development Fund,,Economic Development Taxes,160965,70
+2021-operating-adopted,2021,proposed,other_funds,Economic Development Fund,,Economic Development Taxes,978835,70
+2021-operating-adopted,2021,adopted,other_funds,Economic Development Fund,,Economic Development Taxes,978835,70
+2021-operating-adopted,2019,actual,other_funds,Housing Trust Fund,,Housing Improvement Taxes,1039920,70
+2021-operating-adopted,2020,adopted,other_funds,Housing Trust Fund,,Housing Improvement Taxes,7561523,70
+2021-operating-adopted,2021,proposed,other_funds,Housing Trust Fund,,Housing Improvement Taxes,12942061,70
+2021-operating-adopted,2021,adopted,other_funds,Housing Trust Fund,,Housing Improvement Taxes,12942061,70
+2021-operating-adopted,2019,actual,other_funds,Additional Special Revenues & Trust Funds,,Additional Special Revenues & Trust Funds,32789543,70
+2021-operating-adopted,2020,adopted,other_funds,Additional Special Revenues & Trust Funds,,Additional Special Revenues & Trust Funds,77066458,70
+2021-operating-adopted,2021,proposed,other_funds,Additional Special Revenues & Trust Funds,,Additional Special Revenues & Trust Funds,51815370,70
+2021-operating-adopted,2021,adopted,other_funds,Additional Special Revenues & Trust Funds,,Additional Special Revenues & Trust Funds,57141548,70

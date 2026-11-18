@@ -1,0 +1,80 @@
+<!doctype html>
+{% import "partials/macros.html" as m %}
+{% set is_404 = page_url == "/404/" %}
+{% set full_title = (site.name ~ ": " ~ site.tagline) if page_url == "/" else (title ~ " | " ~ site.name) %}
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{# site.noindex (content/site.yml) keeps the whole site out of search; see docs/seo.md #}
+{% if site.noindex %}<meta name="robots" content="noindex, nofollow">{% elif is_404 %}<meta name="robots" content="noindex">{% endif %}
+
+<title>{{ full_title }}</title>
+<meta name="description" content="{% block description %}Where the City of New Orleans gets its money and how it spends it, in plain words, with a source for every figure.{% endblock %}">
+{% if not is_404 %}
+<link rel="canonical" href="{{ site.base_url }}{{ page_url }}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:title" content="{{ full_title }}">
+<meta property="og:description" content="{{ self.description() }}">
+<meta property="og:url" content="{{ site.base_url }}{{ page_url }}">
+<meta property="og:locale" content="en_US">
+{# static/social.png, drawn by site/make_social_image.py; no figures on it, so it never goes stale #}
+<meta property="og:image" content="{{ site.base_url }}{{ asset('social.png') }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="NOLA Budget: the City of New Orleans budget, explained.">
+<meta name="twitter:card" content="summary_large_image">
+{% endif %}
+{% if crumbs is defined %}
+{{ m.ld({"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": crumbs_ld(crumbs, site.base_url)}) }}
+{% endif %}
+{% block structured_data %}{% endblock %}
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<script>document.documentElement.classList.add("js")</script>
+<link rel="stylesheet" href="{{ asset('style.css') }}">
+<script src="{{ asset('site.js') }}" defer></script>
+{% if site.umami_website_id %}<script defer src="{{ site.umami_url }}" data-website-id="{{ site.umami_website_id }}" data-domains="{{ site.base_url|replace('https://', '') }}"></script>{% endif %}
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead">
+  <div class="wrap masthead-inner">
+    <a class="brand" href="/"{% if page_url == "/" %} aria-current="page"{% endif %}>
+      <span class="brand-name">{{ site.name }}</span>
+      <span class="brand-tag">{{ site.tagline }}</span>
+    </a>
+    <nav class="nav" aria-label="Main">
+      <ul>
+      {% for href, label in nav[1:] %}
+        <li><a href="{{ href }}"{% if page_url.startswith(href) %} aria-current="{{ 'page' if page_url == href else 'true' }}"{% endif %}>{{ label }}</a></li>
+      {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main" class="wrap" tabindex="-1">
+{% if crumbs is defined %}{{ m.crumbs(crumbs) }}{% endif %}
+{% block content %}{% endblock %}
+{# Rendered after the page body, so every marker the body drew is registered by now. #}
+{% if pagerefs.items %}
+<section class="pagerefs" aria-labelledby="pagerefs-h">
+  <h2 id="pagerefs-h">Notes and sources</h2>
+  <ol>
+  {% for r in pagerefs.items %}
+    <li id="src-{{ r.n }}"><a class="ref-back" href="#ref-{{ r.n }}" aria-label="Back to where {{ 'source' if r.kind == 'source' else 'note' }} {{ r.n }} is first used">↑</a>
+    {% if r.kind == "note" %}{{ r.html }}{% else %}{% set t = r.text[:1]|upper ~ r.text[1:] %}{% if r.href %}<a href="{{ r.href }}">{{ t }}</a>{% else %}{{ t }}{% endif %}.{% endif %}</li>
+  {% endfor %}
+  </ol>
+</section>
+{% endif %}
+</main>
+<footer class="footer">
+  <div class="wrap">
+    <p>An independent project, not affiliated with or endorsed by the City of New Orleans. Figures come from the city's budget books and Census Bureau data, and every page shows where its figures come from.</p>
+    <p>Made by {% if site.author_url %}<a href="{{ site.author_url }}" rel="author">{{ site.author }}</a>{% else %}{{ site.author }}{% endif %}. <a href="/about/">About this site</a> · <a href="/how/">How it was built</a></p>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,23 @@
+# Budgeted jobs by rank, for departments where rank tells the reader something.
+# Each department lists ranks in display order. A job title (as printed, any year) takes the
+# first rank whose pattern matches (case-insensitive regular expression). Titles that match
+# nothing count as `other`. `sworn: true` marks ranks counted as sworn officers.
+# Books abbreviate titles differently each year ("POLICE OFFICER IV", "SEN POL OF"), so
+# patterns cover both. site/checks.py fails if ranks don't add up to the department's total.
+police:
+  other: Civilian staff
+  ranks:
+    - name: Recruits and cadets
+      pattern: 'RECR|RECRUIT|CDT|CADET'
+    - name: Police officers
+      pattern: 'POLICE OFFICER|POL OF|POL OFCR|POLOFCR|SRPOL OFCR|PO[L]? OFCR|\bPOL OFFICER'
+      sworn: true
+    - name: Sergeants
+      pattern: 'SGT|SERGEANT'
+      sworn: true
+    - name: Lieutenants
+      pattern: '\bLT\b|LIEUTENANT'
+      sworn: true
+    - name: Captains and above
+      pattern: 'CAPT|CAPTAI|MAJOR|COMMANDER|SUPERINTENDENT OF POLICE|AS SUP POL|SUP POL|DEP SUPT|DEPUTY SUPERINTENDENT|DEP CHIEF'
+      sworn: true

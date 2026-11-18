@@ -1,0 +1,20 @@
+# Built site: Cloudflare rebuilds it from source on every deploy.
+dist/
+
+# Source PDFs and downloads (about 2.4 GB). Too big for git; scripts/ re-fetches them.
+# Keep the manifests (the build reads them for source links) and the small context files.
+data/raw/**
+!data/raw/*/
+!data/raw/*/manifest.json
+!data/raw/questica/home_cards.json
+!data/raw/context/
+!data/raw/context/**
+
+# Local tooling
+.venv/
+.wrangler/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/settings.local.json
+*conflicted copy*

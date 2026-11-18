@@ -1,0 +1,149 @@
+book_id,fiscal_year,basis,fund_group,dept_name,fte,page
+2023-operating-adopted,2022,adopted,general_fund,Council,70,112
+2023-operating-adopted,2023,adopted,general_fund,Council,69,112
+2023-operating-adopted,2022,adopted,general_fund,Mayor,136,112
+2023-operating-adopted,2023,adopted,general_fund,Mayor,122,112
+2023-operating-adopted,2022,adopted,general_fund,CAO,145,112
+2023-operating-adopted,2023,adopted,general_fund,CAO,118,112
+2023-operating-adopted,2022,adopted,general_fund,Law,53,112
+2023-operating-adopted,2023,adopted,general_fund,Law,52,112
+2023-operating-adopted,2022,adopted,general_fund,Fire,593,112
+2023-operating-adopted,2023,adopted,general_fund,Fire,537,112
+2023-operating-adopted,2022,adopted,general_fund,Safety and Permits,106,112
+2023-operating-adopted,2023,adopted,general_fund,Safety and Permits,83,112
+2023-operating-adopted,2022,adopted,general_fund,Police,1511,112
+2023-operating-adopted,2023,adopted,general_fund,Police,1199,112
+2023-operating-adopted,2022,adopted,general_fund,Sanitation,71,112
+2023-operating-adopted,2023,adopted,general_fund,Sanitation,60,112
+2023-operating-adopted,2022,adopted,general_fund,Health,192,112
+2023-operating-adopted,2023,adopted,general_fund,Health,142,112
+2023-operating-adopted,2022,adopted,general_fund,JJIC,104,112
+2023-operating-adopted,2023,adopted,general_fund,JJIC,61,112
+2023-operating-adopted,2022,adopted,general_fund,Finance,137,112
+2023-operating-adopted,2023,adopted,general_fund,Finance,119,112
+2023-operating-adopted,2022,adopted,general_fund,Property Management,87,112
+2023-operating-adopted,2023,adopted,general_fund,Property Management,74,112
+2023-operating-adopted,2022,adopted,general_fund,Civil Service,27,112
+2023-operating-adopted,2023,adopted,general_fund,Civil Service,21,112
+2023-operating-adopted,2022,adopted,general_fund,Public Works,216,112
+2023-operating-adopted,2023,adopted,general_fund,Public Works,130,112
+2023-operating-adopted,2022,adopted,general_fund,Parks and Parkways,163,112
+2023-operating-adopted,2023,adopted,general_fund,Parks and Parkways,115,112
+2023-operating-adopted,2022,adopted,general_fund,Historic District Landmarks Commission,12,112
+2023-operating-adopted,2023,adopted,general_fund,Historic District Landmarks Commission,9,112
+2023-operating-adopted,2022,adopted,general_fund,Vieux Carre Commission,6,112
+2023-operating-adopted,2023,adopted,general_fund,Vieux Carre Commission,6,112
+2023-operating-adopted,2022,adopted,general_fund,City Planning Comm.,31,112
+2023-operating-adopted,2023,adopted,general_fund,City Planning Comm.,21,112
+2023-operating-adopted,2022,adopted,general_fund,Mosquito Control Bd.,34,112
+2023-operating-adopted,2023,adopted,general_fund,Mosquito Control Bd.,29,112
+2023-operating-adopted,2022,adopted,general_fund,Miscellaneous,251,112
+2023-operating-adopted,2023,adopted,general_fund,Miscellaneous,200,112
+2023-operating-adopted,2022,adopted,general_fund,Office of the Inspector General,13,112
+2023-operating-adopted,2023,adopted,general_fund,Office of the Inspector General,13,112
+2023-operating-adopted,2022,adopted,general_fund,Ethics Review Board,2,112
+2023-operating-adopted,2023,adopted,general_fund,Ethics Review Board,2,112
+2023-operating-adopted,2022,adopted,general_fund,Office of Ind. Police Mon.,7,112
+2023-operating-adopted,2023,adopted,general_fund,Office of Ind. Police Mon.,6,112
+2023-operating-adopted,2023,adopted,general_fund,Economic Dev. Fund,1,112
+2023-operating-adopted,2022,adopted,general_fund,Coroner's Office,28,112
+2023-operating-adopted,2023,adopted,general_fund,Coroner's Office,26,112
+2023-operating-adopted,2022,adopted,general_fund,Juvenile Court,29,112
+2023-operating-adopted,2023,adopted,general_fund,Juvenile Court,29,112
+2023-operating-adopted,2022,adopted,general_fund,Municipal and Traffic Court,107,112
+2023-operating-adopted,2023,adopted,general_fund,Municipal and Traffic Court,111,112
+2023-operating-adopted,2022,adopted,general_fund,Clrk of Crim. Dist. Crt,86,112
+2023-operating-adopted,2023,adopted,general_fund,Clrk of Crim. Dist. Crt,77,112
+2023-operating-adopted,2022,adopted,other_funds,Mayor,120,113
+2023-operating-adopted,2023,adopted,other_funds,Mayor,125,113
+2023-operating-adopted,2022,adopted,other_funds,CAO,1,113
+2023-operating-adopted,2023,adopted,other_funds,CAO,5,113
+2023-operating-adopted,2022,adopted,other_funds,Law,15,113
+2023-operating-adopted,2023,adopted,other_funds,Law,11,113
+2023-operating-adopted,2022,adopted,other_funds,Fire,41,113
+2023-operating-adopted,2023,adopted,other_funds,Fire,61,113
+2023-operating-adopted,2023,adopted,other_funds,Safety and Permits,23,113
+2023-operating-adopted,2022,adopted,other_funds,Police,31,113
+2023-operating-adopted,2022,adopted,other_funds,Health,70,113
+2023-operating-adopted,2023,adopted,other_funds,Health,171,113
+2023-operating-adopted,2023,adopted,other_funds,Public Works,20,113
+2023-operating-adopted,2022,adopted,other_funds,Parks and Parkways,2,113
+2023-operating-adopted,2023,adopted,other_funds,Parks and Parkways,17,113
+2023-operating-adopted,2022,adopted,other_funds,Library,222,113
+2023-operating-adopted,2023,adopted,other_funds,Library,201,113
+2023-operating-adopted,2022,adopted,other_funds,Mosquito Control Bd.,6,113
+2023-operating-adopted,2023,adopted,other_funds,Mosquito Control Bd.,3,113
+2023-operating-adopted,2022,adopted,other_funds,Miscellaneous,110,113
+2023-operating-adopted,2023,adopted,other_funds,Miscellaneous,136,113
+2023-operating-adopted,2022,adopted,other_funds,Office of Comm. Dev.,91,113
+2023-operating-adopted,2023,adopted,other_funds,Office of Comm. Dev.,83,113
+2023-operating-adopted,2022,adopted,other_funds,Workforce Invst. Act,5,113
+2023-operating-adopted,2023,adopted,other_funds,Workforce Invst. Act,5,113
+2023-operating-adopted,2022,adopted,other_funds,Economic Dev. Fund,3,113
+2023-operating-adopted,2023,adopted,other_funds,Economic Dev. Fund,2,113
+2023-operating-adopted,2022,adopted,other_funds,N'hood Hsg Imprv. Fnd,3,113
+2023-operating-adopted,2023,adopted,other_funds,N'hood Hsg Imprv. Fnd,3,113
+2023-operating-adopted,2022,adopted,all_funds,Council,70,114
+2023-operating-adopted,2023,adopted,all_funds,Council,69,114
+2023-operating-adopted,2022,adopted,all_funds,Mayor,256,114
+2023-operating-adopted,2023,adopted,all_funds,Mayor,247,114
+2023-operating-adopted,2022,adopted,all_funds,CAO,146,114
+2023-operating-adopted,2023,adopted,all_funds,CAO,123,114
+2023-operating-adopted,2022,adopted,all_funds,Law,68,114
+2023-operating-adopted,2023,adopted,all_funds,Law,63,114
+2023-operating-adopted,2022,adopted,all_funds,Fire,634,114
+2023-operating-adopted,2023,adopted,all_funds,Fire,598,114
+2023-operating-adopted,2022,adopted,all_funds,Safety and Permits,106,114
+2023-operating-adopted,2023,adopted,all_funds,Safety and Permits,106,114
+2023-operating-adopted,2022,adopted,all_funds,Police,1542,114
+2023-operating-adopted,2023,adopted,all_funds,Police,1199,114
+2023-operating-adopted,2022,adopted,all_funds,Sanitation,71,114
+2023-operating-adopted,2023,adopted,all_funds,Sanitation,60,114
+2023-operating-adopted,2022,adopted,all_funds,Health,262,114
+2023-operating-adopted,2023,adopted,all_funds,Health,312,114
+2023-operating-adopted,2022,adopted,all_funds,JJIC,104,114
+2023-operating-adopted,2023,adopted,all_funds,JJIC,61,114
+2023-operating-adopted,2022,adopted,all_funds,Finance,137,114
+2023-operating-adopted,2023,adopted,all_funds,Finance,119,114
+2023-operating-adopted,2022,adopted,all_funds,Property Management,87,114
+2023-operating-adopted,2023,adopted,all_funds,Property Management,74,114
+2023-operating-adopted,2022,adopted,all_funds,Civil Service,27,114
+2023-operating-adopted,2023,adopted,all_funds,Civil Service,21,114
+2023-operating-adopted,2022,adopted,all_funds,Public Works,216,114
+2023-operating-adopted,2023,adopted,all_funds,Public Works,150,114
+2023-operating-adopted,2022,adopted,all_funds,Parks and Parkways,165,114
+2023-operating-adopted,2023,adopted,all_funds,Parks and Parkways,132,114
+2023-operating-adopted,2022,adopted,all_funds,Library,222,114
+2023-operating-adopted,2023,adopted,all_funds,Library,201,114
+2023-operating-adopted,2022,adopted,all_funds,Historic District Landmarks Commission,12,114
+2023-operating-adopted,2023,adopted,all_funds,Historic District Landmarks Commission,9,114
+2023-operating-adopted,2022,adopted,all_funds,Vieux Carre Commission,6,114
+2023-operating-adopted,2023,adopted,all_funds,Vieux Carre Commission,6,114
+2023-operating-adopted,2022,adopted,all_funds,City Planning Comm.,31,114
+2023-operating-adopted,2023,adopted,all_funds,City Planning Comm.,21,114
+2023-operating-adopted,2022,adopted,all_funds,Mosquito Control Bd.,40,114
+2023-operating-adopted,2023,adopted,all_funds,Mosquito Control Bd.,32,114
+2023-operating-adopted,2022,adopted,all_funds,Miscellaneous,361,114
+2023-operating-adopted,2023,adopted,all_funds,Miscellaneous,336,114
+2023-operating-adopted,2022,adopted,all_funds,Office of the Inspector General,13,114
+2023-operating-adopted,2023,adopted,all_funds,Office of the Inspector General,13,114
+2023-operating-adopted,2022,adopted,all_funds,Ethics Review Board,2,114
+2023-operating-adopted,2023,adopted,all_funds,Ethics Review Board,2,114
+2023-operating-adopted,2022,adopted,all_funds,Office of Ind. Police Mon.,7,114
+2023-operating-adopted,2023,adopted,all_funds,Office of Ind. Police Mon.,6,114
+2023-operating-adopted,2022,adopted,all_funds,Office of Comm. Dev.,91,114
+2023-operating-adopted,2023,adopted,all_funds,Office of Comm. Dev.,83,114
+2023-operating-adopted,2022,adopted,all_funds,Workforce Invst. Act,5,114
+2023-operating-adopted,2023,adopted,all_funds,Workforce Invst. Act,5,114
+2023-operating-adopted,2022,adopted,all_funds,Economic Dev. Fund,3,114
+2023-operating-adopted,2023,adopted,all_funds,Economic Dev. Fund,3,114
+2023-operating-adopted,2022,adopted,all_funds,N'hood Hsg Imprv. Fnd,3,114
+2023-operating-adopted,2023,adopted,all_funds,N'hood Hsg Imprv. Fnd,3,114
+2023-operating-adopted,2022,adopted,all_funds,Coroner's Office,28,114
+2023-operating-adopted,2023,adopted,all_funds,Coroner's Office,26,114
+2023-operating-adopted,2022,adopted,all_funds,Juvenile Court,29,114
+2023-operating-adopted,2023,adopted,all_funds,Juvenile Court,29,114
+2023-operating-adopted,2022,adopted,all_funds,Municipal and Traffic Court,107,114
+2023-operating-adopted,2023,adopted,all_funds,Municipal and Traffic Court,111,114
+2023-operating-adopted,2022,adopted,all_funds,Clrk of Crim. Dist. Crt,86,114
+2023-operating-adopted,2023,adopted,all_funds,Clrk of Crim. Dist. Crt,77,114

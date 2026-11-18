@@ -1,0 +1,179 @@
+book_id,fiscal_year,basis,table,fund_name,line_name,amount,page
+2024-operating-adopted,2022,actual,revenues_by_fund,General Fund,,753357829,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,General Fund,,887673921,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,General Fund,,776031978,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,General Fund,,814423211,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,"Self Generated, Spc Rev,. Trust Funds",,1150000,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,"Self Generated, Spc Rev,. Trust Funds",,1150000,96
+2024-operating-adopted,2022,actual,revenues_by_fund,Housing and Urban Development,,30249422,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,Housing and Urban Development,,81199478,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,Housing and Urban Development,,78546857,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,Housing and Urban Development,,78546857,96
+2024-operating-adopted,2022,actual,revenues_by_fund,Wisner Fund,,120056,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,Wisner Fund,,759469,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,Wisner Fund,,60957,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,Wisner Fund,,60957,96
+2024-operating-adopted,2022,actual,revenues_by_fund,Library,,20090363,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,Library,,25152000,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,Library,,35666189,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,Library,,35666189,96
+2024-operating-adopted,2022,actual,revenues_by_fund,Local Law Enforce. Grants,,45923,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,Local Law Enforce. Grants,,396610,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,Local Law Enforce. Grants,,133010,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,Local Law Enforce. Grants,,133010,96
+2024-operating-adopted,2022,actual,revenues_by_fund,Federal Grants,,173404328,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,Federal Grants,,303215815,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,Federal Grants,,298599998,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,Federal Grants,,304865719,96
+2024-operating-adopted,2022,actual,revenues_by_fund,State & Local Foundations Grants,,9423432,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,State & Local Foundations Grants,,32459435,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,State & Local Foundations Grants,,54801998,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,State & Local Foundations Grants,,55005448,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,"Grants, Contrib., & Fund Transfers",,16704231,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,"Grants, Contrib., & Fund Transfers",,196600000,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,"Grants, Contrib., & Fund Transfers",,140914596,96
+2024-operating-adopted,2022,actual,revenues_by_fund,Special Revenue Funds,,52932823,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,Special Revenue Funds,,111436585,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,Special Revenue Funds,,110297294,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,Special Revenue Funds,,121122294,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,Downtown Development District,,11956645,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,Downtown Development District,,11956645,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,Downtown Development District,,11956645,96
+2024-operating-adopted,2022,actual,revenues_by_fund,Economic Development Fund,,27063,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,Economic Development Fund,,500043,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,Economic Development Fund,,302449,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,Economic Development Fund,,302449,96
+2024-operating-adopted,2022,actual,revenues_by_fund,Housing Trust Fund,,454690,96
+2024-operating-adopted,2023,adopted,revenues_by_fund,Housing Trust Fund,,2699742,96
+2024-operating-adopted,2024,proposed,revenues_by_fund,Housing Trust Fund,,2046940,96
+2024-operating-adopted,2024,adopted,revenues_by_fund,Housing Trust Fund,,2046940,96
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,General Fund,,567884585,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,General Fund,,887673921,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,General Fund,,776031978,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,General Fund,,814423211,105
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,Wisner Fund,,106332,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,Wisner Fund,,759469,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,Wisner Fund,,60957,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,Wisner Fund,,60957,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,Downtown Development District,,11956645,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,Downtown Development District,,11956645,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,Downtown Development District,,11956645,105
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,Housing and Urban Development,,25445001,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,Housing and Urban Development,,81199478,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,Housing and Urban Development,,78546857,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,Housing and Urban Development,,78546857,105
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,"Self Generated, Spc Rev,. Trust Funds",,52266246,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,"Self Generated, Spc Rev,. Trust Funds",,111436585,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,"Self Generated, Spc Rev,. Trust Funds",,111447294,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,"Self Generated, Spc Rev,. Trust Funds",,122272294,105
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,Library,,18973294,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,Library,,25152000,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,Library,,35666189,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,Library,,35666189,105
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,Local Law Enforce. Grants,,38971,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,Local Law Enforce. Grants,,396610,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,Local Law Enforce. Grants,,133010,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,Local Law Enforce. Grants,,133010,105
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,Federal Grants,,184802301,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,Federal Grants,,303215815,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,Federal Grants,,298599998,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,Federal Grants,,304865719,105
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,State & Local Foundations Grants,,6943325,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,State & Local Foundations Grants,,32459435,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,State & Local Foundations Grants,,54801998,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,State & Local Foundations Grants,,55005448,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,"Grants, Contrib., & Fund Transfers",,16704231,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,"Grants, Contrib., & Fund Transfers",,196600000,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,"Grants, Contrib., & Fund Transfers",,140914596,105
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,Economic Development Fund,,477476,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,Economic Development Fund,,500043,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,Economic Development Fund,,302449,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,Economic Development Fund,,302449,105
+2024-operating-adopted,2022,actual,expenditures_by_fund_source,Housing Improvement Fund,,2746949,105
+2024-operating-adopted,2023,adopted,expenditures_by_fund_source,Housing Improvement Fund,,2699742,105
+2024-operating-adopted,2024,proposed,expenditures_by_fund_source,Housing Improvement Fund,,2046940,105
+2024-operating-adopted,2024,adopted,expenditures_by_fund_source,Housing Improvement Fund,,2046940,105
+2024-operating-adopted,2022,actual,expenditures_by_type,General Fund,Personal Services,296346966,106
+2024-operating-adopted,2023,adopted,expenditures_by_type,General Fund,Personal Services,411111614,106
+2024-operating-adopted,2024,proposed,expenditures_by_type,General Fund,Personal Services,447098750,106
+2024-operating-adopted,2024,adopted,expenditures_by_type,General Fund,Personal Services,449678686,106
+2024-operating-adopted,2022,actual,expenditures_by_type,General Fund,Other Operating,262633588,106
+2024-operating-adopted,2023,adopted,expenditures_by_type,General Fund,Other Operating,442547362,106
+2024-operating-adopted,2024,proposed,expenditures_by_type,General Fund,Other Operating,305340662,106
+2024-operating-adopted,2024,adopted,expenditures_by_type,General Fund,Other Operating,328723441,106
+2024-operating-adopted,2022,actual,expenditures_by_type,General Fund,Debt Service,8904030,106
+2024-operating-adopted,2023,adopted,expenditures_by_type,General Fund,Debt Service,34014945,106
+2024-operating-adopted,2024,proposed,expenditures_by_type,General Fund,Debt Service,23592566,106
+2024-operating-adopted,2024,adopted,expenditures_by_type,General Fund,Debt Service,36021084,106
+2024-operating-adopted,2022,actual,expenditures_by_type,Housing and Urban Development,Personal Services,6074952,107
+2024-operating-adopted,2023,adopted,expenditures_by_type,Housing and Urban Development,Personal Services,7209308,107
+2024-operating-adopted,2024,proposed,expenditures_by_type,Housing and Urban Development,Personal Services,8037536,107
+2024-operating-adopted,2024,adopted,expenditures_by_type,Housing and Urban Development,Personal Services,8037536,107
+2024-operating-adopted,2022,actual,expenditures_by_type,Housing and Urban Development,Other Operating,19370049,107
+2024-operating-adopted,2023,adopted,expenditures_by_type,Housing and Urban Development,Other Operating,73990170,107
+2024-operating-adopted,2024,proposed,expenditures_by_type,Housing and Urban Development,Other Operating,70509321,107
+2024-operating-adopted,2024,adopted,expenditures_by_type,Housing and Urban Development,Other Operating,70509321,107
+2024-operating-adopted,2022,actual,expenditures_by_type,Wisner Fund,Personal Services,106332,108
+2024-operating-adopted,2023,adopted,expenditures_by_type,Wisner Fund,Personal Services,107354,108
+2024-operating-adopted,2024,proposed,expenditures_by_type,Wisner Fund,Personal Services,60957,108
+2024-operating-adopted,2024,adopted,expenditures_by_type,Wisner Fund,Personal Services,60957,108
+2024-operating-adopted,2023,adopted,expenditures_by_type,Wisner Fund,Other Operating,652115,108
+2024-operating-adopted,2022,actual,expenditures_by_type,Library,Personal Services,13008428,109
+2024-operating-adopted,2023,adopted,expenditures_by_type,Library,Personal Services,16152000,109
+2024-operating-adopted,2024,proposed,expenditures_by_type,Library,Personal Services,16595340,109
+2024-operating-adopted,2024,adopted,expenditures_by_type,Library,Personal Services,16595340,109
+2024-operating-adopted,2022,actual,expenditures_by_type,Library,Other Operating,5964866,109
+2024-operating-adopted,2023,adopted,expenditures_by_type,Library,Other Operating,9000000,109
+2024-operating-adopted,2024,proposed,expenditures_by_type,Library,Other Operating,19070849,109
+2024-operating-adopted,2024,adopted,expenditures_by_type,Library,Other Operating,19070849,109
+2024-operating-adopted,2022,actual,expenditures_by_type,Local Law Enforce. Grants,Other Operating,38971,110
+2024-operating-adopted,2023,adopted,expenditures_by_type,Local Law Enforce. Grants,Other Operating,396610,110
+2024-operating-adopted,2024,proposed,expenditures_by_type,Local Law Enforce. Grants,Other Operating,133010,110
+2024-operating-adopted,2024,adopted,expenditures_by_type,Local Law Enforce. Grants,Other Operating,133010,110
+2024-operating-adopted,2022,actual,expenditures_by_type,Economic Development Fund,Personal Services,274899,111
+2024-operating-adopted,2023,adopted,expenditures_by_type,Economic Development Fund,Personal Services,395043,111
+2024-operating-adopted,2024,proposed,expenditures_by_type,Economic Development Fund,Personal Services,302449,111
+2024-operating-adopted,2024,adopted,expenditures_by_type,Economic Development Fund,Personal Services,302449,111
+2024-operating-adopted,2022,actual,expenditures_by_type,Economic Development Fund,Other Operating,202577,111
+2024-operating-adopted,2023,adopted,expenditures_by_type,Economic Development Fund,Other Operating,105000,111
+2024-operating-adopted,2022,actual,expenditures_by_type,Housing Improvement Fund,Personal Services,130258,112
+2024-operating-adopted,2023,adopted,expenditures_by_type,Housing Improvement Fund,Personal Services,334896,112
+2024-operating-adopted,2024,proposed,expenditures_by_type,Housing Improvement Fund,Personal Services,115209,112
+2024-operating-adopted,2024,adopted,expenditures_by_type,Housing Improvement Fund,Personal Services,115209,112
+2024-operating-adopted,2022,actual,expenditures_by_type,Housing Improvement Fund,Other Operating,2616691,112
+2024-operating-adopted,2023,adopted,expenditures_by_type,Housing Improvement Fund,Other Operating,2364846,112
+2024-operating-adopted,2024,proposed,expenditures_by_type,Housing Improvement Fund,Other Operating,1931731,112
+2024-operating-adopted,2024,adopted,expenditures_by_type,Housing Improvement Fund,Other Operating,1931731,112
+2024-operating-adopted,2022,actual,expenditures_by_type,Federal Grants,Personal Services,134912352,113
+2024-operating-adopted,2023,adopted,expenditures_by_type,Federal Grants,Personal Services,76431712,113
+2024-operating-adopted,2024,proposed,expenditures_by_type,Federal Grants,Personal Services,56201884,113
+2024-operating-adopted,2024,adopted,expenditures_by_type,Federal Grants,Personal Services,60603365,113
+2024-operating-adopted,2022,actual,expenditures_by_type,Federal Grants,Other Operating,49889949,113
+2024-operating-adopted,2023,adopted,expenditures_by_type,Federal Grants,Other Operating,219784103,113
+2024-operating-adopted,2024,proposed,expenditures_by_type,Federal Grants,Other Operating,236398114,113
+2024-operating-adopted,2024,adopted,expenditures_by_type,Federal Grants,Other Operating,238262354,113
+2024-operating-adopted,2023,adopted,expenditures_by_type,Federal Grants,Debt Service,7000000,113
+2024-operating-adopted,2024,proposed,expenditures_by_type,Federal Grants,Debt Service,6000000,113
+2024-operating-adopted,2024,adopted,expenditures_by_type,Federal Grants,Debt Service,6000000,113
+2024-operating-adopted,2022,actual,expenditures_by_type,State & Local Foundations Grants,Personal Services,1904208,114
+2024-operating-adopted,2023,adopted,expenditures_by_type,State & Local Foundations Grants,Personal Services,4077743,114
+2024-operating-adopted,2024,proposed,expenditures_by_type,State & Local Foundations Grants,Personal Services,5492673,114
+2024-operating-adopted,2024,adopted,expenditures_by_type,State & Local Foundations Grants,Personal Services,5696123,114
+2024-operating-adopted,2022,actual,expenditures_by_type,State & Local Foundations Grants,Other Operating,5039118,114
+2024-operating-adopted,2023,adopted,expenditures_by_type,State & Local Foundations Grants,Other Operating,28381692,114
+2024-operating-adopted,2024,proposed,expenditures_by_type,State & Local Foundations Grants,Other Operating,49309325,114
+2024-operating-adopted,2024,adopted,expenditures_by_type,State & Local Foundations Grants,Other Operating,49309325,114
+2024-operating-adopted,2023,adopted,expenditures_by_type,"Grants, Contrib., & Fund Transfers",Debt Service,16704231,115
+2024-operating-adopted,2024,proposed,expenditures_by_type,"Grants, Contrib., & Fund Transfers",Debt Service,196600000,115
+2024-operating-adopted,2024,adopted,expenditures_by_type,"Grants, Contrib., & Fund Transfers",Debt Service,140914596,115
+2024-operating-adopted,2023,adopted,expenditures_by_type,Downtown Development District,Other Operating,11956645,116
+2024-operating-adopted,2024,proposed,expenditures_by_type,Downtown Development District,Other Operating,11956645,116
+2024-operating-adopted,2024,adopted,expenditures_by_type,Downtown Development District,Other Operating,11956645,116
+2024-operating-adopted,2022,actual,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Personal Services,24021895,117
+2024-operating-adopted,2023,adopted,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Personal Services,31039318,117
+2024-operating-adopted,2024,proposed,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Personal Services,32219943,117
+2024-operating-adopted,2024,adopted,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Personal Services,34769943,117
+2024-operating-adopted,2022,actual,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Other Operating,28244351,117
+2024-operating-adopted,2023,adopted,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Other Operating,80397267,117
+2024-operating-adopted,2024,proposed,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Other Operating,79227351,117
+2024-operating-adopted,2024,adopted,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Other Operating,87502351,117

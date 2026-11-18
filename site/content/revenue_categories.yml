@@ -1,0 +1,29 @@
+# The nine General Fund revenue categories used in data/combined/revenue.csv (column `category`).
+# `slug` becomes the URL /revenue/<slug>/. `short` is the one plain sentence on the home page.
+- category: Sales taxes
+  slug: sales-taxes
+  short: The city's share of the sales tax on goods bought in New Orleans, including cars.
+- category: Property taxes
+  slug: property-taxes
+  short: Taxes on homes, buildings and business property. About half can only be spent on police and fire.
+- category: Service charges
+  slug: service-charges
+  short: Fees for city services, mostly the sanitation fee and ambulance fees.
+- category: Licenses and permits
+  slug: licenses-and-permits
+  short: Utility franchise fees, business licenses, building permits and short-term rental permits.
+- category: Other taxes
+  slug: other-taxes
+  short: Taxes on hotel rooms, parking, utilities and property sales.
+- category: Intergovernmental
+  slug: intergovernmental
+  short: Money from the state and federal governments, such as state supplemental pay for police and firefighters.
+- category: Fines and forfeits
+  slug: fines-and-forfeits
+  short: Parking tickets, traffic camera tickets and court fines.
+- category: Miscellaneous
+  slug: miscellaneous
+  short: Interest earned on city money, rents, reimbursements and other income.
+- category: Other financing sources
+  slug: other-financing-sources
+  short: Money moved into the General Fund from other city funds.

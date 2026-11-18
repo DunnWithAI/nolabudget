@@ -1,0 +1,74 @@
+# Comparability notes: breaks in the figures that a reader needs to know about.
+# Shown as numbered footnotes wherever a table or chart includes an affected year.
+#
+#   id:     stable id, used as the HTML anchor (#note-<id>)
+#   years:  fiscal years the note applies to
+#   funds:  which fund views it applies to: general_fund, all_funds (other_funds follows all_funds)
+#   bases:  which bases it applies to (proposed, adopted, revised, actual)
+#   depts:  optional list of dept_ids; if present the note only appears on those
+#           department pages (it always appears on citywide tables)
+#   text:   plain words; a Jinja template rendered with `facts` (computed in data.py)
+#           and the formatting helpers `money` ("$799.8 million") and `money_full`.
+
+- id: pension-2012
+  years: [2012]
+  funds: [general_fund, all_funds]
+  bases: [actual]
+  depts: [finance]
+  text: >-
+    Actual spending in 2012 includes {{ money(facts.pension_2012) }} from refinancing
+    pension bonds, a one-time transaction counted in the Department of Finance. Without
+    it, General Fund spending in 2012 was about {{ money(facts.gf_actual_2012_ex) }}.
+    General Fund income that year is swollen by the same amount.
+
+- id: no-all-funds-2010-2011
+  years: [2010, 2011]
+  funds: [all_funds]
+  bases: [adopted, revised]
+  text: >-
+    The books do not print all-funds figures by department for 2010 and 2011. The
+    2010 budget book itself has been lost; the 2010 figures come from the 2011 book.
+    For these years, all funds here is the General Fund plus other funds.
+
+- id: adopted-2020
+  years: [2020]
+  funds: [general_fund, all_funds]
+  bases: [adopted]
+  text: >-
+    No adopted budget book was published for 2020. The adopted 2020 figures come from
+    the 2021 book, which reprints them.
+
+- id: all-funds-2020
+  years: [2020]
+  funds: [all_funds]
+  bases: [adopted]
+  text: >-
+    In the 2021 book, the 2020 all-funds total is {{ money(facts.gap_2020) }} less than
+    its own General Fund and other-funds figures added together, a printing error. This
+    site uses the General Fund plus other funds for 2020.
+
+- id: relief-2022
+  years: [2022, 2023, 2024, 2025, 2026, 2027]
+  funds: [all_funds]
+  bases: [proposed, adopted, revised, actual]
+  text: >-
+    From 2022, all-funds totals include federal pandemic relief money, so they are not
+    directly comparable with earlier years.
+
+- id: gf-2023
+  years: [2023]
+  funds: [general_fund]
+  bases: [adopted]
+  text: >-
+    The adopted 2023 General Fund ({{ money(facts.gf_adopted_2023) }}) was
+    {{ money(facts.gf_2023_gap) }} more than the Mayor proposed
+    ({{ money(facts.gf_proposed_2023) }}).
+
+- id: book-2025
+  years: [2025]
+  funds: [all_funds]
+  bases: [adopted]
+  text: >-
+    In the 2025 book, the General Fund and other-funds tables add up to
+    {{ money(facts.gap_2025) }} less than its all-funds total. This site shows the
+    all-funds total as printed.

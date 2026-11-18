@@ -1,0 +1,191 @@
+{# Shared building blocks. Import with: {% import "partials/macros.html" as m %} #}
+
+{# Citations and notes are numbered per page: each renders as a small "[n]" marker linking to
+   the page's "Notes and sources" list, which base.html prints at the end of <main> from
+   `pagerefs` (nolabudget/refs.py). The same book page or note keeps one number per page. #}
+
+{# The bare "[n]" marker for a citation dict from Budget.cite(): {text, href, computed}. #}
+{% macro cite_mark(c) -%}
+{%- set r = pagerefs.source(c) -%}
+<a class="cite" href="#src-{{ r.n }}"{% if r.first %} id="ref-{{ r.n }}"{% endif %} title="{{ c.text }}" aria-label="Source {{ r.n }}: {{ c.text }}">[{{ r.n }}]</a>
+{%- endmacro %}
+
+{# A citation marker. A computed figure keeps the words "computed from" in front of it, so
+   the reader can tell it is derived without opening the list. `short` is accepted and ignored:
+   the list holds the full text. #}
+{% macro cite(c, short=false) -%}
+{%- if c -%}
+{%- if c.computed %}<span class="cite-derived">computed from</span> {% endif -%}
+{{ cite_mark(c) }}
+{%- endif -%}
+{%- endmacro %}
+
+{# "Source: [3], [4]." under a list or table. With prefix "Calculated from" the prefix already
+   says the figures are derived, so the markers stand alone. #}
+{% macro source(cites, prefix="Source", note="") -%}
+{%- set calc = prefix.startswith("Calculated") -%}
+<p class="source">{{ prefix }}: {% for c in cites if c %}{{ cite_mark(c) if calc else cite(c) }}{% if not loop.last %}, {% endif %}{% endfor %}.{% if note %} {{ note }}{% endif %}</p>
+{%- endmacro %}
+
+{# For a chart or list whose figures are each cited in a table elsewhere on the page or site:
+   "Sources: <text> <a href>link</a>." Counts as a source line for checks.py. #}
+{% macro source_ref(text, href, link) -%}
+<p class="source">Sources: {{ text }} <a href="{{ href }}">{{ link }}</a>.</p>
+{%- endmacro %}
+
+{# A table cell for a number that may be missing. #}
+{% macro num(v, cls="") -%}
+{%- if v is none or v == "" -%}<td class="num na{{ ' ' ~ cls if cls }}"><span aria-hidden="true">–</span><span class="vh">not printed</span></td>
+{%- else -%}<td class="num{{ ' ' ~ cls if cls }}">{{ v }}</td>{%- endif -%}
+{%- endmacro %}
+
+{# Note markers, "[n]" in the page's one numbered list. Numbers come from first appearance on
+   the page; `numbered` is accepted and ignored. #}
+{% macro refs(notes, numbered=none) -%}
+{%- for n in notes -%}{%- set r = pagerefs.note(n) -%}<a class="fn" href="#src-{{ r.n }}"{% if r.first %} id="ref-{{ r.n }}"{% endif %} title="{{ r.item.text }}" aria-label="Note {{ r.n }}">[{{ r.n }}]</a>{%- endfor -%}
+{%- endmacro %}
+
+{# A short pointer line to notes that apply to the figures above: "Notes on these figures:
+   [5], [6]." Their text is in the page's "Notes and sources" list. #}
+{% macro footnotes(notes, heading="Notes on these figures") -%}
+{% if notes %}
+<p class="fn-line">{{ heading }}: {% for n in notes %}{{ refs([n]) }}{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+{% endif %}
+{%- endmacro %}
+
+{# A chart figure with switchable views; see nolabudget/views.py for the shape. #}
+{% macro figure(f, caption="") -%}
+<figure class="fig" id="{{ f.id }}" data-figure>
+  {% if f.funds|length > 1 or f.units|length > 1 %}
+  <div class="fig-controls" hidden>
+    {% if f.funds|length > 1 %}
+    <div class="seg" role="radiogroup" aria-label="Which money">
+      {% for k, label in f.funds %}<button type="button" role="radio" data-set="fund" data-value="{{ k }}" aria-checked="{{ 'true' if loop.first else 'false' }}">{{ label }}</button>{% endfor %}
+    </div>
+    {% endif %}
+    {% if f.units|length > 1 %}
+    <div class="seg" role="radiogroup" aria-label="Units">
+      {% for k, label in f.units %}<button type="button" role="radio" data-set="unit" data-value="{{ k }}" aria-checked="{{ 'true' if loop.first else 'false' }}">{{ label }}</button>{% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+  <ul class="legend" aria-label="Key">
+    {% for l in f.legend %}<li><span class="key key-{{ l.kind }} {{ l.key }}" aria-hidden="true"></span>{{ l.label }}</li>{% endfor %}
+  </ul>
+  {% for v in f.views %}
+  <div class="view" data-view="{{ v.id }}"{% if v.fund is defined %} data-fund="{{ v.fund }}" data-unit="{{ v.unit }}"{% endif %}{% if not loop.first %} hidden{% endif %}>
+    <p class="view-h">{{ v.heading }}</p>
+    {% if v.empty %}
+    <p class="empty">No figures are printed for this view.</p>
+    {% else %}
+    <div class="plot">
+      <div class="plot-wide">{{ v.svg.wide|safe }}</div>
+      <div class="plot-narrow">{{ v.svg.narrow|safe }}</div>
+      <div class="tip" role="presentation" hidden></div>
+    </div>
+    {% endif %}
+    {% if v.note %}<p class="fig-note">{{ v.note }}</p>{% endif %}
+    {% if not v.empty %}
+    <details class="numbers">
+      <summary>Show the numbers in this chart</summary>
+      <div class="table-scroll">
+      <table class="data">
+        <caption class="vh">{{ f.title }}: {{ v.heading }}</caption>
+        <thead><tr><th scope="col">Year</th>{% for c in v.columns %}<th scope="col" class="num">{{ c }}</th>{% endfor %}</tr></thead>
+        <tbody>
+        {% for r in v.rows %}<tr><th scope="row">{{ r.year }}</th>{% for c in r.cells %}{{ num(c) }}{% endfor %}</tr>
+        {% endfor %}
+        </tbody>
+      </table>
+      </div>
+    </details>
+    {% endif %}
+  </div>
+  {% endfor %}
+  {% if caption %}<figcaption>{{ caption }}</figcaption>{% endif %}
+</figure>
+{%- endmacro %}
+
+{# Breadcrumb trail: list of (href, label); last item is the current page. #}
+{# Structured data for search engines: one schema.org object as a JSON-LD script.
+   Only state what the page itself shows. #}
+{% macro ld(data) -%}
+<script type="application/ld+json">{{ data|tojson }}</script>
+{%- endmacro %}
+
+{% macro crumbs(items) -%}
+<nav class="crumbs" aria-label="Breadcrumb"><ol>
+{% for href, label in items %}<li>{% if loop.last %}<span aria-current="page">{{ label }}</span>{% else %}<a href="{{ href }}">{{ label }}</a>{% endif %}</li>{% endfor %}
+</ol></nav>
+{%- endmacro %}
+
+{# A thin proportional bar (decorative; the number beside it carries the value). #}
+{% macro bar(share) -%}
+<span class="bar" aria-hidden="true"><span style="width: {{ '%.2f'|format([[share, 0]|max, 1]|min * 100) }}%"></span></span>
+{%- endmacro %}
+
+{# A tall bar split into parts of one whole, with a key below.
+   parts: list of {name, amount, share, per100, slot} from pages/home.py split().
+   label: what the whole is, for screen readers. unit: "per100" prints "$35" in each
+   block (out of every $100); "share" prints "52%"; "count" is "share" with amounts as
+   numbers of positions, not dollars. key=false when the page names
+   the parts right below the bar. Hover shows each part's name and amount. #}
+{% macro split_bar(parts, label, unit="per100", key=true) -%}
+{%- macro amt(p) -%}{{ (p.amount|number ~ " positions") if unit == "count" else p.amount|money }}{%- endmacro -%}
+<figure class="split" data-split>
+  <div class="split-bar" role="img" aria-label="{{ label }}: {% for p in parts %}{{ p.name }}, {{ amt(p) }}, {{ p.share|share }}{% if not loop.last %}; {% endif %}{% endfor %}.">
+    {% for p in parts %}<span class="split-part {{ p.slot }}" style="flex-grow: {{ '%.4f'|format(p.share) }}; --i: {{ loop.index0 }}" data-i="{{ loop.index0 }}" data-name="{{ p.name }}" data-amount="{{ amt(p) }}" data-detail="{% if unit == 'per100' %}${{ p.per100 }} of every $100{% else %}{{ p.share|share }} of the total{% endif %}">{% if p.share >= 0.07 %}<span class="split-label">{{ ('$%d'|format(p.per100)) if unit == "per100" else p.share|share }}</span>{% endif %}</span>{% endfor %}
+  </div>
+  <div class="split-tip" role="presentation" hidden></div>
+  {% if key %}<ul class="split-key" aria-hidden="true">
+    {% for p in parts %}<li data-i="{{ loop.index0 }}"><span class="key-swatch {{ p.slot }}"></span><span class="split-name">{{ p.name }}</span> <span class="split-amt">{% if unit == "per100" %}${{ p.per100 }} of every $100 · {% endif %}{{ amt(p) }}</span></li>{% endfor %}
+  </ul>{% endif %}
+</figure>
+{%- endmacro %}
+
+{# Then vs now: two bars on one scale, the budget in force and the proposal, with the
+   change in words. Draws nothing for a figure that is missing or below zero. #}
+{% macro compare(old, new, old_label, new_label, missing="not printed as its own line") -%}
+{%- set ok_old = old is not none and old >= 0 -%}
+{%- set ok_new = new is not none and new >= 0 -%}
+{%- if ok_old or ok_new -%}
+{%- set mx = [old if ok_old else 0, new if ok_new else 0]|max -%}
+<figure class="compare" data-animate>
+  {% for label, v, ok, cls in ((old_label, old, ok_old, "old"), (new_label, new, ok_new, "new")) %}
+  <div class="compare-row {{ cls }}" style="--i: {{ loop.index0 }}">
+    <span class="compare-label">{{ label }}</span>
+    <span class="compare-track" aria-hidden="true">{% if ok and mx %}<span class="compare-bar" style="width: {{ '%.2f'|format(v / mx * 100) }}%"></span>{% endif %}</span>
+    <span class="compare-amt">{{ v|money if ok else missing }}</span>
+  </div>
+  {% endfor %}
+  {% if ok_old and ok_new %}
+  {%- set d = new - old -%}
+  <p class="compare-chip {{ 'up' if d > 0 else ('down' if d < 0 else 'same') }}"><span class="chip-mark" aria-hidden="true"></span>{{ fmt.change(new, old)|capitalize }}</p>
+  {% endif %}
+</figure>
+{%- endif -%}
+{%- endmacro %}
+
+{# One big figure with a line of explanation. `big` is already formatted. #}
+{% macro stat(big, text, cls="") -%}
+<div class="stat {{ cls }}">
+  <p class="stat-num">{{ big }}</p>
+  <p class="stat-text">{{ text }}</p>
+</div>
+{%- endmacro %}
+
+{# One big "out of every $100" figure. #}
+{% macro per100_stat(share, text) -%}
+{%- if share is not none and share > 0 -%}{{ stat(share|per100, text) }}{%- endif -%}
+{%- endmacro %}
+
+{# One big "per resident" figure: amount / population of the year. #}
+{% macro resident_stat(amount, year, text) -%}
+{%- if amount is not none and amount > 0 -%}{{ stat(budget.per_resident(amount, year)|money, text, "stat-res") }}{%- endif -%}
+{%- endmacro %}
+
+{# The one-line note every per-resident figure needs. #}
+{% macro resident_note(year) -%}
+<p class="table-note">Per resident: divided by the {{ [year, budget.last_pop_year]|min }} population of Orleans Parish, {{ budget.population(year)|number }} people{% if year > budget.last_pop_year %}, the latest Census estimate{% endif %}.</p>
+{%- endmacro %}

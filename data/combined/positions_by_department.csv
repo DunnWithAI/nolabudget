@@ -1,0 +1,1896 @@
+fiscal_year,basis,dept_id,dept_name,fte,source_book,n_books,books_agree
+2007,adopted,aviation-board,New Orleans Aviation Board,111.0,2008-operating-adopted,1,1
+2007,adopted,canal-street-development,Canal Street Development Corporation,1.0,2008-operating-adopted,1,1
+2007,adopted,cao,Chief Administrative Office,75.48,2008-operating-adopted,1,1
+2007,adopted,city-planning,City Planning Commission,14.99,2008-operating-adopted,1,1
+2007,adopted,civil-service,Civil Service,19.25,2008-operating-adopted,1,1
+2007,adopted,clerk-criminal-court,Clerk of Criminal District Court,87.0,2008-operating-adopted,1,1
+2007,adopted,community-development,Office of Community Development,90.0,2008-operating-adopted,1,1
+2007,adopted,coroner,Coroner's Office,12.42,2008-operating-adopted,1,1
+2007,adopted,council,City Council,73.48,2008-operating-adopted,1,1
+2007,adopted,criminal-district-court,Criminal District Court,1.0,2008-operating-adopted,1,1
+2007,adopted,finance,Department of Finance,99.49,2008-operating-adopted,1,1
+2007,adopted,fire,Fire Department,769.0,2008-operating-adopted,1,1
+2007,adopted,french-market,French Market Corporation,24.0,2008-operating-adopted,1,1
+2007,adopted,hdlc,Historic District Landmarks Commission,6.0,2008-operating-adopted,1,1
+2007,adopted,health,Health Department,161.79,2008-operating-adopted,1,1
+2007,adopted,human-services,Human Services (Juvenile Justice Intervention Center),26.0,2008-operating-adopted,1,1
+2007,adopted,inspector-general,Office of Inspector General,1.0,2008-operating-adopted,1,1
+2007,adopted,juvenile-court,Juvenile Court,29.0,2008-operating-adopted,1,1
+2007,adopted,law,Law Department,55.0,2008-operating-adopted,1,1
+2007,adopted,library,New Orleans Public Library,77.96,2008-operating-adopted,1,1
+2007,adopted,mayor,Mayor's Office,103.0,2008-operating-adopted,1,1
+2007,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",34.97,2008-operating-adopted,1,1
+2007,adopted,municipal-traffic-court,Municipal and Traffic Court,111.25,2008-operating-adopted,1,1
+2007,adopted,parks-parkways,Parks and Parkways,115.0,2008-operating-adopted,1,1
+2007,adopted,police,Police Department,1847.02,2008-operating-adopted,1,1
+2007,adopted,property-management,Property Management,82.5,2008-operating-adopted,1,1
+2007,adopted,public-works,Department of Public Works,149.0,2008-operating-adopted,1,1
+2007,adopted,recreation,Recreation,92.0,2008-operating-adopted,1,1
+2007,adopted,rivergate,Rivergate Development Corporation,1.0,2008-operating-adopted,1,1
+2007,adopted,safety-permits,Safety and Permits,112.0,2008-operating-adopted,1,1
+2007,adopted,sanitation,Department of Sanitation,30.99,2008-operating-adopted,1,1
+2007,adopted,vcc,Vieux Carré Commission,7.0,2008-operating-adopted,1,1
+2007,adopted,workforce-investment,Workforce Investment,8.0,2008-operating-adopted,1,1
+2007,adopted,yacht-harbor,Municipal Yacht Harbor,4.0,2008-operating-adopted,1,1
+2008,adopted,aviation-board,New Orleans Aviation Board,111.0,2008-operating-adopted,2,0
+2008,adopted,canal-street-development,Canal Street Development Corporation,1.0,2008-operating-adopted,1,1
+2008,adopted,cao,Chief Administrative Office,75.48,2008-operating-adopted,2,0
+2008,adopted,city-planning,City Planning Commission,15.99,2008-operating-adopted,2,0
+2008,adopted,civil-service,Civil Service,19.25,2008-operating-adopted,2,1
+2008,adopted,clerk-criminal-court,Clerk of Criminal District Court,87.0,2008-operating-adopted,2,0
+2008,adopted,community-development,Office of Community Development,99.0,2008-operating-adopted,2,0
+2008,adopted,coroner,Coroner's Office,12.42,2008-operating-adopted,2,0
+2008,adopted,council,City Council,73.48,2008-operating-adopted,2,0
+2008,adopted,criminal-district-court,Criminal District Court,1.0,2008-operating-adopted,1,1
+2008,adopted,finance,Department of Finance,99.49,2008-operating-adopted,2,0
+2008,adopted,fire,Fire Department,769.0,2008-operating-adopted,2,0
+2008,adopted,french-market,French Market Corporation,24.0,2008-operating-adopted,2,0
+2008,adopted,hdlc,Historic District Landmarks Commission,6.0,2008-operating-adopted,2,0
+2008,adopted,health,Health Department,184.28,2008-operating-adopted,2,0
+2008,adopted,human-services,Human Services (Juvenile Justice Intervention Center),26.0,2008-operating-adopted,2,0
+2008,adopted,inspector-general,Office of Inspector General,1.0,2008-operating-adopted,2,0
+2008,adopted,juvenile-court,Juvenile Court,29.0,2008-operating-adopted,2,0
+2008,adopted,law,Law Department,55.0,2008-operating-adopted,2,0
+2008,adopted,library,New Orleans Public Library,77.96,2008-operating-adopted,2,0
+2008,adopted,mayor,Mayor's Office,106.0,2008-operating-adopted,2,0
+2008,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",34.97,2008-operating-adopted,2,0
+2008,adopted,municipal-traffic-court,Municipal and Traffic Court,111.25,2008-operating-adopted,2,0
+2008,adopted,parks-parkways,Parks and Parkways,115.0,2008-operating-adopted,2,0
+2008,adopted,police,Police Department,1847.02,2008-operating-adopted,2,0
+2008,adopted,property-management,Property Management,82.5,2008-operating-adopted,2,0
+2008,adopted,public-works,Department of Public Works,149.0,2008-operating-adopted,2,0
+2008,adopted,recreation,Recreation,92.0,2008-operating-adopted,2,0
+2008,adopted,rivergate,Rivergate Development Corporation,1.0,2008-operating-adopted,2,0
+2008,adopted,safety-permits,Safety and Permits,112.0,2008-operating-adopted,2,0
+2008,adopted,sanitation,Department of Sanitation,30.99,2008-operating-adopted,2,1
+2008,adopted,vcc,Vieux Carré Commission,7.0,2008-operating-adopted,2,1
+2008,adopted,workforce-investment,Workforce Investment,8.0,2008-operating-adopted,2,0
+2008,adopted,yacht-harbor,Municipal Yacht Harbor,4.0,2008-operating-adopted,2,0
+2008,proposed,aviation-board,New Orleans Aviation Board,111.0,2008-operating-adopted,1,1
+2008,proposed,canal-street-development,Canal Street Development Corporation,1.0,2008-operating-adopted,1,1
+2008,proposed,cao,Chief Administrative Office,75.48,2008-operating-adopted,1,1
+2008,proposed,city-planning,City Planning Commission,15.99,2008-operating-adopted,1,1
+2008,proposed,civil-service,Civil Service,19.25,2008-operating-adopted,1,1
+2008,proposed,clerk-criminal-court,Clerk of Criminal District Court,87.0,2008-operating-adopted,1,1
+2008,proposed,community-development,Office of Community Development,99.0,2008-operating-adopted,1,1
+2008,proposed,coroner,Coroner's Office,12.42,2008-operating-adopted,1,1
+2008,proposed,council,City Council,73.48,2008-operating-adopted,1,1
+2008,proposed,criminal-district-court,Criminal District Court,1.0,2008-operating-adopted,1,1
+2008,proposed,finance,Department of Finance,99.49,2008-operating-adopted,1,1
+2008,proposed,fire,Fire Department,769.0,2008-operating-adopted,1,1
+2008,proposed,french-market,French Market Corporation,24.0,2008-operating-adopted,1,1
+2008,proposed,hdlc,Historic District Landmarks Commission,6.0,2008-operating-adopted,1,1
+2008,proposed,health,Health Department,184.28,2008-operating-adopted,1,1
+2008,proposed,human-services,Human Services (Juvenile Justice Intervention Center),26.0,2008-operating-adopted,1,1
+2008,proposed,inspector-general,Office of Inspector General,1.0,2008-operating-adopted,1,1
+2008,proposed,juvenile-court,Juvenile Court,29.0,2008-operating-adopted,1,1
+2008,proposed,law,Law Department,55.0,2008-operating-adopted,1,1
+2008,proposed,library,New Orleans Public Library,77.96,2008-operating-adopted,1,1
+2008,proposed,mayor,Mayor's Office,106.0,2008-operating-adopted,1,1
+2008,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",34.97,2008-operating-adopted,1,1
+2008,proposed,municipal-traffic-court,Municipal and Traffic Court,111.25,2008-operating-adopted,1,1
+2008,proposed,parks-parkways,Parks and Parkways,115.0,2008-operating-adopted,1,1
+2008,proposed,police,Police Department,1847.02,2008-operating-adopted,1,1
+2008,proposed,property-management,Property Management,82.5,2008-operating-adopted,1,1
+2008,proposed,public-works,Department of Public Works,149.0,2008-operating-adopted,1,1
+2008,proposed,recreation,Recreation,92.0,2008-operating-adopted,1,1
+2008,proposed,rivergate,Rivergate Development Corporation,1.0,2008-operating-adopted,1,1
+2008,proposed,safety-permits,Safety and Permits,112.0,2008-operating-adopted,1,1
+2008,proposed,sanitation,Department of Sanitation,30.99,2008-operating-adopted,1,1
+2008,proposed,vcc,Vieux Carré Commission,7.0,2008-operating-adopted,1,1
+2008,proposed,workforce-investment,Workforce Investment,8.0,2008-operating-adopted,1,1
+2008,proposed,yacht-harbor,Municipal Yacht Harbor,4.0,2008-operating-adopted,1,1
+2008,revised,aviation-board,New Orleans Aviation Board,113.0,2009-operating-adopted,2,0
+2008,revised,cao,Chief Administrative Office,73.48,2009-operating-adopted,2,0
+2008,revised,city-planning,City Planning Commission,22.49,2009-operating-adopted,2,0
+2008,revised,civil-service,Civil Service,19.25,2009-operating-adopted,2,1
+2008,revised,clerk-criminal-court,Clerk of Criminal District Court,90.0,2009-operating-adopted,2,0
+2008,revised,community-development,Office of Community Development,102.49,2009-operating-adopted,2,0
+2008,revised,coroner,Coroner's Office,11.42,2009-operating-adopted,2,0
+2008,revised,council,City Council,74.48,2009-operating-adopted,2,0
+2008,revised,finance,Department of Finance,104.49,2009-operating-adopted,2,0
+2008,revised,fire,Fire Department,769.5,2009-operating-adopted,2,0
+2008,revised,french-market,French Market Corporation,28.0,2009-operating-adopted,2,0
+2008,revised,hdlc,Historic District Landmarks Commission,10.0,2009-operating-adopted,2,0
+2008,revised,health,Health Department,192.49,2009-operating-adopted,2,0
+2008,revised,human-services,Human Services (Juvenile Justice Intervention Center),30.0,2009-operating-adopted,2,0
+2008,revised,inspector-general,Office of Inspector General,6.0,2009-operating-adopted,2,0
+2008,revised,juvenile-court,Juvenile Court,30.0,2009-operating-adopted,2,0
+2008,revised,law,Law Department,75.0,2009-operating-adopted,2,0
+2008,revised,library,New Orleans Public Library,95.84,2009-operating-adopted,2,0
+2008,revised,mayor,Mayor's Office,128.71,2009-operating-adopted,2,0
+2008,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",34.22,2009-operating-adopted,2,0
+2008,revised,municipal-traffic-court,Municipal and Traffic Court,132.6,2009-operating-adopted,2,0
+2008,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,8.0,2009-operating-adopted,1,1
+2008,revised,parks-parkways,Parks and Parkways,114.49,2009-operating-adopted,2,0
+2008,revised,police,Police Department,1859.02,2009-operating-adopted,2,0
+2008,revised,property-management,Property Management,83.5,2009-operating-adopted,2,0
+2008,revised,public-works,Department of Public Works,199.0,2009-operating-adopted,2,0
+2008,revised,recreation,Recreation,78.23,2009-operating-adopted,2,0
+2008,revised,rivergate,Rivergate Development Corporation,2.0,2009-operating-adopted,2,0
+2008,revised,safety-permits,Safety and Permits,112.48,2009-operating-adopted,2,0
+2008,revised,sanitation,Department of Sanitation,30.99,2009-operating-adopted,2,1
+2008,revised,vcc,Vieux Carré Commission,7.0,2009-operating-adopted,2,1
+2008,revised,workforce-investment,Workforce Investment,7.0,2009-operating-adopted,2,0
+2008,revised,yacht-harbor,Municipal Yacht Harbor,2.0,2009-operating-adopted,2,0
+2009,adopted,aviation-board,New Orleans Aviation Board,113.0,2009-operating-adopted,1,1
+2009,adopted,cao,Chief Administrative Office,64.48,2009-operating-adopted,1,1
+2009,adopted,city-planning,City Planning Commission,21.49,2009-operating-adopted,1,1
+2009,adopted,civil-service,Civil Service,19.25,2009-operating-adopted,1,1
+2009,adopted,clerk-criminal-court,Clerk of Criminal District Court,91.0,2009-operating-adopted,1,1
+2009,adopted,community-development,Office of Community Development,109.49,2009-operating-adopted,1,1
+2009,adopted,coroner,Coroner's Office,11.42,2009-operating-adopted,1,1
+2009,adopted,council,City Council,73.48,2009-operating-adopted,1,1
+2009,adopted,finance,Department of Finance,96.49,2009-operating-adopted,1,1
+2009,adopted,fire,Fire Department,767.5,2009-operating-adopted,1,1
+2009,adopted,french-market,French Market Corporation,28.0,2009-operating-adopted,1,1
+2009,adopted,hdlc,Historic District Landmarks Commission,10.0,2009-operating-adopted,1,1
+2009,adopted,health,Health Department,210.89,2009-operating-adopted,1,1
+2009,adopted,human-services,Human Services (Juvenile Justice Intervention Center),30.0,2009-operating-adopted,1,1
+2009,adopted,inspector-general,Office of Inspector General,6.0,2009-operating-adopted,1,1
+2009,adopted,juvenile-court,Juvenile Court,30.0,2009-operating-adopted,1,1
+2009,adopted,law,Law Department,73.0,2009-operating-adopted,1,1
+2009,adopted,library,New Orleans Public Library,95.84,2009-operating-adopted,1,1
+2009,adopted,mayor,Mayor's Office,124.71,2009-operating-adopted,1,1
+2009,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",34.22,2009-operating-adopted,1,1
+2009,adopted,municipal-traffic-court,Municipal and Traffic Court,132.6,2009-operating-adopted,1,1
+2009,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,8.0,2009-operating-adopted,1,1
+2009,adopted,parks-parkways,Parks and Parkways,113.49,2009-operating-adopted,1,1
+2009,adopted,police,Police Department,1859.02,2009-operating-adopted,1,1
+2009,adopted,property-management,Property Management,80.5,2009-operating-adopted,1,1
+2009,adopted,public-works,Department of Public Works,150.0,2009-operating-adopted,1,1
+2009,adopted,recreation,Recreation,78.23,2009-operating-adopted,1,1
+2009,adopted,rivergate,Rivergate Development Corporation,2.0,2009-operating-adopted,1,1
+2009,adopted,safety-permits,Safety and Permits,109.48,2009-operating-adopted,1,1
+2009,adopted,sanitation,Department of Sanitation,30.99,2009-operating-adopted,1,1
+2009,adopted,vcc,Vieux Carré Commission,7.0,2009-operating-adopted,1,1
+2009,adopted,workforce-investment,Workforce Investment,7.0,2009-operating-adopted,1,1
+2009,adopted,yacht-harbor,Municipal Yacht Harbor,1.0,2009-operating-adopted,1,1
+2009,proposed,aviation-board,New Orleans Aviation Board,113.0,2009-operating-adopted,1,1
+2009,proposed,cao,Chief Administrative Office,69.48,2009-operating-adopted,1,1
+2009,proposed,city-planning,City Planning Commission,21.49,2009-operating-adopted,1,1
+2009,proposed,civil-service,Civil Service,19.25,2009-operating-adopted,1,1
+2009,proposed,clerk-criminal-court,Clerk of Criminal District Court,91.0,2009-operating-adopted,1,1
+2009,proposed,community-development,Office of Community Development,109.49,2009-operating-adopted,1,1
+2009,proposed,coroner,Coroner's Office,11.42,2009-operating-adopted,1,1
+2009,proposed,council,City Council,73.48,2009-operating-adopted,1,1
+2009,proposed,finance,Department of Finance,96.49,2009-operating-adopted,1,1
+2009,proposed,fire,Fire Department,767.5,2009-operating-adopted,1,1
+2009,proposed,french-market,French Market Corporation,28.0,2009-operating-adopted,1,1
+2009,proposed,hdlc,Historic District Landmarks Commission,10.0,2009-operating-adopted,1,1
+2009,proposed,health,Health Department,210.89,2009-operating-adopted,1,1
+2009,proposed,human-services,Human Services (Juvenile Justice Intervention Center),30.0,2009-operating-adopted,1,1
+2009,proposed,inspector-general,Office of Inspector General,6.0,2009-operating-adopted,1,1
+2009,proposed,juvenile-court,Juvenile Court,30.0,2009-operating-adopted,1,1
+2009,proposed,law,Law Department,73.0,2009-operating-adopted,1,1
+2009,proposed,library,New Orleans Public Library,95.84,2009-operating-adopted,1,1
+2009,proposed,mayor,Mayor's Office,124.71,2009-operating-adopted,1,1
+2009,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",34.22,2009-operating-adopted,1,1
+2009,proposed,municipal-traffic-court,Municipal and Traffic Court,132.6,2009-operating-adopted,1,1
+2009,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,8.0,2009-operating-adopted,1,1
+2009,proposed,parks-parkways,Parks and Parkways,113.49,2009-operating-adopted,1,1
+2009,proposed,police,Police Department,1859.02,2009-operating-adopted,1,1
+2009,proposed,property-management,Property Management,81.5,2009-operating-adopted,1,1
+2009,proposed,public-works,Department of Public Works,150.0,2009-operating-adopted,1,1
+2009,proposed,recreation,Recreation,78.23,2009-operating-adopted,1,1
+2009,proposed,rivergate,Rivergate Development Corporation,2.0,2009-operating-adopted,1,1
+2009,proposed,safety-permits,Safety and Permits,109.48,2009-operating-adopted,1,1
+2009,proposed,sanitation,Department of Sanitation,30.99,2009-operating-adopted,1,1
+2009,proposed,vcc,Vieux Carré Commission,7.0,2009-operating-adopted,1,1
+2009,proposed,workforce-investment,Workforce Investment,7.0,2009-operating-adopted,1,1
+2009,proposed,yacht-harbor,Municipal Yacht Harbor,2.0,2009-operating-adopted,1,1
+2010,adopted,aviation-board,New Orleans Aviation Board,114.99,2011-operating-adopted,1,1
+2010,adopted,canal-street-development,Canal Street Development Corporation,2.0,2011-operating-adopted,1,1
+2010,adopted,cao,Chief Administrative Office,91.97,2011-operating-adopted,1,1
+2010,adopted,city-planning,City Planning Commission,18.49,2011-operating-adopted,1,1
+2010,adopted,civil-service,Civil Service,21.73,2011-operating-adopted,1,1
+2010,adopted,clerk-criminal-court,Clerk of Criminal District Court,90.49,2011-operating-adopted,1,1
+2010,adopted,community-development,Office of Community Development,113.49,2011-operating-adopted,1,1
+2010,adopted,coroner,Coroner's Office,14.42,2011-operating-adopted,1,1
+2010,adopted,council,City Council,70.0,2011-operating-adopted,1,1
+2010,adopted,economic-development-fund,Economic Development Fund,15.0,2011-operating-adopted,1,1
+2010,adopted,finance,Department of Finance,92.49,2011-operating-adopted,1,1
+2010,adopted,fire,Fire Department,803.5,2011-operating-adopted,1,1
+2010,adopted,french-market,French Market Corporation,30.96,2011-operating-adopted,1,1
+2010,adopted,hdlc,Historic District Landmarks Commission,10.0,2011-operating-adopted,1,1
+2010,adopted,health,Health Department,208.64,2011-operating-adopted,1,1
+2010,adopted,human-services,Human Services (Juvenile Justice Intervention Center),53.49,2011-operating-adopted,1,1
+2010,adopted,inspector-general,Office of Inspector General,24.0,2011-operating-adopted,1,1
+2010,adopted,juvenile-court,Juvenile Court,52.0,2011-operating-adopted,1,1
+2010,adopted,law,Law Department,66.0,2011-operating-adopted,1,1
+2010,adopted,library,New Orleans Public Library,139.16,2011-operating-adopted,1,1
+2010,adopted,mayor,Mayor's Office,115.0,2011-operating-adopted,1,1
+2010,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",35.45,2011-operating-adopted,1,1
+2010,adopted,municipal-traffic-court,Municipal and Traffic Court,146.68,2011-operating-adopted,1,1
+2010,adopted,museum-of-art,New Orleans Museum of Art,14.5,2011-operating-adopted,1,1
+2010,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,8.0,2011-operating-adopted,1,1
+2010,adopted,parks-parkways,Parks and Parkways,120.47,2011-operating-adopted,1,1
+2010,adopted,police,Police Department,1766.07,2011-operating-adopted,1,1
+2010,adopted,property-management,Property Management,71.0,2011-operating-adopted,1,1
+2010,adopted,public-works,Department of Public Works,135.49,2011-operating-adopted,1,1
+2010,adopted,recreation,Recreation,109.49,2011-operating-adopted,1,1
+2010,adopted,rivergate,Rivergate Development Corporation,2.0,2011-operating-adopted,1,1
+2010,adopted,safety-permits,Safety and Permits,98.48,2011-operating-adopted,1,1
+2010,adopted,sanitation,Department of Sanitation,28.0,2011-operating-adopted,1,1
+2010,adopted,vcc,Vieux Carré Commission,5.0,2011-operating-adopted,1,1
+2010,adopted,workforce-investment,Workforce Investment,6.0,2011-operating-adopted,1,1
+2010,adopted,yacht-harbor,Municipal Yacht Harbor,3.0,2011-operating-adopted,1,1
+2011,adopted,aviation-board,New Orleans Aviation Board,114.99,2011-operating-adopted,2,0
+2011,adopted,canal-street-development,Canal Street Development Corporation,2.0,2011-operating-adopted,2,1
+2011,adopted,cao,Chief Administrative Office,96.97,2011-operating-adopted,2,0
+2011,adopted,city-planning,City Planning Commission,18.49,2011-operating-adopted,2,0
+2011,adopted,civil-service,Civil Service,21.73,2011-operating-adopted,2,0
+2011,adopted,clerk-criminal-court,Clerk of Criminal District Court,90.49,2011-operating-adopted,2,1
+2011,adopted,community-development,Office of Community Development,113.49,2011-operating-adopted,2,0
+2011,adopted,coroner,Coroner's Office,14.42,2011-operating-adopted,2,0
+2011,adopted,council,City Council,71.0,2011-operating-adopted,2,0
+2011,adopted,economic-development-fund,Economic Development Fund,15.0,2011-operating-adopted,2,0
+2011,adopted,finance,Department of Finance,92.49,2011-operating-adopted,2,0
+2011,adopted,fire,Fire Department,778.5,2011-operating-adopted,2,0
+2011,adopted,french-market,French Market Corporation,30.96,2011-operating-adopted,2,0
+2011,adopted,hdlc,Historic District Landmarks Commission,10.0,2011-operating-adopted,2,1
+2011,adopted,health,Health Department,208.64,2011-operating-adopted,2,0
+2011,adopted,human-services,Human Services (Juvenile Justice Intervention Center),57.49,2011-operating-adopted,2,0
+2011,adopted,inspector-general,Office of Inspector General,24.0,2011-operating-adopted,2,0
+2011,adopted,juvenile-court,Juvenile Court,52.0,2011-operating-adopted,2,0
+2011,adopted,law,Law Department,66.0,2011-operating-adopted,2,0
+2011,adopted,library,New Orleans Public Library,139.16,2011-operating-adopted,2,0
+2011,adopted,mayor,Mayor's Office,143.0,2011-operating-adopted,2,0
+2011,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",35.45,2011-operating-adopted,2,0
+2011,adopted,municipal-traffic-court,Municipal and Traffic Court,146.68,2011-operating-adopted,2,0
+2011,adopted,museum-of-art,New Orleans Museum of Art,14.5,2011-operating-adopted,2,0
+2011,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,8.0,2011-operating-adopted,2,0
+2011,adopted,parks-parkways,Parks and Parkways,120.47,2011-operating-adopted,2,0
+2011,adopted,police,Police Department,1706.07,2011-operating-adopted,2,0
+2011,adopted,property-management,Property Management,71.0,2011-operating-adopted,2,0
+2011,adopted,public-works,Department of Public Works,135.49,2011-operating-adopted,2,0
+2011,adopted,recreation,Recreation,109.49,2011-operating-adopted,1,1
+2011,adopted,rivergate,Rivergate Development Corporation,2.0,2011-operating-adopted,2,1
+2011,adopted,safety-permits,Safety and Permits,97.49,2011-operating-adopted,2,0
+2011,adopted,sanitation,Department of Sanitation,28.0,2011-operating-adopted,2,0
+2011,adopted,vcc,Vieux Carré Commission,5.0,2011-operating-adopted,2,0
+2011,adopted,workforce-investment,Workforce Investment,6.0,2011-operating-adopted,2,1
+2011,adopted,yacht-harbor,Municipal Yacht Harbor,3.0,2011-operating-adopted,2,1
+2011,proposed,aviation-board,New Orleans Aviation Board,114.99,2011-operating-adopted,1,1
+2011,proposed,canal-street-development,Canal Street Development Corporation,2.0,2011-operating-adopted,1,1
+2011,proposed,cao,Chief Administrative Office,96.97,2011-operating-adopted,1,1
+2011,proposed,city-planning,City Planning Commission,18.49,2011-operating-adopted,1,1
+2011,proposed,civil-service,Civil Service,21.73,2011-operating-adopted,1,1
+2011,proposed,clerk-criminal-court,Clerk of Criminal District Court,90.49,2011-operating-adopted,1,1
+2011,proposed,community-development,Office of Community Development,113.49,2011-operating-adopted,1,1
+2011,proposed,coroner,Coroner's Office,14.42,2011-operating-adopted,1,1
+2011,proposed,council,City Council,71.0,2011-operating-adopted,1,1
+2011,proposed,economic-development-fund,Economic Development Fund,15.0,2011-operating-adopted,1,1
+2011,proposed,finance,Department of Finance,92.49,2011-operating-adopted,1,1
+2011,proposed,fire,Fire Department,778.5,2011-operating-adopted,1,1
+2011,proposed,french-market,French Market Corporation,30.96,2011-operating-adopted,1,1
+2011,proposed,hdlc,Historic District Landmarks Commission,10.0,2011-operating-adopted,1,1
+2011,proposed,health,Health Department,208.64,2011-operating-adopted,1,1
+2011,proposed,human-services,Human Services (Juvenile Justice Intervention Center),57.49,2011-operating-adopted,1,1
+2011,proposed,inspector-general,Office of Inspector General,24.0,2011-operating-adopted,1,1
+2011,proposed,juvenile-court,Juvenile Court,52.0,2011-operating-adopted,1,1
+2011,proposed,law,Law Department,66.0,2011-operating-adopted,1,1
+2011,proposed,library,New Orleans Public Library,139.16,2011-operating-adopted,1,1
+2011,proposed,mayor,Mayor's Office,143.0,2011-operating-adopted,1,1
+2011,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",35.45,2011-operating-adopted,1,1
+2011,proposed,municipal-traffic-court,Municipal and Traffic Court,146.68,2011-operating-adopted,1,1
+2011,proposed,museum-of-art,New Orleans Museum of Art,14.5,2011-operating-adopted,1,1
+2011,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,8.0,2011-operating-adopted,1,1
+2011,proposed,parks-parkways,Parks and Parkways,120.47,2011-operating-adopted,1,1
+2011,proposed,police,Police Department,1706.07,2011-operating-adopted,1,1
+2011,proposed,property-management,Property Management,71.0,2011-operating-adopted,1,1
+2011,proposed,public-works,Department of Public Works,135.49,2011-operating-adopted,1,1
+2011,proposed,recreation,Recreation,109.49,2011-operating-adopted,1,1
+2011,proposed,rivergate,Rivergate Development Corporation,2.0,2011-operating-adopted,1,1
+2011,proposed,safety-permits,Safety and Permits,97.49,2011-operating-adopted,1,1
+2011,proposed,sanitation,Department of Sanitation,28.0,2011-operating-adopted,1,1
+2011,proposed,vcc,Vieux Carré Commission,5.0,2011-operating-adopted,1,1
+2011,proposed,workforce-investment,Workforce Investment,6.0,2011-operating-adopted,1,1
+2011,proposed,yacht-harbor,Municipal Yacht Harbor,3.0,2011-operating-adopted,1,1
+2011,revised,aviation-board,New Orleans Aviation Board,140.39,2012-operating-adopted,2,0
+2011,revised,canal-street-development,Canal Street Development Corporation,2.0,2012-operating-adopted,2,1
+2011,revised,cao,Chief Administrative Office,116.62,2012-operating-adopted,2,0
+2011,revised,city-planning,City Planning Commission,22.49,2012-operating-adopted,2,0
+2011,revised,civil-service,Civil Service,18.96,2012-operating-adopted,2,0
+2011,revised,clerk-criminal-court,Clerk of Criminal District Court,90.49,2012-operating-adopted,2,1
+2011,revised,community-development,Office of Community Development,124.49,2012-operating-adopted,2,0
+2011,revised,coroner,Coroner's Office,15.42,2012-operating-adopted,2,0
+2011,revised,council,City Council,71.57,2012-operating-adopted,2,0
+2011,revised,economic-development-fund,Economic Development Fund,2.0,2012-operating-adopted,2,0
+2011,revised,finance,Department of Finance,130.49,2012-operating-adopted,2,0
+2011,revised,fire,Fire Department,762.5,2012-operating-adopted,2,0
+2011,revised,french-market,French Market Corporation,34.88,2012-operating-adopted,2,0
+2011,revised,hdlc,Historic District Landmarks Commission,10.0,2012-operating-adopted,2,1
+2011,revised,health,Health Department,155.47,2012-operating-adopted,2,0
+2011,revised,human-services,Human Services (Juvenile Justice Intervention Center),46.49,2012-operating-adopted,2,0
+2011,revised,inspector-general,Office of Inspector General,33.5,2012-operating-adopted,2,0
+2011,revised,juvenile-court,Juvenile Court,49.0,2012-operating-adopted,2,0
+2011,revised,law,Law Department,70.0,2012-operating-adopted,2,0
+2011,revised,library,New Orleans Public Library,139.5,2012-operating-adopted,2,0
+2011,revised,mayor,Mayor's Office,196.0,2012-operating-adopted,2,0
+2011,revised,miscellaneous,Miscellaneous,165.91,2012-operating-adopted,1,1
+2011,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",31.71,2012-operating-adopted,2,0
+2011,revised,municipal-traffic-court,Municipal and Traffic Court,142.5,2012-operating-adopted,2,0
+2011,revised,museum-of-art,New Orleans Museum of Art,12.5,2012-operating-adopted,2,0
+2011,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,9.0,2012-operating-adopted,2,0
+2011,revised,parks-parkways,Parks and Parkways,125.47,2012-operating-adopted,2,0
+2011,revised,police,Police Department,1650.68,2012-operating-adopted,2,0
+2011,revised,property-management,Property Management,75.0,2012-operating-adopted,2,0
+2011,revised,public-works,Department of Public Works,127.49,2012-operating-adopted,2,0
+2011,revised,rivergate,Rivergate Development Corporation,2.0,2012-operating-adopted,2,1
+2011,revised,safety-permits,Safety and Permits,93.49,2012-operating-adopted,2,0
+2011,revised,sanitation,Department of Sanitation,26.0,2012-operating-adopted,2,0
+2011,revised,vcc,Vieux Carré Commission,9.5,2012-operating-adopted,2,0
+2011,revised,workforce-investment,Workforce Investment,6.0,2012-operating-adopted,2,1
+2011,revised,yacht-harbor,Municipal Yacht Harbor,3.0,2012-operating-adopted,2,1
+2012,adopted,aviation-board,New Orleans Aviation Board,140.39,2012-operating-adopted,2,0
+2012,adopted,canal-street-development,Canal Street Development Corporation,2.0,2012-operating-adopted,2,1
+2012,adopted,cao,Chief Administrative Office,108.62,2012-operating-adopted,2,0
+2012,adopted,city-planning,City Planning Commission,20.49,2012-operating-adopted,2,0
+2012,adopted,civil-service,Civil Service,19.96,2012-operating-adopted,2,0
+2012,adopted,clerk-criminal-court,Clerk of Criminal District Court,90.49,2012-operating-adopted,2,1
+2012,adopted,community-development,Office of Community Development,125.49,2012-operating-adopted,2,0
+2012,adopted,coroner,Coroner's Office,17.42,2012-operating-adopted,2,0
+2012,adopted,council,City Council,71.57,2012-operating-adopted,2,0
+2012,adopted,economic-development-fund,Economic Development Fund,2.0,2012-operating-adopted,2,1
+2012,adopted,finance,Department of Finance,130.49,2012-operating-adopted,2,0
+2012,adopted,fire,Fire Department,722.5,2012-operating-adopted,2,0
+2012,adopted,french-market,French Market Corporation,34.88,2012-operating-adopted,2,0
+2012,adopted,hdlc,Historic District Landmarks Commission,10.0,2012-operating-adopted,2,0
+2012,adopted,health,Health Department,169.47,2012-operating-adopted,2,0
+2012,adopted,human-services,Human Services (Juvenile Justice Intervention Center),52.49,2012-operating-adopted,2,0
+2012,adopted,inspector-general,Office of Inspector General,33.55,2012-operating-adopted,2,0
+2012,adopted,juvenile-court,Juvenile Court,49.0,2012-operating-adopted,2,0
+2012,adopted,law,Law Department,66.0,2012-operating-adopted,2,0
+2012,adopted,library,New Orleans Public Library,139.5,2012-operating-adopted,2,0
+2012,adopted,mayor,Mayor's Office,182.0,2012-operating-adopted,2,0
+2012,adopted,miscellaneous,Miscellaneous,165.91,2012-operating-adopted,2,0
+2012,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",31.71,2012-operating-adopted,2,0
+2012,adopted,municipal-traffic-court,Municipal and Traffic Court,142.5,2012-operating-adopted,2,0
+2012,adopted,museum-of-art,New Orleans Museum of Art,12.5,2012-operating-adopted,2,0
+2012,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,9.0,2012-operating-adopted,2,0
+2012,adopted,parks-parkways,Parks and Parkways,124.47,2012-operating-adopted,2,0
+2012,adopted,police,Police Department,1607.68,2012-operating-adopted,2,0
+2012,adopted,property-management,Property Management,77.0,2012-operating-adopted,2,0
+2012,adopted,public-works,Department of Public Works,134.49,2012-operating-adopted,2,0
+2012,adopted,rivergate,Rivergate Development Corporation,2.0,2012-operating-adopted,2,0
+2012,adopted,safety-permits,Safety and Permits,93.49,2012-operating-adopted,2,0
+2012,adopted,sanitation,Department of Sanitation,26.0,2012-operating-adopted,2,1
+2012,adopted,vcc,Vieux Carré Commission,5.0,2012-operating-adopted,2,0
+2012,adopted,workforce-investment,Workforce Investment,5.01,2012-operating-adopted,2,0
+2012,adopted,yacht-harbor,Municipal Yacht Harbor,3.0,2012-operating-adopted,2,1
+2012,proposed,aviation-board,New Orleans Aviation Board,140.39,2012-operating-adopted,1,1
+2012,proposed,canal-street-development,Canal Street Development Corporation,2.0,2012-operating-adopted,1,1
+2012,proposed,cao,Chief Administrative Office,111.62,2012-operating-adopted,1,1
+2012,proposed,city-planning,City Planning Commission,20.49,2012-operating-adopted,1,1
+2012,proposed,civil-service,Civil Service,19.96,2012-operating-adopted,1,1
+2012,proposed,clerk-criminal-court,Clerk of Criminal District Court,90.49,2012-operating-adopted,1,1
+2012,proposed,community-development,Office of Community Development,124.49,2012-operating-adopted,1,1
+2012,proposed,coroner,Coroner's Office,17.42,2012-operating-adopted,1,1
+2012,proposed,council,City Council,71.57,2012-operating-adopted,1,1
+2012,proposed,economic-development-fund,Economic Development Fund,2.0,2012-operating-adopted,1,1
+2012,proposed,finance,Department of Finance,130.49,2012-operating-adopted,1,1
+2012,proposed,fire,Fire Department,722.5,2012-operating-adopted,1,1
+2012,proposed,french-market,French Market Corporation,34.88,2012-operating-adopted,1,1
+2012,proposed,hdlc,Historic District Landmarks Commission,10.0,2012-operating-adopted,1,1
+2012,proposed,health,Health Department,163.47,2012-operating-adopted,1,1
+2012,proposed,human-services,Human Services (Juvenile Justice Intervention Center),52.49,2012-operating-adopted,1,1
+2012,proposed,inspector-general,Office of Inspector General,33.55,2012-operating-adopted,1,1
+2012,proposed,juvenile-court,Juvenile Court,49.0,2012-operating-adopted,1,1
+2012,proposed,law,Law Department,66.0,2012-operating-adopted,1,1
+2012,proposed,library,New Orleans Public Library,139.5,2012-operating-adopted,1,1
+2012,proposed,mayor,Mayor's Office,185.0,2012-operating-adopted,1,1
+2012,proposed,miscellaneous,Miscellaneous,165.91,2012-operating-adopted,1,1
+2012,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",31.71,2012-operating-adopted,1,1
+2012,proposed,municipal-traffic-court,Municipal and Traffic Court,142.5,2012-operating-adopted,1,1
+2012,proposed,museum-of-art,New Orleans Museum of Art,12.5,2012-operating-adopted,1,1
+2012,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,9.0,2012-operating-adopted,1,1
+2012,proposed,parks-parkways,Parks and Parkways,124.47,2012-operating-adopted,1,1
+2012,proposed,police,Police Department,1607.68,2012-operating-adopted,1,1
+2012,proposed,property-management,Property Management,77.0,2012-operating-adopted,1,1
+2012,proposed,public-works,Department of Public Works,134.49,2012-operating-adopted,1,1
+2012,proposed,rivergate,Rivergate Development Corporation,2.0,2012-operating-adopted,1,1
+2012,proposed,safety-permits,Safety and Permits,93.49,2012-operating-adopted,1,1
+2012,proposed,sanitation,Department of Sanitation,26.0,2012-operating-adopted,1,1
+2012,proposed,vcc,Vieux Carré Commission,5.0,2012-operating-adopted,1,1
+2012,proposed,workforce-investment,Workforce Investment,6.0,2012-operating-adopted,1,1
+2012,proposed,yacht-harbor,Municipal Yacht Harbor,3.0,2012-operating-adopted,1,1
+2012,revised,aviation-board,New Orleans Aviation Board,178.0,2013-operating-adopted,2,0
+2012,revised,canal-street-development,Canal Street Development Corporation,2.0,2013-operating-adopted,2,1
+2012,revised,cao,Chief Administrative Office,108.47,2013-operating-adopted,2,0
+2012,revised,city-planning,City Planning Commission,21.49,2013-operating-adopted,2,0
+2012,revised,civil-service,Civil Service,16.48,2013-operating-adopted,2,0
+2012,revised,clerk-criminal-court,Clerk of Criminal District Court,90.49,2013-operating-adopted,2,1
+2012,revised,community-development,Office of Community Development,112.0,2013-operating-adopted,2,0
+2012,revised,coroner,Coroner's Office,14.42,2013-operating-adopted,2,0
+2012,revised,council,City Council,65.57,2013-operating-adopted,2,0
+2012,revised,economic-development-fund,Economic Development Fund,2.0,2013-operating-adopted,2,1
+2012,revised,finance,Department of Finance,120.49,2013-operating-adopted,2,0
+2012,revised,fire,Fire Department,637.5,2013-operating-adopted,2,0
+2012,revised,french-market,French Market Corporation,37.4,2013-operating-adopted,2,0
+2012,revised,hdlc,Historic District Landmarks Commission,7.0,2013-operating-adopted,2,0
+2012,revised,health,Health Department,192.94,2013-operating-adopted,2,0
+2012,revised,human-services,Human Services (Juvenile Justice Intervention Center),50.98,2013-operating-adopted,2,0
+2012,revised,inspector-general,Office of Inspector General,31.25,2013-operating-adopted,2,0
+2012,revised,juvenile-court,Juvenile Court,48.0,2013-operating-adopted,2,0
+2012,revised,law,Law Department,58.49,2013-operating-adopted,2,0
+2012,revised,library,New Orleans Public Library,151.6,2013-operating-adopted,2,0
+2012,revised,mayor,Mayor's Office,170.2,2013-operating-adopted,2,0
+2012,revised,miscellaneous,Miscellaneous,206.66,2013-operating-adopted,2,0
+2012,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",29.46,2013-operating-adopted,2,0
+2012,revised,municipal-traffic-court,Municipal and Traffic Court,126.73,2013-operating-adopted,2,0
+2012,revised,museum-of-art,New Orleans Museum of Art,10.5,2013-operating-adopted,2,0
+2012,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,16.0,2013-operating-adopted,2,0
+2012,revised,parks-parkways,Parks and Parkways,128.43,2013-operating-adopted,2,0
+2012,revised,police,Police Department,1583.57,2013-operating-adopted,2,0
+2012,revised,property-management,Property Management,70.0,2013-operating-adopted,2,0
+2012,revised,public-works,Department of Public Works,139.89,2013-operating-adopted,2,0
+2012,revised,rivergate,Rivergate Development Corporation,4.0,2013-operating-adopted,2,0
+2012,revised,safety-permits,Safety and Permits,77.0,2013-operating-adopted,2,0
+2012,revised,sanitation,Department of Sanitation,26.0,2013-operating-adopted,2,1
+2012,revised,vcc,Vieux Carré Commission,4.0,2013-operating-adopted,2,0
+2012,revised,workforce-investment,Workforce Investment,6.0,2013-operating-adopted,2,0
+2012,revised,yacht-harbor,Municipal Yacht Harbor,3.0,2013-operating-adopted,2,1
+2013,adopted,aviation-board,New Orleans Aviation Board,178.0,2013-operating-adopted,2,0
+2013,adopted,canal-street-development,Canal Street Development Corporation,2.0,2013-operating-adopted,2,0
+2013,adopted,cao,Chief Administrative Office,103.25,2013-operating-adopted,2,0
+2013,adopted,city-planning,City Planning Commission,21.49,2013-operating-adopted,2,0
+2013,adopted,civil-service,Civil Service,16.48,2013-operating-adopted,2,0
+2013,adopted,clerk-criminal-court,Clerk of Criminal District Court,90.49,2013-operating-adopted,2,0
+2013,adopted,community-development,Office of Community Development,120.0,2013-operating-adopted,2,0
+2013,adopted,coroner,Coroner's Office,14.42,2013-operating-adopted,2,0
+2013,adopted,council,City Council,65.57,2013-operating-adopted,2,0
+2013,adopted,economic-development-fund,Economic Development Fund,2.0,2013-operating-adopted,2,0
+2013,adopted,finance,Department of Finance,120.49,2013-operating-adopted,2,0
+2013,adopted,fire,Fire Department,694.0,2013-operating-adopted,2,0
+2013,adopted,french-market,French Market Corporation,37.4,2013-operating-adopted,2,0
+2013,adopted,hdlc,Historic District Landmarks Commission,7.0,2013-operating-adopted,2,1
+2013,adopted,health,Health Department,201.94,2013-operating-adopted,2,0
+2013,adopted,human-services,Human Services (Juvenile Justice Intervention Center),43.49,2013-operating-adopted,2,0
+2013,adopted,inspector-general,Office of Inspector General,35.25,2013-operating-adopted,2,0
+2013,adopted,juvenile-court,Juvenile Court,48.0,2013-operating-adopted,2,0
+2013,adopted,law,Law Department,59.49,2013-operating-adopted,2,0
+2013,adopted,library,New Orleans Public Library,151.6,2013-operating-adopted,2,0
+2013,adopted,mayor,Mayor's Office,170.2,2013-operating-adopted,2,0
+2013,adopted,miscellaneous,Miscellaneous,206.66,2013-operating-adopted,2,0
+2013,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",29.46,2013-operating-adopted,2,0
+2013,adopted,municipal-traffic-court,Municipal and Traffic Court,126.73,2013-operating-adopted,2,0
+2013,adopted,museum-of-art,New Orleans Museum of Art,10.5,2013-operating-adopted,2,0
+2013,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,16.0,2013-operating-adopted,2,0
+2013,adopted,parks-parkways,Parks and Parkways,118.67,2013-operating-adopted,2,0
+2013,adopted,police,Police Department,1583.57,2013-operating-adopted,2,0
+2013,adopted,property-management,Property Management,70.0,2013-operating-adopted,2,1
+2013,adopted,public-works,Department of Public Works,138.89,2013-operating-adopted,2,0
+2013,adopted,rivergate,Rivergate Development Corporation,4.0,2013-operating-adopted,1,1
+2013,adopted,safety-permits,Safety and Permits,77.0,2013-operating-adopted,2,0
+2013,adopted,sanitation,Department of Sanitation,26.0,2013-operating-adopted,2,1
+2013,adopted,vcc,Vieux Carré Commission,4.0,2013-operating-adopted,2,0
+2013,adopted,workforce-investment,Workforce Investment,6.0,2013-operating-adopted,2,0
+2013,adopted,yacht-harbor,Municipal Yacht Harbor,3.0,2013-operating-adopted,2,1
+2013,proposed,aviation-board,New Orleans Aviation Board,178.0,2013-operating-adopted,1,1
+2013,proposed,canal-street-development,Canal Street Development Corporation,2.0,2013-operating-adopted,1,1
+2013,proposed,cao,Chief Administrative Office,108.47,2013-operating-adopted,1,1
+2013,proposed,city-planning,City Planning Commission,21.49,2013-operating-adopted,1,1
+2013,proposed,civil-service,Civil Service,16.48,2013-operating-adopted,1,1
+2013,proposed,clerk-criminal-court,Clerk of Criminal District Court,90.49,2013-operating-adopted,1,1
+2013,proposed,community-development,Office of Community Development,120.0,2013-operating-adopted,1,1
+2013,proposed,coroner,Coroner's Office,14.42,2013-operating-adopted,1,1
+2013,proposed,council,City Council,65.57,2013-operating-adopted,1,1
+2013,proposed,economic-development-fund,Economic Development Fund,2.0,2013-operating-adopted,1,1
+2013,proposed,finance,Department of Finance,120.49,2013-operating-adopted,1,1
+2013,proposed,fire,Fire Department,694.0,2013-operating-adopted,1,1
+2013,proposed,french-market,French Market Corporation,37.4,2013-operating-adopted,1,1
+2013,proposed,hdlc,Historic District Landmarks Commission,7.0,2013-operating-adopted,1,1
+2013,proposed,health,Health Department,201.94,2013-operating-adopted,1,1
+2013,proposed,human-services,Human Services (Juvenile Justice Intervention Center),50.98,2013-operating-adopted,1,1
+2013,proposed,inspector-general,Office of Inspector General,35.25,2013-operating-adopted,1,1
+2013,proposed,juvenile-court,Juvenile Court,48.0,2013-operating-adopted,1,1
+2013,proposed,law,Law Department,59.49,2013-operating-adopted,1,1
+2013,proposed,library,New Orleans Public Library,151.6,2013-operating-adopted,1,1
+2013,proposed,mayor,Mayor's Office,171.2,2013-operating-adopted,1,1
+2013,proposed,miscellaneous,Miscellaneous,206.66,2013-operating-adopted,1,1
+2013,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",29.46,2013-operating-adopted,1,1
+2013,proposed,municipal-traffic-court,Municipal and Traffic Court,126.73,2013-operating-adopted,1,1
+2013,proposed,museum-of-art,New Orleans Museum of Art,10.5,2013-operating-adopted,1,1
+2013,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,16.0,2013-operating-adopted,1,1
+2013,proposed,parks-parkways,Parks and Parkways,128.43,2013-operating-adopted,1,1
+2013,proposed,police,Police Department,1583.57,2013-operating-adopted,1,1
+2013,proposed,property-management,Property Management,70.0,2013-operating-adopted,1,1
+2013,proposed,public-works,Department of Public Works,139.89,2013-operating-adopted,1,1
+2013,proposed,rivergate,Rivergate Development Corporation,4.0,2013-operating-adopted,1,1
+2013,proposed,safety-permits,Safety and Permits,77.0,2013-operating-adopted,1,1
+2013,proposed,sanitation,Department of Sanitation,26.0,2013-operating-adopted,1,1
+2013,proposed,vcc,Vieux Carré Commission,4.0,2013-operating-adopted,1,1
+2013,proposed,workforce-investment,Workforce Investment,6.0,2013-operating-adopted,1,1
+2013,proposed,yacht-harbor,Municipal Yacht Harbor,3.0,2013-operating-adopted,1,1
+2013,revised,aviation-board,New Orleans Aviation Board,154.7,2014-operating-adopted,2,0
+2013,revised,canal-street-development,Canal Street Development Corporation,4.0,2014-operating-adopted,2,0
+2013,revised,cao,Chief Administrative Office,108.86,2014-operating-adopted,2,0
+2013,revised,city-planning,City Planning Commission,20.49,2014-operating-adopted,2,0
+2013,revised,civil-service,Civil Service,15.48,2014-operating-adopted,2,0
+2013,revised,clerk-criminal-court,Clerk of Criminal District Court,83.49,2014-operating-adopted,2,0
+2013,revised,community-development,Office of Community Development,97.0,2014-operating-adopted,2,0
+2013,revised,coroner,Coroner's Office,15.42,2014-operating-adopted,2,0
+2013,revised,council,City Council,68.9,2014-operating-adopted,2,0
+2013,revised,economic-development-fund,Economic Development Fund,4.0,2014-operating-adopted,2,0
+2013,revised,finance,Department of Finance,111.98,2014-operating-adopted,2,0
+2013,revised,fire,Fire Department,579.5,2014-operating-adopted,2,0
+2013,revised,french-market,French Market Corporation,37.88,2014-operating-adopted,2,0
+2013,revised,hdlc,Historic District Landmarks Commission,7.0,2014-operating-adopted,2,1
+2013,revised,health,Health Department,176.66,2014-operating-adopted,2,0
+2013,revised,human-services,Human Services (Juvenile Justice Intervention Center),43.29,2014-operating-adopted,2,0
+2013,revised,inspector-general,Office of Inspector General,32.25,2014-operating-adopted,2,0
+2013,revised,juvenile-court,Juvenile Court,32.0,2014-operating-adopted,2,0
+2013,revised,law,Law Department,55.49,2014-operating-adopted,2,0
+2013,revised,library,New Orleans Public Library,170.75,2014-operating-adopted,2,0
+2013,revised,mayor,Mayor's Office,174.86,2014-operating-adopted,2,0
+2013,revised,miscellaneous,Miscellaneous,173.91,2014-operating-adopted,2,0
+2013,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",28.98,2014-operating-adopted,2,0
+2013,revised,municipal-traffic-court,Municipal and Traffic Court,129.7,2014-operating-adopted,2,0
+2013,revised,museum-of-art,New Orleans Museum of Art,8.5,2014-operating-adopted,2,0
+2013,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.0,2014-operating-adopted,2,0
+2013,revised,parks-parkways,Parks and Parkways,91.67,2014-operating-adopted,2,0
+2013,revised,police,Police Department,1488.07,2014-operating-adopted,2,0
+2013,revised,property-management,Property Management,70.0,2014-operating-adopted,2,1
+2013,revised,public-works,Department of Public Works,138.34,2014-operating-adopted,2,0
+2013,revised,safety-permits,Safety and Permits,76.0,2014-operating-adopted,2,0
+2013,revised,sanitation,Department of Sanitation,26.0,2014-operating-adopted,2,1
+2013,revised,vcc,Vieux Carré Commission,3.0,2014-operating-adopted,2,0
+2013,revised,workforce-investment,Workforce Investment,7.0,2014-operating-adopted,2,0
+2013,revised,yacht-harbor,Municipal Yacht Harbor,3.0,2014-operating-adopted,2,1
+2014,adopted,aviation-board,New Orleans Aviation Board,154.7,2014-operating-adopted,2,0
+2014,adopted,canal-street-development,Canal Street Development Corporation,4.0,2014-operating-adopted,2,1
+2014,adopted,cao,Chief Administrative Office,109.86,2014-operating-adopted,2,0
+2014,adopted,city-planning,City Planning Commission,21.49,2014-operating-adopted,2,0
+2014,adopted,civil-service,Civil Service,15.48,2014-operating-adopted,2,0
+2014,adopted,clerk-criminal-court,Clerk of Criminal District Court,83.49,2014-operating-adopted,2,0
+2014,adopted,community-development,Office of Community Development,103.0,2014-operating-adopted,2,0
+2014,adopted,coroner,Coroner's Office,15.42,2014-operating-adopted,2,0
+2014,adopted,council,City Council,68.9,2014-operating-adopted,2,0
+2014,adopted,economic-development-fund,Economic Development Fund,4.0,2014-operating-adopted,2,1
+2014,adopted,finance,Department of Finance,111.98,2014-operating-adopted,2,0
+2014,adopted,fire,Fire Department,677.5,2014-operating-adopted,2,0
+2014,adopted,french-market,French Market Corporation,37.88,2014-operating-adopted,2,0
+2014,adopted,hdlc,Historic District Landmarks Commission,7.0,2014-operating-adopted,2,1
+2014,adopted,health,Health Department,176.66,2014-operating-adopted,2,0
+2014,adopted,human-services,Human Services (Juvenile Justice Intervention Center),43.29,2014-operating-adopted,2,0
+2014,adopted,inspector-general,Office of Inspector General,32.25,2014-operating-adopted,2,0
+2014,adopted,juvenile-court,Juvenile Court,32.0,2014-operating-adopted,2,0
+2014,adopted,law,Law Department,55.49,2014-operating-adopted,2,0
+2014,adopted,library,New Orleans Public Library,170.75,2014-operating-adopted,2,0
+2014,adopted,mayor,Mayor's Office,189.86,2014-operating-adopted,2,0
+2014,adopted,miscellaneous,Miscellaneous,212.0,2014-operating-adopted,2,0
+2014,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",28.98,2014-operating-adopted,2,0
+2014,adopted,municipal-traffic-court,Municipal and Traffic Court,129.7,2014-operating-adopted,2,0
+2014,adopted,museum-of-art,New Orleans Museum of Art,8.5,2014-operating-adopted,2,1
+2014,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.0,2014-operating-adopted,2,0
+2014,adopted,parks-parkways,Parks and Parkways,91.67,2014-operating-adopted,2,0
+2014,adopted,police,Police Department,1488.07,2014-operating-adopted,2,0
+2014,adopted,property-management,Property Management,70.0,2014-operating-adopted,2,0
+2014,adopted,public-works,Department of Public Works,150.34,2014-operating-adopted,2,0
+2014,adopted,safety-permits,Safety and Permits,78.0,2014-operating-adopted,2,0
+2014,adopted,sanitation,Department of Sanitation,26.0,2014-operating-adopted,2,0
+2014,adopted,vcc,Vieux Carré Commission,4.0,2014-operating-adopted,2,0
+2014,adopted,workforce-investment,Workforce Investment,7.0,2014-operating-adopted,2,1
+2014,adopted,yacht-harbor,Municipal Yacht Harbor,3.0,2014-operating-adopted,2,1
+2014,proposed,aviation-board,New Orleans Aviation Board,154.7,2014-operating-adopted,1,1
+2014,proposed,canal-street-development,Canal Street Development Corporation,4.0,2014-operating-adopted,1,1
+2014,proposed,cao,Chief Administrative Office,109.86,2014-operating-adopted,1,1
+2014,proposed,city-planning,City Planning Commission,20.49,2014-operating-adopted,1,1
+2014,proposed,civil-service,Civil Service,15.48,2014-operating-adopted,1,1
+2014,proposed,clerk-criminal-court,Clerk of Criminal District Court,83.49,2014-operating-adopted,1,1
+2014,proposed,community-development,Office of Community Development,103.0,2014-operating-adopted,1,1
+2014,proposed,coroner,Coroner's Office,15.42,2014-operating-adopted,1,1
+2014,proposed,council,City Council,68.9,2014-operating-adopted,1,1
+2014,proposed,economic-development-fund,Economic Development Fund,4.0,2014-operating-adopted,1,1
+2014,proposed,finance,Department of Finance,111.98,2014-operating-adopted,1,1
+2014,proposed,fire,Fire Department,677.5,2014-operating-adopted,1,1
+2014,proposed,french-market,French Market Corporation,37.88,2014-operating-adopted,1,1
+2014,proposed,hdlc,Historic District Landmarks Commission,7.0,2014-operating-adopted,1,1
+2014,proposed,health,Health Department,176.66,2014-operating-adopted,1,1
+2014,proposed,human-services,Human Services (Juvenile Justice Intervention Center),43.29,2014-operating-adopted,1,1
+2014,proposed,inspector-general,Office of Inspector General,32.25,2014-operating-adopted,1,1
+2014,proposed,juvenile-court,Juvenile Court,32.0,2014-operating-adopted,1,1
+2014,proposed,law,Law Department,55.49,2014-operating-adopted,1,1
+2014,proposed,library,New Orleans Public Library,170.75,2014-operating-adopted,1,1
+2014,proposed,mayor,Mayor's Office,189.86,2014-operating-adopted,1,1
+2014,proposed,miscellaneous,Miscellaneous,181.16,2014-operating-adopted,1,1
+2014,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",28.98,2014-operating-adopted,1,1
+2014,proposed,municipal-traffic-court,Municipal and Traffic Court,129.7,2014-operating-adopted,1,1
+2014,proposed,museum-of-art,New Orleans Museum of Art,8.5,2014-operating-adopted,1,1
+2014,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.0,2014-operating-adopted,1,1
+2014,proposed,parks-parkways,Parks and Parkways,91.67,2014-operating-adopted,1,1
+2014,proposed,police,Police Department,1488.07,2014-operating-adopted,1,1
+2014,proposed,property-management,Property Management,70.0,2014-operating-adopted,1,1
+2014,proposed,public-works,Department of Public Works,138.34,2014-operating-adopted,1,1
+2014,proposed,safety-permits,Safety and Permits,78.0,2014-operating-adopted,1,1
+2014,proposed,sanitation,Department of Sanitation,26.0,2014-operating-adopted,1,1
+2014,proposed,vcc,Vieux Carré Commission,4.0,2014-operating-adopted,1,1
+2014,proposed,workforce-investment,Workforce Investment,7.0,2014-operating-adopted,1,1
+2014,proposed,yacht-harbor,Municipal Yacht Harbor,3.0,2014-operating-adopted,1,1
+2014,revised,aviation-board,New Orleans Aviation Board,153.3,2015-operating-adopted,2,0
+2014,revised,canal-street-development,Canal Street Development Corporation,4.0,2015-operating-adopted,2,1
+2014,revised,cao,Chief Administrative Office,97.46,2015-operating-adopted,2,0
+2014,revised,city-planning,City Planning Commission,17.0,2015-operating-adopted,2,0
+2014,revised,civil-service,Civil Service,20.88,2015-operating-adopted,2,0
+2014,revised,clerk-criminal-court,Clerk of Criminal District Court,90.49,2015-operating-adopted,2,0
+2014,revised,community-development,Office of Community Development,91.0,2015-operating-adopted,2,0
+2014,revised,coroner,Coroner's Office,15.5,2015-operating-adopted,2,0
+2014,revised,council,City Council,73.01,2015-operating-adopted,2,0
+2014,revised,economic-development-fund,Economic Development Fund,4.0,2015-operating-adopted,2,1
+2014,revised,finance,Department of Finance,117.98,2015-operating-adopted,2,0
+2014,revised,fire,Fire Department,655.93,2015-operating-adopted,2,0
+2014,revised,french-market,French Market Corporation,57.4,2015-operating-adopted,2,0
+2014,revised,hdlc,Historic District Landmarks Commission,7.0,2015-operating-adopted,2,1
+2014,revised,health,Health Department,198.85,2015-operating-adopted,2,0
+2014,revised,human-services,Human Services (Juvenile Justice Intervention Center),34.69,2015-operating-adopted,2,0
+2014,revised,inspector-general,Office of Inspector General,31.25,2015-operating-adopted,2,0
+2014,revised,juvenile-court,Juvenile Court,31.0,2015-operating-adopted,2,0
+2014,revised,law,Law Department,56.49,2015-operating-adopted,2,0
+2014,revised,library,New Orleans Public Library,175.42,2015-operating-adopted,2,0
+2014,revised,mayor,Mayor's Office,175.47,2015-operating-adopted,2,0
+2014,revised,miscellaneous,Miscellaneous,224.43,2015-operating-adopted,2,0
+2014,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",29.18,2015-operating-adopted,2,0
+2014,revised,municipal-traffic-court,Municipal and Traffic Court,122.88,2015-operating-adopted,2,0
+2014,revised,museum-of-art,New Orleans Museum of Art,8.5,2015-operating-adopted,2,1
+2014,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,12.0,2015-operating-adopted,2,0
+2014,revised,parks-parkways,Parks and Parkways,134.43,2015-operating-adopted,2,0
+2014,revised,police,Police Department,1489.07,2015-operating-adopted,2,0
+2014,revised,property-management,Property Management,65.0,2015-operating-adopted,2,0
+2014,revised,public-works,Department of Public Works,146.37,2015-operating-adopted,2,0
+2014,revised,safety-permits,Safety and Permits,86.0,2015-operating-adopted,2,0
+2014,revised,sanitation,Department of Sanitation,33.0,2015-operating-adopted,2,0
+2014,revised,vcc,Vieux Carré Commission,6.0,2015-operating-adopted,2,0
+2014,revised,workforce-investment,Workforce Investment,7.0,2015-operating-adopted,2,1
+2014,revised,yacht-harbor,Municipal Yacht Harbor,3.0,2015-operating-adopted,2,1
+2015,adopted,aviation-board,New Orleans Aviation Board,153.3,2015-operating-adopted,2,0
+2015,adopted,canal-street-development,Canal Street Development Corporation,4.0,2015-operating-adopted,2,1
+2015,adopted,cao,Chief Administrative Office,97.46,2015-operating-adopted,2,0
+2015,adopted,city-planning,City Planning Commission,17.0,2015-operating-adopted,2,0
+2015,adopted,civil-service,Civil Service,20.88,2015-operating-adopted,2,0
+2015,adopted,clerk-criminal-court,Clerk of Criminal District Court,90.49,2015-operating-adopted,2,0
+2015,adopted,community-development,Office of Community Development,117.0,2015-operating-adopted,2,0
+2015,adopted,coroner,Coroner's Office,15.5,2015-operating-adopted,2,0
+2015,adopted,council,City Council,73.01,2015-operating-adopted,2,0
+2015,adopted,economic-development-fund,Economic Development Fund,4.0,2015-operating-adopted,2,1
+2015,adopted,finance,Department of Finance,117.98,2015-operating-adopted,2,0
+2015,adopted,fire,Fire Department,655.93,2015-operating-adopted,2,0
+2015,adopted,french-market,French Market Corporation,57.4,2015-operating-adopted,2,0
+2015,adopted,hdlc,Historic District Landmarks Commission,7.0,2015-operating-adopted,2,0
+2015,adopted,health,Health Department,203.85,2015-operating-adopted,2,0
+2015,adopted,human-services,Human Services (Juvenile Justice Intervention Center),34.69,2015-operating-adopted,2,0
+2015,adopted,inspector-general,Office of Inspector General,31.25,2015-operating-adopted,2,0
+2015,adopted,juvenile-court,Juvenile Court,31.0,2015-operating-adopted,2,0
+2015,adopted,law,Law Department,61.49,2015-operating-adopted,2,0
+2015,adopted,library,New Orleans Public Library,175.42,2015-operating-adopted,2,0
+2015,adopted,mayor,Mayor's Office,194.47,2015-operating-adopted,2,0
+2015,adopted,miscellaneous,Miscellaneous,237.58,2015-operating-adopted,2,0
+2015,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",29.93,2015-operating-adopted,2,0
+2015,adopted,municipal-traffic-court,Municipal and Traffic Court,122.88,2015-operating-adopted,2,0
+2015,adopted,museum-of-art,New Orleans Museum of Art,8.5,2015-operating-adopted,1,1
+2015,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.0,2015-operating-adopted,2,0
+2015,adopted,parks-parkways,Parks and Parkways,134.43,2015-operating-adopted,2,0
+2015,adopted,police,Police Department,1489.07,2015-operating-adopted,2,0
+2015,adopted,property-management,Property Management,67.0,2015-operating-adopted,2,0
+2015,adopted,public-works,Department of Public Works,171.37,2015-operating-adopted,2,0
+2015,adopted,safety-permits,Safety and Permits,87.0,2015-operating-adopted,2,0
+2015,adopted,sanitation,Department of Sanitation,33.0,2015-operating-adopted,2,0
+2015,adopted,vcc,Vieux Carré Commission,6.0,2015-operating-adopted,2,1
+2015,adopted,workforce-investment,Workforce Investment,7.0,2015-operating-adopted,2,1
+2015,adopted,yacht-harbor,Municipal Yacht Harbor,3.0,2015-operating-adopted,2,1
+2015,proposed,aviation-board,New Orleans Aviation Board,153.3,2015-operating-adopted,1,1
+2015,proposed,canal-street-development,Canal Street Development Corporation,4.0,2015-operating-adopted,1,1
+2015,proposed,cao,Chief Administrative Office,97.46,2015-operating-adopted,1,1
+2015,proposed,city-planning,City Planning Commission,17.0,2015-operating-adopted,1,1
+2015,proposed,civil-service,Civil Service,20.88,2015-operating-adopted,1,1
+2015,proposed,clerk-criminal-court,Clerk of Criminal District Court,90.49,2015-operating-adopted,1,1
+2015,proposed,community-development,Office of Community Development,117.0,2015-operating-adopted,1,1
+2015,proposed,coroner,Coroner's Office,15.5,2015-operating-adopted,1,1
+2015,proposed,council,City Council,73.01,2015-operating-adopted,1,1
+2015,proposed,economic-development-fund,Economic Development Fund,4.0,2015-operating-adopted,1,1
+2015,proposed,finance,Department of Finance,117.98,2015-operating-adopted,1,1
+2015,proposed,fire,Fire Department,655.93,2015-operating-adopted,1,1
+2015,proposed,french-market,French Market Corporation,57.4,2015-operating-adopted,1,1
+2015,proposed,hdlc,Historic District Landmarks Commission,7.0,2015-operating-adopted,1,1
+2015,proposed,health,Health Department,202.85,2015-operating-adopted,1,1
+2015,proposed,human-services,Human Services (Juvenile Justice Intervention Center),34.69,2015-operating-adopted,1,1
+2015,proposed,inspector-general,Office of Inspector General,31.25,2015-operating-adopted,1,1
+2015,proposed,juvenile-court,Juvenile Court,31.0,2015-operating-adopted,1,1
+2015,proposed,law,Law Department,61.49,2015-operating-adopted,1,1
+2015,proposed,library,New Orleans Public Library,175.42,2015-operating-adopted,1,1
+2015,proposed,mayor,Mayor's Office,190.47,2015-operating-adopted,1,1
+2015,proposed,miscellaneous,Miscellaneous,237.58,2015-operating-adopted,1,1
+2015,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",29.93,2015-operating-adopted,1,1
+2015,proposed,municipal-traffic-court,Municipal and Traffic Court,122.88,2015-operating-adopted,1,1
+2015,proposed,museum-of-art,New Orleans Museum of Art,8.5,2015-operating-adopted,1,1
+2015,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.0,2015-operating-adopted,1,1
+2015,proposed,parks-parkways,Parks and Parkways,134.43,2015-operating-adopted,1,1
+2015,proposed,police,Police Department,1489.07,2015-operating-adopted,1,1
+2015,proposed,property-management,Property Management,67.0,2015-operating-adopted,1,1
+2015,proposed,public-works,Department of Public Works,171.37,2015-operating-adopted,1,1
+2015,proposed,safety-permits,Safety and Permits,87.0,2015-operating-adopted,1,1
+2015,proposed,sanitation,Department of Sanitation,33.0,2015-operating-adopted,1,1
+2015,proposed,vcc,Vieux Carré Commission,6.0,2015-operating-adopted,1,1
+2015,proposed,workforce-investment,Workforce Investment,7.0,2015-operating-adopted,1,1
+2015,proposed,yacht-harbor,Municipal Yacht Harbor,3.0,2015-operating-adopted,1,1
+2015,revised,aviation-board,New Orleans Aviation Board,160.23,2016-operating-adopted,2,0
+2015,revised,canal-street-development,Canal Street Development Corporation,4.0,2016-operating-adopted,2,1
+2015,revised,cao,Chief Administrative Office,97.56,2016-operating-adopted,2,0
+2015,revised,city-planning,City Planning Commission,22.5,2016-operating-adopted,2,0
+2015,revised,civil-service,Civil Service,20.59,2016-operating-adopted,2,0
+2015,revised,clerk-criminal-court,Clerk of Criminal District Court,75.49,2016-operating-adopted,2,0
+2015,revised,community-development,Office of Community Development,106.0,2016-operating-adopted,2,0
+2015,revised,coroner,Coroner's Office,17.5,2016-operating-adopted,2,0
+2015,revised,council,City Council,69.82,2016-operating-adopted,2,0
+2015,revised,economic-development-fund,Economic Development Fund,4.0,2016-operating-adopted,2,1
+2015,revised,finance,Department of Finance,124.49,2016-operating-adopted,2,0
+2015,revised,fire,Fire Department,655.94,2016-operating-adopted,2,0
+2015,revised,french-market,French Market Corporation,55.98,2016-operating-adopted,2,0
+2015,revised,hdlc,Historic District Landmarks Commission,11.0,2016-operating-adopted,2,0
+2015,revised,health,Health Department,208.62,2016-operating-adopted,2,0
+2015,revised,human-services,Human Services (Juvenile Justice Intervention Center),32.3,2016-operating-adopted,2,0
+2015,revised,inspector-general,Office of Inspector General,32.0,2016-operating-adopted,2,0
+2015,revised,juvenile-court,Juvenile Court,29.0,2016-operating-adopted,2,0
+2015,revised,law,Law Department,67.5,2016-operating-adopted,2,0
+2015,revised,library,New Orleans Public Library,220.6,2016-operating-adopted,2,0
+2015,revised,mayor,Mayor's Office,191.5,2016-operating-adopted,2,0
+2015,revised,miscellaneous,Miscellaneous,253.93,2016-operating-adopted,2,0
+2015,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",31.45,2016-operating-adopted,2,0
+2015,revised,municipal-traffic-court,Municipal and Traffic Court,88.0,2016-operating-adopted,2,0
+2015,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.5,2016-operating-adopted,2,0
+2015,revised,parks-parkways,Parks and Parkways,135.7,2016-operating-adopted,2,0
+2015,revised,police,Police Department,1462.01,2016-operating-adopted,2,0
+2015,revised,property-management,Property Management,72.49,2016-operating-adopted,2,0
+2015,revised,public-works,Department of Public Works,165.4,2016-operating-adopted,2,0
+2015,revised,safety-permits,Safety and Permits,91.0,2016-operating-adopted,2,0
+2015,revised,sanitation,Department of Sanitation,49.0,2016-operating-adopted,2,0
+2015,revised,vcc,Vieux Carré Commission,6.0,2016-operating-adopted,2,1
+2015,revised,workforce-investment,Workforce Investment,7.0,2016-operating-adopted,2,1
+2015,revised,yacht-harbor,Municipal Yacht Harbor,3.0,2016-operating-adopted,2,1
+2016,adopted,aviation-board,New Orleans Aviation Board,159.23,2016-operating-adopted,2,0
+2016,adopted,canal-street-development,Canal Street Development Corporation,4.0,2016-operating-adopted,2,1
+2016,adopted,cao,Chief Administrative Office,98.56,2016-operating-adopted,2,0
+2016,adopted,city-planning,City Planning Commission,22.5,2016-operating-adopted,2,0
+2016,adopted,civil-service,Civil Service,20.59,2016-operating-adopted,2,0
+2016,adopted,clerk-criminal-court,Clerk of Criminal District Court,75.49,2016-operating-adopted,2,0
+2016,adopted,community-development,Office of Community Development,106.0,2016-operating-adopted,2,0
+2016,adopted,coroner,Coroner's Office,17.5,2016-operating-adopted,2,0
+2016,adopted,council,City Council,69.82,2016-operating-adopted,2,0
+2016,adopted,economic-development-fund,Economic Development Fund,4.0,2016-operating-adopted,2,1
+2016,adopted,finance,Department of Finance,124.49,2016-operating-adopted,2,0
+2016,adopted,fire,Fire Department,655.94,2016-operating-adopted,2,0
+2016,adopted,french-market,French Market Corporation,55.98,2016-operating-adopted,2,0
+2016,adopted,hdlc,Historic District Landmarks Commission,11.0,2016-operating-adopted,2,1
+2016,adopted,health,Health Department,208.62,2016-operating-adopted,2,0
+2016,adopted,human-services,Human Services (Juvenile Justice Intervention Center),32.3,2016-operating-adopted,2,0
+2016,adopted,inspector-general,Office of Inspector General,34.0,2016-operating-adopted,2,0
+2016,adopted,juvenile-court,Juvenile Court,29.0,2016-operating-adopted,2,1
+2016,adopted,law,Law Department,66.5,2016-operating-adopted,2,0
+2016,adopted,library,New Orleans Public Library,220.6,2016-operating-adopted,2,0
+2016,adopted,mayor,Mayor's Office,188.5,2016-operating-adopted,2,0
+2016,adopted,miscellaneous,Miscellaneous,294.54,2016-operating-adopted,2,0
+2016,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",31.45,2016-operating-adopted,2,0
+2016,adopted,municipal-traffic-court,Municipal and Traffic Court,88.0,2016-operating-adopted,2,0
+2016,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.5,2016-operating-adopted,2,1
+2016,adopted,parks-parkways,Parks and Parkways,138.7,2016-operating-adopted,2,0
+2016,adopted,police,Police Department,1544.01,2016-operating-adopted,2,0
+2016,adopted,property-management,Property Management,72.49,2016-operating-adopted,2,0
+2016,adopted,public-works,Department of Public Works,212.4,2016-operating-adopted,2,0
+2016,adopted,safety-permits,Safety and Permits,91.0,2016-operating-adopted,2,0
+2016,adopted,sanitation,Department of Sanitation,50.0,2016-operating-adopted,2,0
+2016,adopted,vcc,Vieux Carré Commission,6.0,2016-operating-adopted,2,0
+2016,adopted,workforce-investment,Workforce Investment,7.0,2016-operating-adopted,2,1
+2016,adopted,yacht-harbor,Municipal Yacht Harbor,3.0,2016-operating-adopted,2,0
+2016,proposed,aviation-board,New Orleans Aviation Board,159.23,2016-operating-adopted,1,1
+2016,proposed,canal-street-development,Canal Street Development Corporation,4.0,2016-operating-adopted,1,1
+2016,proposed,cao,Chief Administrative Office,98.56,2016-operating-adopted,1,1
+2016,proposed,city-planning,City Planning Commission,22.5,2016-operating-adopted,1,1
+2016,proposed,civil-service,Civil Service,20.59,2016-operating-adopted,1,1
+2016,proposed,clerk-criminal-court,Clerk of Criminal District Court,75.49,2016-operating-adopted,1,1
+2016,proposed,community-development,Office of Community Development,106.0,2016-operating-adopted,1,1
+2016,proposed,coroner,Coroner's Office,17.5,2016-operating-adopted,1,1
+2016,proposed,council,City Council,69.82,2016-operating-adopted,1,1
+2016,proposed,economic-development-fund,Economic Development Fund,4.0,2016-operating-adopted,1,1
+2016,proposed,finance,Department of Finance,124.49,2016-operating-adopted,1,1
+2016,proposed,fire,Fire Department,655.94,2016-operating-adopted,1,1
+2016,proposed,french-market,French Market Corporation,55.98,2016-operating-adopted,1,1
+2016,proposed,hdlc,Historic District Landmarks Commission,11.0,2016-operating-adopted,1,1
+2016,proposed,health,Health Department,208.62,2016-operating-adopted,1,1
+2016,proposed,human-services,Human Services (Juvenile Justice Intervention Center),32.3,2016-operating-adopted,1,1
+2016,proposed,inspector-general,Office of Inspector General,32.0,2016-operating-adopted,1,1
+2016,proposed,juvenile-court,Juvenile Court,29.0,2016-operating-adopted,1,1
+2016,proposed,law,Law Department,66.5,2016-operating-adopted,1,1
+2016,proposed,library,New Orleans Public Library,220.6,2016-operating-adopted,1,1
+2016,proposed,mayor,Mayor's Office,191.5,2016-operating-adopted,1,1
+2016,proposed,miscellaneous,Miscellaneous,253.93,2016-operating-adopted,1,1
+2016,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",31.45,2016-operating-adopted,1,1
+2016,proposed,municipal-traffic-court,Municipal and Traffic Court,88.0,2016-operating-adopted,1,1
+2016,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.5,2016-operating-adopted,1,1
+2016,proposed,parks-parkways,Parks and Parkways,135.7,2016-operating-adopted,1,1
+2016,proposed,police,Police Department,1465.01,2016-operating-adopted,1,1
+2016,proposed,property-management,Property Management,72.49,2016-operating-adopted,1,1
+2016,proposed,public-works,Department of Public Works,165.4,2016-operating-adopted,1,1
+2016,proposed,safety-permits,Safety and Permits,91.0,2016-operating-adopted,1,1
+2016,proposed,sanitation,Department of Sanitation,50.0,2016-operating-adopted,1,1
+2016,proposed,vcc,Vieux Carré Commission,6.0,2016-operating-adopted,1,1
+2016,proposed,workforce-investment,Workforce Investment,7.0,2016-operating-adopted,1,1
+2016,proposed,yacht-harbor,Municipal Yacht Harbor,3.0,2016-operating-adopted,1,1
+2016,revised,aviation-board,New Orleans Aviation Board,160.66,2017-operating-adopted,2,0
+2016,revised,canal-street-development,Canal Street Development Corporation,4.0,2017-operating-adopted,2,1
+2016,revised,cao,Chief Administrative Office,99.7,2017-operating-adopted,2,0
+2016,revised,city-planning,City Planning Commission,23.05,2017-operating-adopted,2,0
+2016,revised,civil-service,Civil Service,23.24,2017-operating-adopted,2,0
+2016,revised,clerk-criminal-court,Clerk of Criminal District Court,74.54,2017-operating-adopted,2,0
+2016,revised,community-development,Office of Community Development,107.0,2017-operating-adopted,2,0
+2016,revised,coroner,Coroner's Office,20.0,2017-operating-adopted,2,0
+2016,revised,council,City Council,68.37,2017-operating-adopted,2,0
+2016,revised,economic-development-fund,Economic Development Fund,4.0,2017-operating-adopted,2,1
+2016,revised,ethics-review-board,Ethics Review Board,1.0,2017-operating-adopted,1,1
+2016,revised,finance,Department of Finance,123.08,2017-operating-adopted,2,0
+2016,revised,fire,Fire Department,577.57,2017-operating-adopted,2,0
+2016,revised,french-market,French Market Corporation,55.49,2017-operating-adopted,2,0
+2016,revised,hdlc,Historic District Landmarks Commission,11.0,2017-operating-adopted,2,1
+2016,revised,health,Health Department,188.71,2017-operating-adopted,2,0
+2016,revised,human-services,Human Services (Juvenile Justice Intervention Center),38.28,2017-operating-adopted,2,0
+2016,revised,independent-police-monitor,Office of Independent Police Monitor,6.0,2017-operating-adopted,1,1
+2016,revised,inspector-general,Office of Inspector General,26.0,2017-operating-adopted,2,0
+2016,revised,juvenile-court,Juvenile Court,29.0,2017-operating-adopted,2,1
+2016,revised,law,Law Department,69.54,2017-operating-adopted,2,0
+2016,revised,library,New Orleans Public Library,228.88,2017-operating-adopted,2,0
+2016,revised,mayor,Mayor's Office,234.4,2017-operating-adopted,2,0
+2016,revised,miscellaneous,Miscellaneous,283.21,2017-operating-adopted,2,0
+2016,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",28.11,2017-operating-adopted,2,0
+2016,revised,municipal-traffic-court,Municipal and Traffic Court,113.2,2017-operating-adopted,2,0
+2016,revised,museum-of-art,New Orleans Museum of Art,6.0,2017-operating-adopted,1,1
+2016,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.5,2017-operating-adopted,2,1
+2016,revised,parks-parkways,Parks and Parkways,126.35,2017-operating-adopted,2,0
+2016,revised,police,Police Department,1387.49,2017-operating-adopted,2,0
+2016,revised,property-management,Property Management,73.0,2017-operating-adopted,2,0
+2016,revised,public-works,Department of Public Works,219.04,2017-operating-adopted,2,0
+2016,revised,safety-permits,Safety and Permits,79.0,2017-operating-adopted,2,0
+2016,revised,sanitation,Department of Sanitation,56.0,2017-operating-adopted,2,0
+2016,revised,sheriff,Orleans Parish Sheriff,0.0,2017-operating-adopted,1,1
+2016,revised,vcc,Vieux Carré Commission,5.0,2017-operating-adopted,2,0
+2016,revised,workforce-investment,Workforce Investment,7.0,2017-operating-adopted,2,1
+2016,revised,yacht-harbor,Municipal Yacht Harbor,4.0,2017-operating-adopted,2,0
+2017,adopted,aviation-board,New Orleans Aviation Board,159.66,2017-operating-adopted,2,0
+2017,adopted,canal-street-development,Canal Street Development Corporation,4.0,2017-operating-adopted,1,1
+2017,adopted,cao,Chief Administrative Office,98.7,2017-operating-adopted,2,0
+2017,adopted,city-planning,City Planning Commission,23.05,2017-operating-adopted,2,0
+2017,adopted,civil-service,Civil Service,23.24,2017-operating-adopted,2,0
+2017,adopted,clerk-criminal-court,Clerk of Criminal District Court,74.54,2017-operating-adopted,2,0
+2017,adopted,community-development,Office of Community Development,114.0,2017-operating-adopted,2,0
+2017,adopted,coroner,Coroner's Office,20.0,2017-operating-adopted,2,0
+2017,adopted,council,City Council,68.37,2017-operating-adopted,2,0
+2017,adopted,economic-development-fund,Economic Development Fund,4.0,2017-operating-adopted,2,0
+2017,adopted,ethics-review-board,Ethics Review Board,1.0,2017-operating-adopted,2,1
+2017,adopted,finance,Department of Finance,123.08,2017-operating-adopted,2,0
+2017,adopted,fire,Fire Department,627.57,2017-operating-adopted,2,0
+2017,adopted,french-market,French Market Corporation,55.49,2017-operating-adopted,2,0
+2017,adopted,hdlc,Historic District Landmarks Commission,11.0,2017-operating-adopted,2,0
+2017,adopted,health,Health Department,200.71,2017-operating-adopted,2,0
+2017,adopted,human-services,Human Services (Juvenile Justice Intervention Center),38.28,2017-operating-adopted,2,0
+2017,adopted,independent-police-monitor,Office of Independent Police Monitor,7.0,2017-operating-adopted,2,0
+2017,adopted,inspector-general,Office of Inspector General,26.0,2017-operating-adopted,2,0
+2017,adopted,juvenile-court,Juvenile Court,29.0,2017-operating-adopted,2,0
+2017,adopted,law,Law Department,68.54,2017-operating-adopted,2,0
+2017,adopted,library,New Orleans Public Library,228.88,2017-operating-adopted,2,0
+2017,adopted,mayor,Mayor's Office,233.4,2017-operating-adopted,2,0
+2017,adopted,miscellaneous,Miscellaneous,284.21,2017-operating-adopted,2,0
+2017,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",28.61,2017-operating-adopted,2,0
+2017,adopted,municipal-traffic-court,Municipal and Traffic Court,107.2,2017-operating-adopted,2,0
+2017,adopted,museum-of-art,New Orleans Museum of Art,6.0,2017-operating-adopted,2,0
+2017,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.5,2017-operating-adopted,2,0
+2017,adopted,parks-parkways,Parks and Parkways,139.35,2017-operating-adopted,2,0
+2017,adopted,police,Police Department,1552.49,2017-operating-adopted,2,0
+2017,adopted,property-management,Property Management,73.0,2017-operating-adopted,2,0
+2017,adopted,public-works,Department of Public Works,219.04,2017-operating-adopted,2,0
+2017,adopted,safety-permits,Safety and Permits,79.0,2017-operating-adopted,2,0
+2017,adopted,sanitation,Department of Sanitation,56.0,2017-operating-adopted,2,0
+2017,adopted,sheriff,Orleans Parish Sheriff,1.0,2017-operating-adopted,2,1
+2017,adopted,vcc,Vieux Carré Commission,5.0,2017-operating-adopted,2,0
+2017,adopted,workforce-investment,Workforce Investment,7.0,2017-operating-adopted,2,1
+2017,adopted,yacht-harbor,Municipal Yacht Harbor,4.0,2017-operating-adopted,2,0
+2017,proposed,aviation-board,New Orleans Aviation Board,160.66,2017-operating-adopted,1,1
+2017,proposed,canal-street-development,Canal Street Development Corporation,4.0,2017-operating-adopted,1,1
+2017,proposed,cao,Chief Administrative Office,98.7,2017-operating-adopted,1,1
+2017,proposed,city-planning,City Planning Commission,23.05,2017-operating-adopted,1,1
+2017,proposed,civil-service,Civil Service,23.24,2017-operating-adopted,1,1
+2017,proposed,clerk-criminal-court,Clerk of Criminal District Court,74.54,2017-operating-adopted,1,1
+2017,proposed,community-development,Office of Community Development,108.0,2017-operating-adopted,1,1
+2017,proposed,coroner,Coroner's Office,20.0,2017-operating-adopted,1,1
+2017,proposed,council,City Council,68.37,2017-operating-adopted,1,1
+2017,proposed,economic-development-fund,Economic Development Fund,4.0,2017-operating-adopted,1,1
+2017,proposed,ethics-review-board,Ethics Review Board,1.0,2017-operating-adopted,1,1
+2017,proposed,finance,Department of Finance,123.08,2017-operating-adopted,1,1
+2017,proposed,fire,Fire Department,627.57,2017-operating-adopted,1,1
+2017,proposed,french-market,French Market Corporation,55.49,2017-operating-adopted,1,1
+2017,proposed,hdlc,Historic District Landmarks Commission,11.0,2017-operating-adopted,1,1
+2017,proposed,health,Health Department,199.71,2017-operating-adopted,1,1
+2017,proposed,human-services,Human Services (Juvenile Justice Intervention Center),38.28,2017-operating-adopted,1,1
+2017,proposed,independent-police-monitor,Office of Independent Police Monitor,7.0,2017-operating-adopted,1,1
+2017,proposed,inspector-general,Office of Inspector General,26.0,2017-operating-adopted,1,1
+2017,proposed,juvenile-court,Juvenile Court,29.0,2017-operating-adopted,1,1
+2017,proposed,law,Law Department,69.54,2017-operating-adopted,1,1
+2017,proposed,library,New Orleans Public Library,228.88,2017-operating-adopted,1,1
+2017,proposed,mayor,Mayor's Office,233.4,2017-operating-adopted,1,1
+2017,proposed,miscellaneous,Miscellaneous,284.21,2017-operating-adopted,1,1
+2017,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",28.61,2017-operating-adopted,1,1
+2017,proposed,municipal-traffic-court,Municipal and Traffic Court,107.2,2017-operating-adopted,1,1
+2017,proposed,museum-of-art,New Orleans Museum of Art,6.0,2017-operating-adopted,1,1
+2017,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.5,2017-operating-adopted,1,1
+2017,proposed,parks-parkways,Parks and Parkways,139.35,2017-operating-adopted,1,1
+2017,proposed,police,Police Department,1517.49,2017-operating-adopted,1,1
+2017,proposed,property-management,Property Management,73.0,2017-operating-adopted,1,1
+2017,proposed,public-works,Department of Public Works,219.04,2017-operating-adopted,1,1
+2017,proposed,safety-permits,Safety and Permits,79.0,2017-operating-adopted,1,1
+2017,proposed,sanitation,Department of Sanitation,56.0,2017-operating-adopted,1,1
+2017,proposed,sheriff,Orleans Parish Sheriff,1.0,2017-operating-adopted,1,1
+2017,proposed,vcc,Vieux Carré Commission,5.0,2017-operating-adopted,1,1
+2017,proposed,workforce-investment,Workforce Investment,7.0,2017-operating-adopted,1,1
+2017,proposed,yacht-harbor,Municipal Yacht Harbor,4.0,2017-operating-adopted,1,1
+2017,revised,aviation-board,New Orleans Aviation Board,174.33,2018-operating-adopted,2,0
+2017,revised,building-corp,New Orleans Building Corporation,4.0,2018-operating-adopted,1,1
+2017,revised,cao,Chief Administrative Office,100.98,2018-operating-adopted,2,0
+2017,revised,city-planning,City Planning Commission,22.0,2018-operating-adopted,2,0
+2017,revised,civil-service,Civil Service,26.73,2018-operating-adopted,2,0
+2017,revised,clerk-criminal-court,Clerk of Criminal District Court,74.98,2018-operating-adopted,2,0
+2017,revised,community-development,Office of Community Development,87.0,2018-operating-adopted,2,0
+2017,revised,coroner,Coroner's Office,21.0,2018-operating-adopted,2,0
+2017,revised,council,City Council,65.0,2018-operating-adopted,2,0
+2017,revised,economic-development-fund,Economic Development Fund,2.0,2018-operating-adopted,2,0
+2017,revised,ethics-review-board,Ethics Review Board,1.0,2018-operating-adopted,2,1
+2017,revised,finance,Department of Finance,115.47,2018-operating-adopted,2,0
+2017,revised,fire,Fire Department,612.45,2018-operating-adopted,2,0
+2017,revised,french-market,French Market Corporation,54.49,2018-operating-adopted,2,0
+2017,revised,hdlc,Historic District Landmarks Commission,12.0,2018-operating-adopted,2,0
+2017,revised,health,Health Department,214.16,2018-operating-adopted,2,0
+2017,revised,human-services,Human Services (Juvenile Justice Intervention Center),45.1,2018-operating-adopted,2,0
+2017,revised,independent-police-monitor,Office of Independent Police Monitor,6.0,2018-operating-adopted,2,0
+2017,revised,inspector-general,Office of Inspector General,17.0,2018-operating-adopted,2,0
+2017,revised,juvenile-court,Juvenile Court,26.0,2018-operating-adopted,2,0
+2017,revised,law,Law Department,64.99,2018-operating-adopted,2,0
+2017,revised,library,New Orleans Public Library,210.11,2018-operating-adopted,2,0
+2017,revised,mayor,Mayor's Office,181.0,2018-operating-adopted,2,0
+2017,revised,miscellaneous,Miscellaneous,249.86,2018-operating-adopted,2,0
+2017,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",32.52,2018-operating-adopted,2,0
+2017,revised,municipal-traffic-court,Municipal and Traffic Court,95.87,2018-operating-adopted,2,0
+2017,revised,museum-of-art,New Orleans Museum of Art,3.0,2018-operating-adopted,2,0
+2017,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,11.0,2018-operating-adopted,2,0
+2017,revised,parks-parkways,Parks and Parkways,132.03,2018-operating-adopted,2,0
+2017,revised,police,Police Department,1553.49,2018-operating-adopted,2,0
+2017,revised,property-management,Property Management,79.49,2018-operating-adopted,2,0
+2017,revised,public-works,Department of Public Works,193.26,2018-operating-adopted,2,0
+2017,revised,safety-permits,Safety and Permits,101.5,2018-operating-adopted,2,0
+2017,revised,sanitation,Department of Sanitation,54.0,2018-operating-adopted,2,0
+2017,revised,sheriff,Orleans Parish Sheriff,1.0,2018-operating-adopted,2,1
+2017,revised,vcc,Vieux Carré Commission,6.0,2018-operating-adopted,2,0
+2017,revised,workforce-investment,Workforce Investment,7.0,2018-operating-adopted,2,1
+2017,revised,yacht-harbor,Municipal Yacht Harbor,3.0,2018-operating-adopted,2,0
+2018,adopted,aviation-board,New Orleans Aviation Board,174.33,2018-operating-adopted,2,0
+2018,adopted,building-corp,New Orleans Building Corporation,4.0,2018-operating-adopted,2,1
+2018,adopted,cao,Chief Administrative Office,100.98,2018-operating-adopted,2,0
+2018,adopted,city-planning,City Planning Commission,22.0,2018-operating-adopted,2,0
+2018,adopted,civil-service,Civil Service,26.73,2018-operating-adopted,2,0
+2018,adopted,clerk-criminal-court,Clerk of Criminal District Court,74.98,2018-operating-adopted,2,1
+2018,adopted,community-development,Office of Community Development,87.0,2018-operating-adopted,2,0
+2018,adopted,coroner,Coroner's Office,21.0,2018-operating-adopted,2,1
+2018,adopted,council,City Council,65.0,2018-operating-adopted,2,0
+2018,adopted,economic-development-fund,Economic Development Fund,2.0,2018-operating-adopted,2,0
+2018,adopted,ethics-review-board,Ethics Review Board,1.0,2018-operating-adopted,2,1
+2018,adopted,finance,Department of Finance,115.47,2018-operating-adopted,2,0
+2018,adopted,fire,Fire Department,612.45,2018-operating-adopted,2,0
+2018,adopted,french-market,French Market Corporation,54.49,2018-operating-adopted,2,0
+2018,adopted,hdlc,Historic District Landmarks Commission,12.0,2018-operating-adopted,2,1
+2018,adopted,health,Health Department,214.16,2018-operating-adopted,2,0
+2018,adopted,human-services,Human Services (Juvenile Justice Intervention Center),45.1,2018-operating-adopted,2,0
+2018,adopted,independent-police-monitor,Office of Independent Police Monitor,6.0,2018-operating-adopted,2,1
+2018,adopted,inspector-general,Office of Inspector General,17.0,2018-operating-adopted,2,1
+2018,adopted,juvenile-court,Juvenile Court,26.0,2018-operating-adopted,2,0
+2018,adopted,law,Law Department,64.99,2018-operating-adopted,2,0
+2018,adopted,library,New Orleans Public Library,210.11,2018-operating-adopted,2,0
+2018,adopted,mayor,Mayor's Office,181.0,2018-operating-adopted,2,0
+2018,adopted,miscellaneous,Miscellaneous,249.86,2018-operating-adopted,2,0
+2018,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",32.52,2018-operating-adopted,2,0
+2018,adopted,municipal-traffic-court,Municipal and Traffic Court,95.87,2018-operating-adopted,2,0
+2018,adopted,museum-of-art,New Orleans Museum of Art,3.0,2018-operating-adopted,1,1
+2018,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,11.0,2018-operating-adopted,2,0
+2018,adopted,parks-parkways,Parks and Parkways,132.03,2018-operating-adopted,2,0
+2018,adopted,police,Police Department,1553.49,2018-operating-adopted,2,0
+2018,adopted,property-management,Property Management,79.49,2018-operating-adopted,2,0
+2018,adopted,public-works,Department of Public Works,193.26,2018-operating-adopted,2,0
+2018,adopted,safety-permits,Safety and Permits,101.5,2018-operating-adopted,2,0
+2018,adopted,sanitation,Department of Sanitation,54.0,2018-operating-adopted,2,0
+2018,adopted,sheriff,Orleans Parish Sheriff,1.0,2018-operating-adopted,2,0
+2018,adopted,vcc,Vieux Carré Commission,6.0,2018-operating-adopted,2,1
+2018,adopted,workforce-investment,Workforce Investment,7.0,2018-operating-adopted,2,0
+2018,adopted,yacht-harbor,Municipal Yacht Harbor,3.0,2018-operating-adopted,2,1
+2018,proposed,aviation-board,New Orleans Aviation Board,174.33,2018-operating-adopted,1,1
+2018,proposed,building-corp,New Orleans Building Corporation,4.0,2018-operating-adopted,1,1
+2018,proposed,cao,Chief Administrative Office,100.98,2018-operating-adopted,1,1
+2018,proposed,city-planning,City Planning Commission,22.0,2018-operating-adopted,1,1
+2018,proposed,civil-service,Civil Service,26.73,2018-operating-adopted,1,1
+2018,proposed,clerk-criminal-court,Clerk of Criminal District Court,74.98,2018-operating-adopted,1,1
+2018,proposed,community-development,Office of Community Development,87.0,2018-operating-adopted,1,1
+2018,proposed,coroner,Coroner's Office,21.0,2018-operating-adopted,1,1
+2018,proposed,council,City Council,65.0,2018-operating-adopted,1,1
+2018,proposed,economic-development-fund,Economic Development Fund,2.0,2018-operating-adopted,1,1
+2018,proposed,ethics-review-board,Ethics Review Board,1.0,2018-operating-adopted,1,1
+2018,proposed,finance,Department of Finance,115.47,2018-operating-adopted,1,1
+2018,proposed,fire,Fire Department,612.45,2018-operating-adopted,1,1
+2018,proposed,french-market,French Market Corporation,54.49,2018-operating-adopted,1,1
+2018,proposed,hdlc,Historic District Landmarks Commission,12.0,2018-operating-adopted,1,1
+2018,proposed,health,Health Department,214.16,2018-operating-adopted,1,1
+2018,proposed,human-services,Human Services (Juvenile Justice Intervention Center),45.1,2018-operating-adopted,1,1
+2018,proposed,independent-police-monitor,Office of Independent Police Monitor,6.0,2018-operating-adopted,1,1
+2018,proposed,inspector-general,Office of Inspector General,17.0,2018-operating-adopted,1,1
+2018,proposed,juvenile-court,Juvenile Court,26.0,2018-operating-adopted,1,1
+2018,proposed,law,Law Department,64.99,2018-operating-adopted,1,1
+2018,proposed,library,New Orleans Public Library,210.11,2018-operating-adopted,1,1
+2018,proposed,mayor,Mayor's Office,181.0,2018-operating-adopted,1,1
+2018,proposed,miscellaneous,Miscellaneous,249.86,2018-operating-adopted,1,1
+2018,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",32.52,2018-operating-adopted,1,1
+2018,proposed,municipal-traffic-court,Municipal and Traffic Court,95.87,2018-operating-adopted,1,1
+2018,proposed,museum-of-art,New Orleans Museum of Art,3.0,2018-operating-adopted,1,1
+2018,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,11.0,2018-operating-adopted,1,1
+2018,proposed,parks-parkways,Parks and Parkways,132.03,2018-operating-adopted,1,1
+2018,proposed,police,Police Department,1553.49,2018-operating-adopted,1,1
+2018,proposed,property-management,Property Management,79.49,2018-operating-adopted,1,1
+2018,proposed,public-works,Department of Public Works,193.26,2018-operating-adopted,1,1
+2018,proposed,safety-permits,Safety and Permits,101.5,2018-operating-adopted,1,1
+2018,proposed,sanitation,Department of Sanitation,54.0,2018-operating-adopted,1,1
+2018,proposed,sheriff,Orleans Parish Sheriff,1.0,2018-operating-adopted,1,1
+2018,proposed,vcc,Vieux Carré Commission,6.0,2018-operating-adopted,1,1
+2018,proposed,workforce-investment,Workforce Investment,7.0,2018-operating-adopted,1,1
+2018,proposed,yacht-harbor,Municipal Yacht Harbor,3.0,2018-operating-adopted,1,1
+2018,revised,aviation-board,New Orleans Aviation Board,185.43,2019-operating-adopted,2,0
+2018,revised,building-corp,New Orleans Building Corporation,4.0,2019-operating-adopted,2,1
+2018,revised,cao,Chief Administrative Office,104.55,2019-operating-adopted,2,0
+2018,revised,city-planning,City Planning Commission,26.0,2019-operating-adopted,2,0
+2018,revised,civil-service,Civil Service,27.73,2019-operating-adopted,2,0
+2018,revised,clerk-criminal-court,Clerk of Criminal District Court,74.98,2019-operating-adopted,2,1
+2018,revised,community-development,Office of Community Development,104.75,2019-operating-adopted,2,0
+2018,revised,coroner,Coroner's Office,21.0,2019-operating-adopted,2,1
+2018,revised,council,City Council,64.82,2019-operating-adopted,2,0
+2018,revised,economic-development-fund,Economic Development Fund,3.0,2019-operating-adopted,2,0
+2018,revised,ethics-review-board,Ethics Review Board,1.0,2019-operating-adopted,2,1
+2018,revised,finance,Department of Finance,132.97,2019-operating-adopted,2,0
+2018,revised,fire,Fire Department,627.45,2019-operating-adopted,2,0
+2018,revised,french-market,French Market Corporation,56.49,2019-operating-adopted,2,0
+2018,revised,hdlc,Historic District Landmarks Commission,12.0,2019-operating-adopted,2,1
+2018,revised,health,Health Department,233.5,2019-operating-adopted,2,0
+2018,revised,human-services,Human Services (Juvenile Justice Intervention Center),52.1,2019-operating-adopted,2,0
+2018,revised,independent-police-monitor,Office of Independent Police Monitor,6.0,2019-operating-adopted,2,1
+2018,revised,inspector-general,Office of Inspector General,17.0,2019-operating-adopted,2,1
+2018,revised,juvenile-court,Juvenile Court,29.0,2019-operating-adopted,2,0
+2018,revised,law,Law Department,69.99,2019-operating-adopted,2,0
+2018,revised,library,New Orleans Public Library,235.8,2019-operating-adopted,2,0
+2018,revised,mayor,Mayor's Office,270.38,2019-operating-adopted,2,0
+2018,revised,miscellaneous,Miscellaneous,297.32,2019-operating-adopted,2,0
+2018,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",41.02,2019-operating-adopted,2,0
+2018,revised,municipal-traffic-court,Municipal and Traffic Court,123.09,2019-operating-adopted,2,0
+2018,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.7,2019-operating-adopted,2,0
+2018,revised,parks-parkways,Parks and Parkways,142.94,2019-operating-adopted,2,0
+2018,revised,police,Police Department,1468.23,2019-operating-adopted,2,0
+2018,revised,property-management,Property Management,84.49,2019-operating-adopted,2,0
+2018,revised,public-works,Department of Public Works,194.75,2019-operating-adopted,2,0
+2018,revised,safety-permits,Safety and Permits,106.5,2019-operating-adopted,2,0
+2018,revised,sanitation,Department of Sanitation,51.0,2019-operating-adopted,2,0
+2018,revised,sheriff,Orleans Parish Sheriff,0.0,2019-operating-adopted,2,0
+2018,revised,vcc,Vieux Carré Commission,6.0,2019-operating-adopted,2,1
+2018,revised,workforce-investment,Workforce Investment,6.67,2019-operating-adopted,2,0
+2018,revised,yacht-harbor,Municipal Yacht Harbor,3.0,2019-operating-adopted,2,1
+2019,adopted,aviation-board,New Orleans Aviation Board,185.43,2019-operating-adopted,1,1
+2019,adopted,building-corp,New Orleans Building Corporation,4.0,2019-operating-adopted,1,1
+2019,adopted,cao,Chief Administrative Office,101.55,2019-operating-adopted,2,0
+2019,adopted,city-planning,City Planning Commission,26.0,2019-operating-adopted,2,1
+2019,adopted,civil-service,Civil Service,27.73,2019-operating-adopted,2,0
+2019,adopted,clerk-criminal-court,Clerk of Criminal District Court,74.98,2019-operating-adopted,2,1
+2019,adopted,community-development,Office of Community Development,103.75,2019-operating-adopted,2,0
+2019,adopted,coroner,Coroner's Office,21.0,2019-operating-adopted,2,0
+2019,adopted,council,City Council,64.82,2019-operating-adopted,2,0
+2019,adopted,economic-development-fund,Economic Development Fund,3.0,2019-operating-adopted,2,0
+2019,adopted,ethics-review-board,Ethics Review Board,1.0,2019-operating-adopted,2,0
+2019,adopted,finance,Department of Finance,132.97,2019-operating-adopted,2,0
+2019,adopted,fire,Fire Department,627.45,2019-operating-adopted,2,0
+2019,adopted,french-market,French Market Corporation,56.49,2019-operating-adopted,1,1
+2019,adopted,hdlc,Historic District Landmarks Commission,12.0,2019-operating-adopted,2,1
+2019,adopted,health,Health Department,235.5,2019-operating-adopted,2,0
+2019,adopted,human-services,Human Services (Juvenile Justice Intervention Center),52.1,2019-operating-adopted,2,0
+2019,adopted,independent-police-monitor,Office of Independent Police Monitor,6.0,2019-operating-adopted,2,0
+2019,adopted,inspector-general,Office of Inspector General,17.0,2019-operating-adopted,2,1
+2019,adopted,juvenile-court,Juvenile Court,29.0,2019-operating-adopted,2,1
+2019,adopted,law,Law Department,69.99,2019-operating-adopted,2,0
+2019,adopted,library,New Orleans Public Library,236.8,2019-operating-adopted,2,0
+2019,adopted,mayor,Mayor's Office,254.38,2019-operating-adopted,2,0
+2019,adopted,miscellaneous,Miscellaneous,304.32,2019-operating-adopted,2,0
+2019,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",41.02,2019-operating-adopted,2,0
+2019,adopted,municipal-traffic-court,Municipal and Traffic Court,123.09,2019-operating-adopted,2,0
+2019,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,2.7,2019-operating-adopted,2,0
+2019,adopted,parks-parkways,Parks and Parkways,142.94,2019-operating-adopted,2,0
+2019,adopted,police,Police Department,1468.23,2019-operating-adopted,2,0
+2019,adopted,property-management,Property Management,84.49,2019-operating-adopted,2,0
+2019,adopted,public-works,Department of Public Works,194.75,2019-operating-adopted,2,0
+2019,adopted,safety-permits,Safety and Permits,106.5,2019-operating-adopted,2,0
+2019,adopted,sanitation,Department of Sanitation,58.0,2019-operating-adopted,2,0
+2019,adopted,sheriff,Orleans Parish Sheriff,1.0,2019-operating-adopted,1,1
+2019,adopted,vcc,Vieux Carré Commission,6.0,2019-operating-adopted,2,1
+2019,adopted,workforce-investment,Workforce Investment,6.67,2019-operating-adopted,2,0
+2019,adopted,yacht-harbor,Municipal Yacht Harbor,3.0,2019-operating-adopted,1,1
+2019,proposed,aviation-board,New Orleans Aviation Board,185.43,2019-operating-adopted,1,1
+2019,proposed,building-corp,New Orleans Building Corporation,4.0,2019-operating-adopted,1,1
+2019,proposed,cao,Chief Administrative Office,101.55,2019-operating-adopted,1,1
+2019,proposed,city-planning,City Planning Commission,26.0,2019-operating-adopted,1,1
+2019,proposed,civil-service,Civil Service,27.73,2019-operating-adopted,1,1
+2019,proposed,clerk-criminal-court,Clerk of Criminal District Court,74.98,2019-operating-adopted,1,1
+2019,proposed,community-development,Office of Community Development,105.75,2019-operating-adopted,1,1
+2019,proposed,coroner,Coroner's Office,21.0,2019-operating-adopted,1,1
+2019,proposed,council,City Council,64.82,2019-operating-adopted,1,1
+2019,proposed,economic-development-fund,Economic Development Fund,3.0,2019-operating-adopted,1,1
+2019,proposed,ethics-review-board,Ethics Review Board,1.0,2019-operating-adopted,1,1
+2019,proposed,finance,Department of Finance,132.97,2019-operating-adopted,1,1
+2019,proposed,fire,Fire Department,627.45,2019-operating-adopted,1,1
+2019,proposed,french-market,French Market Corporation,56.49,2019-operating-adopted,1,1
+2019,proposed,hdlc,Historic District Landmarks Commission,12.0,2019-operating-adopted,1,1
+2019,proposed,health,Health Department,235.5,2019-operating-adopted,1,1
+2019,proposed,human-services,Human Services (Juvenile Justice Intervention Center),52.1,2019-operating-adopted,1,1
+2019,proposed,independent-police-monitor,Office of Independent Police Monitor,6.0,2019-operating-adopted,1,1
+2019,proposed,inspector-general,Office of Inspector General,17.0,2019-operating-adopted,1,1
+2019,proposed,juvenile-court,Juvenile Court,29.0,2019-operating-adopted,1,1
+2019,proposed,law,Law Department,69.99,2019-operating-adopted,1,1
+2019,proposed,library,New Orleans Public Library,236.8,2019-operating-adopted,1,1
+2019,proposed,mayor,Mayor's Office,254.38,2019-operating-adopted,1,1
+2019,proposed,miscellaneous,Miscellaneous,304.32,2019-operating-adopted,1,1
+2019,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",41.02,2019-operating-adopted,1,1
+2019,proposed,municipal-traffic-court,Municipal and Traffic Court,123.09,2019-operating-adopted,1,1
+2019,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,13.7,2019-operating-adopted,1,1
+2019,proposed,parks-parkways,Parks and Parkways,142.94,2019-operating-adopted,1,1
+2019,proposed,police,Police Department,1468.23,2019-operating-adopted,1,1
+2019,proposed,property-management,Property Management,84.49,2019-operating-adopted,1,1
+2019,proposed,public-works,Department of Public Works,194.75,2019-operating-adopted,1,1
+2019,proposed,safety-permits,Safety and Permits,106.5,2019-operating-adopted,1,1
+2019,proposed,sanitation,Department of Sanitation,58.0,2019-operating-adopted,1,1
+2019,proposed,sheriff,Orleans Parish Sheriff,1.0,2019-operating-adopted,1,1
+2019,proposed,vcc,Vieux Carré Commission,6.0,2019-operating-adopted,1,1
+2019,proposed,workforce-investment,Workforce Investment,6.67,2019-operating-adopted,1,1
+2019,proposed,yacht-harbor,Municipal Yacht Harbor,3.0,2019-operating-adopted,1,1
+2019,revised,cao,Chief Administrative Office,146.98,2020-operating-proposed,2,0
+2019,revised,city-planning,City Planning Commission,26.0,2020-operating-proposed,2,1
+2019,revised,civil-service,Civil Service,31.0,2020-operating-proposed,2,0
+2019,revised,clerk-criminal-court,Clerk of Criminal District Court,74.98,2020-operating-proposed,2,1
+2019,revised,community-development,Office of Community Development,98.0,2020-operating-proposed,2,0
+2019,revised,coroner,Coroner's Office,28.88,2020-operating-proposed,2,0
+2019,revised,council,City Council,65.53,2020-operating-proposed,2,0
+2019,revised,economic-development-fund,Economic Development Fund,4.0,2020-operating-proposed,2,0
+2019,revised,ethics-review-board,Ethics Review Board,0.5,2020-operating-proposed,2,0
+2019,revised,finance,Department of Finance,140.95,2020-operating-proposed,2,0
+2019,revised,fire,Fire Department,635.88,2020-operating-proposed,2,0
+2019,revised,hdlc,Historic District Landmarks Commission,12.0,2020-operating-proposed,2,1
+2019,revised,health,Health Department,234.38,2020-operating-proposed,2,0
+2019,revised,human-services,Human Services (Juvenile Justice Intervention Center),62.1,2020-operating-proposed,2,0
+2019,revised,independent-police-monitor,Office of Independent Police Monitor,8.0,2020-operating-proposed,2,0
+2019,revised,inspector-general,Office of Inspector General,17.0,2020-operating-proposed,2,1
+2019,revised,juvenile-court,Juvenile Court,29.0,2020-operating-proposed,2,1
+2019,revised,law,Law Department,71.99,2020-operating-proposed,2,0
+2019,revised,library,New Orleans Public Library,223.39,2020-operating-proposed,2,0
+2019,revised,mayor,Mayor's Office,243.8,2020-operating-proposed,2,0
+2019,revised,miscellaneous,Miscellaneous,311.3,2020-operating-proposed,2,0
+2019,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",40.14,2020-operating-proposed,2,0
+2019,revised,municipal-traffic-court,Municipal and Traffic Court,100.98,2020-operating-proposed,2,0
+2019,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,6.2,2020-operating-proposed,2,0
+2019,revised,parks-parkways,Parks and Parkways,152.02,2020-operating-proposed,2,0
+2019,revised,police,Police Department,1462.23,2020-operating-proposed,2,0
+2019,revised,property-management,Property Management,86.0,2020-operating-proposed,2,0
+2019,revised,public-works,Department of Public Works,187.49,2020-operating-proposed,2,0
+2019,revised,safety-permits,Safety and Permits,103.5,2020-operating-proposed,2,0
+2019,revised,sanitation,Department of Sanitation,80.0,2020-operating-proposed,2,0
+2019,revised,vcc,Vieux Carré Commission,6.0,2020-operating-proposed,2,1
+2019,revised,workforce-investment,Workforce Investment,5.0,2020-operating-proposed,2,0
+2020,adopted,cao,Chief Administrative Office,119.0,2021-operating-adopted,1,1
+2020,adopted,city-planning,City Planning Commission,22.0,2021-operating-adopted,1,1
+2020,adopted,civil-service,Civil Service,31.0,2021-operating-adopted,1,1
+2020,adopted,clerk-criminal-court,Clerk of Criminal District Court,76.0,2021-operating-adopted,1,1
+2020,adopted,community-development,Office of Community Development,11.0,2021-operating-adopted,1,1
+2020,adopted,coroner,Coroner's Office,29.0,2021-operating-adopted,1,1
+2020,adopted,council,City Council,69.0,2021-operating-adopted,1,1
+2020,adopted,economic-development-fund,Economic Development Fund,0.0,2021-operating-adopted,1,1
+2020,adopted,ethics-review-board,Ethics Review Board,1.0,2021-operating-adopted,1,1
+2020,adopted,finance,Department of Finance,144.0,2021-operating-adopted,1,1
+2020,adopted,fire,Fire Department,637.0,2021-operating-adopted,1,1
+2020,adopted,hdlc,Historic District Landmarks Commission,12.0,2021-operating-adopted,1,1
+2020,adopted,health,Health Department,203.0,2021-operating-adopted,1,1
+2020,adopted,human-services,Human Services (Juvenile Justice Intervention Center),72.0,2021-operating-adopted,1,1
+2020,adopted,independent-police-monitor,Office of Independent Police Monitor,8.0,2021-operating-adopted,1,1
+2020,adopted,inspector-general,Office of Inspector General,16.0,2021-operating-adopted,1,1
+2020,adopted,juvenile-court,Juvenile Court,29.0,2021-operating-adopted,1,1
+2020,adopted,law,Law Department,73.0,2021-operating-adopted,1,1
+2020,adopted,library,New Orleans Public Library,234.0,2021-operating-adopted,1,1
+2020,adopted,mayor,Mayor's Office,138.0,2021-operating-adopted,1,1
+2020,adopted,miscellaneous,Miscellaneous,365.0,2021-operating-adopted,1,1
+2020,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",43.0,2021-operating-adopted,1,1
+2020,adopted,municipal-traffic-court,Municipal and Traffic Court,132.0,2021-operating-adopted,1,1
+2020,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,11.0,2021-operating-adopted,1,1
+2020,adopted,parks-parkways,Parks and Parkways,154.0,2021-operating-adopted,1,1
+2020,adopted,police,Police Department,1491.0,2021-operating-adopted,1,1
+2020,adopted,property-management,Property Management,86.0,2021-operating-adopted,1,1
+2020,adopted,public-works,Department of Public Works,220.0,2021-operating-adopted,1,1
+2020,adopted,safety-permits,Safety and Permits,111.0,2021-operating-adopted,1,1
+2020,adopted,sanitation,Department of Sanitation,67.0,2021-operating-adopted,1,1
+2020,adopted,vcc,Vieux Carré Commission,6.0,2021-operating-adopted,1,1
+2020,adopted,workforce-investment,Workforce Investment,0.0,2021-operating-adopted,1,1
+2020,proposed,cao,Chief Administrative Office,121.98,2020-operating-proposed,1,1
+2020,proposed,city-planning,City Planning Commission,26.0,2020-operating-proposed,1,1
+2020,proposed,civil-service,Civil Service,31.0,2020-operating-proposed,1,1
+2020,proposed,clerk-criminal-court,Clerk of Criminal District Court,74.98,2020-operating-proposed,1,1
+2020,proposed,community-development,Office of Community Development,98.0,2020-operating-proposed,1,1
+2020,proposed,coroner,Coroner's Office,28.88,2020-operating-proposed,1,1
+2020,proposed,council,City Council,65.53,2020-operating-proposed,1,1
+2020,proposed,economic-development-fund,Economic Development Fund,4.0,2020-operating-proposed,1,1
+2020,proposed,ethics-review-board,Ethics Review Board,0.5,2020-operating-proposed,1,1
+2020,proposed,finance,Department of Finance,140.95,2020-operating-proposed,1,1
+2020,proposed,fire,Fire Department,635.88,2020-operating-proposed,1,1
+2020,proposed,hdlc,Historic District Landmarks Commission,12.0,2020-operating-proposed,1,1
+2020,proposed,health,Health Department,235.38,2020-operating-proposed,1,1
+2020,proposed,human-services,Human Services (Juvenile Justice Intervention Center),71.1,2020-operating-proposed,1,1
+2020,proposed,independent-police-monitor,Office of Independent Police Monitor,8.0,2020-operating-proposed,1,1
+2020,proposed,inspector-general,Office of Inspector General,17.0,2020-operating-proposed,1,1
+2020,proposed,juvenile-court,Juvenile Court,29.0,2020-operating-proposed,1,1
+2020,proposed,law,Law Department,71.99,2020-operating-proposed,1,1
+2020,proposed,library,New Orleans Public Library,223.39,2020-operating-proposed,1,1
+2020,proposed,mayor,Mayor's Office,291.5,2020-operating-proposed,1,1
+2020,proposed,miscellaneous,Miscellaneous,318.55,2020-operating-proposed,1,1
+2020,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",41.14,2020-operating-proposed,1,1
+2020,proposed,municipal-traffic-court,Municipal and Traffic Court,100.98,2020-operating-proposed,1,1
+2020,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,6.2,2020-operating-proposed,1,1
+2020,proposed,parks-parkways,Parks and Parkways,152.02,2020-operating-proposed,1,1
+2020,proposed,police,Police Department,1495.23,2020-operating-proposed,1,1
+2020,proposed,property-management,Property Management,86.0,2020-operating-proposed,1,1
+2020,proposed,public-works,Department of Public Works,219.49,2020-operating-proposed,1,1
+2020,proposed,safety-permits,Safety and Permits,110.5,2020-operating-proposed,1,1
+2020,proposed,sanitation,Department of Sanitation,67.0,2020-operating-proposed,1,1
+2020,proposed,vcc,Vieux Carré Commission,6.0,2020-operating-proposed,1,1
+2020,proposed,workforce-investment,Workforce Investment,5.0,2020-operating-proposed,1,1
+2021,adopted,cao,Chief Administrative Office,108.47,2021-operating-adopted,2,1
+2021,adopted,city-planning,City Planning Commission,20.0,2021-operating-adopted,2,1
+2021,adopted,civil-service,Civil Service,26.0,2021-operating-adopted,2,1
+2021,adopted,clerk-criminal-court,Clerk of Criminal District Court,85.48,2021-operating-adopted,2,1
+2021,adopted,community-development,Office of Community Development,81.87,2021-operating-adopted,2,1
+2021,adopted,coroner,Coroner's Office,28.88,2021-operating-adopted,2,1
+2021,adopted,council,City Council,71.24,2021-operating-adopted,2,1
+2021,adopted,economic-development-fund,Economic Development Fund,3.0,2021-operating-adopted,2,1
+2021,adopted,ethics-review-board,Ethics Review Board,1.5,2021-operating-adopted,2,1
+2021,adopted,finance,Department of Finance,129.46,2021-operating-adopted,2,1
+2021,adopted,fire,Fire Department,606.5,2021-operating-adopted,2,1
+2021,adopted,hdlc,Historic District Landmarks Commission,10.0,2021-operating-adopted,2,1
+2021,adopted,health,Health Department,233.31,2021-operating-adopted,2,1
+2021,adopted,human-services,Human Services (Juvenile Justice Intervention Center),75.5,2021-operating-adopted,2,1
+2021,adopted,independent-police-monitor,Office of Independent Police Monitor,7.0,2021-operating-adopted,2,1
+2021,adopted,inspector-general,Office of Inspector General,15.0,2021-operating-adopted,2,1
+2021,adopted,juvenile-court,Juvenile Court,29.0,2021-operating-adopted,2,1
+2021,adopted,law,Law Department,64.99,2021-operating-adopted,2,1
+2021,adopted,library,New Orleans Public Library,223.25,2021-operating-adopted,2,1
+2021,adopted,mayor,Mayor's Office,237.25,2021-operating-adopted,2,1
+2021,adopted,miscellaneous,Miscellaneous,280.47,2021-operating-adopted,2,1
+2021,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",35.78,2021-operating-adopted,2,1
+2021,adopted,municipal-traffic-court,Municipal and Traffic Court,99.82,2021-operating-adopted,2,1
+2021,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,4.13,2021-operating-adopted,2,1
+2021,adopted,parks-parkways,Parks and Parkways,152.73,2021-operating-adopted,2,1
+2021,adopted,police,Police Department,1592.64,2021-operating-adopted,2,1
+2021,adopted,property-management,Property Management,79.0,2021-operating-adopted,2,1
+2021,adopted,public-works,Department of Public Works,198.49,2021-operating-adopted,2,1
+2021,adopted,safety-permits,Safety and Permits,97.5,2021-operating-adopted,2,1
+2021,adopted,sanitation,Department of Sanitation,68.0,2021-operating-adopted,2,1
+2021,adopted,vcc,Vieux Carré Commission,4.0,2021-operating-adopted,2,1
+2021,adopted,workforce-investment,Workforce Investment,5.21,2021-operating-adopted,2,1
+2021,proposed,cao,Chief Administrative Office,108.47,2021-operating-adopted,1,1
+2021,proposed,city-planning,City Planning Commission,20.0,2021-operating-adopted,1,1
+2021,proposed,civil-service,Civil Service,26.0,2021-operating-adopted,1,1
+2021,proposed,clerk-criminal-court,Clerk of Criminal District Court,85.48,2021-operating-adopted,1,1
+2021,proposed,community-development,Office of Community Development,81.87,2021-operating-adopted,1,1
+2021,proposed,coroner,Coroner's Office,28.88,2021-operating-adopted,1,1
+2021,proposed,council,City Council,71.24,2021-operating-adopted,1,1
+2021,proposed,economic-development-fund,Economic Development Fund,3.0,2021-operating-adopted,1,1
+2021,proposed,ethics-review-board,Ethics Review Board,1.5,2021-operating-adopted,1,1
+2021,proposed,finance,Department of Finance,129.46,2021-operating-adopted,1,1
+2021,proposed,fire,Fire Department,606.5,2021-operating-adopted,1,1
+2021,proposed,hdlc,Historic District Landmarks Commission,10.0,2021-operating-adopted,1,1
+2021,proposed,health,Health Department,233.31,2021-operating-adopted,1,1
+2021,proposed,human-services,Human Services (Juvenile Justice Intervention Center),75.5,2021-operating-adopted,1,1
+2021,proposed,independent-police-monitor,Office of Independent Police Monitor,7.0,2021-operating-adopted,1,1
+2021,proposed,inspector-general,Office of Inspector General,15.0,2021-operating-adopted,1,1
+2021,proposed,juvenile-court,Juvenile Court,29.0,2021-operating-adopted,1,1
+2021,proposed,law,Law Department,64.99,2021-operating-adopted,1,1
+2021,proposed,library,New Orleans Public Library,223.25,2021-operating-adopted,1,1
+2021,proposed,mayor,Mayor's Office,237.25,2021-operating-adopted,1,1
+2021,proposed,miscellaneous,Miscellaneous,280.47,2021-operating-adopted,1,1
+2021,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",35.78,2021-operating-adopted,1,1
+2021,proposed,municipal-traffic-court,Municipal and Traffic Court,99.82,2021-operating-adopted,1,1
+2021,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,4.13,2021-operating-adopted,1,1
+2021,proposed,parks-parkways,Parks and Parkways,152.73,2021-operating-adopted,1,1
+2021,proposed,police,Police Department,1592.64,2021-operating-adopted,1,1
+2021,proposed,property-management,Property Management,79.0,2021-operating-adopted,1,1
+2021,proposed,public-works,Department of Public Works,198.49,2021-operating-adopted,1,1
+2021,proposed,safety-permits,Safety and Permits,97.5,2021-operating-adopted,1,1
+2021,proposed,sanitation,Department of Sanitation,68.0,2021-operating-adopted,1,1
+2021,proposed,vcc,Vieux Carré Commission,4.0,2021-operating-adopted,1,1
+2021,proposed,workforce-investment,Workforce Investment,5.21,2021-operating-adopted,1,1
+2021,revised,cao,Chief Administrative Office,108.47,2022-operating-adopted,2,1
+2021,revised,city-planning,City Planning Commission,20.0,2022-operating-adopted,2,1
+2021,revised,civil-service,Civil Service,26.0,2022-operating-adopted,2,1
+2021,revised,clerk-criminal-court,Clerk of Criminal District Court,85.48,2022-operating-adopted,2,1
+2021,revised,community-development,Office of Community Development,81.87,2022-operating-adopted,2,1
+2021,revised,coroner,Coroner's Office,28.88,2022-operating-adopted,2,1
+2021,revised,council,City Council,71.24,2022-operating-adopted,2,1
+2021,revised,economic-development-fund,Economic Development Fund,3.0,2022-operating-adopted,2,1
+2021,revised,ethics-review-board,Ethics Review Board,1.5,2022-operating-adopted,2,1
+2021,revised,finance,Department of Finance,129.46,2022-operating-adopted,2,1
+2021,revised,fire,Fire Department,606.5,2022-operating-adopted,2,1
+2021,revised,hdlc,Historic District Landmarks Commission,10.0,2022-operating-adopted,2,1
+2021,revised,health,Health Department,233.31,2022-operating-adopted,2,1
+2021,revised,human-services,Human Services (Juvenile Justice Intervention Center),75.5,2022-operating-adopted,2,1
+2021,revised,independent-police-monitor,Office of Independent Police Monitor,7.0,2022-operating-adopted,2,1
+2021,revised,inspector-general,Office of Inspector General,15.0,2022-operating-adopted,2,1
+2021,revised,juvenile-court,Juvenile Court,29.0,2022-operating-adopted,2,1
+2021,revised,law,Law Department,64.99,2022-operating-adopted,2,1
+2021,revised,library,New Orleans Public Library,223.25,2022-operating-adopted,2,1
+2021,revised,mayor,Mayor's Office,237.25,2022-operating-adopted,2,1
+2021,revised,miscellaneous,Miscellaneous,280.47,2022-operating-adopted,2,1
+2021,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",35.78,2022-operating-adopted,2,1
+2021,revised,municipal-traffic-court,Municipal and Traffic Court,99.82,2022-operating-adopted,2,1
+2021,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,4.13,2022-operating-adopted,2,1
+2021,revised,parks-parkways,Parks and Parkways,152.73,2022-operating-adopted,2,1
+2021,revised,police,Police Department,1592.64,2022-operating-adopted,2,1
+2021,revised,property-management,Property Management,79.0,2022-operating-adopted,2,1
+2021,revised,public-works,Department of Public Works,198.49,2022-operating-adopted,2,1
+2021,revised,safety-permits,Safety and Permits,97.5,2022-operating-adopted,2,1
+2021,revised,sanitation,Department of Sanitation,68.0,2022-operating-adopted,2,1
+2021,revised,vcc,Vieux Carré Commission,4.0,2022-operating-adopted,2,1
+2021,revised,workforce-investment,Workforce Investment,5.21,2022-operating-adopted,2,1
+2022,adopted,cao,Chief Administrative Office,145.98,2022-operating-adopted,2,1
+2022,adopted,city-planning,City Planning Commission,31.0,2022-operating-adopted,2,1
+2022,adopted,civil-service,Civil Service,21.92,2022-operating-adopted,2,0
+2022,adopted,clerk-criminal-court,Clerk of Criminal District Court,85.98,2022-operating-adopted,2,1
+2022,adopted,community-development,Office of Community Development,91.18,2022-operating-adopted,2,1
+2022,adopted,coroner,Coroner's Office,27.88,2022-operating-adopted,2,1
+2022,adopted,council,City Council,69.67,2022-operating-adopted,2,1
+2022,adopted,economic-development-fund,Economic Development Fund,2.0,2022-operating-adopted,2,0
+2022,adopted,ethics-review-board,Ethics Review Board,1.5,2022-operating-adopted,2,1
+2022,adopted,finance,Department of Finance,125.45,2022-operating-adopted,2,0
+2022,adopted,fire,Fire Department,633.5,2022-operating-adopted,2,1
+2022,adopted,hdlc,Historic District Landmarks Commission,12.0,2022-operating-adopted,2,1
+2022,adopted,health,Health Department,261.84,2022-operating-adopted,2,1
+2022,adopted,human-services,Human Services (Juvenile Justice Intervention Center),103.64,2022-operating-adopted,2,1
+2022,adopted,independent-police-monitor,Office of Independent Police Monitor,7.0,2022-operating-adopted,2,1
+2022,adopted,inspector-general,Office of Inspector General,13.0,2022-operating-adopted,2,1
+2022,adopted,juvenile-court,Juvenile Court,29.0,2022-operating-adopted,2,1
+2022,adopted,law,Law Department,67.98,2022-operating-adopted,2,1
+2022,adopted,library,New Orleans Public Library,221.92,2022-operating-adopted,2,1
+2022,adopted,mayor,Mayor's Office,254.32,2022-operating-adopted,2,0
+2022,adopted,miscellaneous,Miscellaneous,359.32,2022-operating-adopted,2,0
+2022,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",40.33,2022-operating-adopted,2,1
+2022,adopted,municipal-traffic-court,Municipal and Traffic Court,106.71,2022-operating-adopted,2,1
+2022,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,2.83,2022-operating-adopted,2,1
+2022,adopted,parks-parkways,Parks and Parkways,164.66,2022-operating-adopted,2,1
+2022,adopted,police,Police Department,1541.5,2022-operating-adopted,2,1
+2022,adopted,property-management,Property Management,87.0,2022-operating-adopted,2,1
+2022,adopted,public-works,Department of Public Works,216.49,2022-operating-adopted,2,1
+2022,adopted,safety-permits,Safety and Permits,105.5,2022-operating-adopted,2,1
+2022,adopted,sanitation,Department of Sanitation,71.0,2022-operating-adopted,2,1
+2022,adopted,vcc,Vieux Carré Commission,6.0,2022-operating-adopted,2,1
+2022,adopted,workforce-investment,Workforce Investment,5.07,2022-operating-adopted,2,1
+2022,proposed,cao,Chief Administrative Office,145.98,2022-operating-adopted,1,1
+2022,proposed,city-planning,City Planning Commission,21.0,2022-operating-adopted,1,1
+2022,proposed,civil-service,Civil Service,26.92,2022-operating-adopted,1,1
+2022,proposed,clerk-criminal-court,Clerk of Criminal District Court,85.98,2022-operating-adopted,1,1
+2022,proposed,community-development,Office of Community Development,91.18,2022-operating-adopted,1,1
+2022,proposed,coroner,Coroner's Office,27.88,2022-operating-adopted,1,1
+2022,proposed,council,City Council,69.67,2022-operating-adopted,1,1
+2022,proposed,economic-development-fund,Economic Development Fund,2.0,2022-operating-adopted,1,1
+2022,proposed,ethics-review-board,Ethics Review Board,1.5,2022-operating-adopted,1,1
+2022,proposed,finance,Department of Finance,136.45,2022-operating-adopted,1,1
+2022,proposed,fire,Fire Department,631.5,2022-operating-adopted,1,1
+2022,proposed,hdlc,Historic District Landmarks Commission,7.0,2022-operating-adopted,1,1
+2022,proposed,health,Health Department,255.84,2022-operating-adopted,1,1
+2022,proposed,human-services,Human Services (Juvenile Justice Intervention Center),103.64,2022-operating-adopted,1,1
+2022,proposed,independent-police-monitor,Office of Independent Police Monitor,7.0,2022-operating-adopted,1,1
+2022,proposed,inspector-general,Office of Inspector General,13.0,2022-operating-adopted,1,1
+2022,proposed,juvenile-court,Juvenile Court,29.0,2022-operating-adopted,1,1
+2022,proposed,law,Law Department,68.98,2022-operating-adopted,1,1
+2022,proposed,library,New Orleans Public Library,221.92,2022-operating-adopted,1,1
+2022,proposed,mayor,Mayor's Office,256.32,2022-operating-adopted,1,1
+2022,proposed,miscellaneous,Miscellaneous,361.32,2022-operating-adopted,1,1
+2022,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",40.33,2022-operating-adopted,1,1
+2022,proposed,municipal-traffic-court,Municipal and Traffic Court,106.71,2022-operating-adopted,1,1
+2022,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,2.83,2022-operating-adopted,1,1
+2022,proposed,parks-parkways,Parks and Parkways,164.66,2022-operating-adopted,1,1
+2022,proposed,police,Police Department,1541.5,2022-operating-adopted,1,1
+2022,proposed,property-management,Property Management,85.0,2022-operating-adopted,1,1
+2022,proposed,public-works,Department of Public Works,216.49,2022-operating-adopted,1,1
+2022,proposed,safety-permits,Safety and Permits,106.5,2022-operating-adopted,1,1
+2022,proposed,sanitation,Department of Sanitation,71.0,2022-operating-adopted,1,1
+2022,proposed,vcc,Vieux Carré Commission,4.0,2022-operating-adopted,1,1
+2022,proposed,workforce-investment,Workforce Investment,5.07,2022-operating-adopted,1,1
+2022,revised,cao,Chief Administrative Office,145.98,2023-operating-adopted,2,1
+2022,revised,city-planning,City Planning Commission,31.0,2023-operating-adopted,2,1
+2022,revised,civil-service,Civil Service,26.92,2023-operating-adopted,2,0
+2022,revised,clerk-criminal-court,Clerk of Criminal District Court,85.98,2023-operating-adopted,2,1
+2022,revised,community-development,Office of Community Development,91.18,2023-operating-adopted,2,1
+2022,revised,coroner,Coroner's Office,27.88,2023-operating-adopted,2,1
+2022,revised,council,City Council,69.67,2023-operating-adopted,2,1
+2022,revised,economic-development-fund,Economic Development Fund,3.0,2023-operating-adopted,2,0
+2022,revised,ethics-review-board,Ethics Review Board,1.5,2023-operating-adopted,2,1
+2022,revised,finance,Department of Finance,137.45,2023-operating-adopted,2,0
+2022,revised,fire,Fire Department,633.5,2023-operating-adopted,2,1
+2022,revised,hdlc,Historic District Landmarks Commission,12.0,2023-operating-adopted,2,1
+2022,revised,health,Health Department,261.84,2023-operating-adopted,2,1
+2022,revised,human-services,Human Services (Juvenile Justice Intervention Center),103.64,2023-operating-adopted,2,1
+2022,revised,independent-police-monitor,Office of Independent Police Monitor,7.0,2023-operating-adopted,2,1
+2022,revised,inspector-general,Office of Inspector General,13.0,2023-operating-adopted,2,1
+2022,revised,juvenile-court,Juvenile Court,29.0,2023-operating-adopted,2,1
+2022,revised,law,Law Department,67.98,2023-operating-adopted,2,1
+2022,revised,library,New Orleans Public Library,221.92,2023-operating-adopted,2,1
+2022,revised,mayor,Mayor's Office,256.32,2023-operating-adopted,2,0
+2022,revised,miscellaneous,Miscellaneous,361.32,2023-operating-adopted,2,0
+2022,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",40.33,2023-operating-adopted,2,1
+2022,revised,municipal-traffic-court,Municipal and Traffic Court,106.71,2023-operating-adopted,2,1
+2022,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,2.83,2023-operating-adopted,2,1
+2022,revised,parks-parkways,Parks and Parkways,164.66,2023-operating-adopted,2,1
+2022,revised,police,Police Department,1541.5,2023-operating-adopted,2,1
+2022,revised,property-management,Property Management,87.0,2023-operating-adopted,2,1
+2022,revised,public-works,Department of Public Works,216.49,2023-operating-adopted,2,1
+2022,revised,safety-permits,Safety and Permits,105.5,2023-operating-adopted,2,1
+2022,revised,sanitation,Department of Sanitation,71.0,2023-operating-adopted,2,1
+2022,revised,vcc,Vieux Carré Commission,6.0,2023-operating-adopted,2,1
+2022,revised,workforce-investment,Workforce Investment,5.07,2023-operating-adopted,2,1
+2023,adopted,cao,Chief Administrative Office,122.49,2023-operating-adopted,2,0
+2023,adopted,city-planning,City Planning Commission,21.0,2023-operating-adopted,2,1
+2023,adopted,civil-service,Civil Service,21.38,2023-operating-adopted,2,1
+2023,adopted,clerk-criminal-court,Clerk of Criminal District Court,77.48,2023-operating-adopted,2,1
+2023,adopted,community-development,Office of Community Development,82.95,2023-operating-adopted,2,1
+2023,adopted,coroner,Coroner's Office,26.44,2023-operating-adopted,2,1
+2023,adopted,council,City Council,69.03,2023-operating-adopted,2,1
+2023,adopted,economic-development-fund,Economic Development Fund,3.49,2023-operating-adopted,2,1
+2023,adopted,ethics-review-board,Ethics Review Board,1.5,2023-operating-adopted,2,1
+2023,adopted,finance,Department of Finance,119.48,2023-operating-adopted,2,1
+2023,adopted,fire,Fire Department,597.5,2023-operating-adopted,2,1
+2023,adopted,hdlc,Historic District Landmarks Commission,9.0,2023-operating-adopted,2,1
+2023,adopted,health,Health Department,310.36,2023-operating-adopted,2,0
+2023,adopted,human-services,Human Services (Juvenile Justice Intervention Center),60.5,2023-operating-adopted,2,1
+2023,adopted,independent-police-monitor,Office of Independent Police Monitor,6.0,2023-operating-adopted,2,1
+2023,adopted,inspector-general,Office of Inspector General,13.0,2023-operating-adopted,2,1
+2023,adopted,juvenile-court,Juvenile Court,29.0,2023-operating-adopted,2,1
+2023,adopted,law,Law Department,62.98,2023-operating-adopted,2,1
+2023,adopted,library,New Orleans Public Library,201.43,2023-operating-adopted,2,1
+2023,adopted,mayor,Mayor's Office,246.96,2023-operating-adopted,2,1
+2023,adopted,miscellaneous,Miscellaneous,335.9,2023-operating-adopted,2,1
+2023,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",31.86,2023-operating-adopted,2,1
+2023,adopted,municipal-traffic-court,Municipal and Traffic Court,110.5,2023-operating-adopted,2,1
+2023,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,3.0,2023-operating-adopted,2,1
+2023,adopted,parks-parkways,Parks and Parkways,128.88,2023-operating-adopted,2,0
+2023,adopted,police,Police Department,1198.0,2023-operating-adopted,2,0
+2023,adopted,property-management,Property Management,74.0,2023-operating-adopted,2,1
+2023,adopted,public-works,Department of Public Works,135.49,2023-operating-adopted,2,0
+2023,adopted,safety-permits,Safety and Permits,106.0,2023-operating-adopted,2,1
+2023,adopted,sanitation,Department of Sanitation,60.0,2023-operating-adopted,2,1
+2023,adopted,vcc,Vieux Carré Commission,6.0,2023-operating-adopted,2,1
+2023,adopted,workforce-investment,Workforce Investment,4.5,2023-operating-adopted,2,1
+2023,proposed,cao,Chief Administrative Office,122.49,2023-operating-adopted,1,1
+2023,proposed,city-planning,City Planning Commission,21.0,2023-operating-adopted,1,1
+2023,proposed,civil-service,Civil Service,21.38,2023-operating-adopted,1,1
+2023,proposed,clerk-criminal-court,Clerk of Criminal District Court,77.48,2023-operating-adopted,1,1
+2023,proposed,community-development,Office of Community Development,82.95,2023-operating-adopted,1,1
+2023,proposed,coroner,Coroner's Office,26.44,2023-operating-adopted,1,1
+2023,proposed,council,City Council,69.03,2023-operating-adopted,1,1
+2023,proposed,economic-development-fund,Economic Development Fund,3.49,2023-operating-adopted,1,1
+2023,proposed,ethics-review-board,Ethics Review Board,1.5,2023-operating-adopted,1,1
+2023,proposed,finance,Department of Finance,119.48,2023-operating-adopted,1,1
+2023,proposed,fire,Fire Department,597.5,2023-operating-adopted,1,1
+2023,proposed,hdlc,Historic District Landmarks Commission,9.0,2023-operating-adopted,1,1
+2023,proposed,health,Health Department,310.36,2023-operating-adopted,1,1
+2023,proposed,human-services,Human Services (Juvenile Justice Intervention Center),60.5,2023-operating-adopted,1,1
+2023,proposed,independent-police-monitor,Office of Independent Police Monitor,6.0,2023-operating-adopted,1,1
+2023,proposed,inspector-general,Office of Inspector General,13.0,2023-operating-adopted,1,1
+2023,proposed,juvenile-court,Juvenile Court,29.0,2023-operating-adopted,1,1
+2023,proposed,law,Law Department,62.98,2023-operating-adopted,1,1
+2023,proposed,library,New Orleans Public Library,201.43,2023-operating-adopted,1,1
+2023,proposed,mayor,Mayor's Office,246.96,2023-operating-adopted,1,1
+2023,proposed,miscellaneous,Miscellaneous,335.9,2023-operating-adopted,1,1
+2023,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",31.86,2023-operating-adopted,1,1
+2023,proposed,municipal-traffic-court,Municipal and Traffic Court,110.5,2023-operating-adopted,1,1
+2023,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,3.0,2023-operating-adopted,1,1
+2023,proposed,parks-parkways,Parks and Parkways,128.88,2023-operating-adopted,1,1
+2023,proposed,police,Police Department,1198.0,2023-operating-adopted,1,1
+2023,proposed,property-management,Property Management,74.0,2023-operating-adopted,1,1
+2023,proposed,public-works,Department of Public Works,135.49,2023-operating-adopted,1,1
+2023,proposed,safety-permits,Safety and Permits,106.0,2023-operating-adopted,1,1
+2023,proposed,sanitation,Department of Sanitation,60.0,2023-operating-adopted,1,1
+2023,proposed,vcc,Vieux Carré Commission,6.0,2023-operating-adopted,1,1
+2023,proposed,workforce-investment,Workforce Investment,4.5,2023-operating-adopted,1,1
+2023,revised,cao,Chief Administrative Office,123.49,2024-operating-adopted,2,0
+2023,revised,city-planning,City Planning Commission,21.0,2024-operating-adopted,2,1
+2023,revised,civil-service,Civil Service,21.38,2024-operating-adopted,2,1
+2023,revised,clerk-criminal-court,Clerk of Criminal District Court,77.48,2024-operating-adopted,2,1
+2023,revised,code-enforcement,Code Enforcement,0.0,2024-operating-adopted,1,1
+2023,revised,community-development,Office of Community Development,82.95,2024-operating-adopted,2,1
+2023,revised,coroner,Coroner's Office,26.44,2024-operating-adopted,2,1
+2023,revised,council,City Council,69.03,2024-operating-adopted,2,1
+2023,revised,economic-development-fund,Economic Development Fund,3.49,2024-operating-adopted,2,1
+2023,revised,ethics-review-board,Ethics Review Board,1.5,2024-operating-adopted,2,1
+2023,revised,finance,Department of Finance,119.48,2024-operating-adopted,2,1
+2023,revised,fire,Fire Department,597.5,2024-operating-adopted,2,1
+2023,revised,hdlc,Historic District Landmarks Commission,9.0,2024-operating-adopted,2,1
+2023,revised,health,Health Department,312.36,2024-operating-adopted,2,0
+2023,revised,human-services,Human Services (Juvenile Justice Intervention Center),60.5,2024-operating-adopted,2,1
+2023,revised,independent-police-monitor,Office of Independent Police Monitor,6.0,2024-operating-adopted,2,1
+2023,revised,inspector-general,Office of Inspector General,13.0,2024-operating-adopted,2,1
+2023,revised,juvenile-court,Juvenile Court,29.0,2024-operating-adopted,2,1
+2023,revised,law,Law Department,62.98,2024-operating-adopted,2,1
+2023,revised,library,New Orleans Public Library,201.43,2024-operating-adopted,2,1
+2023,revised,mayor,Mayor's Office,246.96,2024-operating-adopted,2,1
+2023,revised,miscellaneous,Miscellaneous,335.9,2024-operating-adopted,2,1
+2023,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",31.86,2024-operating-adopted,2,1
+2023,revised,municipal-traffic-court,Municipal and Traffic Court,110.5,2024-operating-adopted,2,1
+2023,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,3.0,2024-operating-adopted,2,1
+2023,revised,parks-parkways,Parks and Parkways,131.88,2024-operating-adopted,2,0
+2023,revised,police,Police Department,1199.0,2024-operating-adopted,2,0
+2023,revised,property-management,Property Management,74.0,2024-operating-adopted,2,1
+2023,revised,public-works,Department of Public Works,150.49,2024-operating-adopted,2,0
+2023,revised,safety-permits,Safety and Permits,106.0,2024-operating-adopted,2,1
+2023,revised,sanitation,Department of Sanitation,60.0,2024-operating-adopted,2,1
+2023,revised,vcc,Vieux Carré Commission,6.0,2024-operating-adopted,2,1
+2023,revised,workforce-investment,Workforce Investment,4.5,2024-operating-adopted,2,1
+2024,adopted,cao,Chief Administrative Office,176.46,2024-operating-adopted,3,0
+2024,adopted,city-planning,City Planning Commission,24.0,2024-operating-adopted,3,0
+2024,adopted,civil-service,Civil Service,22.38,2024-operating-adopted,3,1
+2024,adopted,clerk-criminal-court,Clerk of Criminal District Court,78.98,2024-operating-adopted,3,0
+2024,adopted,code-enforcement,Code Enforcement,42.0,2024-operating-adopted,3,0
+2024,adopted,community-development,Office of Community Development,48.65,2024-operating-adopted,3,0
+2024,adopted,coroner,Coroner's Office,26.44,2024-operating-adopted,3,1
+2024,adopted,council,City Council,87.69,2024-operating-adopted,3,0
+2024,adopted,economic-development-fund,Economic Development Fund,2.49,2024-operating-adopted,3,1
+2024,adopted,ethics-review-board,Ethics Review Board,1.5,2024-operating-adopted,3,1
+2024,adopted,finance,Department of Finance,118.96,2024-operating-adopted,3,0
+2024,adopted,fire,Fire Department,640.0,2024-operating-adopted,3,0
+2024,adopted,hdlc,Historic District Landmarks Commission,13.0,2024-operating-adopted,3,1
+2024,adopted,health,Health Department,229.72,2024-operating-adopted,3,0
+2024,adopted,human-services,Human Services (Juvenile Justice Intervention Center),58.0,2024-operating-adopted,3,0
+2024,adopted,independent-police-monitor,Office of Independent Police Monitor,5.0,2024-operating-adopted,3,1
+2024,adopted,inspector-general,Office of Inspector General,28.91,2024-operating-adopted,3,0
+2024,adopted,juvenile-court,Juvenile Court,29.0,2024-operating-adopted,3,1
+2024,adopted,law,Law Department,63.98,2024-operating-adopted,3,0
+2024,adopted,library,New Orleans Public Library,199.65,2024-operating-adopted,3,0
+2024,adopted,mayor,Mayor's Office,300.25,2024-operating-adopted,3,0
+2024,adopted,miscellaneous,Miscellaneous,455.86,2024-operating-adopted,3,0
+2024,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",40.73,2024-operating-adopted,3,0
+2024,adopted,municipal-traffic-court,Municipal and Traffic Court,110.88,2024-operating-adopted,3,0
+2024,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,0.3,2024-operating-adopted,3,1
+2024,adopted,parks-parkways,Parks and Parkways,163.02,2024-operating-adopted,3,1
+2024,adopted,police,Police Department,1277.46,2024-operating-adopted,3,1
+2024,adopted,property-management,Property Management,78.0,2024-operating-adopted,3,0
+2024,adopted,public-works,Department of Public Works,179.49,2024-operating-adopted,3,0
+2024,adopted,safety-permits,Safety and Permits,114.0,2024-operating-adopted,3,0
+2024,adopted,sanitation,Department of Sanitation,73.0,2024-operating-adopted,3,0
+2024,adopted,vcc,Vieux Carré Commission,6.0,2024-operating-adopted,3,1
+2024,adopted,workforce-investment,Workforce Investment,4.32,2024-operating-adopted,3,1
+2024,proposed,cao,Chief Administrative Office,176.46,2024-operating-adopted,1,1
+2024,proposed,city-planning,City Planning Commission,24.0,2024-operating-adopted,1,1
+2024,proposed,civil-service,Civil Service,21.38,2024-operating-adopted,1,1
+2024,proposed,clerk-criminal-court,Clerk of Criminal District Court,78.98,2024-operating-adopted,1,1
+2024,proposed,code-enforcement,Code Enforcement,0.0,2024-operating-adopted,1,1
+2024,proposed,community-development,Office of Community Development,90.65,2024-operating-adopted,1,1
+2024,proposed,coroner,Coroner's Office,26.44,2024-operating-adopted,1,1
+2024,proposed,council,City Council,87.69,2024-operating-adopted,1,1
+2024,proposed,economic-development-fund,Economic Development Fund,2.49,2024-operating-adopted,1,1
+2024,proposed,ethics-review-board,Ethics Review Board,1.5,2024-operating-adopted,1,1
+2024,proposed,finance,Department of Finance,118.96,2024-operating-adopted,1,1
+2024,proposed,fire,Fire Department,640.0,2024-operating-adopted,1,1
+2024,proposed,hdlc,Historic District Landmarks Commission,13.0,2024-operating-adopted,1,1
+2024,proposed,health,Health Department,183.9,2024-operating-adopted,1,1
+2024,proposed,human-services,Human Services (Juvenile Justice Intervention Center),58.0,2024-operating-adopted,1,1
+2024,proposed,independent-police-monitor,Office of Independent Police Monitor,5.0,2024-operating-adopted,1,1
+2024,proposed,inspector-general,Office of Inspector General,28.91,2024-operating-adopted,1,1
+2024,proposed,juvenile-court,Juvenile Court,29.0,2024-operating-adopted,1,1
+2024,proposed,law,Law Department,63.98,2024-operating-adopted,1,1
+2024,proposed,library,New Orleans Public Library,199.65,2024-operating-adopted,1,1
+2024,proposed,mayor,Mayor's Office,300.25,2024-operating-adopted,1,1
+2024,proposed,miscellaneous,Miscellaneous,455.86,2024-operating-adopted,1,1
+2024,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",40.73,2024-operating-adopted,1,1
+2024,proposed,municipal-traffic-court,Municipal and Traffic Court,110.88,2024-operating-adopted,1,1
+2024,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,0.3,2024-operating-adopted,1,1
+2024,proposed,parks-parkways,Parks and Parkways,163.02,2024-operating-adopted,1,1
+2024,proposed,police,Police Department,1277.46,2024-operating-adopted,1,1
+2024,proposed,property-management,Property Management,78.0,2024-operating-adopted,1,1
+2024,proposed,public-works,Department of Public Works,179.49,2024-operating-adopted,1,1
+2024,proposed,safety-permits,Safety and Permits,101.0,2024-operating-adopted,1,1
+2024,proposed,sanitation,Department of Sanitation,73.0,2024-operating-adopted,1,1
+2024,proposed,vcc,Vieux Carré Commission,6.0,2024-operating-adopted,1,1
+2024,proposed,workforce-investment,Workforce Investment,4.32,2024-operating-adopted,1,1
+2024,revised,cao,Chief Administrative Office,37.0,2025-operating-adopted,3,0
+2024,revised,city-planning,City Planning Commission,23.0,2025-operating-adopted,3,0
+2024,revised,civil-service,Civil Service,22.38,2025-operating-adopted,3,1
+2024,revised,clerk-criminal-court,Clerk of Criminal District Court,75.98,2025-operating-adopted,3,0
+2024,revised,code-enforcement,Code Enforcement,34.0,2025-operating-adopted,3,0
+2024,revised,community-development,Office of Community Development,45.65,2025-operating-adopted,3,0
+2024,revised,coroner,Coroner's Office,26.44,2025-operating-adopted,3,1
+2024,revised,council,City Council,74.23,2025-operating-adopted,3,0
+2024,revised,economic-development-fund,Economic Development Fund,2.49,2025-operating-adopted,3,1
+2024,revised,ethics-review-board,Ethics Review Board,1.5,2025-operating-adopted,3,1
+2024,revised,finance,Department of Finance,113.96,2025-operating-adopted,3,0
+2024,revised,fire,Fire Department,635.0,2025-operating-adopted,3,0
+2024,revised,hdlc,Historic District Landmarks Commission,13.0,2025-operating-adopted,3,1
+2024,revised,health,Health Department,207.97,2025-operating-adopted,3,0
+2024,revised,human-services,Human Services (Juvenile Justice Intervention Center),49.0,2025-operating-adopted,3,0
+2024,revised,independent-police-monitor,Office of Independent Police Monitor,5.0,2025-operating-adopted,3,1
+2024,revised,inspector-general,Office of Inspector General,21.91,2025-operating-adopted,3,0
+2024,revised,juvenile-court,Juvenile Court,29.0,2025-operating-adopted,3,1
+2024,revised,law,Law Department,65.4,2025-operating-adopted,3,0
+2024,revised,library,New Orleans Public Library,197.65,2025-operating-adopted,3,0
+2024,revised,mayor,Mayor's Office,255.25,2025-operating-adopted,3,0
+2024,revised,miscellaneous,Miscellaneous,445.86,2025-operating-adopted,3,0
+2024,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",38.24,2025-operating-adopted,3,0
+2024,revised,municipal-traffic-court,Municipal and Traffic Court,105.88,2025-operating-adopted,3,0
+2024,revised,museum-of-art,New Orleans Museum of Art,1.0,2025-operating-adopted,2,1
+2024,revised,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,0.3,2025-operating-adopted,3,1
+2024,revised,parks-parkways,Parks and Parkways,163.02,2025-operating-adopted,3,1
+2024,revised,police,Police Department,1277.46,2025-operating-adopted,3,1
+2024,revised,property-management,Property Management,75.0,2025-operating-adopted,3,0
+2024,revised,public-works,Department of Public Works,155.49,2025-operating-adopted,3,0
+2024,revised,safety-permits,Safety and Permits,91.0,2025-operating-adopted,3,0
+2024,revised,sanitation,Department of Sanitation,67.0,2025-operating-adopted,3,0
+2024,revised,vcc,Vieux Carré Commission,6.0,2025-operating-adopted,3,1
+2024,revised,workforce-investment,Workforce Investment,4.32,2025-operating-adopted,3,1
+2025,adopted,cao,Chief Administrative Office,40.0,2025-operating-adopted,3,0
+2025,adopted,city-planning,City Planning Commission,26.0,2025-operating-adopted,3,1
+2025,adopted,civil-service,Civil Service,26.38,2025-operating-adopted,3,1
+2025,adopted,clerk-criminal-court,Clerk of Criminal District Court,76.45,2025-operating-adopted,3,1
+2025,adopted,code-enforcement,Code Enforcement,62.0,2025-operating-adopted,3,0
+2025,adopted,community-development,Office of Community Development,42.0,2025-operating-adopted,3,1
+2025,adopted,coroner,Coroner's Office,25.44,2025-operating-adopted,3,1
+2025,adopted,council,City Council,91.7,2025-operating-adopted,3,1
+2025,adopted,economic-development-fund,Economic Development Fund,1.49,2025-operating-adopted,3,1
+2025,adopted,ethics-review-board,Ethics Review Board,1.5,2025-operating-adopted,3,1
+2025,adopted,finance,Department of Finance,110.97,2025-operating-adopted,3,0
+2025,adopted,fire,Fire Department,643.0,2025-operating-adopted,3,1
+2025,adopted,hdlc,Historic District Landmarks Commission,12.0,2025-operating-adopted,3,1
+2025,adopted,health,Health Department,248.88,2025-operating-adopted,3,0
+2025,adopted,human-services,Human Services (Juvenile Justice Intervention Center),57.0,2025-operating-adopted,3,1
+2025,adopted,independent-police-monitor,Office of Independent Police Monitor,6.5,2025-operating-adopted,3,1
+2025,adopted,inspector-general,Office of Inspector General,24.94,2025-operating-adopted,3,0
+2025,adopted,juvenile-court,Juvenile Court,29.0,2025-operating-adopted,3,1
+2025,adopted,law,Law Department,63.4,2025-operating-adopted,3,1
+2025,adopted,library,New Orleans Public Library,203.05,2025-operating-adopted,3,1
+2025,adopted,mayor,Mayor's Office,299.49,2025-operating-adopted,3,0
+2025,adopted,miscellaneous,Miscellaneous,348.14,2025-operating-adopted,3,0
+2025,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",45.87,2025-operating-adopted,3,0
+2025,adopted,municipal-traffic-court,Municipal and Traffic Court,99.72,2025-operating-adopted,3,1
+2025,adopted,museum-of-art,New Orleans Museum of Art,1.0,2025-operating-adopted,3,1
+2025,adopted,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,0.0,2025-operating-adopted,1,1
+2025,adopted,parks-parkways,Parks and Parkways,137.02,2025-operating-adopted,3,1
+2025,adopted,police,Police Department,1319.51,2025-operating-adopted,3,0
+2025,adopted,property-management,Property Management,71.14,2025-operating-adopted,3,1
+2025,adopted,public-works,Department of Public Works,166.49,2025-operating-adopted,3,0
+2025,adopted,safety-permits,Safety and Permits,129.0,2025-operating-adopted,3,0
+2025,adopted,sanitation,Department of Sanitation,75.0,2025-operating-adopted,3,1
+2025,adopted,vcc,Vieux Carré Commission,6.0,2025-operating-adopted,3,1
+2025,adopted,workforce-investment,Workforce Investment,4.22,2025-operating-adopted,3,1
+2025,proposed,cao,Chief Administrative Office,179.46,2025-operating-proposed,2,0
+2025,proposed,city-planning,City Planning Commission,26.0,2025-operating-proposed,2,1
+2025,proposed,civil-service,Civil Service,26.38,2025-operating-proposed,2,1
+2025,proposed,clerk-criminal-court,Clerk of Criminal District Court,76.45,2025-operating-proposed,2,1
+2025,proposed,code-enforcement,Code Enforcement,66.0,2025-operating-proposed,2,0
+2025,proposed,community-development,Office of Community Development,42.0,2025-operating-proposed,2,1
+2025,proposed,coroner,Coroner's Office,25.44,2025-operating-proposed,2,1
+2025,proposed,council,City Council,91.7,2025-operating-proposed,2,1
+2025,proposed,economic-development-fund,Economic Development Fund,1.49,2025-operating-proposed,2,1
+2025,proposed,ethics-review-board,Ethics Review Board,1.5,2025-operating-proposed,2,1
+2025,proposed,finance,Department of Finance,110.97,2025-operating-proposed,2,1
+2025,proposed,fire,Fire Department,643.0,2025-operating-proposed,2,1
+2025,proposed,hdlc,Historic District Landmarks Commission,12.0,2025-operating-proposed,2,1
+2025,proposed,health,Health Department,248.88,2025-operating-proposed,2,1
+2025,proposed,human-services,Human Services (Juvenile Justice Intervention Center),57.0,2025-operating-proposed,2,1
+2025,proposed,independent-police-monitor,Office of Independent Police Monitor,6.5,2025-operating-proposed,2,1
+2025,proposed,inspector-general,Office of Inspector General,25.94,2025-operating-proposed,2,0
+2025,proposed,juvenile-court,Juvenile Court,29.0,2025-operating-proposed,2,1
+2025,proposed,law,Law Department,63.4,2025-operating-proposed,2,1
+2025,proposed,library,New Orleans Public Library,203.05,2025-operating-proposed,2,1
+2025,proposed,mayor,Mayor's Office,308.49,2025-operating-proposed,2,0
+2025,proposed,miscellaneous,Miscellaneous,351.14,2025-operating-proposed,2,0
+2025,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",46.87,2025-operating-proposed,2,0
+2025,proposed,municipal-traffic-court,Municipal and Traffic Court,99.72,2025-operating-proposed,2,1
+2025,proposed,museum-of-art,New Orleans Museum of Art,1.0,2025-operating-proposed,2,1
+2025,proposed,neighborhood-housing-fund,Neighborhood Housing Improvement Fund,0.0,2025-operating-proposed,2,1
+2025,proposed,parks-parkways,Parks and Parkways,137.02,2025-operating-proposed,2,1
+2025,proposed,police,Police Department,1319.51,2025-operating-proposed,2,1
+2025,proposed,property-management,Property Management,71.14,2025-operating-proposed,2,1
+2025,proposed,public-works,Department of Public Works,166.49,2025-operating-proposed,2,1
+2025,proposed,safety-permits,Safety and Permits,130.0,2025-operating-proposed,2,0
+2025,proposed,sanitation,Department of Sanitation,75.0,2025-operating-proposed,2,1
+2025,proposed,vcc,Vieux Carré Commission,6.0,2025-operating-proposed,2,1
+2025,proposed,workforce-investment,Workforce Investment,4.22,2025-operating-proposed,2,1
+2025,revised,cao,Chief Administrative Office,178.46,2026-operating-adopted,3,0
+2025,revised,city-planning,City Planning Commission,26.0,2026-operating-adopted,3,1
+2025,revised,civil-service,Civil Service,26.38,2026-operating-adopted,3,1
+2025,revised,clerk-criminal-court,Clerk of Criminal District Court,76.45,2026-operating-adopted,3,1
+2025,revised,code-enforcement,Code Enforcement,64.0,2026-operating-adopted,3,0
+2025,revised,community-development,Office of Community Development,42.0,2026-operating-adopted,3,1
+2025,revised,coroner,Coroner's Office,25.44,2026-operating-adopted,3,1
+2025,revised,council,City Council,91.7,2026-operating-adopted,3,1
+2025,revised,economic-development-fund,Economic Development Fund,1.49,2026-operating-adopted,3,1
+2025,revised,ethics-review-board,Ethics Review Board,1.5,2026-operating-adopted,3,1
+2025,revised,finance,Department of Finance,109.97,2026-operating-adopted,3,0
+2025,revised,fire,Fire Department,643.0,2026-operating-adopted,3,1
+2025,revised,hdlc,Historic District Landmarks Commission,12.0,2026-operating-adopted,3,1
+2025,revised,health,Health Department,246.88,2026-operating-adopted,3,0
+2025,revised,human-services,Human Services (Juvenile Justice Intervention Center),57.0,2026-operating-adopted,3,1
+2025,revised,independent-police-monitor,Office of Independent Police Monitor,6.5,2026-operating-adopted,3,1
+2025,revised,inspector-general,Office of Inspector General,25.94,2026-operating-adopted,3,0
+2025,revised,judicial-retirement,Judicial Retirement Fund,0.0,2026-operating-adopted,2,1
+2025,revised,juvenile-court,Juvenile Court,29.0,2026-operating-adopted,3,1
+2025,revised,law,Law Department,63.4,2026-operating-adopted,3,1
+2025,revised,library,New Orleans Public Library,203.05,2026-operating-adopted,3,1
+2025,revised,mayor,Mayor's Office,308.49,2026-operating-adopted,3,0
+2025,revised,miscellaneous,Miscellaneous,347.64,2026-operating-adopted,3,0
+2025,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",44.87,2026-operating-adopted,3,0
+2025,revised,municipal-traffic-court,Municipal and Traffic Court,99.72,2026-operating-adopted,3,1
+2025,revised,museum-of-art,New Orleans Museum of Art,1.0,2026-operating-adopted,3,1
+2025,revised,parks-parkways,Parks and Parkways,137.02,2026-operating-adopted,3,1
+2025,revised,police,Police Department,1306.51,2026-operating-adopted,3,0
+2025,revised,property-management,Property Management,71.14,2026-operating-adopted,3,1
+2025,revised,public-works,Department of Public Works,163.49,2026-operating-adopted,3,0
+2025,revised,safety-permits,Safety and Permits,127.8,2026-operating-adopted,3,0
+2025,revised,sanitation,Department of Sanitation,75.0,2026-operating-adopted,3,1
+2025,revised,vcc,Vieux Carré Commission,6.0,2026-operating-adopted,3,1
+2025,revised,workforce-investment,Workforce Investment,4.22,2026-operating-adopted,3,1
+2026,adopted,cao,Chief Administrative Office,171.95,2026-operating-adopted,2,1
+2026,adopted,city-planning,City Planning Commission,24.0,2026-operating-adopted,2,1
+2026,adopted,civil-service,Civil Service,25.92,2026-operating-adopted,2,1
+2026,adopted,clerk-criminal-court,Clerk of Criminal District Court,82.46,2026-operating-adopted,1,1
+2026,adopted,code-enforcement,Code Enforcement,57.57,2026-operating-adopted,2,1
+2026,adopted,community-development,Office of Community Development,40.0,2026-operating-adopted,2,1
+2026,adopted,coroner,Coroner's Office,25.64,2026-operating-adopted,2,1
+2026,adopted,council,City Council,77.65,2026-operating-adopted,2,1
+2026,adopted,economic-development-fund,Economic Development Fund,1.0,2026-operating-adopted,1,1
+2026,adopted,ethics-review-board,Ethics Review Board,1.5,2026-operating-adopted,2,1
+2026,adopted,finance,Department of Finance,107.97,2026-operating-adopted,2,1
+2026,adopted,fire,Fire Department,643.5,2026-operating-adopted,2,1
+2026,adopted,hdlc,Historic District Landmarks Commission,13.0,2026-operating-adopted,2,1
+2026,adopted,health,Health Department,247.51,2026-operating-adopted,2,1
+2026,adopted,human-services,Human Services (Juvenile Justice Intervention Center),65.0,2026-operating-adopted,2,1
+2026,adopted,independent-police-monitor,Office of Independent Police Monitor,7.49,2026-operating-adopted,2,1
+2026,adopted,inspector-general,Office of Inspector General,25.5,2026-operating-adopted,2,1
+2026,adopted,judicial-retirement,Judicial Retirement Fund,1.14,2026-operating-adopted,2,1
+2026,adopted,juvenile-court,Juvenile Court,30.0,2026-operating-adopted,2,1
+2026,adopted,law,Law Department,57.98,2026-operating-adopted,2,1
+2026,adopted,library,New Orleans Public Library,215.54,2026-operating-adopted,2,1
+2026,adopted,mayor,Mayor's Office,258.99,2026-operating-adopted,2,0
+2026,adopted,miscellaneous,Miscellaneous,291.57,2026-operating-adopted,2,1
+2026,adopted,mosquito-control,"Mosquito, Termite and Rodent Control Board",39.26,2026-operating-adopted,2,1
+2026,adopted,municipal-traffic-court,Municipal and Traffic Court,88.62,2026-operating-adopted,2,1
+2026,adopted,museum-of-art,New Orleans Museum of Art,1.0,2026-operating-adopted,2,1
+2026,adopted,parks-parkways,Parks and Parkways,142.24,2026-operating-adopted,2,1
+2026,adopted,police,Police Department,1280.47,2026-operating-adopted,2,1
+2026,adopted,property-management,Property Management,77.0,2026-operating-adopted,2,1
+2026,adopted,public-works,Department of Public Works,158.49,2026-operating-adopted,2,1
+2026,adopted,safety-permits,Safety and Permits,107.0,2026-operating-adopted,2,1
+2026,adopted,sanitation,Department of Sanitation,73.0,2026-operating-adopted,2,1
+2026,adopted,vcc,Vieux Carré Commission,6.0,2026-operating-adopted,2,1
+2026,adopted,workforce-investment,Workforce Investment,3.34,2026-operating-adopted,2,1
+2026,proposed,cao,Chief Administrative Office,171.95,2026-operating-proposed,2,1
+2026,proposed,city-planning,City Planning Commission,24.0,2026-operating-proposed,2,1
+2026,proposed,civil-service,Civil Service,25.92,2026-operating-proposed,2,1
+2026,proposed,clerk-criminal-court,Clerk of Criminal District Court,82.46,2026-operating-proposed,2,1
+2026,proposed,code-enforcement,Code Enforcement,57.57,2026-operating-proposed,2,1
+2026,proposed,community-development,Office of Community Development,40.0,2026-operating-proposed,2,1
+2026,proposed,coroner,Coroner's Office,25.64,2026-operating-proposed,2,1
+2026,proposed,council,City Council,77.65,2026-operating-proposed,2,1
+2026,proposed,economic-development-fund,Economic Development Fund,1.0,2026-operating-proposed,2,1
+2026,proposed,ethics-review-board,Ethics Review Board,1.5,2026-operating-proposed,2,1
+2026,proposed,finance,Department of Finance,107.97,2026-operating-proposed,2,1
+2026,proposed,fire,Fire Department,643.5,2026-operating-proposed,2,1
+2026,proposed,hdlc,Historic District Landmarks Commission,13.0,2026-operating-proposed,2,1
+2026,proposed,health,Health Department,247.51,2026-operating-proposed,2,1
+2026,proposed,human-services,Human Services (Juvenile Justice Intervention Center),65.0,2026-operating-proposed,2,1
+2026,proposed,independent-police-monitor,Office of Independent Police Monitor,7.49,2026-operating-proposed,2,1
+2026,proposed,inspector-general,Office of Inspector General,25.5,2026-operating-proposed,2,1
+2026,proposed,judicial-retirement,Judicial Retirement Fund,1.14,2026-operating-proposed,2,1
+2026,proposed,juvenile-court,Juvenile Court,30.0,2026-operating-proposed,2,1
+2026,proposed,law,Law Department,57.98,2026-operating-proposed,2,1
+2026,proposed,library,New Orleans Public Library,215.54,2026-operating-proposed,2,1
+2026,proposed,mayor,Mayor's Office,282.99,2026-operating-proposed,2,0
+2026,proposed,miscellaneous,Miscellaneous,291.57,2026-operating-proposed,2,1
+2026,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",39.26,2026-operating-proposed,2,1
+2026,proposed,municipal-traffic-court,Municipal and Traffic Court,88.62,2026-operating-proposed,2,1
+2026,proposed,museum-of-art,New Orleans Museum of Art,1.0,2026-operating-proposed,2,1
+2026,proposed,parks-parkways,Parks and Parkways,142.24,2026-operating-proposed,2,1
+2026,proposed,police,Police Department,1280.47,2026-operating-proposed,2,1
+2026,proposed,property-management,Property Management,77.0,2026-operating-proposed,2,1
+2026,proposed,public-works,Department of Public Works,158.49,2026-operating-proposed,2,1
+2026,proposed,safety-permits,Safety and Permits,107.0,2026-operating-proposed,2,1
+2026,proposed,sanitation,Department of Sanitation,73.0,2026-operating-proposed,2,1
+2026,proposed,vcc,Vieux Carré Commission,6.0,2026-operating-proposed,2,1
+2026,proposed,workforce-investment,Workforce Investment,3.34,2026-operating-proposed,2,1
+2026,revised,cao,Chief Administrative Office,171.95,2027-operating-proposed,2,1
+2026,revised,city-planning,City Planning Commission,24.0,2027-operating-proposed,2,1
+2026,revised,civil-service,Civil Service,25.92,2027-operating-proposed,2,1
+2026,revised,code-enforcement,Code Enforcement,57.57,2027-operating-proposed,2,1
+2026,revised,community-development,Office of Community Development,40.0,2027-operating-proposed,2,1
+2026,revised,coroner,Coroner's Office,25.64,2027-operating-proposed,2,1
+2026,revised,council,City Council,77.65,2027-operating-proposed,2,1
+2026,revised,ethics-review-board,Ethics Review Board,1.5,2027-operating-proposed,2,1
+2026,revised,finance,Department of Finance,107.97,2027-operating-proposed,2,1
+2026,revised,fire,Fire Department,643.5,2027-operating-proposed,2,1
+2026,revised,hdlc,Historic District Landmarks Commission,13.0,2027-operating-proposed,2,1
+2026,revised,health,Health Department,247.51,2027-operating-proposed,2,1
+2026,revised,human-services,Human Services (Juvenile Justice Intervention Center),65.0,2027-operating-proposed,2,1
+2026,revised,independent-police-monitor,Office of Independent Police Monitor,7.49,2027-operating-proposed,2,1
+2026,revised,inspector-general,Office of Inspector General,25.5,2027-operating-proposed,2,1
+2026,revised,judicial-retirement,Judicial Retirement Fund,1.14,2027-operating-proposed,2,1
+2026,revised,juvenile-court,Juvenile Court,30.0,2027-operating-proposed,2,1
+2026,revised,law,Law Department,57.98,2027-operating-proposed,2,1
+2026,revised,library,New Orleans Public Library,215.54,2027-operating-proposed,2,1
+2026,revised,mayor,Mayor's Office,257.99,2027-operating-proposed,2,0
+2026,revised,miscellaneous,Miscellaneous,291.57,2027-operating-proposed,2,1
+2026,revised,mosquito-control,"Mosquito, Termite and Rodent Control Board",39.26,2027-operating-proposed,2,1
+2026,revised,municipal-traffic-court,Municipal and Traffic Court,88.62,2027-operating-proposed,2,1
+2026,revised,museum-of-art,New Orleans Museum of Art,1.0,2027-operating-proposed,2,1
+2026,revised,parks-parkways,Parks and Parkways,142.24,2027-operating-proposed,2,1
+2026,revised,police,Police Department,1280.47,2027-operating-proposed,2,1
+2026,revised,property-management,Property Management,77.0,2027-operating-proposed,2,1
+2026,revised,public-works,Department of Public Works,158.49,2027-operating-proposed,2,1
+2026,revised,safety-permits,Safety and Permits,107.0,2027-operating-proposed,2,1
+2026,revised,sanitation,Department of Sanitation,73.0,2027-operating-proposed,2,1
+2026,revised,vcc,Vieux Carré Commission,6.0,2027-operating-proposed,2,1
+2026,revised,workforce-investment,Workforce Investment,3.34,2027-operating-proposed,2,1
+2027,proposed,cao,Chief Administrative Office,167.95,2027-operating-proposed,1,1
+2027,proposed,city-planning,City Planning Commission,24.0,2027-operating-proposed,1,1
+2027,proposed,civil-service,Civil Service,23.92,2027-operating-proposed,1,1
+2027,proposed,code-enforcement,Code Enforcement,52.0,2027-operating-proposed,1,1
+2027,proposed,community-development,Office of Community Development,31.98,2027-operating-proposed,1,1
+2027,proposed,coroner,Coroner's Office,26.08,2027-operating-proposed,1,1
+2027,proposed,council,City Council,79.11,2027-operating-proposed,1,1
+2027,proposed,ethics-review-board,Ethics Review Board,1.5,2027-operating-proposed,1,1
+2027,proposed,finance,Department of Finance,105.97,2027-operating-proposed,1,1
+2027,proposed,fire,Fire Department,643.99,2027-operating-proposed,1,1
+2027,proposed,hdlc,Historic District Landmarks Commission,10.0,2027-operating-proposed,1,1
+2027,proposed,health,Health Department,242.27,2027-operating-proposed,1,1
+2027,proposed,human-services,Human Services (Juvenile Justice Intervention Center),16.0,2027-operating-proposed,1,1
+2027,proposed,independent-police-monitor,Office of Independent Police Monitor,7.34,2027-operating-proposed,1,1
+2027,proposed,inspector-general,Office of Inspector General,24.4,2027-operating-proposed,1,1
+2027,proposed,judicial-retirement,Judicial Retirement Fund,0.0,2027-operating-proposed,1,1
+2027,proposed,juvenile-court,Juvenile Court,26.0,2027-operating-proposed,1,1
+2027,proposed,law,Law Department,57.98,2027-operating-proposed,1,1
+2027,proposed,library,New Orleans Public Library,196.54,2027-operating-proposed,1,1
+2027,proposed,mayor,Mayor's Office,251.99,2027-operating-proposed,1,1
+2027,proposed,miscellaneous,Miscellaneous,262.08,2027-operating-proposed,1,1
+2027,proposed,mosquito-control,"Mosquito, Termite and Rodent Control Board",38.75,2027-operating-proposed,1,1
+2027,proposed,municipal-traffic-court,Municipal and Traffic Court,84.54,2027-operating-proposed,1,1
+2027,proposed,museum-of-art,New Orleans Museum of Art,2.49,2027-operating-proposed,1,1
+2027,proposed,parks-parkways,Parks and Parkways,122.26,2027-operating-proposed,1,1
+2027,proposed,police,Police Department,1330.45,2027-operating-proposed,1,1
+2027,proposed,property-management,Property Management,65.0,2027-operating-proposed,1,1
+2027,proposed,public-works,Department of Public Works,138.49,2027-operating-proposed,1,1
+2027,proposed,safety-permits,Safety and Permits,108.0,2027-operating-proposed,1,1
+2027,proposed,sanitation,Department of Sanitation,55.0,2027-operating-proposed,1,1
+2027,proposed,vcc,Vieux Carré Commission,7.0,2027-operating-proposed,1,1
+2027,proposed,workforce-investment,Workforce Investment,3.43,2027-operating-proposed,1,1

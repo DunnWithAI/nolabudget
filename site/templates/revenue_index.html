@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}Where the City of New Orleans General Fund money comes from, in the {{ py }} proposal and the {{ fy }} budget, and how it has changed since {{ site.first_year }}.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/revenue/", "Revenue")] %}
+{% block content %}
+<header class="lede">
+  <h1>Where the money comes from</h1>
+  <p class="lead">The Mayor's {{ py }} proposal expects <strong>{{ totals.new|money }}</strong> of <a href="/#general-fund">General Fund</a> income, {{ fmt.change(totals.new, totals.old) }} from the {{ fy }} budget now in force ({{ totals.old|money }}).</p>
+  <p>The biggest sources in the {{ py }} proposal are {{ top.cat.category|lower }} ({{ top.share|share }}) and {{ second.cat.category|lower }} ({{ second.share|share }}). Each source below has its own page, with its history back to {{ site.first_year }}.</p>
+  <div class="lede-visual">
+    <div>
+      <p class="visual-h">General Fund income</p>
+      {{ m.compare(totals.old, totals.new, fy ~ " budget in force", py ~ " proposal") }}
+    </div>
+    {{ m.resident_stat(totals.new, py, "of General Fund income per resident in the " ~ py ~ " proposal.") }}
+  </div>
+  {{ m.resident_note(py) }}
+  {{ m.source(cites, note="Shares and figures per resident are calculated from these.") }}
+</header>
+
+<section class="block" aria-labelledby="every100">
+  <h2 id="every100">Out of every $100</h2>
+  <p class="big-sentence">Out of every $100 the General Fund takes in under the {{ py }} proposal, ${{ cat_split[0].per100 }} comes from {{ cat_split[0].name|lower }} and ${{ cat_split[1].per100 }} from {{ cat_split[1].name|lower }}.</p>
+  {{ m.split_bar(cat_split, "General Fund income in the " ~ py ~ " proposal, by source") }}
+  {{ m.source(cites, "Calculated from") }}
+</section>
+
+<section class="block" aria-labelledby="now">
+  <h2 id="now">{{ py }} proposal and {{ fy }} budget</h2>
+  <div class="table-scroll">
+  <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
+<table class="data index cmp">
+    <caption class="vh">General Fund income by category, {{ fy }} adopted and {{ py }} proposed, in dollars</caption>
+    <thead><tr><th scope="col">Source</th><th scope="col" class="num">{{ fy }} adopted</th><th scope="col" class="num">{{ py }} proposed</th><th scope="col" class="num">Change</th><th scope="col" class="num">Change, %</th><th scope="col" class="num">Share of {{ py }}</th></tr></thead>
+    <tbody>
+    {% for r in rows %}
+      <tr><th scope="row"><a href="{{ r.url }}">{{ r.cat.category }}</a><span class="row-desc">{{ r.cat.short }}</span></th>
+        {{ m.num(r.old|full if r.old is not none else none) }}{{ m.num(r.new|full if r.new is not none else none) }}
+        {% if r.diff is not none %}<td class="num">{{ r.diff|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}
+        {% if r.pct is not none %}<td class="num">{{ r.pct|signed_pct }}</td>{% else %}{{ m.num(none) }}{% endif %}
+        {% if r.share is not none %}<td class="num share">{{ r.share|share }}{{ m.bar(r.share) }}</td>{% else %}{{ m.num(none) }}{% endif %}</tr>
+    {% endfor %}
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">All General Fund income</th><td class="num">{{ totals.old|full }}</td><td class="num">{{ totals.new|full }}</td><td class="num">{{ (totals.new - totals.old)|signed_full }}</td><td class="num">{{ ((totals.new - totals.old) / totals.old)|signed_pct }}</td><td class="num share">100%</td></tr></tfoot>
+  </table>
+  </div>
+  <p class="table-note">In dollars. These are the income lines added together as this site reads them from the books.{% if gap_note %} {{ gap_note }}{% endif %}</p>
+  {{ m.source(cites) }}
+</section>
+
+<section class="block" aria-labelledby="time">
+  <h2 id="time">Over time, source by source</h2>
+  <p class="sub">What the City Council adopted each year, and what the city actually collected. Each chart has its own scale, so compare the shapes, not the heights. You can switch each one between dollars, dollars adjusted for inflation and dollars per resident.</p>
+  {% for f in figs %}
+  <h3 class="fig-h"><a href="{{ f.url }}">{{ f.cat.category }}</a></h3>
+  {{ m.figure(f.fig) }}
+  {% endfor %}
+  <p class="table-note">A gap in a line means the books do not print that year. It does not mean no money came in. The 2004 to 2006 actuals follow Hurricane Katrina.</p>
+  {{ m.footnotes(ev_notes, "One-off events in these charts") }}
+  <p class="table-note">Hotel tax and motor-vehicle tax were printed inside sales tax in some years, so sales taxes look higher, and other taxes lower, before 2008. <a href="/revenue/sales-taxes/">See sales taxes</a>.</p>
+  <p class="source">Sources: each category's page, linked above its chart, lists every year's figures with the book and page they come from.</p>
+</section>
+
+<section class="block" aria-labelledby="other">
+  <h2 id="other">Other funds</h2>
+  <p>Besides the General Fund, the city budgets {{ other.tot_new|money }} in {{ py }} from other funds, {{ fmt.change(other.tot_new, other.tot_old) }} from {{ fy }}. These are mostly federal and state grants and money set aside for a named purpose. Council does not choose how most of it is spent. See <a href="/#general-fund">why this site starts with the General Fund</a>.</p>
+  {% if other.split %}{{ m.split_bar(other.split, "Other funds income in the " ~ py ~ " proposal, by source", unit="share") }}{% endif %}
+  <p><strong>Read these figures with care.</strong> Other funds are budgeted at the most the city might receive. Actual receipts are usually far lower. And the books' actual figures for other funds are incomplete for 2010 to 2014 and 2017 to 2022, so the chart leaves those years out.</p>
+  <div class="table-scroll">
+  <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
+<table class="data index cmp">
+    <caption class="vh">Other funds income by source, {{ fy }} adopted and {{ py }} proposed, in dollars</caption>
+    <thead><tr><th scope="col">Source</th><th scope="col" class="num">{{ fy }} adopted</th><th scope="col" class="num">{{ py }} proposed</th><th scope="col" class="num">Change</th></tr></thead>
+    <tbody>
+    {% for L in other.lines %}
+      <tr><th scope="row">{{ L.name }}{% if L.text %}<span class="row-desc">{{ L.text }}</span>{% endif %}</th>
+        {{ m.num(L.old|full if L.old is not none else none) }}{{ m.num(L.new|full if L.new is not none else none) }}
+        {% if L.new is not none and L.old is not none %}<td class="num">{{ (L.new - L.old)|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}</tr>
+    {% endfor %}
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">All other funds</th><td class="num">{{ other.tot_old|full }}</td><td class="num">{{ other.tot_new|full }}</td><td class="num">{{ (other.tot_new - other.tot_old)|signed_full }}</td></tr></tfoot>
+  </table>
+  </div>
+  <p class="table-note">In dollars. A dash means the line is not printed in that budget.</p>
+  {{ m.source(other.cites) }}
+  <h3>Other funds over time</h3>
+  {{ m.figure(other.fig) }}
+  <details class="numbers">
+    <summary>Show every year, including the incomplete actuals</summary>
+    <div class="table-scroll wide">
+    <table class="data yby">
+      <caption class="vh">Other funds income by year, in dollars</caption>
+      <thead><tr><th scope="col">Year</th>{% for bs in ('proposed', 'adopted', 'revised', 'actual') %}<th scope="col" class="num">{{ BASIS_LABEL[bs] }}</th>{% endfor %}<th scope="col">Sources</th></tr></thead>
+      <tbody>
+      {% for r in other.table %}
+        <tr{% if r.year in (py, fy) %} class="current"{% endif %}>
+          <th scope="row">{{ r.year }}</th>
+          {% for c in r.cells %}{{ m.num(c|full if c is not none else none, '') }}{% endfor %}
+          <td class="src">{% for bs, c in r.cites %}<span class="src-item"><span class="src-basis">{{ BASIS_LABEL[bs] }}:</span> {{ m.cite(c, true) }}</span>{% endfor %}{{ m.refs(r.notes, other.numbered) }}</td>
+        </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+    </div>
+    {{ m.footnotes(other.notes, "Note on other funds") }}
+  </details>
+</section>
+{% endblock %}

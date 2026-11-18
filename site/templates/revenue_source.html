@@ -1,0 +1,109 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}{{ info.name }}: one source of City of New Orleans General Fund income, listed under {{ cat.category }}. How much it brings in, year by year, with the budget book page for each figure.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/revenue/", "Revenue"), ("/revenue/%s/"|format(cat.slug), cat.category), ("/revenue/%s/"|format(rev_id), info.name)] %}
+{% block content %}
+<header class="lede">
+  <p class="kicker"><a href="/revenue/{{ cat.slug }}/">{{ cat.category }}</a></p>
+  <h1>{{ info.name }}</h1>
+  <p class="lead">{{ info.plain_description }}</p>
+  {% if new is not none and old is not none %}
+  <p>The Mayor's {{ py }} proposal expects <strong>{{ new|money }}</strong> from this, {{ change }} from the {{ fy }} budget now in force{% if share is not none %}. That is {{ share|share }} of <a href="/#general-fund">General Fund</a> income{% endif %}.</p>
+  {% elif new is not none %}
+  <p>The Mayor's {{ py }} proposal expects <strong>{{ new|money }}</strong> from this{% if share is not none %} ({{ share|share }} of <a href="/#general-fund">General Fund</a> income){% endif %}. The {{ fy }} budget does not print it as its own line.</p>
+  {% elif old is not none %}
+  <p>The {{ fy }} budget has <strong>{{ old|money }}</strong> for this. The {{ py }} proposal does not print it as its own line.</p>
+  {% else %}
+  <p>Neither the {{ fy }} budget nor the {{ py }} proposal prints this as its own line. The last year with a figure is {{ last }}.</p>
+  {% endif %}
+  {% if new is not none or old is not none %}
+  <div class="lede-visual">
+    <div>
+      <p class="visual-h">{{ info.name }}</p>
+      {{ m.compare(old, new, fy ~ " budget in force", py ~ " proposal") }}
+    </div>
+    <div class="stats">
+      {{ m.per100_stat(share, "of every $100 the General Fund takes in would come from this under the " ~ py ~ " proposal.") }}
+      {{ m.resident_stat(new, py, "per resident a year.") }}
+    </div>
+  </div>
+  {% if new %}{{ m.resident_note(py) }}{% endif %}
+  {% if cur_cites %}{{ m.source(cur_cites, note="Shares and figures per resident are calculated from these.") }}{% endif %}
+  {% elif table %}
+  {{ m.source_ref("every year's figures, with the book and page they come from, are in", "#years", "the year-by-year table") }}
+  {% endif %}
+</header>
+
+{% if new is not none or old is not none %}
+<section class="block" aria-labelledby="now">
+  <h2 id="now">{{ py }} proposal and {{ fy }} budget</h2>
+  <div class="table-scroll">
+  <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
+<table class="data cmp">
+    <caption class="vh">{{ info.name }}: {{ py }} proposal against the {{ fy }} adopted budget, in dollars</caption>
+    <thead><tr><th scope="col">Line</th><th scope="col" class="num">{{ fy }} adopted</th><th scope="col" class="num">{{ py }} proposed</th><th scope="col" class="num">Change</th></tr></thead>
+    <tbody>
+      <tr><th scope="row">{{ info.name }}</th>{{ m.num(old|full if old is not none else none) }}{{ m.num(new|full if new is not none else none) }}
+        {% if new is not none and old is not none %}<td class="num">{{ (new - old)|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}</tr>
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">All General Fund income</th><td class="num">{{ tot_old|full }}</td><td class="num">{{ tot_new|full }}</td><td class="num">{{ (tot_new - tot_old)|signed_full }}</td></tr></tfoot>
+  </table>
+  </div>
+  <p class="table-note">In dollars. A dash means the line is not printed in that budget.</p>
+  {{ m.source(cur_cites) }}
+</section>
+{% endif %}
+
+{% if fig %}
+<section class="block" aria-labelledby="time">
+  <h2 id="time">Over time</h2>
+  {% if roll %}
+  <p class="callout-lite"><strong>This chart adds lines together.</strong> {{ roll.text }}
+    The lines are: <a href="/revenue/{{ rev_id }}/">{{ info.name }}</a>{% for o in others %}, <a href="{{ o.url }}">{{ o.name }}</a>{% endfor %}.</p>
+  {% endif %}
+  <p class="sub">What the City Council adopted each year, and what the city actually collected. Switch between dollars, dollars adjusted for inflation and dollars per resident.</p>
+  {{ m.figure(fig) }}
+  <p class="table-note">A gap in a line means the books do not print that year. It does not mean no money came in.</p>
+  {{ m.footnotes(page_notes, "One-off events in this chart") }}
+  {% if table %}{{ m.source_ref("each year's figures, with the book and page they come from, are in", "#years", "the year-by-year table") }}{% endif %}
+</section>
+{% endif %}
+
+{% if table %}
+<section class="block" aria-labelledby="years">
+  <h2 id="years">Year by year</h2>
+  <p class="sub">Every figure printed for this line, in dollars, with the book and page it comes from. Proposed is what the Mayor asked for; adopted is what the Council passed; revised is the adopted figure as reprinted a year later; actual is what the city collected.{% if together %} The last two columns add the lines of the chart together.{% endif %}</p>
+  <div class="table-scroll wide">
+  <table class="data yby">
+    <caption class="vh">{{ info.name }}, by year, in dollars</caption>
+    <thead><tr>
+      <th scope="col">Year</th>
+      {% for bs in ('proposed', 'adopted', 'revised', 'actual') %}<th scope="col" class="num">{{ BASIS_LABEL[bs] }}</th>{% endfor %}
+      {% if together %}<th scope="col" class="num">Adopted, lines together</th><th scope="col" class="num">Actual, lines together</th>{% endif %}
+      <th scope="col">Sources</th>
+    </tr></thead>
+    <tbody>
+    {% for r in table %}
+      <tr{% if r.year in (py, fy) %} class="current"{% endif %}>
+        <th scope="row">{{ r.year }}{{ m.refs(r.notes, numbered) }}</th>
+        {% for c in r.cells %}{{ m.num(c|full if c is not none else none) }}{% endfor %}
+        {% if together %}{% for c in r.tog %}{{ m.num(c|full if c is not none else none) }}{% endfor %}{% endif %}
+        <td class="src">{% for bs, c in r.cites %}<span class="src-item"><span class="src-basis">{{ BASIS_LABEL[bs] }}:</span> {{ m.cite(c, true) }}</span>{% endfor %}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p class="table-note">A dash means the line was not printed as its own line in that column. It does not mean zero.{% if together %} Where a dash sits beside a figure in the "lines together" columns, the money was printed inside another line.{% endif %}</p>
+  {% if not fig %}{{ m.footnotes(page_notes, "Notes on these figures") }}{% endif %}
+</section>
+{% endif %}
+
+{% if siblings %}
+<section class="block" aria-labelledby="more">
+  <h2 id="more">Other {{ cat.category|lower }} lines</h2>
+  <ul class="plain-notes">{% for s in siblings %}<li><a href="{{ s.url }}">{{ s.name }}</a></li>{% endfor %}</ul>
+</section>
+{% endif %}
+<p class="back"><a href="/revenue/{{ cat.slug }}/">All {{ cat.category|lower }}</a> · <a href="/revenue/">All sources of income</a></p>
+{% endblock %}

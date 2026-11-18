@@ -1,0 +1,182 @@
+book_id,fiscal_year,basis,table,fund_name,line_name,amount,page
+2023-operating-adopted,2021,actual,revenues_by_fund,General Fund,,634717168,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,General Fund,,652078553,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,General Fund,,736470921,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,General Fund,,887673921,85
+2023-operating-adopted,2021,actual,revenues_by_fund,Housing and Urban Development,,21917966,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,Housing and Urban Development,,90177456,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,Housing and Urban Development,,80978459,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,Housing and Urban Development,,81199478,85
+2023-operating-adopted,2021,actual,revenues_by_fund,Wisner Fund,,451353,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,Wisner Fund,,752568,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,Wisner Fund,,759469,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,Wisner Fund,,759469,85
+2023-operating-adopted,2021,actual,revenues_by_fund,Library,,19435653,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,Library,,21084029,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,Library,,25130286,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,Library,,25152000,85
+2023-operating-adopted,2021,actual,revenues_by_fund,Local Law Enforce. Grants,,624158,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,Local Law Enforce. Grants,,697744,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,Local Law Enforce. Grants,,396610,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,Local Law Enforce. Grants,,396610,85
+2023-operating-adopted,2021,actual,revenues_by_fund,Federal Grants,,175274786,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,Federal Grants,,294562152,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,Federal Grants,,174926336,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,Federal Grants,,303215815,85
+2023-operating-adopted,2021,actual,revenues_by_fund,State & Local Foundations Grants,,17302242,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,State & Local Foundations Grants,,54056538,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,State & Local Foundations Grants,,31990236,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,State & Local Foundations Grants,,32459435,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,"Grants, Contrib., & Fund Transfers",,300000000,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,"Grants, Contrib., & Fund Transfers",,300000000,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,"Grants, Contrib., & Fund Transfers",,16704231,85
+2023-operating-adopted,2021,actual,revenues_by_fund,Special Revenue Funds,,44050394,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,Special Revenue Funds,,55651072,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,Special Revenue Funds,,108345227,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,Special Revenue Funds,,111436585,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,Downtown Development District,,11956645,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,Downtown Development District,,11956645,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,Downtown Development District,,11956645,85
+2023-operating-adopted,2021,actual,revenues_by_fund,Economic Development Fund,,1249393,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,Economic Development Fund,,1729862,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,Economic Development Fund,,500043,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,Economic Development Fund,,500043,85
+2023-operating-adopted,2021,actual,revenues_by_fund,Housing Trust Fund,,752048,85
+2023-operating-adopted,2022,adopted,revenues_by_fund,Housing Trust Fund,,3133089,85
+2023-operating-adopted,2023,proposed,revenues_by_fund,Housing Trust Fund,,2699742,85
+2023-operating-adopted,2023,adopted,revenues_by_fund,Housing Trust Fund,,2699742,85
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,General Fund,,532417121,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,General Fund,,652078553,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,General Fund,,736470921,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,General Fund,,887673921,92
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,Wisner Fund,,451353,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,Wisner Fund,,752568,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,Wisner Fund,,759469,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,Wisner Fund,,759469,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,Downtown Development District,,11956645,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,Downtown Development District,,11956645,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,Downtown Development District,,11956645,92
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,Housing and Urban Development,,33819429,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,Housing and Urban Development,,90177456,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,Housing and Urban Development,,80978459,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,Housing and Urban Development,,81199478,92
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,"Self Generated, Spc Rev,. Trust Funds",,43548886,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,"Self Generated, Spc Rev,. Trust Funds",,57971753,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,"Self Generated, Spc Rev,. Trust Funds",,108345227,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,"Self Generated, Spc Rev,. Trust Funds",,111436585,92
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,Library,,16238569,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,Library,,21084029,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,Library,,25130286,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,Library,,25152000,92
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,Local Law Enforce. Grants,,580450,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,Local Law Enforce. Grants,,697744,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,Local Law Enforce. Grants,,396610,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,Local Law Enforce. Grants,,396610,92
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,Federal Grants,,180959027,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,Federal Grants,,294562152,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,Federal Grants,,174926336,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,Federal Grants,,303215815,92
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,State & Local Foundations Grants,,24736278,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,State & Local Foundations Grants,,54056538,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,State & Local Foundations Grants,,31990236,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,State & Local Foundations Grants,,32459435,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,"Grants, Contrib., & Fund Transfers",,300000000,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,"Grants, Contrib., & Fund Transfers",,300000000,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,"Grants, Contrib., & Fund Transfers",,16704231,92
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,Economic Development Fund,,1229518,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,Economic Development Fund,,1729862,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,Economic Development Fund,,500043,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,Economic Development Fund,,500043,92
+2023-operating-adopted,2021,actual,expenditures_by_fund_source,Housing Improvement Fund,,3284213,92
+2023-operating-adopted,2022,adopted,expenditures_by_fund_source,Housing Improvement Fund,,3133089,92
+2023-operating-adopted,2023,proposed,expenditures_by_fund_source,Housing Improvement Fund,,2699742,92
+2023-operating-adopted,2023,adopted,expenditures_by_fund_source,Housing Improvement Fund,,2699742,92
+2023-operating-adopted,2021,actual,expenditures_by_type,General Fund,Personal Services,290774977,93
+2023-operating-adopted,2022,adopted,expenditures_by_type,General Fund,Personal Services,354318836,93
+2023-operating-adopted,2023,proposed,expenditures_by_type,General Fund,Personal Services,410086614,93
+2023-operating-adopted,2023,adopted,expenditures_by_type,General Fund,Personal Services,411111614,93
+2023-operating-adopted,2021,actual,expenditures_by_type,General Fund,Other Operating,233684340,93
+2023-operating-adopted,2022,adopted,expenditures_by_type,General Fund,Other Operating,273856510,93
+2023-operating-adopted,2023,proposed,expenditures_by_type,General Fund,Other Operating,292369362,93
+2023-operating-adopted,2023,adopted,expenditures_by_type,General Fund,Other Operating,442547362,93
+2023-operating-adopted,2021,actual,expenditures_by_type,General Fund,Debt Service,7957804,93
+2023-operating-adopted,2022,adopted,expenditures_by_type,General Fund,Debt Service,23903207,93
+2023-operating-adopted,2023,proposed,expenditures_by_type,General Fund,Debt Service,34014945,93
+2023-operating-adopted,2023,adopted,expenditures_by_type,General Fund,Debt Service,34014945,93
+2023-operating-adopted,2021,actual,expenditures_by_type,Housing and Urban Development,Personal Services,6909827,94
+2023-operating-adopted,2022,adopted,expenditures_by_type,Housing and Urban Development,Personal Services,8191275,94
+2023-operating-adopted,2023,proposed,expenditures_by_type,Housing and Urban Development,Personal Services,6988289,94
+2023-operating-adopted,2023,adopted,expenditures_by_type,Housing and Urban Development,Personal Services,7209308,94
+2023-operating-adopted,2021,actual,expenditures_by_type,Housing and Urban Development,Other Operating,26909602,94
+2023-operating-adopted,2022,adopted,expenditures_by_type,Housing and Urban Development,Other Operating,81986181,94
+2023-operating-adopted,2023,proposed,expenditures_by_type,Housing and Urban Development,Other Operating,73990170,94
+2023-operating-adopted,2023,adopted,expenditures_by_type,Housing and Urban Development,Other Operating,73990170,94
+2023-operating-adopted,2021,actual,expenditures_by_type,Wisner Fund,Personal Services,99371,95
+2023-operating-adopted,2022,adopted,expenditures_by_type,Wisner Fund,Personal Services,100453,95
+2023-operating-adopted,2023,proposed,expenditures_by_type,Wisner Fund,Personal Services,107354,95
+2023-operating-adopted,2023,adopted,expenditures_by_type,Wisner Fund,Personal Services,107354,95
+2023-operating-adopted,2021,actual,expenditures_by_type,Wisner Fund,Other Operating,351982,95
+2023-operating-adopted,2022,adopted,expenditures_by_type,Wisner Fund,Other Operating,652115,95
+2023-operating-adopted,2023,proposed,expenditures_by_type,Wisner Fund,Other Operating,652115,95
+2023-operating-adopted,2023,adopted,expenditures_by_type,Wisner Fund,Other Operating,652115,95
+2023-operating-adopted,2021,actual,expenditures_by_type,Library,Personal Services,11630266,96
+2023-operating-adopted,2022,adopted,expenditures_by_type,Library,Personal Services,13839063,96
+2023-operating-adopted,2023,proposed,expenditures_by_type,Library,Personal Services,16178286,96
+2023-operating-adopted,2023,adopted,expenditures_by_type,Library,Personal Services,16152000,96
+2023-operating-adopted,2021,actual,expenditures_by_type,Library,Other Operating,4608303,96
+2023-operating-adopted,2022,adopted,expenditures_by_type,Library,Other Operating,7244966,96
+2023-operating-adopted,2023,proposed,expenditures_by_type,Library,Other Operating,8952000,96
+2023-operating-adopted,2023,adopted,expenditures_by_type,Library,Other Operating,9000000,96
+2023-operating-adopted,2021,actual,expenditures_by_type,Local Law Enforce. Grants,Personal Services,98853,97
+2023-operating-adopted,2022,adopted,expenditures_by_type,Local Law Enforce. Grants,Personal Services,16456,97
+2023-operating-adopted,2021,actual,expenditures_by_type,Local Law Enforce. Grants,Other Operating,481597,97
+2023-operating-adopted,2022,adopted,expenditures_by_type,Local Law Enforce. Grants,Other Operating,681288,97
+2023-operating-adopted,2023,proposed,expenditures_by_type,Local Law Enforce. Grants,Other Operating,396610,97
+2023-operating-adopted,2023,adopted,expenditures_by_type,Local Law Enforce. Grants,Other Operating,396610,97
+2023-operating-adopted,2021,actual,expenditures_by_type,Economic Development Fund,Personal Services,292287,98
+2023-operating-adopted,2022,adopted,expenditures_by_type,Economic Development Fund,Personal Services,389862,98
+2023-operating-adopted,2023,proposed,expenditures_by_type,Economic Development Fund,Personal Services,395043,98
+2023-operating-adopted,2023,adopted,expenditures_by_type,Economic Development Fund,Personal Services,395043,98
+2023-operating-adopted,2021,actual,expenditures_by_type,Economic Development Fund,Other Operating,937230,98
+2023-operating-adopted,2022,adopted,expenditures_by_type,Economic Development Fund,Other Operating,1340000,98
+2023-operating-adopted,2023,proposed,expenditures_by_type,Economic Development Fund,Other Operating,105000,98
+2023-operating-adopted,2023,adopted,expenditures_by_type,Economic Development Fund,Other Operating,105000,98
+2023-operating-adopted,2021,actual,expenditures_by_type,Housing Improvement Fund,Personal Services,225726,99
+2023-operating-adopted,2022,adopted,expenditures_by_type,Housing Improvement Fund,Personal Services,300536,99
+2023-operating-adopted,2023,proposed,expenditures_by_type,Housing Improvement Fund,Personal Services,334896,99
+2023-operating-adopted,2023,adopted,expenditures_by_type,Housing Improvement Fund,Personal Services,334896,99
+2023-operating-adopted,2021,actual,expenditures_by_type,Housing Improvement Fund,Other Operating,3058487,99
+2023-operating-adopted,2022,adopted,expenditures_by_type,Housing Improvement Fund,Other Operating,2832553,99
+2023-operating-adopted,2023,proposed,expenditures_by_type,Housing Improvement Fund,Other Operating,2364846,99
+2023-operating-adopted,2023,adopted,expenditures_by_type,Housing Improvement Fund,Other Operating,2364846,99
+2023-operating-adopted,2021,actual,expenditures_by_type,Federal Grants,Personal Services,116565418,100
+2023-operating-adopted,2022,adopted,expenditures_by_type,Federal Grants,Personal Services,143722898,100
+2023-operating-adopted,2023,proposed,expenditures_by_type,Federal Grants,Personal Services,47536895,100
+2023-operating-adopted,2023,adopted,expenditures_by_type,Federal Grants,Personal Services,76431712,100
+2023-operating-adopted,2021,actual,expenditures_by_type,Federal Grants,Other Operating,64393610,100
+2023-operating-adopted,2022,adopted,expenditures_by_type,Federal Grants,Other Operating,150839254,100
+2023-operating-adopted,2023,proposed,expenditures_by_type,Federal Grants,Other Operating,127389441,100
+2023-operating-adopted,2023,adopted,expenditures_by_type,Federal Grants,Other Operating,219784103,100
+2023-operating-adopted,2023,adopted,expenditures_by_type,Federal Grants,Debt Service,7000000,100
+2023-operating-adopted,2021,actual,expenditures_by_type,State & Local Foundations Grants,Personal Services,1932851,101
+2023-operating-adopted,2022,adopted,expenditures_by_type,State & Local Foundations Grants,Personal Services,4080177,101
+2023-operating-adopted,2023,proposed,expenditures_by_type,State & Local Foundations Grants,Personal Services,3863015,101
+2023-operating-adopted,2023,adopted,expenditures_by_type,State & Local Foundations Grants,Personal Services,4077743,101
+2023-operating-adopted,2021,actual,expenditures_by_type,State & Local Foundations Grants,Other Operating,22803427,101
+2023-operating-adopted,2022,adopted,expenditures_by_type,State & Local Foundations Grants,Other Operating,49976361,101
+2023-operating-adopted,2023,proposed,expenditures_by_type,State & Local Foundations Grants,Other Operating,28127221,101
+2023-operating-adopted,2023,adopted,expenditures_by_type,State & Local Foundations Grants,Other Operating,28381692,101
+2023-operating-adopted,2022,adopted,expenditures_by_type,"Grants, Contrib., & Fund Transfers",Debt Service,300000000,102
+2023-operating-adopted,2023,proposed,expenditures_by_type,"Grants, Contrib., & Fund Transfers",Debt Service,300000000,102
+2023-operating-adopted,2023,adopted,expenditures_by_type,"Grants, Contrib., & Fund Transfers",Debt Service,16704231,102
+2023-operating-adopted,2022,adopted,expenditures_by_type,Downtown Development District,Other Operating,11956645,103
+2023-operating-adopted,2023,proposed,expenditures_by_type,Downtown Development District,Other Operating,11956645,103
+2023-operating-adopted,2023,adopted,expenditures_by_type,Downtown Development District,Other Operating,11956645,103
+2023-operating-adopted,2021,actual,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Personal Services,21548323,104
+2023-operating-adopted,2022,adopted,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Personal Services,25095346,104
+2023-operating-adopted,2023,proposed,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Personal Services,28402317,104
+2023-operating-adopted,2023,adopted,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Personal Services,31039318,104
+2023-operating-adopted,2021,actual,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Other Operating,22000563,104
+2023-operating-adopted,2022,adopted,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Other Operating,32876407,104
+2023-operating-adopted,2023,proposed,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Other Operating,79942910,104
+2023-operating-adopted,2023,adopted,expenditures_by_type,"Self Generated, Spc Rev,. Trust Funds",Other Operating,80397267,104

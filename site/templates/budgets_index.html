@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}Every City of New Orleans budget from {{ first_year }} to {{ py }} in one table: what was proposed, adopted and actually spent.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/budgets/", "Budgets by year")] %}
+{% block content %}
+<header class="lede">
+  <h1>Budgets by year</h1>
+  <p class="lead">Every year from {{ first_year }} to {{ py }}, in one table. Each year opens that budget, department by department, with where the figures come from and links to the original documents.</p>
+  <p>The Mayor proposes a budget, the City Council adopts one, and the books later print what the city actually spent. The books we have print budgets from {{ first_budget }} on. For {{ first_year }} to {{ first_budget - 1 }} they print only what was actually spent. Actual spending is printed about two years late, so the latest year with an actual figure is {{ last_actual }}.</p>
+</header>
+
+<section class="block" aria-labelledby="table">
+  <h2 id="table">Year by year</h2>
+  <p class="sub">The <a href="/#general-fund">General Fund</a> first, then all funds, in millions of dollars, not adjusted for inflation.</p>
+  <div class="table-scroll">
+  <table class="data years">
+    <caption class="vh">City of New Orleans budgets by year, in millions of dollars, with budgeted positions</caption>
+    <thead>
+      <tr>
+        <th scope="col" rowspan="2">Year</th>
+        <th scope="colgroup" colspan="3" class="num grp">General Fund</th>
+        <th scope="col" rowspan="2" class="num">All funds, adopted</th>
+        <th scope="col" rowspan="2" class="num">Budgeted positions</th>
+      </tr>
+      <tr><th scope="col" class="num">Proposed</th><th scope="col" class="num">Adopted</th><th scope="col" class="num">Actual</th></tr>
+    </thead>
+    <tbody>
+    {% for r in rows|reverse %}
+      <tr{% if r.year in (py, fy) %} class="current"{% endif %}>
+        <th scope="row"><a href="/budgets/{{ r.year }}/">{{ r.label }}</a>{{ m.refs(r.notes, numbered) }}</th>
+        {{ m.num(r.gf_proposed|millions if r.gf_proposed is not none else none) }}
+        {{ m.num(r.gf_adopted|millions if r.gf_adopted is not none else none) }}
+        {{ m.num(r.gf_actual|millions if r.gf_actual is not none else none) }}
+        {{ m.num(r.all_adopted|millions if r.all_adopted is not none else none) }}
+        {% if r.pos is none %}{{ m.num(none) }}{% else %}<td class="num">{{ r.pos|number }}{% if r.pos_basis == 'proposed' %} <span class="vh">proposed</span><span aria-hidden="true">*</span>{% endif %}</td>{% endif %}
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p class="table-note">In millions of dollars. A dash means no figure is printed. {{ first_year }} to {{ first_budget - 1 }} have actual spending only. A proposed figure appears only where the books print the Mayor's proposal by department. * Positions for {{ py }} are the Mayor's proposal; the City Council has not adopted a budget yet. Position counts are the least reliable figures on this site: books count them differently from year to year, and a budgeted position may be empty.</p>
+  {{ m.footnotes(page_notes) }}
+  {{ m.source(cites, "Sources for the latest two years") }}
+  <p class="source">Each year's page lists its own sources.</p>
+</section>
+
+<section class="block" aria-labelledby="over-time">
+  <h2 id="over-time">The budget over time</h2>
+  <p class="sub">The General Fund: what the City Council adopted and what the city actually spent. Switch to all funds, to prices in {{ site.real_base_year }} dollars, or to dollars per resident.</p>
+  {{ m.figure(fig) }}
+  <p class="table-note">See the notes above for breaks in the figures. {{ first_year }} to {{ first_budget - 1 }} show actual spending only.</p>
+  <p class="source">Sources: each year's page, linked in the table above, gives the book and page for its figures.</p>
+</section>
+
+<section class="block" aria-labelledby="changes">
+  <h2 id="changes">What changed each year</h2>
+  <p>For every year there is a page listing each department's change from the year before, in the General Fund and all funds. <a href="/changes/">Changes from {{ fy }} to {{ py }}</a>. Earlier years:
+  {% for y in changes_years|reverse %}<a href="/changes/{{ y }}/">{{ y }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+</section>
+{% endblock %}

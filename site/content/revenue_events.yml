@@ -1,0 +1,172 @@
+# Hand-written text for the revenue pages (pages/revenue.py).
+#
+# rollups: for every comparable_id in data/crosswalk/revenue_rollups.csv, a plain sentence
+#   saying which lines the over-time chart adds together, and why.
+#     label: the lines together, as a phrase ("sales tax, motor-vehicle tax and hotel tax together")
+#     text:  the sentence shown on the page
+#
+# events: one-off facts about particular years, shown beside the chart and as a note on
+#   the table row. Matching:
+#     rev_ids:     lines the event belongs to (also shown on the lines' category pages and on
+#                  any line whose comparable series includes one of them)
+#     all_lines:   true = every line that has a figure for this year and basis
+#     index_only:  true = shown on /revenue/ only
+#     year, basis: the figure it explains (basis is for the note's wording and for checks)
+#     cites:       rows in revenue.csv to cite: the page where the line is printed
+#     verify:      checks.py confirms revenue.csv has this amount (within `tol` dollars)
+#     source_note: said when the detail itself is not printed in the table (only the line's total is)
+
+rollups:
+  sales-and-related-taxes:
+    label: sales tax, motor-vehicle sales tax and hotel tax together
+    text: >-
+      Before 2008 the books printed the hotel tax and the motor-vehicle sales tax inside the
+      sales tax line. Some books did the same for 2008 to 2011. Later books print the three
+      separately. So this chart shows the three together, which means the same thing in every
+      year.
+  state-aid-lines-2011-book:
+    label: other state and federal aid, state video poker revenue and state supplemental pay together
+    text: >-
+      The 2011 budget book printed state video poker revenue and state supplemental pay inside
+      "other state aid" for 2008. Other books print them separately. So this chart shows the three
+      together, which means the same thing in every year.
+  transfers-and-fund-balance-2009-book:
+    label: transfers from other funds and use of fund balance together
+    text: >-
+      The 2009 budget book moved $21.2 million from transfers to fund balance for 2005. Every
+      other book keeps it in transfers. So this chart shows the two together, which means the same
+      thing in every year.
+  public-safety-incl-ems:
+    label: public safety charges and ambulance fees together
+    text: >-
+      Books before 2025 printed ambulance fees inside public safety charges. The 2025 and later books
+      print them separately. So this chart shows the two together, which means the same thing in
+      every year.
+  general-government-incl-harrahs-support:
+    label: general government charges and Harrah's city support payment together
+    text: >-
+      Books before 2025 printed Harrah's payment for city services inside general government
+      charges. The 2025 and later books print it separately. So this chart shows the two together,
+      which means the same thing in every year.
+  licenses-other-incl-short-term-rentals:
+    label: other licenses and permits and short-term rental permits together
+    text: >-
+      Books before 2025 printed short-term rental permits inside "other licenses and permits".
+      The 2025 and later books print them separately. So this chart shows the two together, which
+      means the same thing in every year.
+
+events:
+  - id: pension-2012
+    year: 2012
+    basis: actual
+    rev_ids: [fund-balance-use]
+    cites: [{rev_id: fund-balance-use, year: 2012, basis: actual}]
+    verify: {rev_id: fund-balance-use, year: 2012, basis: actual, amount: 195885000, tol: 1}
+    title: Pension bond refinancing
+    text: >-
+      The 2012 "fund balance" line is $195,885,000. That is not savings. It is the money from
+      refinancing the city's pension bonds, a one-time transaction. It makes 2012 General Fund
+      income look much larger than usual.
+
+  - id: bp-2015
+    year: 2015
+    basis: actual
+    rev_ids: [reimbursements-and-other-misc]
+    cites: [{rev_id: reimbursements-and-other-misc, year: 2015, basis: actual}]
+    title: BP oil-spill settlement
+    text: >-
+      Miscellaneous reimbursements in 2015 include about $36 million from the BP oil-spill
+      settlement, which is why that year's figure is so high.
+    source_note: The table prints the line's total; the $36 million is part of it, not a separate line.
+
+  - id: wtc-2018
+    year: 2018
+    basis: actual
+    rev_ids: [transfers-in]
+    cites: [{rev_id: transfers-in, year: 2018, basis: actual}]
+    title: Advance lease payment
+    text: >-
+      Transfers from other funds in 2018 include a $33 million advance lease payment for the
+      World Trade Center (Four Seasons) project.
+    source_note: The table prints the line's total; the $33 million is part of it, not a separate line.
+
+  - id: harrahs-2020
+    year: 2020
+    basis: actual
+    rev_ids: [general-government-charges, harrahs-casino-rent]
+    cites: [{rev_id: general-government-charges, year: 2020, basis: actual}]
+    title: Harrah's casino payments counted as service charges
+    text: >-
+      Service charges in 2020 include about $48 million of payments from Harrah's casino. The books
+      counted them as service charges that year and as money from other governments (the
+      "Intergovernmental" group) from 2021. So service charges drop, and intergovernmental income
+      rises, in 2021.
+    source_note: The table prints the line's total; the $48 million is part of it, not a separate line.
+
+  - id: pandemic-2020
+    year: 2020
+    basis: actual
+    rev_ids: [reimbursements-and-other-misc]
+    cites: [{rev_id: reimbursements-and-other-misc, year: 2020, basis: actual}]
+    title: Pandemic emergency payments
+    text: >-
+      Miscellaneous income in 2020 includes $52 million of emergency payments tied to the pandemic.
+    source_note: The table prints the line's total; the $52 million is part of it, not a separate line.
+
+  - id: fema-2005
+    year: 2005
+    basis: actual
+    rev_ids: [fema-disaster-loan]
+    cites: [{rev_id: fema-disaster-loan, year: 2005, basis: actual}]
+    verify: {rev_id: fema-disaster-loan, year: 2005, basis: actual, amount: 61396116, tol: 1}
+    title: Katrina disaster loan
+    text: >-
+      In 2005 the city counted $61.4 million of federal disaster loans, taken after Hurricane Katrina,
+      as General Fund income. A loan has to be paid back.
+
+  - id: fema-2006
+    year: 2006
+    basis: actual
+    rev_ids: [fema-disaster-loan]
+    cites: [{rev_id: fema-disaster-loan, year: 2006, basis: actual}]
+    verify: {rev_id: fema-disaster-loan, year: 2006, basis: actual, amount: 76213884, tol: 1}
+    title: Katrina disaster loan
+    text: >-
+      In 2006 the city counted another $76.2 million of federal disaster loans, taken after
+      Hurricane Katrina, as General Fund income. A loan has to be paid back.
+
+  - id: restated-2006
+    year: 2006
+    basis: actual
+    all_lines: true
+    cites: []
+    title: 2006 figures restated
+    text: >-
+      The books changed ("restated") the 2006 actual figures between the 2009 and 2012 budget books.
+      This site shows the figure printed in the book cited in each table. Treat 2006 with care.
+
+  - id: omitted-2025
+    year: 2025
+    basis: revised
+    rev_ids: [fund-balance-use]
+    cites:
+      - {rev_id: fund-balance-use, year: 2025, basis: adopted}
+      - {rev_id: harrahs-city-support, year: 2025, basis: revised}
+    verify: {rev_id: fund-balance-use, year: 2025, basis: adopted, amount: 102298608, tol: 1}
+    title: Fund balance left out of the 2026 book
+    text: >-
+      The 2025 book prints $102.3 million of fund balance used in 2025. The 2026 book's 2025 column
+      leaves it out, so its 2025 total is $102.3 million lower. The 2025 adopted figure on this
+      site comes from the 2025 book.
+
+  - id: printed-total-gap
+    year: 2027
+    basis: proposed
+    index_only: true
+    chart: false
+    cites: []
+    title: Printed totals differ slightly
+    text: >-
+      In the 2026 and 2027 books the General Fund income lines add up to slightly less than the
+      total the book prints: $401,041 less in the 2026 book and $147,496 less in the 2027 book. This
+      site shows the sum of the lines. The book's own printed total is a little higher.

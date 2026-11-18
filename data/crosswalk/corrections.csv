@@ -1,0 +1,9 @@
+book_id,file,match_fiscal_year,match_basis,match_depts,set_fiscal_year,set_basis,reason
+2018-operating-adopted,department_expenditures,2016,adopted,,2016,actual,"The 2018 book's statements head the 2016 column 'Adopted' but the figures are actuals: its own department summaries label the same values 'Actual', and all funds is $733M against $1,028M adopted in the 2016 and 2017 books."
+2018-operating-adopted,revenues,2016,adopted,,2016,actual,"Same mislabelled 2016 column as the expenditure statements: General Fund revenue of $630.8M against $608.9M adopted in the 2017 book."
+2008-operating-adopted,positions,2005,adopted,,2007,adopted,"Sixty personnel pages in the 2008 book carry stale column headers (Adopted 2005 / Proposed 2006 / Adopted 2006) from an old template; the other 26 pages of the same tables are headed 2007 / 2008 / 2008."
+2008-operating-adopted,positions,2006,proposed,,2008,proposed,"Stale personnel page headers in the 2008 book (see above)."
+2008-operating-adopted,positions,2006,adopted,,2008,adopted,"Stale personnel page headers in the 2008 book (see above)."
+2011-operating-adopted,positions,2008,adopted,,2010,adopted,"Enterprise-body personnel tables in the 2011 book carry stale headers (2008 / 2009 / 2009); every other personnel table in the book is headed 2010 / 2011 / 2011."
+2011-operating-adopted,positions,2009,proposed,,2011,proposed,"Stale enterprise personnel headers in the 2011 book (see above)."
+2011-operating-adopted,positions,2009,adopted,,2011,adopted,"Stale enterprise personnel headers in the 2011 book (see above)."

@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% import "partials/macros.html" as m %}
+{% block description %}{{ cat.short }} What the General Fund gets from {{ cat.category|lower }}, line by line, and how it has changed since {{ site.first_year }}.{% endblock %}
+{% set crumbs = [("/", "Home"), ("/revenue/", "Revenue"), ("/revenue/%s/"|format(cat.slug), cat.category)] %}
+{% block content %}
+<header class="lede">
+  <p class="kicker">General Fund income</p>
+  <h1>{{ cat.category }}</h1>
+  <p class="lead">{{ cat.short }}</p>
+  {% if new is not none %}<p>The Mayor's {{ py }} proposal expects {{ new|money }} from {{ cat.category|lower }}{% if share is not none %} ({{ share|share }} of General Fund income){% endif %}{% if old is not none %}, {{ fmt.change(new, old) }} from the {{ fy }} budget{% endif %}.</p>{% endif %}
+  <div class="lede-visual">
+    <div>
+      <p class="visual-h">{{ cat.category }}</p>
+      {{ m.compare(old, new, fy ~ " budget in force", py ~ " proposal") }}
+    </div>
+    <div class="stats">
+      {{ m.per100_stat(share, "of every $100 the General Fund takes in would come from " ~ cat.category|lower ~ " under the " ~ py ~ " proposal.") }}
+      {{ m.resident_stat(new, py, "per resident a year.") }}
+    </div>
+  </div>
+  {% if new %}{{ m.resident_note(py) }}{% endif %}
+  {% if cites %}{{ m.source(cites, note="Shares and figures per resident are calculated from these.") }}{% endif %}
+</header>
+
+<section class="block" aria-labelledby="lines">
+  <h2 id="lines">{{ py }} proposal and {{ fy }} budget</h2>
+  {% if line_split|length > 1 %}{{ m.split_bar(line_split, cat.category ~ " in the " ~ py ~ " proposal, by line", unit="share") }}{% endif %}
+  <div class="table-scroll">
+  <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
+<table class="data index cmp">
+    <caption class="vh">{{ cat.category }}, by line, in dollars</caption>
+    <thead><tr><th scope="col">Line</th><th scope="col" class="num">{{ fy }} adopted</th><th scope="col" class="num">{{ py }} proposed</th><th scope="col" class="num">Change</th></tr></thead>
+    <tbody>
+    {% for L in now %}
+      <tr><th scope="row"><a href="{{ L.url }}">{{ L.name }}</a>{% if L.text %}<span class="row-desc">{{ L.text }}</span>{% endif %}</th>{{ m.num(L.old|full if L.old is not none else none) }}{{ m.num(L.new|full if L.new is not none else none) }}
+        {% if L.new is not none and L.old is not none %}<td class="num">{{ (L.new - L.old)|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}</tr>
+    {% endfor %}
+    </tbody>
+    <tfoot><tr class="total"><th scope="row">Total</th>{{ m.num(old|full if old is not none else none) }}{{ m.num(new|full if new is not none else none) }}
+      {% if new is not none and old is not none %}<td class="num">{{ (new - old)|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}</tr></tfoot>
+  </table>
+  </div>
+  <p class="table-note">In dollars. A dash means the line is not printed in that budget.</p>
+  {{ m.source(cites) }}
+  {% if gone %}
+  <p class="table-note">Lines with no money in either budget, printed in earlier years: {% for L in gone %}<a href="{{ L.url }}">{{ L.name }}</a> (last printed {{ L.last }}){% if not loop.last %}; {% endif %}{% endfor %}.</p>
+  {% endif %}
+</section>
+
+<section class="block" aria-labelledby="time">
+  <h2 id="time">Over time</h2>
+  <p class="sub">What the City Council adopted each year, and what the city actually collected. Switch between dollars, dollars adjusted for inflation and dollars per resident.</p>
+  {{ m.figure(fig) }}
+  {% for n in cat_notes %}<p class="table-note">{{ n }}</p>{% endfor %}
+  <p class="table-note">A gap in a line means the books do not print that year. It does not mean no money came in.</p>
+  {{ m.footnotes(page_notes, "One-off events and breaks in these figures") }}
+  {{ m.source_ref("each year's figures, with the book and pages they come from, are in", "#years", "the year-by-year table") }}
+</section>
+
+<section class="block" aria-labelledby="years">
+  <h2 id="years">Year by year</h2>
+  <p class="sub">The lines above added together, in dollars, with the book and pages they come from. Proposed is what the Mayor asked for; adopted is what the Council passed; revised is the adopted figure as reprinted a year later; actual is what the city collected.</p>
+  <div class="table-scroll wide">
+  <table class="data yby">
+    <caption class="vh">{{ cat.category }}, by year, in dollars</caption>
+    <thead><tr><th scope="col">Year</th>{% for bs in ('proposed', 'adopted', 'revised', 'actual') %}<th scope="col" class="num">{{ BASIS_LABEL[bs] }}</th>{% endfor %}<th scope="col">Sources</th></tr></thead>
+    <tbody>
+    {% for r in table %}
+      <tr{% if r.year in (py, fy) %} class="current"{% endif %}>
+        <th scope="row">{{ r.year }}{{ m.refs(r.notes, numbered) }}</th>
+        {% for c in r.cells %}{{ m.num(c|full if c is not none else none) }}{% endfor %}
+        <td class="src">{% for bs, c in r.cites %}<span class="src-item"><span class="src-basis">{{ BASIS_LABEL[bs] }}:</span> {{ m.cite(c, true) }}</span>{% endfor %}</td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  </div>
+  <p class="table-note">A dash means the books do not print this column for that year.</p>
+</section>
+<p class="back"><a href="/revenue/">All sources of income</a></p>
+{% endblock %}

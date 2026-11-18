@@ -1,0 +1,429 @@
+# Plain descriptions of every department in data/crosswalk/departments.csv.
+#
+# STATUS: DRAFTED, NEEDS REVIEW BY SOMEONE WHO KNOWS CITY HALL.
+# Written from general knowledge of New Orleans city government and the program
+# names printed in the budget books (data/combined/department_detail.csv).
+# Where it was not clear what a body does, the text says only what the budget shows.
+#
+# Fields
+#   short:  one plain sentence, used in lists (home page, department index).
+#   about:  one or two plain sentences, used at the top of the department page.
+#   notes:  optional list of plain-language notes about breaks in the figures.
+#           These replace the technical notes in data/crosswalk/departments.csv.
+#   see:    optional list of dept_ids to point readers to (e.g. where spending moved).
+
+council:
+  short: The seven elected members of the City Council and their staff.
+  about: >-
+    The City Council is the city's legislature. It passes the budget and city laws.
+    Its budget pays for the seven council offices, the Clerk of Council, the council's
+    research and fiscal staff, the city's annual audit and the regulation of the
+    electric and gas utility.
+
+mayor:
+  short: The Mayor's own office and a changing set of offices that report to it.
+  about: >-
+    The Mayor's Office includes the Mayor's staff and a number of offices that report
+    to the Mayor directly, such as homeland security and emergency preparedness,
+    communications, economic development, film and grant programs.
+  notes:
+    - The offices inside the Mayor's Office change from year to year, so its total can rise or fall when an office moves in or out.
+    - In the 2027 proposal the youth detention centre (the Juvenile Justice Intervention Center) is printed as part of the Mayor's Office.
+
+cao:
+  short: The Chief Administrative Officer runs the city's day-to-day operations and central services.
+  about: >-
+    The Chief Administrative Office oversees most city departments on the Mayor's behalf.
+    Its budget also pays for central services: budget and planning, information
+    technology, the city's vehicle fleet and fuel, employee benefits, contracts, and
+    the bureau that hears parking and code violations.
+  notes:
+    - In most years the office includes information technology and other central services, so its total moves when those services are counted elsewhere.
+
+law:
+  short: The city's lawyers, who defend the city in court and prosecute some minor offences.
+  about: >-
+    The Law Department gives legal advice to city government, defends the city in
+    lawsuits and prosecutes cases in Municipal and Traffic Court. It also handles
+    property the city has taken for unpaid taxes.
+
+finance:
+  short: Collects taxes, pays the city's bills and keeps its accounts.
+  about: >-
+    The Department of Finance collects property and sales taxes, pays the city's bills
+    and payroll, keeps the accounts, runs purchasing, and manages the employees'
+    retirement system and some debt payments.
+
+civil-service:
+  short: Runs hiring exams, job classifications and pay plans for city workers.
+  about: >-
+    Civil Service is an independent commission that sets the rules for hiring and
+    promoting most city employees. It writes job descriptions and pay plans and gives
+    the exams.
+
+property-management:
+  short: Looks after city-owned buildings, including Gallier Hall and city cemeteries.
+  about: >-
+    Property Management maintains and cleans city buildings and runs some of them,
+    such as Gallier Hall, the multi-purpose community centres and city-owned cemeteries.
+
+city-planning:
+  short: Writes the city's master plan and reviews zoning and land-use cases.
+  about: >-
+    The City Planning Commission prepares the city's master plan and zoning law and
+    reviews requests to change how land is used. It also staffs the Board of Zoning
+    Adjustments.
+
+registrar-of-voters:
+  short: Keeps the list of registered voters in Orleans Parish.
+  about: >-
+    The Registrar of Voters registers voters and keeps the voter rolls for Orleans
+    Parish. The city pays part of the office's cost.
+
+office-of-training:
+  short: A line that appears in some older books with almost no money in it.
+  about: >-
+    The Office of Training Division is a line in the older budget books. It shows no
+    budgeted money in any year; two actual figures were printed for it (in 2004 and
+    2013), and the books do not explain them.
+
+police:
+  short: The New Orleans Police Department, the city's largest single expense.
+  about: >-
+    The New Orleans Police Department patrols the city's eight police districts,
+    investigates crimes, and runs the crime lab, the evidence room and police training.
+
+fire:
+  short: The New Orleans Fire Department, which fights fires and responds to emergencies.
+  about: >-
+    The New Orleans Fire Department fights fires, answers rescue and hazardous-material
+    calls, inspects buildings for fire safety and trains firefighters. Its budget also
+    pays pensions for firefighters hired before 1968.
+
+communication-district:
+  short: The 911 call centre for Orleans Parish.
+  about: >-
+    The Orleans Parish Communication District answers 911 calls and dispatches police,
+    fire and ambulance crews.
+
+police-secondary-employment:
+  short: Manages off-duty police details that businesses and events pay for.
+  about: >-
+    The Office of Police Secondary Employment schedules and bills off-duty police work
+    paid for by businesses, events and others.
+  notes:
+    - In the budgets this office is counted inside Miscellaneous. It has a line of its own only once, in the 2024 actual spending printed in the 2026 book.
+  see: [miscellaneous]
+
+independent-police-monitor:
+  short: An independent office that reviews police conduct and complaints.
+  about: >-
+    The Office of Independent Police Monitor takes complaints about police officers,
+    reviews how the department investigates them and reports on police use of force.
+  notes:
+    - It has its own line from the 2017 book on. Before that it was counted with the Office of Inspector General.
+  see: [inspector-general]
+
+inspector-general:
+  short: Investigates fraud, waste and abuse in city government.
+  about: >-
+    The Office of Inspector General audits and investigates city agencies and
+    contracts, looking for fraud, waste and abuse.
+  notes:
+    - Older books print this office as "General Services". This site counts that line here.
+    - Until the 2017 book the line also included the Ethics Review Board and the Independent Police Monitor.
+  see: [ethics-review-board, independent-police-monitor]
+
+ethics-review-board:
+  short: Enforces the city's ethics code and oversees the Inspector General and Police Monitor.
+  about: >-
+    The Ethics Review Board enforces the city's ethics code and oversees the Office of
+    Inspector General and the Office of Independent Police Monitor.
+  notes:
+    - It has its own line from the 2017 book on. Before that it was counted with the Office of Inspector General.
+  see: [inspector-general]
+
+sheriff:
+  short: The Orleans Parish Sheriff, who runs the jail.
+  about: >-
+    The Orleans Parish Sheriff is a separately elected official who runs the parish
+    jail. The city pays for much of the jail's cost, including medical care for people
+    held there.
+
+district-attorney:
+  short: The Orleans Parish District Attorney, who prosecutes state crimes.
+  about: >-
+    The District Attorney is a separately elected official who prosecutes state
+    criminal cases in Orleans Parish. The city pays part of the office's cost.
+
+coroner:
+  short: Investigates deaths and runs the parish morgue.
+  about: >-
+    The Coroner is a separately elected official who investigates sudden, violent or
+    unexplained deaths. The city pays for the office.
+
+criminal-district-court:
+  short: The state criminal court for Orleans Parish; the city pays part of its cost.
+  about: >-
+    Criminal District Court hears felony and serious misdemeanour cases. The city pays
+    part of its operating cost, including jury expenses.
+
+clerk-criminal-court:
+  short: Keeps the records of Criminal District Court and runs polling sites on election day.
+  about: >-
+    The Clerk of Criminal District Court is a separately elected official who keeps the
+    court's records. The office also handles polling sites and voting machines on
+    election day.
+
+juvenile-court:
+  short: The court for cases involving children; the city pays part of its cost.
+  about: >-
+    Juvenile Court hears delinquency, child abuse and neglect, and adoption cases. The
+    city pays part of its cost, including some judges' staff.
+
+civil-court:
+  short: The state civil court for Orleans Parish.
+  about: >-
+    Civil District Court hears civil lawsuits, family cases and successions in Orleans
+    Parish. The budget books print only a small city contribution to it.
+
+first-city-court:
+  short: Hears small civil claims and evictions on the east bank.
+  about: >-
+    First City Court hears small civil claims and eviction cases. The budget books print
+    only a small city contribution to it.
+
+municipal-traffic-court:
+  short: Hears city-law violations and traffic tickets.
+  about: >-
+    Municipal and Traffic Court hears cases about violations of city law and traffic
+    offences.
+  notes:
+    - Municipal Court and Traffic Court were budgeted separately until they merged. This site adds them together for the earlier years.
+
+judicial-retirement:
+  short: Pays pensions for some retired city judges.
+  about: >-
+    The Judicial Retirement Fund pays pensions to judges who retired under older city
+    judicial retirement plans.
+
+human-services:
+  short: Runs the Juvenile Justice Intervention Center, the city's youth detention centre.
+  about: >-
+    Human Services runs the Juvenile Justice Intervention Center, where young people are
+    held while their cases are heard. In recent books it also shows homeless services
+    and violence prevention programs.
+  notes:
+    - The books print this department as Human Services or as the Juvenile Justice Intervention Center (JJIC).
+    - In the 2027 proposal the detention centre's residential staff are printed inside the Mayor's Office instead, which is why this department's 2027 figure is much lower.
+  see: [mayor]
+
+public-works:
+  short: Maintains streets, traffic signals and street lights; runs parking enforcement.
+  about: >-
+    The Department of Public Works repairs streets, maintains traffic signals, signs and
+    street lights, and writes parking tickets and tows cars.
+
+sanitation:
+  short: Picks up household trash and recycling and cleans up after big events.
+  about: >-
+    The Department of Sanitation pays for curbside trash and recycling collection,
+    disposal and the transfer station, and cleans up after parades and other events.
+    Most of its budget pays the companies that collect the trash.
+
+parks-parkways:
+  short: Cuts grass, trims trees and maintains parks, neutral grounds and city golf courses.
+  about: >-
+    Parks and Parkways maintains the city's parks, neutral grounds and street trees,
+    runs a plant nursery and looks after city golf courses and Armstrong Park.
+
+safety-permits:
+  short: Issues building permits and inspects construction; licenses short-term rentals and taxis.
+  about: >-
+    Safety and Permits issues building, electrical and mechanical permits and inspects
+    the work. It also runs the zoning bureau, short-term rental permits and the taxi
+    cab bureau.
+
+code-enforcement:
+  short: Inspects blighted and unsafe properties and brings cases against owners.
+  about: >-
+    Code Enforcement inspects properties reported as blighted or unsafe and brings
+    owners to hearings when they do not fix them.
+  notes:
+    - It has its own line from the 2024 book on. The 2021 to 2023 books count it inside the Office of Community Development. Before that it was probably part of Safety and Permits, but this has not been checked.
+  see: [community-development, safety-permits]
+
+mosquito-control:
+  short: Controls mosquitoes, termites and rats.
+  about: >-
+    The Mosquito, Termite and Rodent Control Board sprays for mosquitoes, inspects for
+    termites and runs rodent control programs.
+
+hdlc:
+  short: Reviews changes to buildings in the city's historic districts.
+  about: >-
+    The Historic District Landmarks Commission reviews repairs, demolitions and new
+    construction in historic districts outside the French Quarter.
+
+vcc:
+  short: Reviews changes to buildings in the French Quarter.
+  about: >-
+    The Vieux Carré Commission reviews repairs, demolitions and new construction in the
+    French Quarter.
+
+alcoholic-beverage-control:
+  short: A line for the board that licenses places that sell alcohol.
+  about: >-
+    The Alcoholic Beverage Control Board hears cases about businesses licensed to sell
+    alcohol. The budget books show little or no money for it.
+
+health:
+  short: Public health programs and, in the citywide tables, the city's ambulance service (EMS).
+  about: >-
+    The Health Department runs public health programs, clinics for people without
+    homes, and violence prevention work. In the citywide tables it also includes New
+    Orleans Emergency Medical Services, the city's ambulance service.
+  notes:
+    - Emergency Medical Services (EMS) is counted here. The books give EMS its own section, but the citywide tables add it to Health.
+
+recreation:
+  short: The old Recreation Department; its work is now budgeted inside Miscellaneous.
+  about: >-
+    The Recreation Department ran playgrounds, pools, athletics and recreation centres.
+    After 2012 it no longer has its own line with money in it. Its successor, the New
+    Orleans Recreation Development Commission (NORDC), is budgeted inside
+    Miscellaneous.
+  notes:
+    - From 2013 the recreation commission (NORDC) is budgeted inside Miscellaneous. Look there for recreation spending after 2012.
+  see: [miscellaneous]
+
+library:
+  short: The New Orleans Public Library, paid for mostly by its own property tax.
+  about: >-
+    The New Orleans Public Library runs the city's branch libraries. Most of its money
+    comes from a property tax set aside for the library, not from the General Fund.
+
+museum-of-art:
+  short: A small city contribution to the New Orleans Museum of Art.
+  about: >-
+    The New Orleans Museum of Art in City Park receives a small yearly amount from the
+    city budget.
+
+community-development:
+  short: Housing and community programs, paid for mostly with federal grants.
+  about: >-
+    The Office of Community Development, later the Office of Housing and Community
+    Development, runs housing and neighbourhood programs. Most of its money is federal
+    grants.
+  notes:
+    - The 2008 and 2009 books print it as "Neighborhood 1".
+    - The 2021 to 2023 books include Code Enforcement in this office.
+  see: [code-enforcement]
+
+neighborhood-housing-fund:
+  short: A fund for housing programs, paid for by a dedicated property tax.
+  about: >-
+    The Neighborhood Housing Improvement Fund pays for affordable housing and
+    neighbourhood stabilization programs from a property tax set aside for that purpose.
+
+economic-development-fund:
+  short: A fund for economic development programs, paid for by a dedicated property tax.
+  about: >-
+    The Economic Development Fund pays for economic development programs from a property
+    tax set aside for that purpose.
+
+workforce-investment:
+  short: Job training and summer youth jobs, paid for mostly by federal grants.
+  about: >-
+    Workforce Investment runs job training for adults and young people, including
+    summer youth jobs. Most of its money is federal job-training grants.
+
+miscellaneous:
+  short: Citywide costs that belong to no single department, and the recreation commission (NORDC).
+  about: >-
+    Miscellaneous holds citywide costs that are not assigned to a department, such as
+    some insurance, legal claims, advertising and payments to outside groups. From 2013
+    it also includes the New Orleans Recreation Development Commission (NORDC); in
+    recent books it also includes Risk Management and the Office of Police Secondary
+    Employment.
+  notes:
+    - What is counted here changes from year to year, so changes in its total are hard to compare.
+    - From 2013 it includes the recreation commission (NORDC), which used to be the Recreation Department.
+  see: [recreation, police-secondary-employment]
+
+intergovernmental:
+  short: Placeholder amounts for grants and pass-through money that may arrive during the year.
+  about: >-
+    Intergovernmental is a line for grants and other money passed through from other
+    governments. The budgets set aside large amounts here in case grants arrive, but
+    little or nothing is reported as spent from this line.
+
+other:
+  short: Lines that fit no department.
+  about: >-
+    A few printed lines fit no department, such as payroll corrections. They are
+    collected here.
+
+aviation-board:
+  short: Runs Louis Armstrong New Orleans International Airport, paid for by airport income.
+  about: >-
+    The New Orleans Aviation Board runs Louis Armstrong New Orleans International
+    Airport. It pays its own way from airport fees and rents and does not use the
+    General Fund.
+
+french-market:
+  short: Runs the French Market, paid for by its own rents and fees.
+  about: >-
+    The French Market Corporation runs the French Market and related property, paid for
+    by its own rents and fees.
+
+yacht-harbor:
+  short: Runs the city's yacht harbor on Lake Pontchartrain.
+  about: >-
+    The Municipal Yacht Harbor Management Corporation runs the city's marina on Lake
+    Pontchartrain, paid for by slip rents.
+
+canal-street-development:
+  short: Manages city-owned property on Canal Street.
+  about: >-
+    The Canal Street Development Corporation manages city-owned property on Canal
+    Street, paid for by the rents it collects.
+
+rivergate:
+  short: A city development corporation for the former Rivergate site.
+  about: >-
+    The Rivergate Development Corporation manages city property at the former Rivergate
+    site near the river. The budget books print only a small section for it.
+
+building-corp:
+  short: A city corporation that manages and develops some city-owned property.
+  about: >-
+    The New Orleans Building Corporation manages and develops some city-owned property.
+    It has a section in the budget books but no line in the citywide tables.
+
+delgado-albania:
+  short: A commission with a small section in some budget books.
+  about: >-
+    The Delgado Albania Plantation Commission has its own small section in some budget
+    books. The books do not say much about what it does, and it has no line in the
+    citywide tables.
+
+upper-pontalba:
+  short: A corporation for the Upper Pontalba Building on Jackson Square.
+  about: >-
+    The Upper Pontalba Building Restoration Corporation looks after the city-owned Upper
+    Pontalba Building on Jackson Square. It has its own section in some budget books
+    but no line in the citywide tables.
+
+piazza-italia:
+  short: A corporation for the Piazza d'Italia, with a small section in some books.
+  about: >-
+    The Piazza d'Italia Development Corporation has its own small section in some budget
+    books. It has no line in the citywide tables.
+
+audubon-park:
+  short: The Audubon Commission. Three budget books print a page for it with no amounts.
+  about: >-
+    The Audubon Commission runs Audubon Park, the zoo and the aquarium. Three budget
+    books print a page for it, with every amount at zero. It has no line in the
+    citywide tables.

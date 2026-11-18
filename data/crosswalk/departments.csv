@@ -1,0 +1,59 @@
+dept_id,name,group,notes
+council,City Council,General government,
+mayor,Mayor's Office,General government,"Includes sub-offices that vary by year (e.g. homeland security, criminal justice coordination, economic development)"
+cao,Chief Administrative Office,General government,Includes information technology and other central services in most years
+law,Law Department,General government,
+finance,Department of Finance,General government,"Bureaus of accounting, purchasing, revenue, treasury and retirement"
+civil-service,Civil Service,General government,
+property-management,Property Management,General government,
+city-planning,City Planning Commission,General government,
+registrar-of-voters,Registrar of Voters,General government,
+office-of-training,Office of Training Division,General government,"Dormant line: 0 in nearly every year; 6,394 FY2004 actual and 9,007,366 FY2013 actual (unexplained, printed in 2015-2018 books); no budget-year amounts"
+police,Police Department,Public safety,
+fire,Fire Department,Public safety,
+communication-district,Orleans Parish Communication District,Public safety,911 call centre
+police-secondary-employment,Office of Police Secondary Employment,Public safety,Has its own statement line only in the FY2024-actuals table of the 2026 adopted book (14.6M). In all budget-year statements its page is inside Miscellaneous (Misc = CAO misc page + NORDC + Risk Management + this office). The 2025 adopted/proposed and 2026 proposed books print the Miscellaneous total under this label in places; those rows are mapped to miscellaneous.
+independent-police-monitor,Office of Independent Police Monitor,Oversight,Own statement line from the 2017 book; before that inside the Inspector General programs.
+inspector-general,Office of Inspector General,Oversight,"Printed as 'General Services' in the statements until the 2021 book and as Office of the Inspector General from the 2022 book; included the Ethics Review Board (and, until FY2016, the Independent Police Monitor programs) until they got own lines (2017 book)."
+ethics-review-board,Ethics Review Board,Oversight,Own statement line from the 2017 book; before that included in the line printed 'General Services' (Inspector General).
+sheriff,Orleans Parish Sheriff,Courts and jail,Printed as Criminal Sheriff; runs the jail
+district-attorney,District Attorney,Courts and jail,
+coroner,Coroner's Office,Courts and jail,
+criminal-district-court,Criminal District Court,Courts and jail,
+clerk-criminal-court,Clerk of Criminal District Court,Courts and jail,
+juvenile-court,Juvenile Court,Courts and jail,
+civil-court,Civil District Court,Courts and jail,
+first-city-court,First City Court,Courts and jail,
+municipal-traffic-court,Municipal and Traffic Court,Courts and jail,Municipal Court and Traffic Court were separate until they merged; both map here
+judicial-retirement,Judicial Retirement Fund,Courts and jail,
+human-services,Human Services (Juvenile Justice Intervention Center),Courts and jail,Runs the youth detention centre; printed as Human Services or JJIC
+public-works,Department of Public Works,Streets and services,
+sanitation,Department of Sanitation,Streets and services,
+parks-parkways,Parks and Parkways,Streets and services,
+safety-permits,Safety and Permits,Streets and services,
+code-enforcement,Code Enforcement,Streets and services,Own statement line from the 2024 book on. FY2021-2023 books carry it inside the Office of Community Development line (OCD - Code Enforcement page); earlier years not verified (presumably Safety and Permits).
+mosquito-control,"Mosquito, Termite and Rodent Control Board",Streets and services,
+hdlc,Historic District Landmarks Commission,Streets and services,
+vcc,Vieux Carré Commission,Streets and services,
+alcoholic-beverage-control,Alcoholic Beverage Control Board,Streets and services,
+health,Health Department,Health,Includes Emergency Medical Services in the citywide statements (the 2026 book's FY2024 actuals table prints EMS separately; 2019-2020 and 2025+ pages show Health + EMS = statement line)
+recreation,Recreation,Culture and recreation,"The Recreation Department. Own statement line with real amounts to FY2012, near zero FY2013-14, 0 afterwards (line ends in the 2020 book). From FY2013 its successor, the New Orleans Recreation Development Commission (NORDC programs 7001-7007, later 'Misc- NORD', later NORDC page), is budgeted inside Miscellaneous."
+library,New Orleans Public Library,Culture and recreation,
+museum-of-art,New Orleans Museum of Art,Culture and recreation,
+community-development,Office of Community Development,Housing and economy,Later the Office of Housing and Community Development; mostly federal grants. Printed 'Neighborhood 1' in the 2008-09 books. Includes Code Enforcement in the FY2021-2023 books.
+neighborhood-housing-fund,Neighborhood Housing Improvement Fund,Housing and economy,
+economic-development-fund,Economic Development Fund,Housing and economy,
+workforce-investment,Workforce Investment,Housing and economy,Federal job-training grants
+miscellaneous,Miscellaneous,Transfers and citywide costs,Citywide costs not assigned to a department; contents vary by year. From FY2013 includes NORDC (the former Recreation); in 2021-2027 books equals CAO misc page + NORDC + Risk Management + Office of Police Secondary Employment.
+intergovernmental,Intergovernmental,Transfers and citywide costs,Pass-through and grant placeholder amounts
+aviation-board,New Orleans Aviation Board,Enterprise bodies,The airport
+french-market,French Market Corporation,Enterprise bodies,
+yacht-harbor,Municipal Yacht Harbor,Enterprise bodies,
+canal-street-development,Canal Street Development Corporation,Enterprise bodies,
+rivergate,Rivergate Development Corporation,Enterprise bodies,
+building-corp,New Orleans Building Corporation,Enterprise bodies,No citywide-statement line in any book; appears only as a department section
+other,Other,Transfers and citywide costs,Lines that fit no department (e.g. Payroll Error Suspense)
+delgado-albania,Delgado Albania Plantation Commission,Enterprise bodies,Component unit with its own section in some books; no line in the citywide statements. Name inferred from the section title; check against the book.
+upper-pontalba,Upper Pontalba Building Restoration Corporation,Enterprise bodies,Component unit with its own section in some books; no line in the citywide statements. Name inferred from the section title; check against the book.
+piazza-italia,Piazza d'Italia Development Corporation,Enterprise bodies,Component unit with its own section in some books; no line in the citywide statements. Name inferred from the section title; check against the book.
+audubon-park,Audubon Commission,Enterprise bodies,Component unit with its own section in some books; no line in the citywide statements. Name inferred from the section title; check against the book.
