@@ -114,9 +114,9 @@ def build_index(site, b, cats, ctx):
         r["share_label"] = label
     cites = [x for x in (b.rev_cite(b.revenue_rows(fy, "adopted")), b.rev_cite(b.revenue_rows(py, "proposed"))) if x]
 
-    # One small chart per category.
+    # One small chart per category, largest in the proposal first.
     figs = []
-    for c in cats:
+    for c in (r["cat"] for r in rows):
         cat = c["category"]
         fig = views.money_figure(
             b, "cat-" + c["slug"], cat, years,
@@ -134,14 +134,20 @@ def build_index(site, b, cats, ctx):
     site.publish("/revenue/", gf_new=tot_new, gf_now=tot_old, of_new=other["tot_new"], of_now=other["tot_old"],
                  **dict([("new:" + c["slug"], new[c["category"]]) for c in cats] +
                         [("now:" + c["slug"], old[c["category"]]) for c in cats]))
-    top = rows[0]
-    second = rows[1]
     cat_split = common.split([(r["cat"]["category"], r["new"]) for r in rows if r["new"]], tot_new)
     other["split"] = common.split([(L["name"], L["new"]) for L in other["lines"] if L["new"]], other["tot_new"])
+
+    # Every category's change as one diverging bar chart: increases first, the largest cut last.
+    moved = sorted((r for r in rows if r["new"] is not None and r["old"] is not None and r["diff"]),
+                   key=lambda r: -r["diff"])
+    biggest = max(abs(r["diff"]) for r in moved) if moved else 1
+    change_bars = [dict(r, width=abs(r["diff"]) / biggest) for r in moved]
+    mover = max(moved, key=lambda r: abs(r["diff"])) if moved else None
+
     site.page("/revenue/", "revenue_index.html", "Where the money comes from", rows=rows, totals={"new": tot_new, "old": tot_old},
-              cat_split=cat_split,
+              cat_split=cat_split, change_bars=change_bars, mover=mover,
               cites=cites, figs=figs, ev_notes=ev_notes, gap_note=gap_note, gap_cites=gap_cites, other=other,
-              top=top, second=second, py=py, fy=fy)
+              py=py, fy=fy)
 
 
 def _book_page(b, fy, basis):

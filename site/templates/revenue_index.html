@@ -5,8 +5,7 @@
 {% block content %}
 <header class="lede">
   <h1>Where the money comes from</h1>
-  <p class="lead">The Mayor's {{ py }} proposal expects <strong>{{ totals.new|money }}</strong> of <a href="/#general-fund">General Fund</a> income, {{ fmt.change(totals.new, totals.old) }} from the {{ fy }} budget now in force ({{ totals.old|money }}).</p>
-  <p>The biggest sources in the {{ py }} proposal are {{ top.cat.category|lower }} ({{ top.share_label }}) and {{ second.cat.category|lower }} ({{ second.share_label }}). Each source below has its own page, with its history back to {{ site.first_year }}.</p>
+  <p class="lead">The Mayor's {{ py }} proposal expects <strong>{{ totals.new|money }}</strong> of <a href="/#general-fund">General Fund</a> income, {{ fmt.change(totals.new, totals.old) }} from the {{ fy }} budget now in force.</p>
   <div class="lede-visual">
     <div>
       <p class="visual-h">General Fund income</p>
@@ -15,18 +14,36 @@
     {{ m.resident_stat(totals.new, py, "of General Fund income per resident in the " ~ py ~ " proposal.") }}
   </div>
   {{ m.resident_note(py) }}
-  {{ m.source(cites, note="Shares and figures per resident are calculated from these.") }}
+  {{ m.source(cites, note="Figures per resident are calculated from these.") }}
 </header>
 
 <section class="block" aria-labelledby="every100">
-  <h2 id="every100">Out of every $100</h2>
-  <p class="big-sentence">Out of every $100 the General Fund takes in under the {{ py }} proposal, ${{ cat_split[0].per100 }} comes from {{ cat_split[0].name|lower }} and ${{ cat_split[1].per100 }} from {{ cat_split[1].name|lower }}.</p>
+  <h2 id="every100">{{ cat_split[0].name }} and {{ cat_split[1].name|lower }} bring in the most</h2>
   {{ m.split_bar(cat_split, "General Fund income in the " ~ py ~ " proposal, by source") }}
+  <p>Each source has its own page with its history back to {{ site.first_year }}. <a href="#now">See all {{ rows|length }} sources</a>.</p>
   {{ m.source(cites, "Calculated from") }}
 </section>
 
 <section class="block" aria-labelledby="now">
-  <h2 id="now">{{ py }} proposal and {{ fy }} budget</h2>
+  <h2 id="now">{% if mover %}The biggest change from {{ fy }} to {{ py }} is in {{ mover.cat.category|lower }}{% else %}{{ py }} proposal and {{ fy }} budget{% endif %}</h2>
+  {% if change_bars %}
+  <figure class="diverge" data-animate>
+    <figcaption class="vh">Change in General Fund income by source, {{ fy }} budget to {{ py }} proposal</figcaption>
+    <div class="diverge-head" aria-hidden="true"><span></span><span>Less money</span><span>More money</span></div>
+    <ul>
+    {% for r in change_bars %}
+      <li class="diverge-row {{ 'up' if r.diff > 0 else 'down' }}" style="--i: {{ loop.index0 }}">
+        <a class="diverge-name" href="{{ r.url }}">{{ r.cat.category }}</a>
+        <span class="diverge-track"><span class="diverge-bar" style="width: {{ '%.1f'|format(r.width * 100) }}%"></span></span>
+        <span class="diverge-amt">{{ 'up' if r.diff > 0 else 'down' }} {{ r.diff|abs|money }}<span class="diverge-to">, to {{ r.new|money }}</span></span>
+      </li>
+    {% endfor %}
+    </ul>
+  </figure>
+  {% endif %}
+  <p>The budget book does not always say why a source changes.</p>
+  <details class="more">
+    <summary>Show every source in a table</summary>
   <div class="table-scroll">
   <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
 <table class="data index cmp">
@@ -45,27 +62,38 @@
   </table>
   </div>
   <p class="table-note">In dollars. These are the income lines added together, or the book's own total where it prints a different one.{% if gap_note %} {{ gap_note }}{% endif %}</p>
-  {{ m.source(cites) }}
+  </details>
+  {{ m.source(cites, note="Changes are calculated from these.") }}
 </section>
 
 <section class="block" aria-labelledby="time">
-  <h2 id="time">Over time, source by source</h2>
-  <p class="sub">What the City Council adopted each year, and what the city actually collected. Each chart has its own scale, so compare the shapes, not the heights. You can switch each one between dollars, dollars adjusted for inflation and dollars per resident.</p>
-  {% for f in figs %}
+  <h2 id="time">Each source since {{ site.first_year }}</h2>
+  <p class="sub">Adopted budget and actual income each year. Each chart has its own scale, so compare shapes, not heights. A gap means the books do not print that year.</p>
+  {% for f in figs[:3] %}
   <h3 class="fig-h"><a href="{{ f.url }}">{{ f.cat.category }}</a></h3>
   {{ m.figure(f.fig) }}
   {% endfor %}
-  <p class="table-note">A gap in a line means the books do not print that year. It does not mean no money came in. The 2004 to 2006 actuals follow Hurricane Katrina.</p>
+  <details class="more">
+    <summary>Show the other {{ figs|length - 3 }} sources</summary>
+  {% for f in figs[3:] %}
+  <h3 class="fig-h"><a href="{{ f.url }}">{{ f.cat.category }}</a></h3>
+  {{ m.figure(f.fig) }}
+  {% endfor %}
+  </details>
+  <details class="more">
+    <summary>Why some years spike or dip</summary>
   {{ m.footnotes(ev_notes, "One-off events in these charts") }}
-  <p class="table-note">Hotel tax and motor-vehicle tax were printed inside sales tax in some years, so sales taxes look higher, and other taxes lower, before 2008. <a href="/revenue/sales-taxes/">See sales taxes</a>.</p>
+  <p class="table-note">The 2004 to 2006 actuals follow Hurricane Katrina. Hotel tax and motor-vehicle tax were printed inside sales tax in some years, so sales taxes look higher, and other taxes lower, before 2008. <a href="/revenue/sales-taxes/">See sales taxes</a>.</p>
+  </details>
   <p class="source">Sources: each category's page, linked above its chart, lists every year's figures with the book and page they come from.</p>
 </section>
 
 <section class="block" aria-labelledby="other">
-  <h2 id="other">Other funds</h2>
-  <p>Besides the General Fund, the city budgets {{ other.tot_new|money }} in {{ py }} from other funds, {{ fmt.change(other.tot_new, other.tot_old) }} from {{ fy }}. These are mostly federal and state grants and money set aside for a named purpose. Council does not choose how most of it is spent. See <a href="/#general-fund">why this site starts with the General Fund</a>.</p>
+  <h2 id="other">Other funds add {{ other.tot_new|money }}, mostly grants and money for one purpose</h2>
   {% if other.split %}{{ m.split_bar(other.split, "Other funds income in the " ~ py ~ " proposal, by source", unit="share") }}{% endif %}
-  <p><strong>Read these figures with care.</strong> Other funds are budgeted at the most the city might receive. Actual receipts are usually far lower. And the books' actual figures for other funds are incomplete for 2010 to 2014 and 2017 to 2022, so the chart leaves those years out.</p>
+  <p>That is {{ fmt.change(other.tot_new, other.tot_old) }} from {{ fy }}. Other funds are budgeted at the most the city might receive; it usually gets far less. <a href="/#general-fund">Why this site starts with the General Fund</a>.</p>
+  <details class="more">
+    <summary>Show every other-funds source in a table</summary>
   <div class="table-scroll">
   <p class="narrow-note">On a narrow screen this table leaves out some columns. A wider screen shows them all.</p>
 <table class="data index cmp">
@@ -82,9 +110,11 @@
   </table>
   </div>
   <p class="table-note">In dollars. A dash means the line is not printed in that budget.</p>
-  {{ m.source(other.cites) }}
+  </details>
+  {{ m.source(other.cites, note="Shares and the change are calculated from these.") }}
   <h3>Other funds over time</h3>
   {{ m.figure(other.fig) }}
+  <p class="table-note">The books' actual figures for other funds are incomplete for some years, so the chart leaves those years out.</p>
   <details class="numbers">
     <summary>Show every year, including the incomplete actuals</summary>
     <div class="table-scroll wide">
