@@ -44,7 +44,7 @@
     <tfoot><tr class="total"><th scope="row">All General Fund income</th><td class="num">{{ totals.old|full }}</td><td class="num">{{ totals.new|full }}</td><td class="num">{{ (totals.new - totals.old)|signed_full }}</td><td class="num">{{ ((totals.new - totals.old) / totals.old)|signed_pct }}</td><td class="num share">100%</td></tr></tfoot>
   </table>
   </div>
-  <p class="table-note">In dollars. These are the income lines added together as this site reads them from the books.{% if gap_note %} {{ gap_note }}{% endif %}</p>
+  <p class="table-note">In dollars. These are the income lines added together, or the book's own total where it prints a different one.{% if gap_note %} {{ gap_note }}{% endif %}</p>
   {{ m.source(cites) }}
 </section>
 

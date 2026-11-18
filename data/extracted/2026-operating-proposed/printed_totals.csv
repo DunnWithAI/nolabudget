@@ -1227,6 +1227,22 @@ book_id,fiscal_year,basis,scope,label,amount,page
 2026-operating-proposed,2026,proposed,revenues/General Fund/Property Taxes,Grand Total,180672949,Statement of Revenues
 2026-operating-proposed,2025,adopted,revenues/General Fund/Service Charges,Grand Total,91299075,Statement of Revenues
 2026-operating-proposed,2026,proposed,revenues/General Fund/Service Charges,Grand Total,102440463,Statement of Revenues
+2026-operating-proposed,2025,adopted,revenues/General Fund/summary_by_category,Fines & Forfeits,20546520,Statement of Revenues
+2026-operating-proposed,2026,proposed,revenues/General Fund/summary_by_category,Fines & Forfeits,11839117,Statement of Revenues
+2026-operating-proposed,2025,adopted,revenues/General Fund/summary_by_category,Intergovernmental Revenue,30437784,Statement of Revenues
+2026-operating-proposed,2026,proposed,revenues/General Fund/summary_by_category,Intergovernmental Revenue,24498700,Statement of Revenues
+2026-operating-proposed,2025,adopted,revenues/General Fund/summary_by_category,Licenses & Permits,72813051,Statement of Revenues
+2026-operating-proposed,2026,proposed,revenues/General Fund/summary_by_category,Licenses & Permits,75661776,Statement of Revenues
+2026-operating-proposed,2025,adopted,revenues/General Fund/summary_by_category,Miscellaneous Revenue,27721574,Statement of Revenues
+2026-operating-proposed,2026,proposed,revenues/General Fund/summary_by_category,Miscellaneous Revenue,24290810,Statement of Revenues
+2026-operating-proposed,2025,adopted,revenues/General Fund/summary_by_category,Other Financing Sources,102376736,Statement of Revenues
+2026-operating-proposed,2026,proposed,revenues/General Fund/summary_by_category,Other Financing Sources,78129,Statement of Revenues
+2026-operating-proposed,2025,adopted,revenues/General Fund/summary_by_category,Other Taxes,342002315,Statement of Revenues
+2026-operating-proposed,2026,proposed,revenues/General Fund/summary_by_category,Other Taxes,306084620,Statement of Revenues
+2026-operating-proposed,2025,adopted,revenues/General Fund/summary_by_category,Property Taxes,191217107,Statement of Revenues
+2026-operating-proposed,2026,proposed,revenues/General Fund/summary_by_category,Property Taxes,180672949,Statement of Revenues
+2026-operating-proposed,2025,adopted,revenues/General Fund/summary_by_category,Service Charges,91299194,Statement of Revenues
+2026-operating-proposed,2026,proposed,revenues/General Fund/summary_by_category,Service Charges,102440463,Statement of Revenues
 2026-operating-proposed,2025,adopted,revenues/General Fund/summary_by_category,Grand Total,878414281,Statement of Revenues
 2026-operating-proposed,2026,proposed,revenues/General Fund/summary_by_category,Grand Total,725566564,Statement of Revenues
 2026-operating-proposed,2025,adopted,revenues/Other Funds,Grand Total,904417845,Statement of Revenues

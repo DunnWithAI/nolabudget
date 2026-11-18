@@ -1819,6 +1819,22 @@ book_id,fiscal_year,basis,scope,label,amount,page
 2027-operating-proposed,2027,proposed,revenues/General Fund/Property Taxes,Grand Total,183868128,Statement of Revenues
 2027-operating-proposed,2026,adopted,revenues/General Fund/Service Charges,Grand Total,102440463,Statement of Revenues
 2027-operating-proposed,2027,proposed,revenues/General Fund/Service Charges,Grand Total,119339866,Statement of Revenues
+2027-operating-proposed,2026,adopted,revenues/General Fund/summary_by_category,Fines & Forfeits,11839117,Statement of Revenues
+2027-operating-proposed,2027,proposed,revenues/General Fund/summary_by_category,Fines & Forfeits,11978241,Statement of Revenues
+2027-operating-proposed,2026,adopted,revenues/General Fund/summary_by_category,Intergovernmental Revenue,24498700,Statement of Revenues
+2027-operating-proposed,2027,proposed,revenues/General Fund/summary_by_category,Intergovernmental Revenue,15850471,Statement of Revenues
+2027-operating-proposed,2026,adopted,revenues/General Fund/summary_by_category,Licenses & Permits,75661776,Statement of Revenues
+2027-operating-proposed,2027,proposed,revenues/General Fund/summary_by_category,Licenses & Permits,83977485,Statement of Revenues
+2027-operating-proposed,2026,adopted,revenues/General Fund/summary_by_category,Miscellaneous Revenue,24290810,Statement of Revenues
+2027-operating-proposed,2027,proposed,revenues/General Fund/summary_by_category,Miscellaneous Revenue,18993746,Statement of Revenues
+2027-operating-proposed,2026,adopted,revenues/General Fund/summary_by_category,Other Financing Sources,74261565,Statement of Revenues
+2027-operating-proposed,2027,proposed,revenues/General Fund/summary_by_category,Other Financing Sources,15000000,Statement of Revenues
+2027-operating-proposed,2026,adopted,revenues/General Fund/summary_by_category,Other Taxes,306084620,Statement of Revenues
+2027-operating-proposed,2027,proposed,revenues/General Fund/summary_by_category,Other Taxes,314330716,Statement of Revenues
+2027-operating-proposed,2026,adopted,revenues/General Fund/summary_by_category,Property Taxes,180672949,Statement of Revenues
+2027-operating-proposed,2027,proposed,revenues/General Fund/summary_by_category,Property Taxes,183868128,Statement of Revenues
+2027-operating-proposed,2026,adopted,revenues/General Fund/summary_by_category,Service Charges,102440463,Statement of Revenues
+2027-operating-proposed,2027,proposed,revenues/General Fund/summary_by_category,Service Charges,119339866,Statement of Revenues
 2027-operating-proposed,2026,adopted,revenues/General Fund/summary_by_category,Grand Total,799750000,Statement of Revenues
 2027-operating-proposed,2027,proposed,revenues/General Fund/summary_by_category,Grand Total,763338653,Statement of Revenues
 2027-operating-proposed,2026,adopted,revenues/Other Funds,Grand Total,792667236,Statement of Revenues

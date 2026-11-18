@@ -201,14 +201,35 @@ class Budget(object):
             self.R[(r["fiscal_year"], r["basis"], r["fund_group"])].append(r)
         for r in read_csv(os.path.join(CROSSWALK, "revenue_sources.csv")):
             self.rev_lines[r["rev_id"]] = r
+        self._rev_gaps = []
+        for r in read_csv(os.path.join(COMBINED, "revenue_category_totals.csv")):
+            r["fiscal_year"], r["gap"], r["printed"] = int(r["fiscal_year"]), float(r["gap"]), float(r["printed"])
+            if r["gap"] and r["place"]:
+                self._rev_gaps.append(r)
 
     def revenue_rows(self, fy, basis, fund="general_fund"):
         return self.R.get((int(fy), basis, fund), [])
 
+    def revenue_gaps(self, fy, basis, fund="general_fund"):
+        """Where the book a General Fund income column comes from prints a category total
+        that differs from the sum of its lines: [{place, gap, category_printed, printed, cite}].
+        The site counts each gap in `place`, so totals match what the book prints."""
+        rows = self.revenue_rows(fy, basis, fund)
+        books = {r["source_book"] for r in rows}
+        if fund != "general_fund" or len(books) != 1:
+            return []
+        book = books.pop()
+        printed_basis = "adopted" if basis == "revised" else basis
+        return [dict(g, cite=self.cite(g["book_id"], g["page"])) for g in self._rev_gaps
+                if g["book_id"] == book and g["fiscal_year"] == int(fy) and g["basis"] == printed_basis]
+
     def revenue_by_category(self, fy, basis, fund="general_fund"):
+        """Income by category; printed category totals where the book prints them."""
         out = collections.OrderedDict()
         for r in self.revenue_rows(fy, basis, fund):
             out[r["category"]] = out.get(r["category"], 0) + r["amount"]
+        for g in self.revenue_gaps(fy, basis, fund):
+            out[g["place"]] = out.get(g["place"], 0) + g["gap"]
         return out
 
     # -------------------------------------------------------------- positions
@@ -321,13 +342,20 @@ class Budget(object):
         return sum(vals) if vals else None
 
     def rev_total(self, fy, basis, fund="general_fund"):
-        """Sum of the printed lines; None if the column has no lines at all."""
+        """Sum of the categories (printed category totals where the book prints them); None
+        if the column has no lines at all."""
         rows = self.revenue_rows(fy, basis, fund)
-        return sum(r["amount"] for r in rows) if rows else None
+        return sum(self.revenue_by_category(fy, basis, fund).values()) if rows else None
 
     def rev_category_amount(self, category, fy, basis, fund="general_fund"):
         rows = [r for r in self.revenue_rows(fy, basis, fund) if r["category"] == category]
-        return sum(r["amount"] for r in rows) if rows else None
+        if not rows:
+            return None
+        return sum(r["amount"] for r in rows) + self.rev_category_gap(category, fy, basis, fund)
+
+    def rev_category_gap(self, category, fy, basis, fund="general_fund"):
+        """The part of a category's total that the book prints but its lines do not show."""
+        return sum(g["gap"] for g in self.revenue_gaps(fy, basis, fund) if g["place"] == category)
 
     def rev_cite(self, rows):
         """One citation covering the pages the given revenue rows were read from."""

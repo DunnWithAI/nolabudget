@@ -479,7 +479,7 @@ class Extractor:
             elif t.dims == ["Object Category"]:
                 # 'General Fund Grand Totals': re-print of every category total plus overall total
                 summary.append(t)
-                self.foot(t, "revenues/General Fund/summary_by_category", title)
+                self.foot(t, "revenues/General Fund/summary_by_category", title, include_leaves=True)
             elif t.dims and t.dims[0] in FUND_DIMS and len(t.dims) == 1:
                 for n in t.leaves():
                     for j, fy, basis in ycols:

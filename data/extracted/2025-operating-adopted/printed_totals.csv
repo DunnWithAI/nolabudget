@@ -6430,6 +6430,30 @@ book_id,fiscal_year,basis,scope,label,amount,page
 2025-operating-adopted,2024,adopted,revenues/General Fund/Service Charges,Grand Total,91799039,Statement of Revenues
 2025-operating-adopted,2025,proposed,revenues/General Fund/Service Charges,Grand Total,91299194,Statement of Revenues
 2025-operating-adopted,2025,adopted,revenues/General Fund/Service Charges,Grand Total,91299194,Statement of Revenues
+2025-operating-adopted,2024,adopted,revenues/General Fund/summary_by_category,Fines & Forfeits,23055147,Statement of Revenues
+2025-operating-adopted,2025,proposed,revenues/General Fund/summary_by_category,Fines & Forfeits,20546520,Statement of Revenues
+2025-operating-adopted,2025,adopted,revenues/General Fund/summary_by_category,Fines & Forfeits,20546520,Statement of Revenues
+2025-operating-adopted,2024,adopted,revenues/General Fund/summary_by_category,Intergovernmental Revenue,32635830,Statement of Revenues
+2025-operating-adopted,2025,proposed,revenues/General Fund/summary_by_category,Intergovernmental Revenue,30443326,Statement of Revenues
+2025-operating-adopted,2025,adopted,revenues/General Fund/summary_by_category,Intergovernmental Revenue,30443326,Statement of Revenues
+2025-operating-adopted,2024,adopted,revenues/General Fund/summary_by_category,Licenses & Permits,74004677,Statement of Revenues
+2025-operating-adopted,2025,proposed,revenues/General Fund/summary_by_category,Licenses & Permits,72813051,Statement of Revenues
+2025-operating-adopted,2025,adopted,revenues/General Fund/summary_by_category,Licenses & Permits,72813051,Statement of Revenues
+2025-operating-adopted,2024,adopted,revenues/General Fund/summary_by_category,Miscellaneous Revenue,29800127,Statement of Revenues
+2025-operating-adopted,2025,proposed,revenues/General Fund/summary_by_category,Miscellaneous Revenue,27716032,Statement of Revenues
+2025-operating-adopted,2025,adopted,revenues/General Fund/summary_by_category,Miscellaneous Revenue,27716032,Statement of Revenues
+2025-operating-adopted,2024,adopted,revenues/General Fund/summary_by_category,Other Financing Sources,42943368,Statement of Revenues
+2025-operating-adopted,2025,proposed,revenues/General Fund/summary_by_category,Other Financing Sources,40078128,Statement of Revenues
+2025-operating-adopted,2025,adopted,revenues/General Fund/summary_by_category,Other Financing Sources,102376736,Statement of Revenues
+2025-operating-adopted,2024,adopted,revenues/General Fund/summary_by_category,Other Taxes,330715239,Statement of Revenues
+2025-operating-adopted,2025,proposed,revenues/General Fund/summary_by_category,Other Taxes,342002315,Statement of Revenues
+2025-operating-adopted,2025,adopted,revenues/General Fund/summary_by_category,Other Taxes,342002315,Statement of Revenues
+2025-operating-adopted,2024,adopted,revenues/General Fund/summary_by_category,Property Taxes,189469784,Statement of Revenues
+2025-operating-adopted,2025,proposed,revenues/General Fund/summary_by_category,Property Taxes,191217107,Statement of Revenues
+2025-operating-adopted,2025,adopted,revenues/General Fund/summary_by_category,Property Taxes,191217107,Statement of Revenues
+2025-operating-adopted,2024,adopted,revenues/General Fund/summary_by_category,Service Charges,91799039,Statement of Revenues
+2025-operating-adopted,2025,proposed,revenues/General Fund/summary_by_category,Service Charges,91299194,Statement of Revenues
+2025-operating-adopted,2025,adopted,revenues/General Fund/summary_by_category,Service Charges,91299194,Statement of Revenues
 2025-operating-adopted,2024,adopted,revenues/General Fund/summary_by_category,Grand Total,814423211,Statement of Revenues
 2025-operating-adopted,2025,proposed,revenues/General Fund/summary_by_category,Grand Total,816115673,Statement of Revenues
 2025-operating-adopted,2025,adopted,revenues/General Fund/summary_by_category,Grand Total,878414281,Statement of Revenues

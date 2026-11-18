@@ -73,6 +73,9 @@ Use the finest level the book prints; leave unavailable columns blank. `fte` is 
 
 - `scope`: which file and slice it totals, e.g. `department_expenditures/general_fund`,
   `revenues/General Fund/Taxes`, `department_detail/<dept_name>/by_type`.
+- `revenues/General Fund/summary_by_category` (2025 books on): the book's summary of
+  General Fund income, one row per printed category plus `Grand Total`. A category's
+  figure here can differ from the sum of its lines.
 
 ## checks.json
 

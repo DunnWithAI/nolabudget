@@ -273,6 +273,28 @@ def seo_checks(site, dist):
 
 
 # ---------------------------------------------------------------------------- revenue
+def revenue_category_gaps(rows):
+    """{(year, basis, category): gap} for General Fund columns whose one source book prints a
+    category total that differs from its lines (data/combined/revenue_category_totals.csv).
+    The site counts the gap in that category, so its totals match what the book prints."""
+    src = collections.defaultdict(set)
+    for r in rows:
+        if r["fund_group"] == "general_fund":
+            src[(int(r["fiscal_year"]), r["basis"])].add(r["source_book"])
+    gaps = collections.defaultdict(float)
+    with open(os.path.join(ROOT, "data", "combined", "revenue_category_totals.csv"), newline="", encoding="utf-8") as f:
+        printed = list(csv.DictReader(f))
+    for (y, basis), books in src.items():
+        if len(books) != 1:
+            continue
+        book = next(iter(books))
+        for g in printed:
+            if (g["book_id"] == book and int(g["fiscal_year"]) == y and g["place"]
+                    and g["basis"] == ("adopted" if basis == "revised" else basis)):
+                gaps[(y, basis, g["place"])] += float(g["gap"])
+    return gaps
+
+
 def revenue_checks(site, dist):
     """7. Revenue pages: the index and category totals equal sums from revenue.csv, every
     General Fund line with data has a page that prints its figures, one-off events quote
@@ -286,10 +308,16 @@ def revenue_checks(site, dist):
             r["fiscal_year"] = int(r["fiscal_year"])
             rows.append(r)
 
+    gaps = revenue_category_gaps(rows)
+
     def total(year, basis, fund="general_fund", **where):
         vals = [r["amount"] for r in rows if r["fiscal_year"] == year and r["basis"] == basis and r["fund_group"] == fund
                 and all(r[k] == v for k, v in where.items())]
-        return sum(vals) if vals else None
+        if not vals:
+            return None
+        if fund == "general_fund" and "rev_id" not in where:
+            vals += [g for (y, bs, c), g in gaps.items() if y == year and bs == basis and where.get("category", c) == c]
+        return sum(vals)
 
     def read(url):
         p = os.path.join(dist, url.strip("/"), "index.html")
@@ -454,9 +482,12 @@ def budget_checks(site, dist):
     # revenue and positions straight from their CSVs
     rev = collections.defaultdict(float)
     with open(os.path.join(ROOT, "data", "combined", "revenue.csv"), newline="", encoding="utf-8") as f:
-        for r in csv.DictReader(f):
-            if r["fund_group"] == "general_fund":
-                rev[(int(r["fiscal_year"]), r["basis"], r["category"])] += float(r["amount"])
+        rev_rows = list(csv.DictReader(f))
+    for r in rev_rows:
+        if r["fund_group"] == "general_fund":
+            rev[(int(r["fiscal_year"]), r["basis"], r["category"])] += float(r["amount"])
+    for k, g in revenue_category_gaps(rev_rows).items():
+        rev[k] += g
     pos = {}
     with open(os.path.join(ROOT, "data", "combined", "positions_by_department.csv"), newline="", encoding="utf-8") as f:
         for r in csv.DictReader(f):

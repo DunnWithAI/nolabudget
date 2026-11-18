@@ -95,6 +95,7 @@ applied and anything unmapped.
 | `spending.csv` | One chosen figure per department, fund, year and basis (proposed, adopted, revised, actual). The site's main table. |
 | `spending_observations.csv` | Every printing of each figure, across all books, before choosing. |
 | `revenue.csv`, `revenue_observations.csv` | The same for income lines. `comparable_id` follows a line across years. |
+| `revenue_category_totals.csv` | Each General Fund income category a book prints in its summary, against the sum of its lines. Where they differ, the site counts the gap in `place` (the site category holding most of that printed category's money), so its totals match the book's. |
 | `department_detail.csv` | Each department's own tables: by type of cost, by fund, by program. |
 | `positions.csv`, `positions_by_department.csv` | Budgeted jobs (FTE). |
 | `city_comparison.csv` | Police and fire spending for comparison cities, from Census (stage 6). |
