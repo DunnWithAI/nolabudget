@@ -9,5 +9,7 @@
   },
   "routes": [
     { "pattern": "nolabudget.dunn.us", "custom_domain": true }
-  ]
+  ],
+  // Lets Cloudflare build a preview copy for every pull request (`wrangler preview`).
+  "previews": {}
 }
