@@ -142,6 +142,16 @@ def per_hundred(amounts):
     return out
 
 
+def whole_shares(amounts):
+    """Whole-percent labels for parts of one total, adding to exactly 100% (largest
+    remainder), so a list of shares agrees with the "of every $100" picture beside it.
+    Falls back to rounding each share alone when any amount is negative."""
+    total = sum(a or 0 for a in amounts)
+    if not total or any((a or 0) < 0 for a in amounts):
+        return [share((a or 0) / total) if total else "" for a in amounts]
+    return ["<1%" if h == 0 and a else "%d%%" % h for a, h in zip(amounts, per_hundred([a or 0 for a in amounts]))]
+
+
 def per100(share):
     """A share as money out of every $100: "$22", "$4.70", "$0.40", "less than 1 cent"."""
     if share is None:

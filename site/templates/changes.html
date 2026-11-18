@@ -49,6 +49,13 @@
   <ul class="changes">
   {% for d in mv.depts %}<li><a href="{{ d.dept.url }}">{{ d.dept.name }}</a>{% if d.sentence %}: General Fund {{ d.sentence }}{% endif %}.</li>{% endfor %}
   </ul>
+  {% if mv.part %}
+  <p>The book prints {{ mv.part.amount|money }} of General Fund money for {{ mv.part.name }} in {{ ny }}. Counted the way earlier books count it:</p>
+  <ul class="changes">
+  {% for d in mv.part.depts %}<li><a href="{{ d.dept.url }}">{{ d.dept.name }}</a> {{ d.how }} {{ mv.part.name }}: General Fund {{ d.sentence }}.</li>{% endfor %}
+  </ul>
+  {{ m.source(sections[0].cites|map(attribute=1)|list + [mv.part.cite], prefix="Calculated from") }}
+  {% endif %}
   {% endfor %}
   {{ source_line(sections[0].cites) }}
 </section>

@@ -110,6 +110,8 @@ def build_index(site, b, cats, ctx):
             "diff": (n or 0) - (o or 0) if (n is not None or o is not None) else None,
             "pct": ((n - o) / o) if n is not None and o else None,
             "share": n / tot_new if n is not None and tot_new else None})
+    for r, label in zip(rows, fmt.whole_shares([r["new"] or 0 for r in rows])):
+        r["share_label"] = label
     cites = [x for x in (b.rev_cite(b.revenue_rows(fy, "adopted")), b.rev_cite(b.revenue_rows(py, "proposed"))) if x]
 
     # One small chart per category.

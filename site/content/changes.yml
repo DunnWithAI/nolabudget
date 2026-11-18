@@ -3,6 +3,10 @@
 #   year:  the fiscal year of the book that prints the move (it shows on the changes
 #          page whose newer figure is from that year)
 #   depts: dept_ids whose figures are affected
+#   part:  optional. The section the book prints for the work that moved, so the page can
+#          put the two departments back together: dept (where the book now prints it),
+#          sub_unit (its sub_unit in department_detail.csv), name (plain, for sentences)
+#          and from (the dept_id it moved out of).
 moves:
   - id: juvenile-detention
     year: 2027
@@ -10,6 +14,10 @@ moves:
     text: >-
       The juvenile detention centre (the Juvenile Justice Intervention Center) is
       printed inside the Mayor's Office in the 2027 book. Earlier books print it under
-      Human Services. Some of the fall in Human Services and some of the change in the
-      Mayor's Office may come from this move, not from a cut or an increase. The book
-      does not say how much.
+      Human Services. The book gives the centre its own section, so the move can be
+      taken out of both departments' figures.
+    part:
+      dept: mayor
+      sub_unit: juvenile-justice-intervention-center
+      name: the detention centre
+      from: human-services

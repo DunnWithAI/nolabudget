@@ -47,7 +47,7 @@
       <div class="ledger-row">
         <a class="ledger-name" href="{{ i.url }}">{{ i.name }}</a>
         <span class="ledger-amt">{{ i.amount|money }}</span>
-        <span class="ledger-pct">{{ i.share|share }}</span>
+        <span class="ledger-pct">{{ i.share_label }}</span>
       </div>
       {{ m.bar(i.share) }}
       <p class="ledger-text">{{ i.text }}</p>
@@ -177,7 +177,7 @@
   {# Each answer is written once and used twice: on the page and in the FAQPage data
      below, so the two always match (checks.py compares them). #}
   {% set a1 %}The Mayor's proposal for {{ py }} spends {{ head.gf_new|money }} from the General Fund, or {{ head.all_new|money }} counting all funds. The {{ fy }} budget now in force is {{ head.gf_now|money }} from the General Fund and {{ head.all_now|money }} in all. Spread across the {{ budget.population(py)|number }} people who lived in Orleans Parish in {{ budget.last_pop_year }}, the proposed General Fund is about {{ (head.gf_new / budget.population(py))|money }} per resident.{% endset %}
-  {% set a2 %}In the {{ py }} proposal, {{ income[0].share|pct(0) }} of General Fund income comes from {{ income[0].name|lower }}, {{ income[1].share|pct(0) }} from {{ income[1].name|lower }} and {{ income[2].share|pct(0) }} from {{ income[2].name|lower }}. The rest comes from licenses and permits, other taxes, state aid, fines and other income. <a href="/revenue/">See all income</a>.{% endset %}
+  {% set a2 %}In the {{ py }} proposal, {{ income[0].share_label }} of General Fund income comes from {{ income[0].name|lower }}, {{ income[1].share_label }} from {{ income[1].name|lower }} and {{ income[2].share_label }} from {{ income[2].name|lower }}. The rest comes from licenses and permits, other taxes, state aid, fines and other income. <a href="/revenue/">See all income</a>.{% endset %}
   {% set a3 %}The Mayor proposes a budget each fall. The City Council adopts it, and must do so by December 1 for the year that starts in January. The Mayor's {{ py }} proposal is now before the Council. Until a new budget is adopted, the {{ fy }} budget is the one in force.{% endset %}
   {% set a4 %}Grants and restricted money are budgeted at the most the city might receive. In {{ explain.year }}, {{ explain.other_budgeted|money }} was budgeted from those funds and {{ explain.other_spent|money }} was spent. That is why this site leads with the General Fund. <a href="#general-fund">More on this</a>.{% endset %}
   {% set a5 %}From the city's own budget books, {{ site.first_year }} to {{ py }}. Each page shows the book and page its figures come from. <a href="/about/">How the data was read, and its limits</a>.{% endset %}

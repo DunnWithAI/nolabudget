@@ -35,6 +35,8 @@ def build(site):
         c = cats[name]
         income.append({"name": name, "url": "/revenue/%s/" % c["slug"], "amount": amt,
                        "share": amt / rev_total, "text": c["short"]})
+    for i, label in zip(income, fmt.whole_shares([i["amount"] for i in income])):
+        i["share_label"] = label
     rev_rows = b.revenue_rows(py, "proposed")
     rev_cite = b.cite(rev_rows[0]["source_book"], rev_rows[0]["source_page"]) if rev_rows else None
 
