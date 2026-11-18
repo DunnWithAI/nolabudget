@@ -3,7 +3,8 @@
    - chart tooltips and crosshair (mouse, touch and arrow keys)
    - the department finder on the home page
    - motion: pictures that draw themselves on scroll, and the headline count-up
-   - split-bar hover: highlight one part and show its name and amount */
+   - split-bar hover: highlight one part and show its name and amount
+   - opening a collapsed section when a link points inside it */
 (function () {
   "use strict";
 
@@ -237,6 +238,18 @@
     if (bar) bar.addEventListener("pointerleave", off);
   }
 
+  // ---------------------------------------------------------------- open a collapsed target
+  // A link to an id inside a closed <details> (a glossary term, a [n] back-link) opens it.
+  function openHashTarget() {
+    var t = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    for (var d = t && t.closest("details"); d; d = d.parentElement && d.parentElement.closest("details")) {
+      d.open = true;
+    }
+    if (t) t.scrollIntoView();
+  }
+
+  window.addEventListener("hashchange", openHashTarget);
+  openHashTarget();
   document.querySelectorAll("[data-figure]").forEach(initFigure);
   document.querySelectorAll("svg.chart[data-tips]").forEach(initChart);
   document.querySelectorAll("[data-finder]").forEach(initFinder);

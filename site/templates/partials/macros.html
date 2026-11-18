@@ -45,11 +45,19 @@
 {%- for n in notes -%}{%- set r = pagerefs.note(n) -%}<a class="fn" href="#src-{{ r.n }}"{% if r.first %} id="ref-{{ r.n }}"{% endif %} title="{{ r.item.text }}" aria-label="Note {{ r.n }}">[{{ r.n }}]</a>{%- endfor -%}
 {%- endmacro %}
 
-{# A short pointer line to notes that apply to the figures above: "Notes on these figures:
-   [5], [6]." Their text is in the page's "Notes and sources" list. #}
+{# Notes that explain the chart or table above, printed in full where they apply. They keep
+   their numbers in the page's one sequence, and "[n]" note markers link here, so the
+   end-of-page list leaves them out. #}
 {% macro footnotes(notes, heading="Notes on these figures") -%}
 {% if notes %}
-<p class="fn-line">{{ heading }}: {% for n in notes %}{{ refs([n]) }}{% if not loop.last %}, {% endif %}{% endfor %}.</p>
+<section class="notes" aria-labelledby="notes-h-{{ notes[0].id }}">
+  <h3 id="notes-h-{{ notes[0].id }}" class="notes-h">{{ heading }}</h3>
+  <ol>
+  {% for n in notes %}{% set r = pagerefs.note_inline(n) %}
+    <li{% if r.first %} id="src-{{ r.n }}"{% endif %} value="{{ r.n }}">{{ n.html }}</li>
+  {% endfor %}
+  </ol>
+</section>
 {% endif %}
 {%- endmacro %}
 

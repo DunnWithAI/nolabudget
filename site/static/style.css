@@ -266,10 +266,9 @@ a.cite, a.fn {
   text-decoration: none; color: var(--muted);
 }
 a.cite:hover, a.fn:hover, a.cite:focus-visible, a.fn:focus-visible { color: var(--accent-ink); text-decoration: underline; }
-.source a.cite, .source a.fn, td.src a.cite, td.src a.fn, ul.sources a.cite, .fn-line a.fn {
+.source a.cite, .source a.fn, td.src a.cite, td.src a.fn, ul.sources a.cite, .notes a.cite {
   vertical-align: baseline; font-size: inherit; line-height: inherit; margin-left: 0; color: var(--ink-2);
 }
-.fn-line { font-family: var(--sans); font-size: 0.8125rem; color: var(--muted); line-height: 1.5; margin-top: 0.5rem; }
 .pagerefs { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--rule); }
 .pagerefs h2 { font-size: 1.125rem; margin: 0 0 0.6rem; }
 .pagerefs ol { font-family: var(--sans); font-size: 0.875rem; color: var(--ink-2); line-height: 1.5; padding-left: 2.2rem; margin: 0; }
