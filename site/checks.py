@@ -669,7 +669,8 @@ def source_checks(dist):
             m = re.search(r'<section class="pagerefs".*?</section>', main, re.S)
             listed = m.group(0) if m else ""
             main = main.replace(listed, "")
-            entries = dict(re.findall(r'<li id="(src-\d+)">(.*?)</li>', listed, re.S))
+            # Notes printed in place under their chart (m.footnotes) are entries too.
+            entries = dict(re.findall(r'<li id="(src-\d+)"[^>]*>(.*?)</li>', listed + main, re.S))
             for target, label in re.findall(r'<a class="(?:cite|fn)" href="#(src-\d+)"[^>]*>([^<]*)</a>', main):
                 if target not in entries:
                     errors.append("%s: marker %s points to no entry in Notes and sources" % (url, label))

@@ -39,7 +39,27 @@ class PageRefs(object):
 
     def note(self, n):
         """A comparability note from Site.notes (content/notes.yml): {id, html, ...}."""
-        return self._add(("note", n["id"]), {
-            "kind": "note", "id": n["id"], "html": n["html"],
-            "text": Markup(n["html"]).striptags(),
-        })
+        return self._add(("note", n["id"]), self._note_item(n))
+
+    def note_inline(self, n):
+        """A note printed in full under the chart it explains (m.footnotes). It keeps its
+        number but is left out of the end-of-page list. `first` is set the first time it
+        is printed, so its anchor is written once."""
+        key = ("note", n["id"])
+        it = self._by_key.get(key)
+        if it is None:
+            it = dict(self._note_item(n), n=len(self.items) + 1, uses=0)
+            self.items.append(it)
+            self._by_key[key] = it
+        first = not it["inline"]
+        it["inline"] = True
+        return {"n": it["n"], "first": first, "item": it}
+
+    @staticmethod
+    def _note_item(n):
+        return {"kind": "note", "id": n["id"], "html": n["html"],
+                "text": Markup(n["html"]).striptags(), "inline": False}
+
+    def listed(self):
+        """Entries for the end-of-page list: everything not already printed in place."""
+        return [it for it in self.items if not it.get("inline")]

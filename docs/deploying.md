@@ -22,7 +22,7 @@ Workers & Pages → nolabudget → Settings → Build:
 | Production branch | `main` |
 | Build command | `pip install -r requirements.txt && python site/build.py` |
 | Deploy command | `npx wrangler deploy` |
-| Non-production branch deploy command | `npx wrangler versions upload` |
+| Preview command (other branches) | `npx wrangler preview` (Enable Preview builds is on) |
 | Root directory | `/` |
 
 `.python-version` pins the Python version the build uses.

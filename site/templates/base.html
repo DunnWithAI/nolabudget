@@ -58,12 +58,13 @@
 {% if crumbs is defined %}{{ m.crumbs(crumbs) }}{% endif %}
 {% block content %}{% endblock %}
 {# Rendered after the page body, so every marker the body drew is registered by now. #}
-{% if pagerefs.items %}
+{% set listed = pagerefs.listed() %}
+{% if listed %}
 <section class="pagerefs" aria-labelledby="pagerefs-h">
   <h2 id="pagerefs-h">Notes and sources</h2>
   <ol>
-  {% for r in pagerefs.items %}
-    <li id="src-{{ r.n }}"><a class="ref-back" href="#ref-{{ r.n }}" aria-label="Back to where {{ 'source' if r.kind == 'source' else 'note' }} {{ r.n }} is first used">↑</a>
+  {% for r in listed %}
+    <li id="src-{{ r.n }}" value="{{ r.n }}"><a class="ref-back" href="#ref-{{ r.n }}" aria-label="Back to where {{ 'source' if r.kind == 'source' else 'note' }} {{ r.n }} is first used">↑</a>
     {% if r.kind == "note" %}{{ r.html }}{% else %}{% set t = r.text[:1]|upper ~ r.text[1:] %}{% if r.href %}<a href="{{ r.href }}">{{ t }}</a>{% else %}{{ t }}{% endif %}.{% endif %}</li>
   {% endfor %}
   </ol>

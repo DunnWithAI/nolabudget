@@ -106,7 +106,10 @@ and `m.source(cites, "Calculated from")` keeps that prefix, so a reader can tell
 figures apart without opening the list. How it works: the macros register each entry in
 `pagerefs` (`nolabudget/refs.py`, a Jinja global); base.html renders the list after the
 page body, so every marker is registered by then; `Site.page()` clears it after each page.
-A page that never calls these macros gets no list.
+A page that never calls these macros gets no list. One exception: notes that explain a
+chart or table (`m.footnotes`) are printed in full right under it, because the reader
+needs them there. They keep their number in the same sequence, "[n]" note markers link to
+them in place, and the end-of-page list leaves them out (`pagerefs.listed()`).
 
 **Every section with a figure shows its source.** `checks.py` (`source_checks`) fails
 the build if any page section showing a dollar figure has no "Source:" line, citation or
