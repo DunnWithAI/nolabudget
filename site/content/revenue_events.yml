@@ -167,6 +167,7 @@ events:
     cites: []
     title: Printed totals differ slightly
     text: >-
-      In the 2026 and 2027 books the General Fund income lines add up to slightly less than the
-      total the book prints: $401,041 less in the 2026 book and $147,496 less in the 2027 book. This
-      site shows the sum of the lines. The book's own printed total is a little higher.
+      In the 2026 and 2027 books some General Fund income lines add up to slightly less than the
+      total the book prints for their kind of income. This site uses the book's printed totals,
+      which match its spending. The page for each kind of income shows the difference as its own
+      row.

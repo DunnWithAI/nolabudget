@@ -226,6 +226,35 @@ for r in revenue:
 revenue.sort(key=lambda r: (r["fiscal_year"], r["basis"], r["fund_group"], r["category"], r["rev_id"]))
 write("revenue.csv", revenue, ["fiscal_year", "basis", "fund_group", "rev_id", "rev_name", "category", "comparable_id", "amount", "source_book", "source_page", "n_books", "books_agree"])
 
+# Some books print a General Fund summary of income by category whose figures differ from
+# the sum of that category's own lines. One row per printed category: the printed figure,
+# the lines' sum, the site categories its lines map to, and `place`: the site category
+# holding most of its money, where the site counts any gap.
+rv_cats = []
+for b in BOOKS:
+    summary = [p for p in read(os.path.join(EX, b, "printed_totals.csv"))
+               if p["scope"] == "revenues/General Fund/summary_by_category" and p["label"] != "Grand Total"]
+    if not summary:
+        continue
+    lines = collections.Counter()
+    cats = collections.defaultdict(collections.Counter)
+    for r in read(os.path.join(EX, b, "revenues.csv")):
+        if r["fund_group"] != "general_fund":
+            continue
+        r = correct(b, "revenues", r)
+        lines[(int(r["fiscal_year"]), r["basis"], r["category"])] += int(float(r["amount"]))
+        rev = REV_ALIAS.get((b, r["fund_group"], r["fund_name"], r["category"], r["line_name"]))
+        if rev in REVS:
+            cats[r["category"]][REVS[rev]["category"]] += abs(int(float(r["amount"])))
+    for p in summary:
+        k = (int(p["fiscal_year"]), p["basis"], p["label"])
+        printed = int(float(p["amount"]))
+        place = cats[p["label"]].most_common(1)[0][0] if cats[p["label"]] else ""
+        rv_cats.append({"fiscal_year": k[0], "basis": k[1], "book_id": b, "page": p["page"], "category_printed": p["label"],
+                        "categories": ";".join(sorted(cats[p["label"]])), "place": place, "printed": printed, "lines": lines[k],
+                        "gap": printed - lines[k]})
+write("revenue_category_totals.csv", rv_cats, ["fiscal_year", "basis", "book_id", "page", "category_printed", "categories", "place", "printed", "lines", "gap"])
+
 # ------------------------------------------------- department detail and positions
 det_obs, pos_obs = [], []
 for b in BOOKS:

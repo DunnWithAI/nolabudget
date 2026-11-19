@@ -84,7 +84,8 @@ def build_page(site, b, url, new, old, py, fy, main):
         for d in m["depts"]:
             r = rowmap["general_fund"].get(d)
             ds.append({"dept": b.depts[d], "sentence": common.change_sentence(r) if r else None})
-        move_ctx.append({"id": m["id"], "text": m["text"], "depts": ds})
+        move_ctx.append({"id": m["id"], "text": m["text"], "depts": ds,
+                         "part": _move_part(b, m.get("part"), rowmap["general_fund"], new)})
 
     # Revenue by category.
     cats = [c["category"] for c in site.content["revenue_categories"]]
@@ -147,3 +148,25 @@ def build_page(site, b, url, new, old, py, fy, main):
               pos_ref_label="%d adopted" % ref[0] if ref else "", pos_cites=pos_cites, notes=notes,
               numbered=[n["id"] for n in notes], has_prev_page=has_changes_page(b, ny - 1) if not main else False,
               years_list=[y for y in b.years if y != py and has_changes_page(b, y)])
+
+
+def _move_part(b, part, rows, new):
+    """The moved section's General Fund figure in the newer book, and both departments'
+    changes with it put back where it was: added to the department it left, taken out of
+    the one that now prints it. None when the book prints no such section."""
+    if not part:
+        return None
+    ny, nb = new
+    sec = [r for r in b.detail.get(part["dept"], []) if r["sub_unit"] == part["sub_unit"]
+           and r["fiscal_year"] == ny and r["basis"] == nb and r["table"] == "by_fund" and r["dim1"] == "General Fund"]
+    to_row, from_row = rows.get(part["dept"]), rows.get(part["from"])
+    if len(sec) != 1 or not to_row or not from_row or to_row["diff"] is None or from_row["diff"] is None:
+        return None
+    amt = sec[0]["amount"]
+    out = []
+    for r, sign, how in ((from_row, 1, "with"), (to_row, -1, "without")):
+        n = r["new"] + sign * amt
+        out.append({"dept": r["dept"], "how": how,
+                    "sentence": common.change_sentence({"diff": n - r["old"], "new": n})})
+    return {"name": part["name"], "amount": amt, "depts": out,
+            "cite": b.cite(sec[0]["book_id"], sec[0]["page"])}

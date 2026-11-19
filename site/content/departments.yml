@@ -53,6 +53,8 @@ finance:
     The Department of Finance collects property and sales taxes, pays the city's bills
     and payroll, keeps the accounts, runs purchasing, and manages the employees'
     retirement system and some debt payments.
+  notes:
+    - Most of the General Fund increase in the 2027 proposal is debt payments. The Bureau of Treasury's "Non Operating Debt Service" line is paid from a separate debt fund in the 2026 budget and from the General Fund in the 2027 proposal, as it was in 2025. Counting all funds, the department goes down.
 
 civil-service:
   short: Runs hiring exams, job classifications and pay plans for city workers.

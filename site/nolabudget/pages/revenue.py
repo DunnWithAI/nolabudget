@@ -110,6 +110,8 @@ def build_index(site, b, cats, ctx):
             "diff": (n or 0) - (o or 0) if (n is not None or o is not None) else None,
             "pct": ((n - o) / o) if n is not None and o else None,
             "share": n / tot_new if n is not None and tot_new else None})
+    for r, label in zip(rows, fmt.whole_shares([r["new"] or 0 for r in rows])):
+        r["share_label"] = label
     cites = [x for x in (b.rev_cite(b.revenue_rows(fy, "adopted")), b.rev_cite(b.revenue_rows(py, "proposed"))) if x]
 
     # One small chart per category, largest in the proposal first.
@@ -254,7 +256,7 @@ def build_category(site, b, c, cats, ctx):
         cells, cites, present = [], [], []
         for basis in BASES:
             rows = [r for r in b.revenue_rows(y, basis) if r["category"] == cat]
-            cells.append(sum(r["amount"] for r in rows) if rows else None)
+            cells.append(b.rev_category_amount(cat, y, basis))
             if rows:
                 present.append(basis)
                 cites.append((basis, b.rev_cite(rows)))
@@ -272,10 +274,16 @@ def build_category(site, b, c, cats, ctx):
     cites = [x for x in (b.rev_cite([r for r in b.revenue_rows(fy, "adopted") if r["category"] == cat]),
                          b.rev_cite([r for r in b.revenue_rows(py, "proposed") if r["category"] == cat])) if x]
 
+    # The part of the total the book prints but its lines do not show, so the table adds up.
+    gap = {"new": b.rev_category_gap(cat, py, "proposed"), "old": b.rev_category_gap(cat, fy, "adopted")}
+    gap["printed"] = [g for basis, y in (("adopted", fy), ("proposed", py)) for g in b.revenue_gaps(y, basis) if g["place"] == cat]
+    if gap["printed"]:
+        cites += [g["cite"] for g in gap["printed"] if g["cite"] not in cites]
+
     site.publish("/revenue/%s/" % c["slug"], new=tot_new, now=tot_old)
     line_split = common.split([(L["name"], L["new"]) for L in now if L["new"]], tot_new)
     site.page("/revenue/%s/" % c["slug"], "revenue_category.html", "Revenue: " + cat, cat=c, now=now, gone=gone, new=tot_new, old=tot_old,
-              line_split=line_split,
+              line_split=line_split, gap=gap,
               share=(tot_new / gf_new) if tot_new is not None and gf_new else None, fig=fig, table=table,
               numbered=numbered, page_notes=page_notes, cat_notes=cat_notes, cites=cites, py=py, fy=fy)
 

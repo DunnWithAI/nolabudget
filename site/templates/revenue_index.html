@@ -55,13 +55,13 @@
         {{ m.num(r.old|full if r.old is not none else none) }}{{ m.num(r.new|full if r.new is not none else none) }}
         {% if r.diff is not none %}<td class="num">{{ r.diff|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}
         {% if r.pct is not none %}<td class="num">{{ r.pct|signed_pct }}</td>{% else %}{{ m.num(none) }}{% endif %}
-        {% if r.share is not none %}<td class="num share">{{ r.share|share }}{{ m.bar(r.share) }}</td>{% else %}{{ m.num(none) }}{% endif %}</tr>
+        {% if r.share is not none %}<td class="num share">{{ r.share_label }}{{ m.bar(r.share) }}</td>{% else %}{{ m.num(none) }}{% endif %}</tr>
     {% endfor %}
     </tbody>
     <tfoot><tr class="total"><th scope="row">All General Fund income</th><td class="num">{{ totals.old|full }}</td><td class="num">{{ totals.new|full }}</td><td class="num">{{ (totals.new - totals.old)|signed_full }}</td><td class="num">{{ ((totals.new - totals.old) / totals.old)|signed_pct }}</td><td class="num share">100%</td></tr></tfoot>
   </table>
   </div>
-  <p class="table-note">In dollars. These are the income lines added together as this site reads them from the books.{% if gap_note %} {{ gap_note }}{% endif %}</p>
+  <p class="table-note">In dollars. These are the income lines added together, or the book's own total where it prints a different one.{% if gap_note %} {{ gap_note }}{% endif %}</p>
   </details>
   {{ m.source(cites, note="Changes are calculated from these.") }}
 </section>

@@ -35,6 +35,9 @@
       <tr><th scope="row"><a href="{{ L.url }}">{{ L.name }}</a>{% if L.text %}<span class="row-desc">{{ L.text }}</span>{% endif %}</th>{{ m.num(L.old|full if L.old is not none else none) }}{{ m.num(L.new|full if L.new is not none else none) }}
         {% if L.new is not none and L.old is not none %}<td class="num">{{ (L.new - L.old)|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}</tr>
     {% endfor %}
+    {% if gap.printed %}
+      <tr><th scope="row">In the book's total, not in its lines<span class="row-desc">The book prints a total for this kind of income that is higher or lower than its lines add up to, and does not say why.</span></th>{{ m.num(gap.old|full) }}{{ m.num(gap.new|full) }}<td class="num">{{ (gap.new - gap.old)|signed_full }}</td></tr>
+    {% endif %}
     </tbody>
     <tfoot><tr class="total"><th scope="row">Total</th>{{ m.num(old|full if old is not none else none) }}{{ m.num(new|full if new is not none else none) }}
       {% if new is not none and old is not none %}<td class="num">{{ (new - old)|signed_full }}</td>{% else %}{{ m.num(none) }}{% endif %}</tr></tfoot>
@@ -59,7 +62,7 @@
 
 <section class="block" aria-labelledby="years">
   <h2 id="years">Year by year</h2>
-  <p class="sub">The lines above added together, in dollars, with the book and pages they come from. Proposed is what the Mayor asked for; adopted is what the Council passed; revised is the adopted figure as reprinted a year later; actual is what the city collected.</p>
+  <p class="sub">Each year's total, in dollars, with the book and pages they come from. Where a book prints a total that differs from its lines, this table uses the printed total. Proposed is what the Mayor asked for; adopted is what the Council passed; revised is the adopted figure as reprinted a year later; actual is what the city collected.</p>
   <div class="table-scroll wide">
   <table class="data yby">
     <caption class="vh">{{ cat.category }}, by year, in dollars</caption>

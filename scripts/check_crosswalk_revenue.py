@@ -143,7 +143,7 @@ def main():
             lab = p["label"].strip().lower()
             if sc == "revenues/General Fund" and lab == "total general fund":
                 printed[k] = (int(p["amount"]), "TOTAL GENERAL FUND p.%s" % p["page"])
-            elif sc == "revenues/General Fund/summary_by_category" and k not in printed:
+            elif sc == "revenues/General Fund/summary_by_category" and lab == "grand total" and k not in printed:
                 printed[k] = (int(p["amount"]), "statement grand total p.%s" % p["page"])
     for f in sorted(glob.glob(os.path.join(EXT, "*", "printed_totals.csv"))):
         for p in rd(f):

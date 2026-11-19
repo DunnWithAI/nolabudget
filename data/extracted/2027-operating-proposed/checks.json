@@ -7,7 +7,7 @@
   "revenues": 468,
   "department_detail": 2582,
   "positions": 3336,
-  "printed_totals": 5794
+  "printed_totals": 5810
  },
  "check_tiers": {
   "subtotal": "a printed parent/subtotal row vs the sum of its immediate child rows (hierarchical pivot tables)",
